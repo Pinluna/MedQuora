@@ -1,0 +1,10 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.medquora.medquora.WidgetConfigActivity"
+    android:description="@string/widget_description"
+    android:initialLayout="@layout/medquora_widget"
+    android:minHeight="160dp"
+    android:minWidth="250dp"
+    android:previewImage="@mipmap/ic_launcher"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen" />

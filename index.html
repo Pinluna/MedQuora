@@ -4,21 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#f5f7f8">
-    <meta name="description" content="An independent pharmacy learning and practice workspace.">
-    <title>DosePath — Pharmacy Study Studio</title>
+    <meta name="description" content="MedQuora helps health-science learners practice shared medical foundations, reflect, and review.">
+    <title>MedQuora — Clinical Study Studio</title>
     <link rel="stylesheet" href="styles.css">
     <script src="app.js" defer></script>
   </head>
   <body>
     <div class="app-shell">
       <aside class="sidebar" id="sidebar">
-        <a class="brand" href="#overview" aria-label="DosePath home">
-          <span class="brand-mark" aria-hidden="true">
-            <svg viewBox="0 0 32 32" fill="none">
-              <path d="M7 16h6l3-7 4 14 3-7h2" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-          </span>
-          <span class="brand-name">dosepath<span>STUDY STUDIO</span></span>
+        <a class="brand" href="#overview" aria-label="MedQuora home">
+          <img class="brand-logo" src="assets/medquora-logo.png" alt="">
+          <span class="brand-name">MedQuora<span>STUDY STUDIO</span></span>
         </a>
 
         <p class="nav-caption">WORKSPACE</p>
@@ -41,19 +37,35 @@
           </a>
         </nav>
 
+        <label class="context-setting">
+          <span>STUDY REGION</span>
+          <select id="study-region" aria-describedby="region-note">
+            <option value="global">Global foundations</option>
+            <option value="us">United States</option>
+            <option value="uk">United Kingdom</option>
+            <option value="canada">Canada</option>
+            <option value="india">India</option>
+            <option value="australia">Australia</option>
+            <option value="nigeria">Nigeria</option>
+            <option value="south-africa">South Africa</option>
+            <option value="other">Other / not listed</option>
+          </select>
+          <small id="region-note">Sample lessons are shared foundations, not locally mapped guidance.</small>
+        </label>
+
         <div class="sidebar-spacer"></div>
         <div class="streak-card">
           <div class="streak-icon" aria-hidden="true">✦</div>
           <div>
-            <strong>4 day streak</strong>
+            <strong id="sidebar-streak">0 day streak</strong>
             <span>Small steps add up.</span>
           </div>
-          <span class="streak-count">04</span>
+          <span class="streak-count" id="sidebar-streak-count">00</span>
         </div>
         <div class="sidebar-footer">
-          <span class="avatar avatar-small">MC</span>
-          <span class="profile-copy"><strong>Maya Chen</strong><span>Pharmacy student</span></span>
-          <button class="icon-button" type="button" aria-label="Profile options">···</button>
+          <span class="avatar avatar-small">DP</span>
+          <span class="profile-copy"><strong>Local profile</strong><span>Saved on this device</span></span>
+          <span class="icon-button" aria-hidden="true">···</span>
         </div>
       </aside>
 
@@ -69,7 +81,7 @@
               <input id="course-search" type="search" placeholder="Find a course" aria-label="Find a course">
               <kbd>/</kbd>
             </label>
-            <button class="icon-button notification-button" type="button" aria-label="Notifications">
+            <button class="icon-button notification-button" id="notification-button" type="button" aria-label="Notifications">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 9a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9M10 21h4"/></svg>
               <span class="notification-dot"></span>
             </button>
@@ -80,9 +92,9 @@
         <main id="overview">
           <section class="welcome-row">
             <div>
-              <p class="eyebrow"><span class="eyebrow-dot"></span> TUESDAY, NOVEMBER 17</p>
-              <h1>Good morning, Maya <span class="wave">✦</span></h1>
-              <p class="welcome-copy">A little focused practice goes a long way. Ready for today's session?</p>
+              <p class="eyebrow"><span class="eyebrow-dot"></span> <span id="today-date"></span></p>
+              <h1>Build clinical confidence <span class="wave">✦</span></h1>
+              <p class="welcome-copy">Practice shared medical foundations, find gaps, and revisit them over time.</p>
             </div>
             <button class="button button-primary" type="button" data-open-practice>
               Start a practice question
@@ -92,24 +104,24 @@
 
           <section class="stats-grid" aria-label="Study overview">
             <article class="stat-card">
-              <div class="stat-top"><span class="stat-label">WEEKLY PROGRESS</span><span class="stat-symbol lilac">↗</span></div>
-              <div class="stat-value">68<span class="stat-unit">%</span></div>
-              <div class="stat-bottom"><span class="mini-progress"><i style="width:68%"></i></span><span>of your goal</span></div>
+              <div class="stat-top"><span class="stat-label">WEEKLY GOAL</span><span class="stat-symbol lilac">↗</span></div>
+              <div class="stat-value"><span id="weekly-progress-value">0</span><span class="stat-unit">%</span></div>
+              <div class="stat-bottom"><span class="mini-progress"><i id="weekly-progress-meter" style="width:0%"></i></span><span>of 20 questions</span></div>
             </article>
             <article class="stat-card">
               <div class="stat-top"><span class="stat-label">QUESTIONS ANSWERED</span><span class="stat-symbol mint">✓</span></div>
-              <div class="stat-value">142<span class="stat-unit">/ 200</span></div>
-              <div class="stat-bottom"><span class="trend-up">+24</span><span>this week</span></div>
+              <div class="stat-value"><span id="questions-answered">0</span><span class="stat-unit"> total</span></div>
+              <div class="stat-bottom"><span id="questions-this-week">0</span><span>this week</span></div>
             </article>
             <article class="stat-card">
               <div class="stat-top"><span class="stat-label">RECENT ACCURACY</span><span class="stat-symbol peach">◎</span></div>
-              <div class="stat-value">76<span class="stat-unit">%</span></div>
-              <div class="stat-bottom"><span class="trend-up">+5%</span><span>over last week</span></div>
+              <div class="stat-value"><span id="recent-accuracy">—</span><span class="stat-unit">%</span></div>
+              <div class="stat-bottom"><span>last 10 answered</span></div>
             </article>
             <article class="stat-card streak-stat">
               <div class="stat-top"><span class="stat-label">CURRENT STREAK</span><span class="stat-symbol gold">✦</span></div>
-              <div class="stat-value">4<span class="stat-unit"> days</span></div>
-              <div class="stat-bottom"><span>You're building a habit.</span></div>
+              <div class="stat-value"><span id="current-streak">0</span><span class="stat-unit"> days</span></div>
+              <div class="stat-bottom"><span id="due-count">No reviews due</span></div>
             </article>
           </section>
 
@@ -120,7 +132,7 @@
                   <p class="eyebrow">PICK UP WHERE YOU LEFT OFF</p>
                   <h2>Your learning paths</h2>
                 </div>
-                <a class="text-link" href="#courses">Browse paths <span>→</span></a>
+                <a class="text-link" id="browse-paths" href="#courses" aria-controls="course-list">Explore paths <span>→</span></a>
               </div>
               <div class="course-grid" id="course-list" aria-live="polite"></div>
               <p class="empty-state" id="empty-state" hidden>No learning paths match that search.</p>
@@ -132,27 +144,11 @@
                   <p class="eyebrow">YOUR FOCUS</p>
                   <h2>Today's plan</h2>
                 </div>
-                <span class="date-chip">3 TASKS</span>
+                <span class="date-chip" id="date-chip">READY WHEN YOU ARE</span>
               </div>
-              <div class="plan-list">
-                <div class="plan-item complete">
-                  <span class="checkmark">✓</span>
-                  <div><strong>Review autonomic drugs</strong><span>12 min · Pharmacology</span></div>
-                  <span class="plan-status">DONE</span>
-                </div>
-                <div class="plan-item">
-                  <span class="task-dot"></span>
-                  <div><strong>Complete a quick review</strong><span>5 min · 1 sample question</span></div>
-                  <span class="plan-time">NOW</span>
-                </div>
-                <div class="plan-item">
-                  <span class="task-dot"></span>
-                  <div><strong>Read patient cases</strong><span>20 min · Patient care</span></div>
-                  <span class="plan-time">LATER</span>
-                </div>
-              </div>
-              <button class="button button-soft plan-button" type="button" data-open-practice>
-                Continue today's plan <span>→</span>
+              <div class="plan-list" id="today-plan" aria-live="polite"></div>
+              <button class="button button-soft plan-button" id="plan-button" type="button" data-open-practice>
+                Start a focused session <span>→</span>
               </button>
             </aside>
 
@@ -171,7 +167,7 @@
               </div>
             </section>
           </div>
-          <footer class="page-footer">DosePath is an independent study demo. Sample material is for learning purposes only.</footer>
+          <footer class="page-footer">MedQuora is an independent study demo. Sample content covers shared foundations and is not mapped to local curricula or intended for clinical decisions.</footer>
         </main>
       </div>
     </div>
@@ -182,21 +178,32 @@
         <button class="icon-button dialog-close" aria-label="Close practice" value="close">×</button>
       </form>
       <div class="dialog-content">
-        <p class="eyebrow"><span class="eyebrow-dot"></span> QUICK PRACTICE <span class="question-count">01 / 01</span></p>
+        <p class="eyebrow"><span class="eyebrow-dot"></span> QUICK PRACTICE <span class="question-count" id="question-count">01 / 01</span></p>
         <h2 id="dialog-title">Check your understanding</h2>
-        <p class="question-prompt">Which route of administration most directly avoids first-pass metabolism?</p>
+        <p class="question-topic" id="question-topic"></p>
+        <p class="question-prompt" id="question-prompt"></p>
         <form id="answer-form">
           <fieldset id="answer-options">
             <legend class="sr-only">Choose one answer</legend>
-            <label class="answer-option"><input type="radio" name="answer" value="oral"><span class="radio-mark"></span><span>Oral</span><kbd>A</kbd></label>
-            <label class="answer-option"><input type="radio" name="answer" value="sublingual"><span class="radio-mark"></span><span>Sublingual</span><kbd>B</kbd></label>
-            <label class="answer-option"><input type="radio" name="answer" value="rectal"><span class="radio-mark"></span><span>Rectal</span><kbd>C</kbd></label>
-            <label class="answer-option"><input type="radio" name="answer" value="intramuscular"><span class="radio-mark"></span><span>Intramuscular</span><kbd>D</kbd></label>
+          </fieldset>
+          <fieldset class="confidence-fieldset" id="confidence-fieldset">
+            <legend>How confident are you?</legend>
+            <label><input type="radio" name="confidence" value="low"><span>Unsure</span></label>
+            <label><input type="radio" name="confidence" value="medium"><span>Somewhat</span></label>
+            <label><input type="radio" name="confidence" value="high"><span>Confident</span></label>
           </fieldset>
           <div class="answer-feedback" id="answer-feedback" role="status" hidden></div>
+          <fieldset class="reflection-fieldset" id="reflection-fieldset" hidden>
+            <legend>What made this difficult?</legend>
+            <label><input type="radio" name="reflection" value="knowledge"><span>I didn't know the concept</span></label>
+            <label><input type="radio" name="reflection" value="confusion"><span>I confused similar ideas</span></label>
+            <label><input type="radio" name="reflection" value="clue"><span>I missed a clue in the question</span></label>
+            <label><input type="radio" name="reflection" value="guess"><span>I guessed</span></label>
+          </fieldset>
+            <div class="remediation-hint" id="remediation-hint" hidden></div>
           <button class="button button-primary submit-answer" id="submit-answer" type="submit">Check answer <span>→</span></button>
         </form>
-        <p class="disclaimer">Illustrative educational content, not medical advice.</p>
+        <p class="disclaimer">Original sample questions for education only—not clinical guidance. Progress is saved on this device.</p>
       </div>
     </dialog>
 

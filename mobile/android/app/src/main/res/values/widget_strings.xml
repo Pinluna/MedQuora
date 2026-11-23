@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MedQuora</string>
+    <string name="widget_description">A customizable MedQuora study and progress widget.</string>
+</resources>
