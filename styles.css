@@ -292,15 +292,11 @@ h2 { margin-bottom: 0; color: #223941; font-size: 17px; font-weight: 700; letter
 .context-setting small { color: #98a2a7; font-size: 8px; line-height: 1.5; }
 .course-art.evidence { background: linear-gradient(125deg, #768c83, #b6c8aa); }
 .question-topic { margin: -5px 0 12px; color: #4a9288; font-size: 10px; font-weight: 700; }
-.confidence-fieldset, .reflection-fieldset { display: grid; gap: 8px; margin: 16px 0 0; padding: 0; border: 0; }
-.confidence-fieldset legend, .reflection-fieldset legend { margin-bottom: 8px; color: #53636a; font-size: 10px; font-weight: 750; }
-.confidence-fieldset { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-.confidence-fieldset legend, .reflection-fieldset legend { grid-column: 1 / -1; }
-.confidence-fieldset label, .reflection-fieldset label { display: flex; align-items: center; gap: 8px; min-height: 36px; padding: 7px 9px; border: 1px solid #e6ebec; border-radius: 8px; color: #66757b; cursor: pointer; font-size: 9px; }
-.confidence-fieldset label:has(input:checked), .reflection-fieldset label:has(input:checked) { border-color: #8abbb4; background: #f0f8f6; color: #286f69; }
-.confidence-fieldset input, .reflection-fieldset input { accent-color: var(--teal); }
-.confidence-fieldset:disabled label { cursor: default; opacity: .7; }
-.reflection-fieldset { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.reflection-fieldset { display: grid; gap: 8px; margin: 16px 0 0; padding: 0; border: 0; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.reflection-fieldset legend { margin-bottom: 8px; color: #53636a; font-size: 10px; font-weight: 750; grid-column: 1 / -1; }
+.reflection-fieldset label { display: flex; align-items: center; gap: 8px; min-height: 36px; padding: 7px 9px; border: 1px solid #e6ebec; border-radius: 8px; color: #66757b; cursor: pointer; font-size: 9px; }
+.reflection-fieldset label:has(input:checked) { border-color: #8abbb4; background: #f0f8f6; color: #286f69; }
+.reflection-fieldset input { accent-color: var(--teal); }
 .reflection-fieldset label { min-height: 39px; line-height: 1.35; }
 .remediation-hint { margin-top: 9px; padding: 10px 11px; border-radius: 8px; background: #f2f7f6; color: #526e68; font-size: 9px; line-height: 1.5; }
 .submit-answer:disabled { cursor: not-allowed; opacity: .55; transform: none; }
@@ -308,8 +304,6 @@ h2 { margin-bottom: 0; color: #223941; font-size: 17px; font-weight: 700; letter
 
 @media (max-width: 460px) {
   .context-setting { margin-top: 22px; }
-  .confidence-fieldset { grid-template-columns: 1fr; }
-  .confidence-fieldset label { min-height: 34px; }
   .reflection-fieldset { grid-template-columns: 1fr; }
 }
 
@@ -491,7 +485,6 @@ h2 {
   line-height: 1.4;
 }
 
-.confidence-fieldset label,
 .reflection-fieldset label {
   min-height: 44px;
   font-size: 10px;

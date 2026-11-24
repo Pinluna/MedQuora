@@ -43,7 +43,6 @@ const searchInput = document.querySelector("#course-search");
 const practiceDialog = document.querySelector("#practice-dialog");
 const answerForm = document.querySelector("#answer-form");
 const answerOptions = document.querySelector("#answer-options");
-const confidenceFieldset = document.querySelector("#confidence-fieldset");
 const reflectionFieldset = document.querySelector("#reflection-fieldset");
 const answerFeedback = document.querySelector("#answer-feedback");
 const submitAnswer = document.querySelector("#submit-answer");
@@ -128,8 +127,8 @@ function getWeakQuestionOrder(source = questions) {
     if (!aLast && bLast) return -1;
     if (aLast && !bLast) return 1;
     if (!aLast && !bLast) return a.id.localeCompare(b.id);
-    const aScore = aLast.correct ? (aLast.confidence === "high" ? 2 : 1) : 0;
-    const bScore = bLast.correct ? (bLast.confidence === "high" ? 2 : 1) : 0;
+    const aScore = aLast.correct ? 2 : 0;
+    const bScore = bLast.correct ? 2 : 0;
     return aScore - bScore || new Date(aLast.at) - new Date(bLast.at);
   });
   const seenObjectives = new Set();
@@ -155,7 +154,7 @@ function renderCourses(query = "") {
     const courseQuestions = questions.filter((question) => question.course === course.key);
     const practiced = courseQuestions.map((question) => getLastAttempt(question.id)).filter(Boolean);
     const mastery = practiced.length
-      ? Math.round(practiced.reduce((sum, attempt) => sum + (attempt.correct ? (attempt.confidence === "high" ? 100 : 75) : 25), 0) / practiced.length)
+      ? Math.round(practiced.reduce((sum, attempt) => sum + (attempt.correct ? 100 : 25), 0) / practiced.length)
       : 0;
     const progressLabel = practiced.length ? "Practice signal" : "No practice yet";
     return `
@@ -189,7 +188,7 @@ function renderBoardExams() {
     <article class="exam-card">
       <div class="exam-card-top">
         <strong class="exam-year">Open bank</strong>
-        <span class="exam-status">MIT LICENSED</span>
+        <span class="exam-status">158 QUESTIONS</span>
       </div>
       <p>General pharmacy revision questions from the attributed open question bank.</p>
       <div class="exam-card-meta"><span>${remaining} of ${questions.length} unseen</span><span>90 min</span></div>
@@ -302,8 +301,6 @@ function renderQuestion() {
 function resetQuestion() {
   answered = false;
   answerForm.reset();
-  confidenceFieldset.hidden = sessionMode === "board";
-  confidenceFieldset.disabled = sessionMode === "board";
   answerFeedback.hidden = true;
   answerFeedback.textContent = "";
   answerFeedback.classList.remove("wrong");
@@ -367,12 +364,6 @@ function startSession(mode = "focused", courseKey = null) {
   openQuestion();
 }
 
-function explainConfidence(confidence) {
-  if (confidence === "high") return "high";
-  if (confidence === "medium") return "medium";
-  return "low";
-}
-
 function updateReflectionHint(value) {
   const hints = {
     knowledge: "Next step: revisit the core concept, then test yourself on a different example.",
@@ -400,8 +391,6 @@ function showAnswerFeedback(selectedValue, correct) {
     if (input.value === currentQuestion.answer) option.classList.add("correct");
     if (input.value === selectedValue && !correct) option.classList.add("incorrect");
   });
-  confidenceFieldset.disabled = sessionMode === "board";
-
   if (!correct && sessionMode !== "board") {
     reflectionFieldset.hidden = false;
     submitAnswer.innerHTML = `Save reflection <span>→</span>`;
@@ -413,10 +402,10 @@ function showAnswerFeedback(selectedValue, correct) {
   }
 }
 
-function scheduleReview(question, correct, confidence) {
+function scheduleReview(question, correct) {
   const previous = state.reviews[question.objective];
   const nextInterval = correct
-    ? Math.min(21, Math.max(2, (previous?.intervalDays || 1) * (confidence === "high" ? 2 : 1.5)))
+    ? Math.min(21, Math.max(2, (previous?.intervalDays || 1) * 2))
     : 1;
   const dueAt = new Date();
   dueAt.setDate(dueAt.getDate() + Math.ceil(nextInterval));
@@ -430,13 +419,10 @@ function scheduleReview(question, correct, confidence) {
 }
 
 function saveCurrentAttempt() {
-  const confidence = sessionMode === "board"
-    ? "medium"
-    : answerForm.querySelector('input[name="confidence"]:checked')?.value;
   const selected = answerForm.querySelector('input[name="answer"]:checked');
   const reflection = answerForm.querySelector('input[name="reflection"]:checked')?.value || null;
-  if ((sessionMode !== "board" && !confidence) || !selected || (!answered && !selected)) {
-    showToast("Choose an answer and confidence level before continuing.");
+  if (!selected) {
+    showToast("Choose an answer before continuing.");
     return false;
   }
   if (!answered) {
@@ -453,10 +439,9 @@ function saveCurrentAttempt() {
     questionId: currentQuestion.id,
     at: new Date().toISOString(),
     correct,
-    confidence: explainConfidence(confidence),
     reflection,
   });
-  scheduleReview(currentQuestion, correct, confidence);
+  scheduleReview(currentQuestion, correct);
   saveState();
   renderDashboard();
   return correct;
@@ -559,9 +544,8 @@ answerForm.addEventListener("submit", (event) => {
   event.preventDefault();
   if (!answered) {
     const selected = answerForm.querySelector('input[name="answer"]:checked');
-    const confidence = answerForm.querySelector('input[name="confidence"]:checked');
-    if (!selected || (sessionMode !== "board" && !confidence)) {
-      showToast("Choose an answer and confidence level first.");
+    if (!selected) {
+      showToast("Choose an answer first.");
       return;
     }
     answered = true;
