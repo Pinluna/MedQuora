@@ -1,10 +1,10 @@
 # MedQuora
 
-## Version 1.4.0
+## Version 1.5.0
 
-MedQuora 1.4.0 provides 326 distinct pharmacy revision questions, split into strict Paper 1 (97) and Paper 2 (229) topic banks. Board exam simulations run 60 unseen questions in 60 minutes and never mix Paper 1 and Paper 2 content. Reset a paper bank when fewer than 60 unseen questions remain.
+MedQuora 1.5.0 provides 326 distinct pharmacy revision questions, split into strict Paper 1 (97) and Paper 2 (229) topic banks. Board exam simulations run 60 unseen questions in 60 minutes with a visible countdown, show answer feedback after each question, and open a full paper review at the end. Unanswered questions are marked incorrect when time expires. Reset a paper bank when fewer than 60 unseen questions remain.
 
-A responsive study prototype for health-science learners. It demonstrates a learning loop: answer a question, reflect on mistakes, get targeted guidance, and revisit concepts later.
+A responsive study prototype for health-science learners. It demonstrates a learning loop: answer a question, check the result with an explanation, and revisit concepts later.
 
 ## Run the web prototype
 
