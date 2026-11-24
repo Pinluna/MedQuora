@@ -2,41 +2,39 @@ const questions = window.OpenPharmacyQuestions;
 
 const courses = [
   {
-    key: "pharm",
-    title: "Pharmacy sciences",
-    description: "Pharmacology, pharmaceutics, medicinal chemistry, and natural products.",
-    category: "CORE CONCEPTS",
-    art: "pharm",
-    symbol: "⌁",
-  },
-  {
-    key: "physiology",
-    title: "Biochemistry",
-    description: "Core biochemical pathways and molecular foundations.",
-    category: "FOUNDATIONS",
+    key: "paper-1",
+    title: "Paper 1 foundations",
+    description: "Anatomy, physiology, biochemistry, chemistry, microbiology, pathology, and immunology.",
+    category: "BOARD PAPER 1",
     art: "calcs",
-    symbol: "∿",
+    symbol: "1",
   },
   {
-    key: "clinical",
-    title: "Pathophysiology & therapeutics",
-    description: "Disease concepts and foundational treatment choices.",
-    category: "CASE THINKING",
-    art: "care",
-    symbol: "✳",
-  },
-  {
-    key: "evidence",
-    title: "Pharmacy practice",
-    description: "Medication safety, prescription checks, and patient counselling.",
-    category: "PROFESSIONAL SKILLS",
-    art: "evidence",
-    symbol: "∴",
+    key: "paper-2",
+    title: "Paper 2 pharmacy practice",
+    description: "Pharmacology, clinical pharmacy, pharmacognosy, pharmaceutics, pharmaceutical chemistry, epidemiology, and research methods.",
+    category: "BOARD PAPER 2",
+    art: "pharm",
+    symbol: "2",
   },
 ];
 
 const STORAGE_KEY = "dosepath-study-state-v2";
 const WEEKLY_GOAL = 20;
+const BOARD_EXAM_QUESTION_COUNT = 60;
+const BOARD_EXAM_MINUTES = 60;
+const BOARD_EXAMS = {
+  "paper-1": {
+    label: "PAPER 1",
+    title: "Paper 1 simulation",
+    topics: ["anatomy", "physiology", "biochemistry", "organic chemistry", "physical chemistry", "inorganic chemistry", "microbiology", "pathology", "immunology"],
+  },
+  "paper-2": {
+    label: "PAPER 2",
+    title: "Paper 2 simulation",
+    topics: ["pharmacology", "clinical pharmacy", "pharmacognosy", "pharmaceutics", "pharmaceutical chemistry", "epidemiology", "research methods"],
+  },
+};
 const courseList = document.querySelector("#course-list");
 const emptyState = document.querySelector("#empty-state");
 const searchInput = document.querySelector("#course-search");
@@ -63,6 +61,7 @@ let currentQuestion = null;
 let answered = false;
 let toastTimer;
 let sessionMode = "focused";
+let examPaper = null;
 let examDeadline = null;
 let examTimer = null;
 
@@ -144,6 +143,38 @@ function getUnansweredQuestions(source = questions) {
   return source.filter((question) => !completedIds.has(question.id));
 }
 
+function getPaperQuestions(paper) {
+  return questions.filter((question) => question.paper === paper);
+}
+
+function getBoardExamQueue(paper) {
+  const config = BOARD_EXAMS[paper];
+  const candidates = getUnansweredQuestions(getPaperQuestions(paper));
+  if (candidates.length < BOARD_EXAM_QUESTION_COUNT) return [];
+  const buckets = config.topics.map((topic) =>
+    getWeakQuestionOrder(candidates.filter((question) => question.examTopic === topic)),
+  );
+  const queue = [];
+  let index = 0;
+  while (queue.length < BOARD_EXAM_QUESTION_COUNT) {
+    let added = false;
+    for (const bucket of buckets) {
+      if (!bucket.length) continue;
+      queue.push(bucket.shift());
+      added = true;
+      if (queue.length === BOARD_EXAM_QUESTION_COUNT) break;
+    }
+    if (!added) break;
+    index += 1;
+    if (index > BOARD_EXAM_QUESTION_COUNT * 2) break;
+  }
+  return queue;
+}
+
+function isBoardSession() {
+  return sessionMode === "board";
+}
+
 function renderCourses(query = "") {
   const search = query.trim().toLowerCase();
   const matches = courses.filter((course) =>
@@ -183,20 +214,24 @@ function renderCourses(query = "") {
 function renderBoardExams() {
   const examGrid = document.querySelector("#exam-grid");
   if (!examGrid) return;
-  const remaining = getUnansweredQuestions().length;
-  examGrid.innerHTML = `
-    <article class="exam-card">
-      <div class="exam-card-top">
-        <strong class="exam-year">Open bank</strong>
-        <span class="exam-status">158 QUESTIONS</span>
-      </div>
-      <p>General pharmacy revision questions from the attributed open question bank.</p>
-      <div class="exam-card-meta"><span>${remaining} of ${questions.length} unseen</span><span>90 min</span></div>
-      ${remaining
-        ? `<button class="button button-soft" type="button" data-start-board-exam>Start unseen questions <span>→</span></button>`
-        : `<button class="button button-soft" type="button" data-reset-open-bank>Reset this bank</button>`}
-    </article>
-  `;
+  examGrid.innerHTML = Object.entries(BOARD_EXAMS).map(([paper, config]) => {
+    const pool = getPaperQuestions(paper);
+    const remaining = getUnansweredQuestions(pool).length;
+    const ready = remaining >= BOARD_EXAM_QUESTION_COUNT;
+    return `
+      <article class="exam-card">
+        <div class="exam-card-top">
+          <strong class="exam-year">${config.label}</strong>
+          <span class="exam-status">60 QUESTIONS · 60 MIN</span>
+        </div>
+        <p>${config.title} using only ${config.topics.join(", ")} questions.</p>
+        <div class="exam-card-meta"><span>${remaining} of ${pool.length} unseen</span><span>${config.topics.length} topics</span></div>
+        ${ready
+          ? `<button class="button button-soft" type="button" data-start-board-exam="${paper}">Start ${config.label} simulation <span>→</span></button>`
+          : `<button class="button button-soft" type="button" data-reset-paper="${paper}">Reset ${config.label} bank</button>`}
+      </article>
+    `;
+  }).join("");
 }
 
 function currentStreak() {
@@ -280,11 +315,11 @@ function renderDashboard() {
 
 function renderQuestion() {
   const question = currentQuestion;
-  document.querySelector("#question-count").textContent = sessionMode === "board"
-    ? `OPEN BANK · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")}`
+  document.querySelector("#question-count").textContent = isBoardSession()
+    ? `${BOARD_EXAMS[examPaper].label} · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")}`
     : `${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")}`;
-  document.querySelector("#question-topic").textContent = sessionMode === "board"
-    ? `Open pharmacy practice · ${question.topic}`
+  document.querySelector("#question-topic").textContent = isBoardSession()
+    ? `${BOARD_EXAMS[examPaper].title} · ${question.examTopic}`
     : question.topic;
   document.querySelector("#question-prompt").textContent = question.prompt;
   answerOptions.innerHTML = `
@@ -322,12 +357,12 @@ function openQuestion() {
 }
 
 function updateExamTimer() {
-  if (sessionMode !== "board" || !examDeadline) return;
+  if (!isBoardSession() || !examDeadline) return;
   const remaining = Math.max(0, examDeadline - Date.now());
   const minutes = Math.floor(remaining / 60000);
   const seconds = Math.floor((remaining % 60000) / 1000);
   document.querySelector("#question-count").textContent =
-    `OPEN BANK · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")} · ${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+    `${BOARD_EXAMS[examPaper].label} · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")} · ${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
   if (remaining === 0) {
     clearInterval(examTimer);
     practiceDialog.close("time-expired");
@@ -337,6 +372,7 @@ function updateExamTimer() {
 
 function startSession(mode = "focused", courseKey = null) {
   sessionMode = mode;
+  examPaper = null;
   clearInterval(examTimer);
   const allCandidates = courseKey
     ? questions.filter((question) => question.course === courseKey)
@@ -354,9 +390,7 @@ function startSession(mode = "focused", courseKey = null) {
     return;
   }
   if (mode === "board") {
-    sessionQueue = getWeakQuestionOrder(candidates);
-    examDeadline = Date.now() + 90 * 60 * 1000;
-    examTimer = setInterval(updateExamTimer, 1000);
+    sessionQueue = candidates.slice(0, Math.min(5, candidates.length));
   } else {
     sessionQueue = getWeakQuestionOrder(candidates).slice(0, Math.min(5, candidates.length));
   }
@@ -377,29 +411,34 @@ function updateReflectionHint(value) {
 }
 
 function showAnswerFeedback(selectedValue, correct) {
-  const correctOption = currentQuestion.options.find(([value]) => value === currentQuestion.answer);
-  const selectedRationale = correct ? "" : ` ${currentQuestion.rationales[selectedValue] || ""}`;
-  answerFeedback.textContent = correct
-    ? `Correct. ${currentQuestion.explanation}`
-    : `Not quite. The best answer is ${correctOption[1]}. ${currentQuestion.explanation}${selectedRationale}`;
-  answerFeedback.hidden = false;
-  answerFeedback.classList.toggle("wrong", !correct);
-
-  answerOptions.querySelectorAll(".answer-option").forEach((option) => {
-    const input = option.querySelector("input");
-    input.disabled = true;
-    if (input.value === currentQuestion.answer) option.classList.add("correct");
-    if (input.value === selectedValue && !correct) option.classList.add("incorrect");
-  });
-  if (!correct && sessionMode !== "board") {
-    reflectionFieldset.hidden = false;
-    submitAnswer.innerHTML = `Save reflection <span>→</span>`;
-    submitAnswer.disabled = true;
+  if (!isBoardSession()) {
+    const correctOption = currentQuestion.options.find(([value]) => value === currentQuestion.answer);
+    const selectedRationale = correct ? "" : ` ${currentQuestion.rationales[selectedValue] || ""}`;
+    answerFeedback.textContent = correct
+      ? `Correct. ${currentQuestion.explanation}`
+      : `Not quite. The best answer is ${correctOption[1]}. ${currentQuestion.explanation}${selectedRationale}`;
+    answerFeedback.hidden = false;
+    answerFeedback.classList.toggle("wrong", !correct);
+    answerOptions.querySelectorAll(".answer-option").forEach((option) => {
+      const input = option.querySelector("input");
+      input.disabled = true;
+      if (input.value === currentQuestion.answer) option.classList.add("correct");
+      if (input.value === selectedValue && !correct) option.classList.add("incorrect");
+    });
+    if (!correct) {
+      reflectionFieldset.hidden = false;
+      submitAnswer.innerHTML = `Save reflection <span>→</span>`;
+      submitAnswer.disabled = true;
+      return;
+    }
   } else {
-    submitAnswer.innerHTML = sessionIndex === sessionQueue.length - 1
-      ? `Finish session <span>→</span>`
-      : `Save & continue <span>→</span>`;
+    answerOptions.querySelectorAll(".answer-option").forEach((option) => {
+      option.querySelector("input").disabled = true;
+    });
   }
+  submitAnswer.innerHTML = sessionIndex === sessionQueue.length - 1
+    ? `Finish session <span>→</span>`
+    : `Save & continue <span>→</span>`;
 }
 
 function scheduleReview(question, correct) {
@@ -429,7 +468,7 @@ function saveCurrentAttempt() {
     showToast("Check your answer before saving the attempt.");
     return false;
   }
-  if (sessionMode !== "board" && selected.value !== currentQuestion.answer && !reflection) {
+  if (!isBoardSession() && selected.value !== currentQuestion.answer && !reflection) {
     showToast("Choose what made the question difficult to get targeted feedback.");
     return false;
   }
@@ -450,7 +489,7 @@ function saveCurrentAttempt() {
 function finishCurrentQuestion() {
   const correct = saveCurrentAttempt();
   if (correct === false && !answered) return;
-  if (sessionMode !== "board" && answered && currentQuestion && answerForm.querySelector('input[name="answer"]:checked')?.value !== currentQuestion.answer &&
+  if (!isBoardSession() && answered && currentQuestion && answerForm.querySelector('input[name="answer"]:checked')?.value !== currentQuestion.answer &&
       !answerForm.querySelector('input[name="reflection"]:checked')) return;
 
   sessionIndex += 1;
@@ -461,8 +500,8 @@ function finishCurrentQuestion() {
   const savedCorrect = state.attempts.slice(-sessionQueue.length).filter((attempt) => attempt.correct).length;
   practiceDialog.close("complete");
   clearInterval(examTimer);
-  showToast(sessionMode === "board"
-    ? `Open-bank test complete: ${savedCorrect} of ${sessionQueue.length} correct.`
+  showToast(isBoardSession()
+    ? `${BOARD_EXAMS[examPaper].title} complete: ${savedCorrect} of ${sessionQueue.length} correct.`
     : `Session saved: ${savedCorrect} of ${sessionQueue.length} correct. Your next reviews are scheduled.`);
 }
 
@@ -499,25 +538,43 @@ browsePathsButton.addEventListener("click", (event) => {
 });
 
 document.addEventListener("click", (event) => {
-  const resetBankButton = event.target.closest("[data-reset-open-bank]");
-  if (resetBankButton) {
-    if (!window.confirm("Reset this bank's attempts and reviews so you can answer these questions again?")) return;
-    const bankQuestionIds = new Set(questions.map((question) => question.id));
-    const bankObjectives = new Set(questions.map((question) => question.objective));
+  const resetPaperButton = event.target.closest("[data-reset-paper]");
+  if (resetPaperButton) {
+    const paper = resetPaperButton.dataset.resetPaper;
+    const config = BOARD_EXAMS[paper];
+    if (!config) return;
+    if (!window.confirm(`Reset ${config.title} attempts and reviews so you can answer this paper again?`)) return;
+    const bankQuestionIds = new Set(getPaperQuestions(paper).map((question) => question.id));
+    const bankObjectives = new Set(getPaperQuestions(paper).map((question) => question.objective));
     state.attempts = state.attempts.filter((attempt) => !bankQuestionIds.has(attempt.questionId));
     state.reviews = Object.fromEntries(
       Object.entries(state.reviews).filter(([objective]) => !bankObjectives.has(objective)),
     );
     saveState();
     renderDashboard();
-    showToast("Open question bank reset. All questions are available again.");
+    showToast(`${config.title} bank reset. All ${paper.replace("paper-", "Paper ")} questions are available again.`);
     return;
   }
 
   const boardTrigger = event.target.closest("[data-start-board-exam]");
   if (boardTrigger) {
     event.preventDefault();
-    startSession("board");
+    const paper = boardTrigger.dataset.startBoardExam;
+    const config = BOARD_EXAMS[paper];
+    if (!config) return;
+    const queue = getBoardExamQueue(paper);
+    if (queue.length !== BOARD_EXAM_QUESTION_COUNT) {
+      showToast(`Fewer than ${BOARD_EXAM_QUESTION_COUNT} unseen questions remain. Reset ${config.title} first.`);
+      return;
+    }
+    sessionMode = "board";
+    examPaper = paper;
+    clearInterval(examTimer);
+    sessionQueue = queue;
+    sessionIndex = 0;
+    examDeadline = Date.now() + BOARD_EXAM_MINUTES * 60 * 1000;
+    examTimer = setInterval(updateExamTimer, 1000);
+    openQuestion();
     setActiveNavigation("board-exams");
     closeSidebar();
     return;
@@ -594,7 +651,7 @@ menuButton.addEventListener("click", () => {
 scrim.addEventListener("click", closeSidebar);
 
 practiceDialog.addEventListener("close", () => {
-  if (sessionMode === "board") {
+  if (isBoardSession()) {
     clearInterval(examTimer);
   }
 });

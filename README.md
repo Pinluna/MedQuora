@@ -1,8 +1,8 @@
 # MedQuora
 
-## Version 1.3.0
+## Version 1.4.0
 
-MedQuora 1.3.0 provides 158 distinct pharmacy revision questions from attributed open and public question banks. Sessions exclude previously answered questions until the learner resets the bank.
+MedQuora 1.4.0 provides 326 distinct pharmacy revision questions, split into strict Paper 1 (97) and Paper 2 (229) topic banks. Board exam simulations run 60 unseen questions in 60 minutes and never mix Paper 1 and Paper 2 content. Reset a paper bank when fewer than 60 unseen questions remain.
 
 A responsive study prototype for health-science learners. It demonstrates a learning loop: answer a question, reflect on mistakes, get targeted guidance, and revisit concepts later.
 
@@ -27,7 +27,7 @@ The Android home-screen widget can be added from the launcher and customized to 
 
 ## Question source and scope
 
-The pharmacy practice questions include 43 items from [Pharmacy Quiz Challenge](https://github.com/rocksonsamuel96/PharmacyQuizChallenge-), used under its MIT License (copyright 2026 rocksonsamuel96; full notice is in `assets/open-pharmacy-license.txt` and in the Android bundle), 100 items from the [OpenExamPrep PPB practice bank](https://open-exam-prep.com/practice/ke-keph-pharmacy), and 15 items from [PharmaProLearn's public Kenya PPB practice page](https://pharmaprolearn.com/exam/boards/kenya-ppb/guides/practice-questions/). The Scribd document was not added because it exposes questions without an answer key. All items are general pharmacy revision material—not official PPB questions, verified past papers, Kenya-specific guidance, or a clinically reviewed resource. The region selector remains a preference placeholder. Questions are not medical advice or decision support. Do not enter patient information.
+The pharmacy practice questions include 43 items from [Pharmacy Quiz Challenge](https://github.com/rocksonsamuel96/PharmacyQuizChallenge-), used under its MIT License (copyright 2026 rocksonsamuel96; full notice is in `assets/open-pharmacy-license.txt` and in the Android bundle), 100 items from the [OpenExamPrep PPB practice bank](https://open-exam-prep.com/practice/ke-keph-pharmacy), 15 items from [PharmaProLearn's public Kenya PPB practice page](https://pharmaprolearn.com/exam/boards/kenya-ppb/guides/practice-questions/), 67 MedQuora original questions, and 100 multiple-choice questions from the [PPB Stage Two Paper II model paper](https://www.scribd.com/document/897815579/stagetwopapertwo). The Scribd PDF does not include an answer key; answers for those items are labelled editorial best-evidence and should not be treated as official. All items are general pharmacy revision material—not official PPB questions, verified past papers, Kenya-specific guidance, or a clinically reviewed resource. The region selector remains a preference placeholder. Questions are not medical advice or decision support. Do not enter patient information.
 
 The prototype has no authentication, cloud sync, clinician-reviewed content workflow, or production-ready privacy controls. Browser progress is stored locally; clear the app's storage to remove it.
 
