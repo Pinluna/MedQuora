@@ -58,7 +58,7 @@ const studyRegion = document.querySelector("#study-region");
 const notificationButton = document.querySelector("#notification-button");
 const browsePathsButton = document.querySelector("#browse-paths");
 
-const emptyStateData = { attempts: [], reviews: {}, region: "global" };
+const emptyStateData = { attempts: [], reviews: {}, history: [], region: "global" };
 let state = loadState();
 let sessionQueue = [];
 let sessionIndex = 0;
@@ -79,6 +79,7 @@ function loadState() {
     return {
       attempts: Array.isArray(saved.attempts) ? saved.attempts : [],
       reviews: saved.reviews && typeof saved.reviews === "object" ? saved.reviews : {},
+      history: Array.isArray(saved.history) ? saved.history : [],
       region: typeof saved.region === "string" ? saved.region : "global",
     };
   } catch {
@@ -117,11 +118,13 @@ function getLastAttempt(questionId) {
 }
 
 function getDueQuestions(now = Date.now()) {
+  const answeredIds = new Set(state.attempts.map((attempt) => attempt.questionId));
   return Object.values(state.reviews)
     .filter((review) => review && new Date(review.dueAt).getTime() <= now)
     .map((review) => {
-      const relatedQuestions = questions.filter((question) => question.objective === review.objective);
-      return relatedQuestions.find((question) => question.id !== review.lastQuestionId) || relatedQuestions[0];
+      const unseen = questions.filter((question) =>
+        question.objective === review.objective && !answeredIds.has(question.id));
+      return unseen.find((question) => question.id !== review.lastQuestionId) || unseen[0];
     })
     .filter(Boolean);
 }
@@ -311,6 +314,7 @@ function renderDashboard() {
     : `Start focused practice <span>→</span>`;
   renderCourses(searchInput.value);
   renderBoardExams();
+  renderHistory();
   window.MedQuoraWidget?.postMessage(JSON.stringify({
     due: dueCount,
     streak,
@@ -466,7 +470,7 @@ function recordAttempt(question, selectedValue, correct) {
     correct,
   });
   scheduleReview(question, correct);
-  sessionResults.push({ question, selectedValue, correct });
+  sessionResults.push({ question, selectedValue, correct, paper: examPaper });
 }
 
 function saveCurrentAttempt() {
@@ -487,19 +491,32 @@ function saveCurrentAttempt() {
   return correct;
 }
 
-function renderReview(score, total) {
-  const board = isBoardSession();
+function sessionModeLabel(mode, paper) {
+  if (mode === "board") return `Board exam · ${BOARD_EXAMS[paper]?.label || paper}`;
+  if (mode === "due") return "Due review";
+  if (mode === "course") return "Course practice";
+  return "Quick practice";
+}
+
+function reviewTitle(mode, paper) {
+  if (mode === "board") return `${BOARD_EXAMS[paper]?.label || "Board exam"} review`;
+  return `${sessionModeLabel(mode, paper)} review`;
+}
+
+function reviewSummaryText(reason, mode, paper) {
+  if (reason === "time-expired") return "Time expired. Unanswered questions were marked incorrect.";
+  if (mode === "board") return `${BOARD_EXAMS[paper]?.title || "Board exam"} complete. Review your answers below.`;
+  return "Review your answers below. Your next reviews are scheduled.";
+}
+
+function openReview({ title, summary, score, total, results }) {
   reviewScore.textContent = `${score} / ${total} CORRECT`;
-  document.querySelector("#review-title").textContent = board
-    ? `${BOARD_EXAMS[examPaper].label} review`
-    : "Practice review";
-  reviewSummary.textContent = sessionEndReason === "time-expired"
-    ? "Time expired. Unanswered questions were marked incorrect."
-    : board
-      ? `${BOARD_EXAMS[examPaper].title} complete. Review your answers below.`
-      : "Review your answers below. Your next reviews are scheduled.";
-  reviewList.innerHTML = sessionResults.map((result, index) => {
-    const { question, selectedValue, correct } = result;
+  document.querySelector("#review-title").textContent = title;
+  reviewSummary.textContent = summary;
+  reviewList.innerHTML = results.map((result, index) => {
+    const question = result.question || questions.find((item) => item.id === result.questionId);
+    if (!question) return "";
+    const { selectedValue, correct } = result;
     const correctOption = question.options.find(([value]) => value === question.answer);
     const yourAnswer = selectedValue
       ? question.options.find(([value]) => value === selectedValue)?.[1] || selectedValue
@@ -508,11 +525,12 @@ function renderReview(score, total) {
     const selectedRationale = selectedValue && selectedValue !== question.answer
       ? question.rationales[selectedValue] || ""
       : "";
+    const topic = result.paper && BOARD_EXAMS[result.paper] ? question.examTopic : question.topic;
     return `
       <article class="review-item ${correct ? "is-correct" : "is-incorrect"}">
         <div class="review-item-top">
           <span class="review-index">${String(index + 1).padStart(2, "0")}</span>
-          <span class="review-topic">${board ? question.examTopic : question.topic}</span>
+          <span class="review-topic">${topic}</span>
           <span class="review-badge">${status}</span>
         </div>
         <p class="review-prompt">${question.prompt}</p>
@@ -525,6 +543,62 @@ function renderReview(score, total) {
   reviewDialog.showModal();
 }
 
+function renderReview() {
+  openReview({
+    title: reviewTitle(sessionMode, examPaper),
+    summary: reviewSummaryText(sessionEndReason, sessionMode, examPaper),
+    score: sessionResults.filter((result) => result.correct).length,
+    total: sessionQueue.length,
+    results: sessionResults,
+  });
+}
+
+function rememberSession(reason) {
+  const score = sessionResults.filter((result) => result.correct).length;
+  state.history.push({
+    id: `session-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+    at: new Date().toISOString(),
+    mode: sessionMode,
+    paper: examPaper,
+    reason,
+    score,
+    total: sessionQueue.length,
+    results: sessionResults.map(({ question, selectedValue, correct, paper }) => ({
+      questionId: question.id,
+      selectedValue,
+      correct,
+      paper,
+    })),
+  });
+  saveState();
+}
+
+function renderHistory() {
+  const historyList = document.querySelector("#history-list");
+  if (!historyList) return;
+  const sessions = [...state.history].reverse();
+  const count = document.querySelector("#history-count");
+  if (count) count.textContent = `${sessions.length} saved session${sessions.length === 1 ? "" : "s"}`;
+  historyList.innerHTML = sessions.length
+    ? sessions.map((session) => {
+      const when = new Intl.DateTimeFormat(undefined, {
+        dateStyle: "medium",
+        timeStyle: "short",
+      }).format(new Date(session.at));
+      const expired = session.reason === "time-expired" ? " · time expired" : "";
+      return `
+        <article class="history-item">
+          <div class="history-item-copy">
+            <strong>${sessionModeLabel(session.mode, session.paper)}</strong>
+            <span>${when} · ${session.score} / ${session.total} correct${expired}</span>
+          </div>
+          <button class="button button-soft" type="button" data-view-history="${session.id}">View review <span>→</span></button>
+        </article>
+      `;
+    }).join("")
+    : `<p class="history-empty">No sessions yet. Complete a practice question or board paper to build your history.</p>`;
+}
+
 function endSession(reason = "complete") {
   sessionEndReason = reason;
   clearInterval(examTimer);
@@ -532,10 +606,12 @@ function endSession(reason = "complete") {
   practiceDialog.close(reason);
   const score = sessionResults.filter((result) => result.correct).length;
   const total = sessionQueue.length;
+  rememberSession(reason);
   showToast(isBoardSession()
     ? `${BOARD_EXAMS[examPaper].title}${reason === "time-expired" ? " time expired" : " complete"}: ${score} of ${total} correct.`
     : `Session saved: ${score} of ${total} correct. Your next reviews are scheduled.`);
-  renderReview(score, total);
+  renderDashboard();
+  renderReview();
 }
 
 function finishCurrentQuestion() {
@@ -583,6 +659,36 @@ browsePathsButton.addEventListener("click", (event) => {
 });
 
 document.addEventListener("click", (event) => {
+  const historyButton = event.target.closest("[data-view-history]");
+  if (historyButton) {
+    const session = state.history.find((item) => item.id === historyButton.dataset.viewHistory);
+    if (!session) return;
+    const results = session.results
+      .map((result) => ({ ...result, question: questions.find((question) => question.id === result.questionId) }))
+      .filter((result) => result.question);
+    openReview({
+      title: reviewTitle(session.mode, session.paper),
+      summary: `${reviewSummaryText(session.reason, session.mode, session.paper)} Saved session.`,
+      score: session.score,
+      total: session.total,
+      results,
+    });
+    setActiveNavigation("history");
+    closeSidebar();
+    return;
+  }
+
+  const resetAllButton = event.target.closest("[data-reset-all]");
+  if (resetAllButton) {
+    if (!window.confirm("Reset all answered questions and review scheduling? Your session history stays.")) return;
+    state.attempts = [];
+    state.reviews = {};
+    saveState();
+    renderDashboard();
+    showToast("All question banks reset. Every question is available again.");
+    return;
+  }
+
   const resetPaperButton = event.target.closest("[data-reset-paper]");
   if (resetPaperButton) {
     const paper = resetPaperButton.dataset.resetPaper;

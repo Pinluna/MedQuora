@@ -19,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Additional question sources
+---------------------------
+MedMCQA (https://huggingface.co/datasets/openlifescienceai/medmcqa) — question
+data licensed under Apache-2.0. Each question keeps its source answer key and
+explanation. Region tag: IN.
+
+RxQA (https://github.com/Google-Health/rxqa) — pharmacist-validated annotations
+licensed CC BY 4.0. Region tag: US.
+
+DurgiPedia (https://durgical.com/en/practice/questions.json) — questions and
+teaching points licensed CC BY 4.0. Region tag: GLOBAL.
+
+Eka NFI MCQA (https://huggingface.co/datasets/ekacare/Eka_NFI_MCQA) — licensed
+MIT. Region tag: IN.
+
+OpenALG chemistry ancillary materials
+(https://oer.galileo.usg.edu/chemistry-ancillary/18) — licensed CC BY 4.0.
+Region tag: US.
+
+OpenExamPrep, PharmaProLearn, and the PPB Stage Two Paper II model paper remain
+attributed in each question's `source` and `sourceUrl` fields. Questions without
+a published answer key are marked with editorial best-evidence in `answerBasis`.
+All questions are for revision only and are not official examination material
+or clinical guidance.

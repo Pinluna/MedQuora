@@ -36,10 +36,14 @@
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4.5h16v15H4z"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>
               Board exams
             </a>
-          <a class="nav-link" href="#study-plan">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M7.5 3v4M16.5 3v4M3.5 9.5h17M8 13h3M8 16h6"/></svg>
-            Study plan
-          </a>
+            <a class="nav-link" href="#history">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12a8 8 0 1 0 3-6.2M4 4v4h4"/><path d="M12 8v4.5l3 1.8"/></svg>
+              History
+            </a>
+            <a class="nav-link" href="#study-plan">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M7.5 3v4M16.5 3v4M3.5 9.5h17M8 13h3M8 16h6"/></svg>
+              Study plan
+            </a>
         </nav>
 
         <label class="context-setting">
@@ -56,7 +60,7 @@
             <option value="kenya">Kenya</option>
             <option value="other">Other / not listed</option>
           </select>
-          <small id="region-note">Sample lessons are shared foundations, not locally mapped guidance.</small>
+          <small id="region-note">Question bank items carry region tags; practice stays globally mixed.</small>
         </label>
 
         <div class="sidebar-spacer"></div>
@@ -82,7 +86,7 @@
           </button>
           <div class="breadcrumbs"><span>WORKSPACE</span><i>/</i><strong>OVERVIEW</strong></div>
           <div class="topbar-tools">
-            <span class="version-badge">v1.5.0</span>
+            <span class="version-badge">v1.6.0</span>
             <label class="search-box">
               <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.2 4.2"/></svg>
               <input id="course-search" type="search" placeholder="Find a course" aria-label="Find a course">
@@ -183,7 +187,20 @@
               </div>
               <p class="board-exam-intro">Each paper is a 60-question, 60-minute simulation. Paper 1 and Paper 2 banks are strictly separated by topic. Sessions use only unseen questions; reset a paper when fewer than 60 remain. These are practice simulations—not official papers or a past-year archive.</p>
               <div class="exam-grid" id="exam-grid" aria-live="polite"></div>
-              <p class="exam-disclaimer">Sources include <a href="https://github.com/rocksonsamuel96/PharmacyQuizChallenge-">Pharmacy Quiz Challenge</a> (MIT License), OpenExamPrep, PharmaProLearn, MedQuora original questions, and the <a href="https://www.scribd.com/document/897815579/stagetwopapertwo">PPB Stage Two Paper II model paper</a>. The Scribd PDF has no answer key, so those answers are editorial best-evidence. <a href="assets/open-pharmacy-license.txt">Read the open-source license</a>. Content is not clinically reviewed or endorsed by PPB.</p>
+              <p class="exam-disclaimer">The 2,103-question bank combines <a href="https://github.com/rocksonsamuel96/PharmacyQuizChallenge-">Pharmacy Quiz Challenge</a> (MIT), <a href="https://huggingface.co/datasets/openlifescienceai/medmcqa">MedMCQA</a> (Apache-2.0), <a href="https://github.com/Google-Health/rxqa">RxQA</a> (CC BY 4.0), <a href="https://durgical.com/en/practice/questions.json">DurgiPedia</a> (CC BY 4.0), <a href="https://huggingface.co/datasets/ekacare/Eka_NFI_MCQA">Eka NFI</a> (MIT), <a href="https://oer.galileo.usg.edu/chemistry-ancillary/18">OpenALG</a> (CC BY 4.0), OpenExamPrep, PharmaProLearn, MedQuora original questions, and the <a href="https://www.scribd.com/document/897815579/stagetwopapertwo">PPB Stage Two Paper II model paper</a>. Every item carries its source, license, and region tag; Scribd answers without a published key are labelled editorial best-evidence. <a href="assets/open-pharmacy-license.txt">Read the open-source licenses</a>. Content is not officially endorsed or clinically reviewed.</p>
+            </section>
+
+            <section class="panel history-panel" id="history">
+              <div class="section-heading compact-heading">
+                <div>
+                  <p class="eyebrow">YOUR WORK</p>
+                  <h2>Session history</h2>
+                </div>
+                <span class="date-chip" id="history-count">0 saved sessions</span>
+              </div>
+              <p class="history-intro">Every finished practice question and board paper is saved here. Open any session to see the same answer-by-answer review shown when it ended.</p>
+              <div class="history-list" id="history-list" aria-live="polite"></div>
+              <button class="button button-soft history-reset" type="button" data-reset-all>Reset all question banks</button>
             </section>
           </div>
           <footer class="page-footer">MedQuora is an independent study demo. Open pharmacy questions are for revision only and are not official examination material or clinical guidance.</footer>

@@ -24,21 +24,39 @@ void main() {
     expect(html, contains('practice simulations—not official papers'));
     expect(html, contains('id="exam-timer"'));
     expect(html, contains('id="review-dialog"'));
+    expect(html, contains('id="history-list"'));
+    expect(html, contains('data-reset-all'));
     expect(html, isNot(contains('reflection-fieldset')));
     expect(html.indexOf('assets/open-pharmacy-questions.js'), lessThan(html.indexOf('app.js')));
     expect(script, contains('window.MedQuoraWidget'));
     expect(script, contains('function updateExamTimer'));
-    expect(script, contains('function renderReview'));
+    expect(script, contains('function openReview'));
+    expect(script, contains('function renderHistory'));
+    expect(script, contains('state.history.push'));
     expect(script, isNot(contains('name="reflection"')));
-    expect(questionData, hasLength(326));
-    expect(ids, hasLength(326));
-    expect(prompts, hasLength(326));
+    expect(questionData, hasLength(2103));
+    expect(ids, hasLength(2103));
+    expect(prompts, hasLength(2103));
+    final paperOne = questionData.where((item) => item['paper'] == 'paper-1');
+    final paperTwo = questionData.where((item) => item['paper'] == 'paper-2');
+    expect(paperOne, hasLength(1053));
+    expect(paperTwo, hasLength(1050));
     for (final item in questionData.cast<Map<String, dynamic>>()) {
       final options = item['options'] as List<dynamic>;
       expect(options.any((option) => (option as List<dynamic>).first == item['answer']), isTrue);
+      expect(item['regions'], isA<List<dynamic>>());
+      expect((item['regions'] as List<dynamic>), isNotEmpty);
+      expect(item['source'], isA<String>());
+      expect(item['source'].toString(), isNotEmpty);
+      expect(item['license'], isA<String>());
+      expect(item['license'].toString(), isNotEmpty);
     }
     expect(license, contains('MIT License'));
     expect(license, contains('Copyright (c) 2026 rocksonsamuel96'));
+    expect(license, contains('MedMCQA'));
+    expect(license, contains('Apache-2.0'));
+    expect(license, contains('RxQA'));
+    expect(license, contains('CC BY 4.0'));
     expect(logo.lengthInBytes, greaterThan(0));
   });
 }
