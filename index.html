@@ -7,6 +7,7 @@
     <meta name="description" content="MedQuora helps health-science learners practice shared medical foundations, reflect, and review.">
     <title>MedQuora — Clinical Study Studio</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="assets/open-pharmacy-questions.js" defer></script>
     <script src="app.js" defer></script>
   </head>
   <body>
@@ -33,7 +34,7 @@
           </a>
           <a class="nav-link" href="#board-exams">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4.5h16v15H4z"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>
-            Board exams
+            Pharmacy question bank
           </a>
           <a class="nav-link" href="#study-plan">
             <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M7.5 3v4M16.5 3v4M3.5 9.5h17M8 13h3M8 16h6"/></svg>
@@ -81,7 +82,7 @@
           </button>
           <div class="breadcrumbs"><span>WORKSPACE</span><i>/</i><strong>OVERVIEW</strong></div>
           <div class="topbar-tools">
-            <span class="version-badge">v1.2.2</span>
+            <span class="version-badge">v1.2.3</span>
             <label class="search-box">
               <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.2 4.2"/></svg>
               <input id="course-search" type="search" placeholder="Find a course" aria-label="Find a course">
@@ -164,7 +165,7 @@
               <div class="practice-banner-copy">
                 <span class="banner-kicker">QUICK PRACTICE</span>
                 <h2>One question.<br>One step forward.</h2>
-                <p>Try a short, original sample question with an explanation.</p>
+                <p>Try a pharmacy question with an explanation.</p>
                 <button class="button button-light" type="button" data-open-practice>Try a question <span>→</span></button>
               </div>
               <div class="practice-decoration" aria-hidden="true">
@@ -176,19 +177,19 @@
             <section class="panel board-exams-panel" id="board-exams">
               <div class="section-heading board-exams-heading">
                 <div>
-                  <p class="eyebrow">KENYA NATIONAL BOARD PREPARATION</p>
-                  <h2>Past paper exam room</h2>
+                  <p class="eyebrow">OPEN-LICENSE PHARMACY PRACTICE</p>
+                  <h2>Pharmacy question bank</h2>
                 </div>
-                <button class="button button-soft" type="button" data-start-board-exam data-board-year="mixed">
-                  Start latest mixed exam <span>→</span>
+                <button class="button button-soft" type="button" data-start-board-exam>
+                  Start full test <span>→</span>
                 </button>
               </div>
-              <p class="board-exam-intro">Choose a past-paper-style session, set a 40-question pace, and complete it from the first question to the final result. Timed exam mode hides no questions and allows you to review all of your answers at the end.</p>
+              <p class="board-exam-intro">Work through 43 openly licensed pharmacy review questions. New sessions exclude previously answered questions; scheduled reviews may repeat items intentionally. This is general revision material—not an official PPB paper, a past-year archive, or a Kenya-specific exam blueprint.</p>
               <div class="exam-grid" id="exam-grid" aria-live="polite"></div>
-              <p class="exam-disclaimer">Independent exam-style practice. These original simulations are not copies of official Kenya board papers and are not affiliated with any examination body.</p>
+              <p class="exam-disclaimer">Question source: <a href="https://github.com/rocksonsamuel96/PharmacyQuizChallenge-">Pharmacy Quiz Challenge</a>, used under the MIT License. <a href="assets/open-pharmacy-license.txt">Read license</a>. Content is not clinically reviewed or endorsed by PPB.</p>
             </section>
           </div>
-          <footer class="page-footer">MedQuora is an independent study demo. Sample content covers shared foundations and is not mapped to local curricula or intended for clinical decisions.</footer>
+          <footer class="page-footer">MedQuora is an independent study demo. Open pharmacy questions are for revision only and are not official examination material or clinical guidance.</footer>
         </main>
       </div>
     </div>
@@ -224,7 +225,7 @@
             <div class="remediation-hint" id="remediation-hint" hidden></div>
           <button class="button button-primary submit-answer" id="submit-answer" type="submit">Check answer <span>→</span></button>
         </form>
-        <p class="disclaimer">Original sample questions for education only—not clinical guidance. Progress is saved on this device.</p>
+        <p class="disclaimer">Educational revision only—not clinical guidance. Progress is saved on this device.</p>
       </div>
     </dialog>
 

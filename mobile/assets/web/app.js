@@ -1,510 +1,38 @@
-const questions = [
-  {
-    id: "first-pass",
-    objective: "first-pass-metabolism",
-    course: "pharm",
-    topic: "Pharmacology · Absorption",
-    prompt: "Which route most directly avoids hepatic first-pass metabolism?",
-    options: [
-      ["oral", "Oral"],
-      ["sublingual", "Sublingual"],
-      ["rectal", "Rectal"],
-      ["swallowed", "Swallowed capsule"],
-    ],
-    answer: "sublingual",
-    explanation: "Sublingual absorption enters systemic circulation through the oral mucosa, bypassing initial passage through the portal circulation and liver.",
-    rationales: {
-      oral: "Most absorbed oral drugs pass through the portal circulation before reaching systemic circulation.",
-      rectal: "Rectal absorption may partially avoid first-pass metabolism, but it does not avoid it as directly or consistently as sublingual absorption.",
-      swallowed: "A swallowed capsule is absorbed through the gastrointestinal tract and commonly passes through portal blood before systemic circulation.",
-    },
-  },
-  {
-    id: "glomerular-filtration",
-    objective: "glomerular-filtration",
-    course: "physiology",
-    topic: "Physiology · Renal",
-    prompt: "In a nephron, where does filtration of blood plasma into the renal tubule begin?",
-    options: [
-      ["collecting-duct", "Collecting duct"],
-      ["loop", "Loop of Henle"],
-      ["glomerulus", "Glomerulus into Bowman's space"],
-      ["distal-tubule", "Distal convoluted tubule"],
-    ],
-    answer: "glomerulus",
-    explanation: "Filtration occurs across the glomerular capillaries into Bowman's space, the beginning of the nephron's tubular pathway.",
-    rationales: {
-      "collecting-duct": "The collecting duct receives tubular fluid later; it is not the site where plasma filtration begins.",
-      loop: "The loop of Henle modifies tubular fluid after it has passed through the proximal tubule.",
-      "distal-tubule": "The distal convoluted tubule is downstream from the filtration barrier.",
-    },
-  },
-  {
-    id: "neuron-depolarization",
-    objective: "neuronal-depolarization",
-    course: "physiology",
-    topic: "Physiology · Neurobiology",
-    prompt: "During the rising phase of a typical neuronal action potential, which event most directly causes rapid depolarization?",
-    options: [
-      ["sodium-in", "Voltage-gated sodium channels open and sodium enters"],
-      ["potassium-in", "Potassium enters through voltage-gated potassium channels"],
-      ["chloride-out", "Chloride leaves through ligand-gated channels"],
-      ["pump", "The sodium-potassium pump rapidly reverses its transport"],
-    ],
-    answer: "sodium-in",
-    explanation: "Opening of voltage-gated sodium channels allows sodium influx, driving the rapid rising phase of a typical neuronal action potential.",
-    rationales: {
-      "potassium-in": "Potassium efflux is more closely associated with repolarization, not the rapid rising phase.",
-      "chloride-out": "Chloride movement is not the primary mechanism of the typical action-potential upstroke.",
-      pump: "The sodium-potassium pump maintains ion gradients over time; it does not produce the rapid action-potential upstroke.",
-    },
-  },
-  {
-    id: "cardiac-output",
-    objective: "cardiac-output",
-    course: "clinical",
-    topic: "Clinical reasoning · Cardiovascular",
-    prompt: "If stroke volume remains constant while heart rate increases, what happens to cardiac output?",
-    options: [
-      ["decreases", "It decreases"],
-      ["unchanged", "It stays the same"],
-      ["increases", "It increases"],
-      ["unrelated", "It cannot be related to heart rate"],
-    ],
-    answer: "increases",
-    explanation: "Cardiac output equals heart rate multiplied by stroke volume. With stroke volume held constant, increasing heart rate increases cardiac output.",
-    rationales: {
-      decreases: "With stroke volume unchanged, a higher heart rate raises rather than lowers the product.",
-      unchanged: "This would only follow if another factor changed enough to offset the higher heart rate; the question holds stroke volume constant.",
-      unrelated: "Heart rate is one of the two factors in the basic cardiac-output relationship.",
-    },
-  },
-  {
-    id: "resistance-selection",
-    objective: "antimicrobial-selection",
-    course: "clinical",
-    topic: "Clinical reasoning · Microbiology",
-    prompt: "A bacterial population contains a few organisms with a heritable trait that reduces susceptibility to an antimicrobial. After exposure, the susceptible organisms decline while the trait-bearing organisms become more common. What best explains this change?",
-    options: [
-      ["patient-adapts", "The patient's body became resistant to the antimicrobial"],
-      ["selection", "Exposure selected for organisms with the heritable trait"],
-      ["bacteria-intended", "The bacteria intentionally changed to survive"],
-      ["no-change", "The antimicrobial created no change in the population"],
-    ],
-    answer: "selection",
-    explanation: "Resistance is a property of microorganisms. Exposure can select for pre-existing or newly arising heritable traits that allow some organisms to survive and reproduce.",
-    rationales: {
-      "patient-adapts": "The organisms—not the patient—are described as having reduced susceptibility.",
-      "bacteria-intended": "Natural selection does not require organisms to intentionally change; heritable variation and differential survival are sufficient.",
-      "no-change": "The scenario describes a change in the population's composition after exposure.",
-    },
-  },
-  {
-    id: "evidence-interpretation",
-    objective: "association-causation",
-    course: "evidence",
-    topic: "Evidence & study skills · Research",
-    prompt: "A study reports an association between two variables. Which conclusion is most appropriately supported by that statement alone?",
-    options: [
-      ["causation", "One variable caused the other"],
-      ["association", "The variables were observed to vary together in this study"],
-      ["universal", "The relationship will occur in every population"],
-      ["no-uncertainty", "The result is free from uncertainty"],
-    ],
-    answer: "association",
-    explanation: "An observed association does not, by itself, establish causation, universal generalizability, or certainty. Study design and other evidence matter.",
-    rationales: {
-      causation: "Association alone does not establish a causal relationship.",
-      universal: "A study's findings may not generalize to every population or setting.",
-      "no-uncertainty": "Research estimates have uncertainty, and study limitations should be considered.",
-    },
-  },
-  {
-    id: "first-pass-route-case",
-    objective: "first-pass-metabolism",
-    course: "pharm",
-    topic: "Pharmacology · Absorption",
-    prompt: "A medication is absorbed through the oral mucosa directly into systemic venous blood. Which process is it most likely to avoid on its initial passage?",
-    options: [
-      ["renal-excretion", "Renal excretion"],
-      ["first-pass", "Hepatic first-pass metabolism"],
-      ["protein-binding", "Plasma protein binding"],
-      ["distribution", "Distribution into tissues"],
-    ],
-    answer: "first-pass",
-    explanation: "Absorption through the oral mucosa into systemic circulation avoids initial portal delivery to the liver, and therefore avoids hepatic first-pass metabolism on that initial passage.",
-    rationales: {
-      "renal-excretion": "Renal excretion occurs later and is not the process asked about.",
-      "protein-binding": "The route does not eliminate binding to plasma proteins.",
-      distribution: "The drug may still distribute into tissues after reaching systemic circulation.",
-    },
-  },
-  {
-    id: "glomerular-filtration-case",
-    objective: "glomerular-filtration",
-    course: "physiology",
-    topic: "Physiology · Renal",
-    prompt: "Fluid filtered from glomerular capillaries first enters which space before moving into the proximal tubule?",
-    options: [
-      ["bowmans-space", "Bowman's space"],
-      ["renal-pelvis", "Renal pelvis"],
-      ["distal-tubule", "Distal convoluted tubule"],
-      ["collecting-duct", "Collecting duct"],
-    ],
-    answer: "bowmans-space",
-    explanation: "Filtrate crosses the glomerular filtration barrier into Bowman's space, which is continuous with the proximal tubule.",
-    rationales: {
-      "renal-pelvis": "The renal pelvis receives urine much later, after it passes through the collecting system.",
-      "distal-tubule": "The distal tubule is downstream from the proximal tubule.",
-      "collecting-duct": "The collecting duct receives tubular fluid after it has passed through earlier nephron segments.",
-    },
-  },
-  {
-    id: "neuron-depolarization-case",
-    objective: "neuronal-depolarization",
-    course: "physiology",
-    topic: "Physiology · Neurobiology",
-    prompt: "A neuronal membrane reaches threshold and its voltage rapidly becomes less negative. Which change most directly initiates this rising phase?",
-    options: [
-      ["sodium-open", "Voltage-gated sodium channels open, allowing sodium influx"],
-      ["potassium-open", "Voltage-gated potassium channels open, driving potassium influx"],
-      ["pump-fast", "The sodium-potassium pump rapidly reverses direction"],
-      ["chloride-in", "Chloride enters through voltage-gated channels"],
-    ],
-    answer: "sodium-open",
-    explanation: "At threshold, voltage-gated sodium channels open and sodium influx drives the rapid depolarizing upstroke.",
-    rationales: {
-      "potassium-open": "Potassium movement is mainly associated with later repolarization, and potassium typically exits the cell.",
-      "pump-fast": "The sodium-potassium pump maintains concentration gradients but does not produce the rapid upstroke.",
-      "chloride-in": "Chloride influx is not the usual mechanism for the rising phase of a neuronal action potential.",
-    },
-  },
-  {
-    id: "cardiac-output-case",
-    objective: "cardiac-output",
-    course: "clinical",
-    topic: "Clinical reasoning · Cardiovascular",
-    prompt: "A person has a heart rate of 75 beats per minute and a stroke volume of 70 mL per beat. What is the cardiac output?",
-    options: [
-      ["145", "145 mL/min"],
-      ["5250", "5,250 mL/min"],
-      ["70", "70 mL/min"],
-      ["750", "750 mL/min"],
-    ],
-    answer: "5250",
-    explanation: "Cardiac output is heart rate multiplied by stroke volume: 75 beats/min × 70 mL/beat = 5,250 mL/min.",
-    rationales: {
-      "145": "Adding heart rate and stroke volume does not calculate cardiac output.",
-      "70": "This is the stroke volume, not the volume pumped each minute.",
-      "750": "This result does not follow from multiplying the provided heart rate by stroke volume.",
-    },
-  },
-  {
-    id: "resistance-selection-case",
-    objective: "antimicrobial-selection",
-    course: "clinical",
-    topic: "Clinical reasoning · Microbiology",
-    prompt: "After an antimicrobial exposure, a population has a larger proportion of organisms carrying a resistance trait that was already present in some members. What is the best explanation?",
-    options: [
-      ["selection-pressure", "Susceptible organisms were reduced, changing the population proportions"],
-      ["patient-resistance", "The patient acquired resistance to the antimicrobial"],
-      ["directed-change", "All bacteria intentionally changed in response to exposure"],
-      ["no-selection", "The relative frequency of traits cannot change after exposure"],
-    ],
-    answer: "selection-pressure",
-    explanation: "Differential survival and reproduction can increase the proportion of organisms with a heritable resistance trait; this is selection, not an intentional change by individual bacteria.",
-    rationales: {
-      "patient-resistance": "The described trait belongs to the microorganisms, not the patient.",
-      "directed-change": "Selection acts on heritable variation; it does not require intentional change.",
-      "no-selection": "The scenario describes a change in the population's composition.",
-    },
-  },
-  {
-    id: "evidence-interpretation-case",
-    objective: "association-causation",
-    course: "evidence",
-    topic: "Evidence & study skills · Research",
-    prompt: "In an observational study, higher levels of a biomarker are associated with a condition. Which interpretation is best supported by that finding alone?",
-    options: [
-      ["proves-cause", "The biomarker causes the condition"],
-      ["observed-link", "The biomarker and condition varied together in the study"],
-      ["always-true", "The relationship must hold in every population"],
-      ["no-confounding", "Confounding has been ruled out"],
-    ],
-    answer: "observed-link",
-    explanation: "An observed association describes a relationship in the study. On its own, it does not establish causation, rule out confounding, or prove that the finding generalizes.",
-    rationales: {
-      "proves-cause": "An observational association alone does not establish causation.",
-      "always-true": "Study findings may not generalize to every population or setting.",
-      "no-confounding": "The association alone does not establish that confounding was ruled out.",
-    },
-  },
-  {
-    id: "insulin-hypoglycemia",
-    objective: "hypoglycemia-mechanism",
-    course: "clinical",
-    topic: "Clinical reasoning · Endocrinology",
-    prompt: "A patient with diabetes develops sweating, tremor, and confusion soon after an insulin dose. Which complication is most likely?",
-    options: [["hyperglycemia", "Hyperglycemia"], ["hypoglycemia", "Hypoglycemia"], ["ketoacidosis", "Diabetic ketoacidosis"], ["addisonian-crisis", "Addisonian crisis"]],
-    answer: "hypoglycemia",
-    explanation: "Adrenergic and neuroglycopenic symptoms shortly after insulin administration suggest hypoglycemia.",
-    rationales: { hyperglycemia: "Hyperglycemia generally develops more slowly and does not best explain these acute autonomic symptoms.", ketoacidosis: "Ketoacidosis has features such vomiting, dehydration, and deep breathing.", "addisonian-crisis": "Adrenal crisis is not the direct link to recent insulin administration." },
-  },
-  {
-    id: "community-pneumonia",
-    objective: "community-pneumonia",
-    course: "clinical",
-    topic: "Clinical reasoning · Respiratory",
-    prompt: "A previously healthy adult develops acute cough, fever, pleuritic chest pain, and lobar consolidation. What is the most likely diagnosis?",
-    options: [["asthma", "Asthma"], ["viral-bronchitis", "Viral bronchitis"], ["community-pneumonia", "Community-acquired pneumonia"], ["pneumothorax", "Pneumothorax"]],
-    answer: "community-pneumonia",
-    explanation: "Acute fever, cough, pleuritic pain, and lobar consolidation are typical of community-acquired pneumonia.",
-    rationales: { asthma: "Asthma mainly causes episodic airflow obstruction and wheezing.", "viral-bronchitis": "Bronchitis does not usually produce lobar consolidation.", pneumothorax: "Pneumothorax more often causes sudden pleuritic pain and absent breath sounds." },
-  },
-  {
-    id: "tb-airborne",
-    objective: "tb-transmission",
-    course: "clinical",
-    topic: "Clinical reasoning · Infectious diseases",
-    prompt: "Which precaution is required for a patient with suspected pulmonary tuberculosis in an acute-care facility?",
-    options: [["contact", "Standard contact precautions"], ["airborne", "Airborne infection precautions"], ["droplet", "Droplet precautions without a respirator"], ["reverse", "Reverse isolation"]],
-    answer: "airborne",
-    explanation: "Pulmonary tuberculosis is transmitted by airborne droplet nuclei, requiring respiratory isolation and appropriate respiratory protection.",
-    rationales: { contact: "Contact precautions address direct or indirect transfer of organisms.", droplet: "Routine droplet precautions do not adequately address airborne transmission.", reverse: "Reverse isolation protects an immunocompromised patient from others." },
-  },
-  {
-    id: "malaria-plasmodium",
-    objective: "malaria-diagnosis",
-    course: "clinical",
-    topic: "Clinical reasoning · Infectious diseases",
-    prompt: "A febrile traveller from a malaria-endemic area has cyclic fever and anaemia. Which investigation is most useful for rapid initial confirmation?",
-    options: [["blood-culture", "Blood culture"], ["malaria-film", "Blood film or rapid malaria antigen test"], ["urinalysis", "Urinalysis"], ["chest-xray", "Chest radiograph"]],
-    answer: "malaria-film",
-    explanation: "Malaria is confirmed from a thick and thin blood film or a validated rapid diagnostic antigen test.",
-    rationales: { "blood-culture": "Blood culture is not the specific primary test for malaria parasites.", urinalysis: "Urinalysis may identify urinary disease but cannot confirm malaria.", "chest-xray": "Chest radiography is not the primary malaria diagnostic test." },
-  },
-  {
-    id: "blood-pressure",
-    objective: "cardiovascular-calculation",
-    course: "clinical",
-    topic: "Clinical reasoning · Cardiovascular",
-    prompt: "Which blood-pressure measurement is read when the last Korotkoff sound disappears during cuff deflation?",
-    options: [["systolic", "Systolic pressure"], ["diastolic", "Diastolic pressure"], ["pulse-pressure", "Pulse pressure"], ["map", "Mean arterial pressure"]],
-    answer: "diastolic",
-    explanation: "In auscultatory blood-pressure measurement, disappearance of the Korotkoff sounds is used to identify diastolic pressure.",
-    rationales: { systolic: "Systolic pressure is the point at which the first Korotkoff sound appears.", "pulse-pressure": "Pulse pressure is systolic minus diastolic pressure.", map: "Mean arterial pressure is calculated from systolic and diastolic values." },
-  },
-  {
-    id: "shock-skin",
-    objective: "shock-classification",
-    course: "clinical",
-    topic: "Clinical reasoning · Shock",
-    prompt: "A patient has hypotension, tachycardia, cold clammy skin, and low urine output after substantial haemorrhage. What type of shock is most likely?",
-    options: [["septic", "Distributive septic shock"], ["cardiogenic", "Cardiogenic shock"], ["hypovolaemic", "Hypovolaemic shock"], ["anaphylactic", "Anaphylactic shock"]],
-    answer: "hypovolaemic",
-    explanation: "Substantial blood loss reduces circulating volume, producing hypovolaemic shock with poor tissue perfusion.",
-    rationales: { septic: "Septic shock often features vasodilation and warm skin in early states.", cardiogenic: "Cardiogenic shock follows pump failure rather than a described haemorrhage.", anaphylactic: "Anaphylaxis follows an allergic exposure and is associated with mediator-induced vasodilation." },
-  },
-  {
-    id: "abg-acidosis",
-    objective: "acid-base",
-    course: "physiology",
-    topic: "Physiology · Acid-base",
-    prompt: "An arterial blood-gas result shows low pH and low bicarbonate. What primary disturbance is present?",
-    options: [["metabolic-acidosis", "Metabolic acidosis"], ["metabolic-alkalosis", "Metabolic alkalosis"], ["respiratory-acidosis", "Respiratory acidosis"], ["mixed-alkalosis", "Mixed respiratory and metabolic alkalosis"]],
-    answer: "metabolic-acidosis",
-    explanation: "A low pH with reduced bicarbonate indicates metabolic acidosis.",
-    rationales: { "metabolic-alkalosis": "Metabolic alkalosis is associated with high bicarbonate and elevated pH.", "respiratory-acidosis": "Primary respiratory acidosis is mainly identified by elevated carbon dioxide.", "mixed-alkalosis": "The pH and bicarbonate direction are incompatible with a simple description of mixed alkalosis." },
-  },
-  {
-    id: "aldosterone",
-    objective: "electrolyte-regulation",
-    course: "physiology",
-    topic: "Physiology · Endocrine",
-    prompt: "Aldosterone primarily promotes the reabsorption of which ion in the distal nephron?",
-    options: [["potassium", "Potassium"], ["calcium", "Calcium"], ["sodium", "Sodium"], ["hydrogen", "Hydrogen"]],
-    answer: "sodium",
-    explanation: "Aldosterone stimulates sodium reabsorption and potassium secretion in distal nephron segments.",
-    rationales: { potassium: "Aldosterone increases potassium secretion rather than promoting sodium-like reabsorption.", calcium: "Calcium handling is regulated by other hormones and nephron segments.", hydrogen: "Hydrogen secretion occurs in acid-base regulation and is not aldosterone's primary action." },
-  },
-  {
-    id: "anaphylaxis-airway",
-    objective: "emergency-priority",
-    course: "clinical",
-    topic: "Clinical reasoning · Emergency care",
-    prompt: "A patient develops wheeze, stridor, hypotension, and widespread urticaria after an injection. What is the immediate priority?",
-    options: [["oral-antihistamine", "Give an oral antihistamine"], ["airway-adrenaline", "Secure the airway and give intramuscular adrenaline promptly"], ["await-labs", "Wait for laboratory results"], ["supine-rest", "Keep the patient still and reassess in an hour"]],
-    answer: "airway-adrenaline",
-    explanation: "Anaphylaxis is a rapidly progressive emergency: airway assessment and prompt intramuscular adrenaline are priorities.",
-    rationales: { "oral-antihistamine": "An oral antihistamine is not sufficient treatment for severe airway or cardiovascular anaphylaxis.", "await-labs": "Waiting for laboratory confirmation delays life-saving treatment.", "supine-rest": "The patient needs active emergency management rather than observation alone." },
-  },
-  {
-    id: "cbc-anaemia",
-    objective: "anaemia-workup",
-    course: "clinical",
-    topic: "Clinical reasoning · Haematology",
-    prompt: "A patient has low haemoglobin and microcytosis. Which investigation is most useful to narrow the cause?",
-    options: [["fbc-only", "Repeat haemoglobin only"], ["iron-studies", "Serum ferritin and iron studies"], ["liver-biopsy", "Liver biopsy"], ["cardiac-echo", "Cardiac echocardiogram"]],
-    answer: "iron-studies",
-    explanation: "Microcytosis often raises suspicion for iron deficiency or thalassaemia; iron studies help distinguish some causes.",
-    rationales: { "fbc-only": "Repeating haemoglobin alone does not explain the cause of microcytosis.", "liver-biopsy": "Liver biopsy is not a first-line investigation for uncomplicated microcytic anaemia.", "cardiac-echo": "Echocardiography may assess complications but does not define the red-cell disorder." },
-  },
-  {
-    id: "pe-dvt",
-    objective: "venous-thromboembolism",
-    course: "clinical",
-    topic: "Clinical reasoning · Respiratory",
-    prompt: "A post-operative patient develops sudden pleuritic chest pain and breathlessness. What diagnosis must be considered urgently?",
-    options: [["pulmonary-embolism", "Pulmonary embolism"], ["pneumonia", "Community-acquired pneumonia"], ["migraine", "Migraine"], ["constipation", "Constipation"]],
-    answer: "pulmonary-embolism",
-    explanation: "Recent surgery, sudden pleuritic pain, and breathlessness raise concern for pulmonary embolism.",
-    rationales: { pneumonia: "Pneumonia more commonly has fever and a productive or persistent cough.", migraine: "Migraine does not explain acute pleuritic pain and breathlessness.", constipation: "Constipation does not explain acute cardiopulmonary symptoms." },
-  },
-  {
-    id: "mi-ecg",
-    objective: "acute-coronary-syndrome",
-    course: "clinical",
-    topic: "Clinical reasoning · Cardiovascular",
-    prompt: "A patient with central crushing chest pain has persistent ST-segment elevation on ECG. What condition should be suspected?",
-    options: [["nstemi", "Non-ST-elevation acute coronary syndrome"], ["stemi", "ST-elevation myocardial infarction"], ["pericarditis", "Pericarditis only"], ["gastritis", "Gastritis only"]],
-    answer: "stemi",
-    explanation: "Persistent ST elevation with an acute ischaemic syndrome is concerning for ST-elevation myocardial infarction.",
-    rationales: { nstemi: "NSTEMI does not produce the described persistent ST elevation.", pericarditis: "Pericarditis can cause ECG changes, but the acute coronary pattern requires urgent exclusion.", gastritis: "Gastritis cannot be assumed when ECG and symptoms suggest acute myocardial ischaemia." },
-  },
-  {
-    id: "copd-exacerbation",
-    objective: "obstructive-lung-disease",
-    course: "clinical",
-    topic: "Clinical reasoning · Respiratory",
-    prompt: "A patient with COPD develops worsening dyspnoea and sputum purulence. Which intervention is a common part of acute management?",
-    options: [["bronchodilator", "Nebulised bronchodilator and systemic corticosteroid"], ["insulin", "Insulin infusion"], ["diuretic-only", "Furosemide without oxygen assessment"], ["bed-rest-only", "Strict bed rest only"]],
-    answer: "bronchodilator",
-    explanation: "COPD exacerbations are commonly managed with inhaled bronchodilators and corticosteroids, with antibiotics or oxygen where indicated.",
-    rationales: { insulin: "Insulin does not treat the primary obstructive lung process.", "diuretic-only": "Diuresis alone does not address bronchospasm and cannot replace assessment.", "bed-rest-only": "Bed rest alone omits the central treatments for acute bronchospasm." },
-  },
-  {
-    id: "renal-creatinine",
-    objective: "renal-function",
-    course: "clinical",
-    topic: "Clinical reasoning · Renal",
-    prompt: "Which measurement is commonly used with age, sex, and body size to estimate glomerular filtration rate?",
-    options: [["creatinine", "Serum creatinine"], ["albumin", "Serum albumin"], ["bilirubin", "Serum bilirubin"], ["glucose", "Blood glucose"]],
-    answer: "creatinine",
-    explanation: "Creatinine-based estimated GFR equations use serum creatinine together with patient factors.",
-    rationales: { albumin: "Albumin may indicate nutrition or liver disease but is not the standard GFR marker.", bilirubin: "Bilirubin reflects liver and haemoglobin metabolism.", glucose: "Glucose reflects metabolic control rather than GFR." },
-  },
-  {
-    id: "loop-diuretic",
-    objective: "diuretic-site",
-    course: "pharm",
-    topic: "Pharmacology · Renal",
-    prompt: "A loop diuretic acts most directly at which nephron site?",
-    options: [["pct", "Proximal convoluted tubule"], ["thick-ascending", "Thick ascending limb of the loop of Henle"], ["collecting-duct", "Collecting duct"], ["glomerulus", "Glomerular capillary"]],
-    answer: "thick-ascending",
-    explanation: "Loop diuretics inhibit sodium-potassium-chloride cotransport in the thick ascending limb.",
-    rationales: { pct: "The proximal tubule is affected by other nephron transport processes.", "collecting-duct": "Collecting-duct diuretic effects are characteristic of potassium-sparing agents.", glomerulus: "Loop diuretics do not act primarily at the filtration barrier." },
-  },
-  {
-    id: "beta-blocker",
-    objective: "receptor-pharmacology",
-    course: "pharm",
-    topic: "Pharmacology · Autonomic",
-    prompt: "A beta-blocker reduces heart rate primarily by blocking which receptor?",
-    options: [["beta1", "Beta-1 adrenergic receptor"], ["alpha1", "Alpha-1 adrenergic receptor"], ["muscarinic", "Muscarinic acetylcholine receptor"], ["histamine1", "Histamine H1 receptor"]],
-    answer: "beta1",
-    explanation: "Cardiac beta-1 adrenergic receptor blockade reduces heart rate and contractility.",
-    rationales: { alpha1: "Alpha-1 blockade mainly affects vascular smooth muscle tone.", muscarinic: "Muscarinic blockade can increase heart rate rather than cause beta-blocker effects.", histamine1: "H1 receptors are involved in histamine-mediated allergic responses." },
-  },
-  {
-    id: "hepatic-activation",
-    objective: "drug-metabolism",
-    course: "pharm",
-    topic: "Pharmacology · Metabolism",
-    prompt: "A drug given in an inactive form is converted by metabolism into an active compound. It is called a:",
-    options: [["agonist", "Direct agonist"], ["prodrug", "Prodrug"], ["antagonist", "Competitive antagonist"], ["placebo", "Placebo"]],
-    answer: "prodrug",
-    explanation: "A prodrug is administered in inactive or less active form and requires conversion to its active metabolite.",
-    rationales: { agonist: "An agonist activates a receptor directly; this is distinct from metabolic activation.", antagonist: "An antagonist blocks receptor activity.", placebo: "A placebo is an inactive treatment designed for comparison." },
-  },
-  {
-    id: "antibiotic-spectrum",
-    objective: "antibiotic-selection",
-    course: "clinical",
-    topic: "Clinical reasoning · Microbiology",
-    prompt: "Before starting broad-spectrum antibiotics in suspected sepsis, what is the preferred microbiology step if it will not delay urgent treatment?",
-    options: [["blood-cultures", "Obtain appropriate cultures"], ["xray-only", "Obtain only a chest X-ray"], ["no-specimen", "Do not obtain specimens"], ["same-drug", "Choose a drug regardless of suspected source"]],
-    answer: "blood-cultures",
-    explanation: "Appropriate cultures, including blood cultures when indicated, should be obtained before antibiotics when this is feasible without delaying treatment.",
-    rationales: { "xray-only": "Imaging may help but does not replace microbiological sampling.", "no-specimen": "Microbiological specimens provide source and susceptibility information.", "same-drug": "Source-directed assessment improves appropriate empiric therapy." },
-  },
-  {
-    id: "infection-chain",
-    objective: "infection-prevention",
-    course: "clinical",
-    topic: "Clinical reasoning · Infection control",
-    prompt: "The most effective single measure for preventing many healthcare-associated infections is:",
-    options: [["hand-hygiene", "Hand hygiene"], ["glove-use", "Glove use alone"], ["routine-antibiotics", "Routine prophylactic antibiotics"], ["gown-use", "Gown use alone"]],
-    answer: "hand-hygiene",
-    explanation: "Hand hygiene between patient and environmental contacts substantially reduces transmission.",
-    rationales: { "glove-use": "Gloves supplement but do not replace hand hygiene.", "routine-antibiotics": "Routine prophylactic antibiotics promote resistance and are not a general infection-control measure.", "gown-use": "Gowns protect against some contamination but do not replace hand hygiene." },
-  },
-  {
-    id: "confidence-interval",
-    objective: "evidence-uncertainty",
-    course: "evidence",
-    topic: "Evidence & study skills · Statistics",
-    prompt: "A 95% confidence interval is primarily a measure of:",
-    options: [["precision", "Sampling uncertainty around an estimate"], ["causation", "Proof of cause and effect"], ["individual-risk", "Risk for one specific patient"], ["bias-free", "Complete freedom from bias"]],
-    answer: "precision",
-    explanation: "A confidence interval reflects the range of estimates compatible with the observed data under the assumed model.",
-    rationales: { causation: "Causation depends on study design and evidence, not confidence intervals alone.", "individual-risk": "A population estimate cannot by itself define certainty for an individual.", "bias-free": "Confidence intervals do not remove systematic error or bias." },
-  },
-];
+const questions = window.OpenPharmacyQuestions;
 
 const courses = [
   {
     key: "pharm",
-    title: "Foundations of pharmacology",
-    description: "Core mechanisms and foundational principles.",
+    title: "Pharmacy sciences",
+    description: "Pharmacology, pharmaceutics, medicinal chemistry, and natural products.",
     category: "CORE CONCEPTS",
     art: "pharm",
     symbol: "⌁",
   },
   {
     key: "physiology",
-    title: "Human physiology",
-    description: "Connect normal function with core mechanisms.",
+    title: "Biochemistry",
+    description: "Core biochemical pathways and molecular foundations.",
     category: "FOUNDATIONS",
     art: "calcs",
     symbol: "∿",
   },
   {
     key: "clinical",
-    title: "Clinical reasoning",
-    description: "Interpret concepts and explain your thinking.",
+    title: "Pathophysiology & therapeutics",
+    description: "Disease concepts and foundational treatment choices.",
     category: "CASE THINKING",
     art: "care",
     symbol: "✳",
   },
   {
     key: "evidence",
-    title: "Evidence & study skills",
-    description: "Read claims carefully and learn from feedback.",
-    category: "TRANSFERABLE",
+    title: "Pharmacy practice",
+    description: "Medication safety, prescription checks, and patient counselling.",
+    category: "PROFESSIONAL SKILLS",
     art: "evidence",
     symbol: "∴",
   },
-];
-
-const boardPapers = [
-  { year: "2025", status: "Latest", questions: 32, duration: 120 },
-  { year: "2024", status: "Past paper", questions: 32, duration: 120 },
-  { year: "2023", status: "Past paper", questions: 32, duration: 120 },
-  { year: "2022", status: "Past paper", questions: 32, duration: 120 },
-  { year: "2021", status: "Past paper", questions: 32, duration: 120 },
-  { year: "2020", status: "Past paper", questions: 32, duration: 120 },
-  { year: "2019", status: "Past paper", questions: 32, duration: 120 },
-  { year: "2018", status: "Past paper", questions: 32, duration: 120 },
 ];
 
 const STORAGE_KEY = "dosepath-study-state-v2";
@@ -536,7 +64,6 @@ let currentQuestion = null;
 let answered = false;
 let toastTimer;
 let sessionMode = "focused";
-let boardYear = null;
 let examDeadline = null;
 let examTimer = null;
 
@@ -587,9 +114,10 @@ function getLastAttempt(questionId) {
 function getDueQuestions(now = Date.now()) {
   return Object.values(state.reviews)
     .filter((review) => review && new Date(review.dueAt).getTime() <= now)
-    .map((review) => questions.find((question) =>
-      question.objective === review.objective && question.id !== review.lastQuestionId,
-    ))
+    .map((review) => {
+      const relatedQuestions = questions.filter((question) => question.objective === review.objective);
+      return relatedQuestions.find((question) => question.id !== review.lastQuestionId) || relatedQuestions[0];
+    })
     .filter(Boolean);
 }
 
@@ -610,6 +138,11 @@ function getWeakQuestionOrder(source = questions) {
     seenObjectives.add(question.objective);
     return true;
   });
+}
+
+function getUnansweredQuestions(source = questions) {
+  const completedIds = new Set(state.attempts.map((attempt) => attempt.questionId));
+  return source.filter((question) => !completedIds.has(question.id));
 }
 
 function renderCourses(query = "") {
@@ -651,19 +184,20 @@ function renderCourses(query = "") {
 function renderBoardExams() {
   const examGrid = document.querySelector("#exam-grid");
   if (!examGrid) return;
-  examGrid.innerHTML = boardPapers.map((paper) => `
+  const remaining = getUnansweredQuestions().length;
+  examGrid.innerHTML = `
     <article class="exam-card">
       <div class="exam-card-top">
-        <strong class="exam-year">${paper.year}</strong>
-        <span class="exam-status">${paper.status}</span>
+        <strong class="exam-year">Open bank</strong>
+        <span class="exam-status">MIT LICENSED</span>
       </div>
-      <p>National board-style practice paper with one continuous exam experience.</p>
-      <div class="exam-card-meta"><span>${paper.questions} questions</span><span>${paper.duration} min</span></div>
-      <button class="button button-soft" type="button" data-start-board-exam data-board-year="${paper.year}">
-        Start paper <span>→</span>
-      </button>
+      <p>General pharmacy revision questions from the attributed open question bank.</p>
+      <div class="exam-card-meta"><span>${remaining} of ${questions.length} unseen</span><span>90 min</span></div>
+      ${remaining
+        ? `<button class="button button-soft" type="button" data-start-board-exam>Start unseen questions <span>→</span></button>`
+        : `<button class="button button-soft" type="button" data-reset-open-bank>Reset this bank</button>`}
     </article>
-  `).join("");
+  `;
 }
 
 function currentStreak() {
@@ -735,6 +269,7 @@ function renderDashboard() {
     ? `Review due concepts <span>→</span>`
     : `Start focused practice <span>→</span>`;
   renderCourses(searchInput.value);
+  renderBoardExams();
   window.MedQuoraWidget?.postMessage(JSON.stringify({
     due: dueCount,
     streak,
@@ -747,10 +282,10 @@ function renderDashboard() {
 function renderQuestion() {
   const question = currentQuestion;
   document.querySelector("#question-count").textContent = sessionMode === "board"
-    ? `${boardYear || "MIXED"} · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")}`
+    ? `OPEN BANK · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")}`
     : `${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")}`;
   document.querySelector("#question-topic").textContent = sessionMode === "board"
-    ? `National Board Exam · ${question.topic}`
+    ? `Open pharmacy practice · ${question.topic}`
     : question.topic;
   document.querySelector("#question-prompt").textContent = question.prompt;
   answerOptions.innerHTML = `
@@ -777,7 +312,6 @@ function resetQuestion() {
   const remediationHint = document.querySelector("#remediation-hint");
   remediationHint.hidden = true;
   remediationHint.textContent = "";
-  confidenceFieldset.disabled = false;
   submitAnswer.disabled = false;
   submitAnswer.innerHTML = `Check answer <span>→</span>`;
   submitAnswer.classList.remove("finish-session");
@@ -796,7 +330,7 @@ function updateExamTimer() {
   const minutes = Math.floor(remaining / 60000);
   const seconds = Math.floor((remaining % 60000) / 1000);
   document.querySelector("#question-count").textContent =
-    `${boardYear || "MIXED"} · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")} · ${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+    `OPEN BANK · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")} · ${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
   if (remaining === 0) {
     clearInterval(examTimer);
     practiceDialog.close("time-expired");
@@ -804,31 +338,27 @@ function updateExamTimer() {
   }
 }
 
-function startSession(mode = "focused", courseKey = null, year = null) {
+function startSession(mode = "focused", courseKey = null) {
   sessionMode = mode;
-  boardYear = mode === "board" ? (year || "MIXED") : null;
   clearInterval(examTimer);
-  let candidates = courseKey
+  const allCandidates = courseKey
     ? questions.filter((question) => question.course === courseKey)
-    : mode === "due"
-      ? getDueQuestions()
-      : mode === "board"
-        ? questions
-        : questions;
+    : questions;
+  let candidates = mode === "due"
+    ? getDueQuestions()
+    : getUnansweredQuestions(allCandidates);
 
   if (mode === "due" && candidates.length === 0) {
     showToast("Nothing is due yet. Starting a fresh practice session.");
-    candidates = questions;
+    candidates = getUnansweredQuestions(questions);
   }
   if (!candidates.length) {
-    showToast("No questions are available in this learning path yet.");
+    showToast("You have answered every available question in this bank. Reset the open bank to start again.");
     return;
   }
   if (mode === "board") {
-    const paperIndex = boardPapers.findIndex((paper) => paper.year === year);
-    const seed = paperIndex < 0 ? 0 : paperIndex % candidates.length;
-    sessionQueue = [...candidates.slice(seed), ...candidates.slice(0, seed)].slice(0, Math.min(32, candidates.length));
-    examDeadline = Date.now() + 120 * 60 * 1000;
+    sessionQueue = getWeakQuestionOrder(candidates);
+    examDeadline = Date.now() + 90 * 60 * 1000;
     examTimer = setInterval(updateExamTimer, 1000);
   } else {
     sessionQueue = getWeakQuestionOrder(candidates).slice(0, Math.min(5, candidates.length));
@@ -947,12 +477,11 @@ function finishCurrentQuestion() {
   practiceDialog.close("complete");
   clearInterval(examTimer);
   showToast(sessionMode === "board"
-    ? `Past-paper simulation complete: ${savedCorrect} of ${sessionQueue.length} correct.`
+    ? `Open-bank test complete: ${savedCorrect} of ${sessionQueue.length} correct.`
     : `Session saved: ${savedCorrect} of ${sessionQueue.length} correct. Your next reviews are scheduled.`);
 }
 
 renderCourses();
-renderBoardExams();
 studyRegion.value = state.region;
 studyRegion.addEventListener("change", () => {
   state.region = studyRegion.value;
@@ -985,11 +514,25 @@ browsePathsButton.addEventListener("click", (event) => {
 });
 
 document.addEventListener("click", (event) => {
+  const resetBankButton = event.target.closest("[data-reset-open-bank]");
+  if (resetBankButton) {
+    if (!window.confirm("Reset this bank's attempts and reviews so you can answer these questions again?")) return;
+    const bankQuestionIds = new Set(questions.map((question) => question.id));
+    const bankObjectives = new Set(questions.map((question) => question.objective));
+    state.attempts = state.attempts.filter((attempt) => !bankQuestionIds.has(attempt.questionId));
+    state.reviews = Object.fromEntries(
+      Object.entries(state.reviews).filter(([objective]) => !bankObjectives.has(objective)),
+    );
+    saveState();
+    renderDashboard();
+    showToast("Open question bank reset. All questions are available again.");
+    return;
+  }
+
   const boardTrigger = event.target.closest("[data-start-board-exam]");
   if (boardTrigger) {
     event.preventDefault();
-    const year = boardTrigger.dataset.boardYear === "mixed" ? null : boardTrigger.dataset.boardYear;
-    startSession("board", null, year);
+    startSession("board");
     setActiveNavigation("board-exams");
     closeSidebar();
     return;
