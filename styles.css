@@ -77,6 +77,7 @@ svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width:
 .breadcrumbs i { color: #c3c9cc; font-style: normal; }
 .breadcrumbs strong { color: #536169; }
 .topbar-tools { display: flex; align-items: center; gap: 17px; }
+.version-badge { padding: 5px 7px; border-radius: 6px; background: #edf5f3; color: #4f7e77; font-size: 8px; font-weight: 800; letter-spacing: .3px; }
 .search-box { display: flex; align-items: center; gap: 8px; width: 210px; height: 34px; padding: 0 8px 0 10px; border: 1px solid #e8edef; border-radius: 9px; background: #fbfcfc; color: #8a969c; }
 .search-box svg { width: 15px; height: 15px; }
 .search-box input { width: 100%; min-width: 0; border: 0; outline: 0; background: transparent; color: var(--ink); font-size: 10px; }
@@ -173,6 +174,18 @@ h2 { margin-bottom: 0; color: #223941; font-size: 17px; font-weight: 700; letter
 .practice-banner h2 { margin: 9px 0 7px; color: #fff; font-size: 22px; line-height: 1.12; letter-spacing: -.7px; }
 .practice-banner p { margin: 0 0 14px; color: #d2e3dd; font-size: 9px; }
 .practice-decoration { position: absolute; top: 0; right: 5%; display: grid; width: 240px; height: 100%; place-items: center; color: #fff; }
+.board-exams-panel { grid-column: 1 / -1; padding: 21px 20px 19px; }
+.board-exams-heading { align-items: end; }
+.board-exam-intro { max-width: 860px; margin: -5px 0 16px; color: #829096; font-size: 10px; line-height: 1.65; }
+.exam-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 11px; }
+.exam-card { min-width: 0; padding: 13px; border: 1px solid #e8edef; border-radius: 11px; background: #fbfcfc; }
+.exam-card-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 11px; }
+.exam-year { color: #31494f; font-size: 17px; font-weight: 800; letter-spacing: -.5px; }
+.exam-status { padding: 4px 6px; border-radius: 5px; background: #edf5f3; color: #5a8881; font-size: 7px; font-weight: 800; }
+.exam-card p { min-height: 28px; margin: 0 0 11px; color: #8a969b; font-size: 8px; line-height: 1.55; }
+.exam-card-meta { display: flex; gap: 12px; margin-bottom: 11px; color: #74858a; font-size: 8px; }
+.exam-card button { width: 100%; min-height: 34px; }
+.exam-disclaimer { margin: 14px 0 0; color: #9aa4a8; font-size: 8px; line-height: 1.5; }
 .question-tile { position: relative; display: flex; width: 105px; height: 116px; align-items: center; justify-content: center; transform: rotate(7deg); border: 1px solid rgb(255 255 255 / 25%); border-radius: 15px; background: linear-gradient(145deg, rgb(255 255 255 / 20%), rgb(255 255 255 / 7%)); box-shadow: 0 17px 35px rgb(7 42 39 / 17%); }
 .question-tile span { color: rgb(255 255 255 / 88%); font-size: 49px; font-weight: 800; }
 .question-tile i { position: absolute; top: 10px; right: 10px; color: #c5e1d8; font-size: 8px; font-style: normal; font-weight: 800; }
@@ -221,6 +234,7 @@ h2 { margin-bottom: 0; color: #223941; font-size: 17px; font-weight: 700; letter
   main { padding-right: 25px; padding-left: 25px; }
   .stats-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .course-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .exam-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
 @media (max-width: 760px) {
@@ -245,6 +259,7 @@ h2 { margin-bottom: 0; color: #223941; font-size: 17px; font-weight: 700; letter
   .content-grid { grid-template-columns: 1fr; }
   .courses-panel, .plan-panel { grid-column: 1; }
   .practice-banner { min-height: 178px; grid-column: 1; padding: 21px; }
+  .board-exams-panel { grid-column: 1; }
   .practice-decoration { right: -35px; transform: scale(.8); }
   .page-footer { grid-column: 1; line-height: 1.6; }
 }
@@ -258,6 +273,7 @@ h2 { margin-bottom: 0; color: #223941; font-size: 17px; font-weight: 700; letter
   .stat-value { font-size: 23px; }
   .stat-symbol { width: 22px; height: 22px; }
   .course-grid { grid-template-columns: 1fr; }
+  .exam-grid { grid-template-columns: 1fr; }
   .course-art { height: 75px; }
   .courses-panel, .plan-panel { padding: 17px 14px; }
   .practice-banner { min-height: 185px; }

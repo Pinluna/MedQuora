@@ -1,5 +1,9 @@
 # MedQuora
 
+## Version 1.2.2
+
+MedQuora 1.2.2 adds a Kenya national-board preparation section with 2018–2025 exam-paper-style simulations, 32-question complete sessions, and 120-minute timed exam mode. It also expands the original practice bank beyond the previous repeated question set.
+
 An original, responsive study prototype for shared medical foundations. It demonstrates a learning loop: answer a sample question, rate confidence, reflect on mistakes, get targeted guidance, and revisit concepts later.
 
 ## Run the web prototype
@@ -23,7 +27,7 @@ The Android home-screen widget can be added from the launcher and customized to 
 
 ## Scope and safety
 
-The region selector is a preference placeholder; the sample questions are not mapped to any country's exam blueprint, curriculum, or clinical guidelines. Questions are illustrative educational material, not medical advice or decision support. Do not enter patient information.
+The region selector is a preference placeholder; the sample questions are not mapped to any country's exam blueprint, curriculum, or clinical guidelines. The past-paper cards are original exam-style simulations, not copies or verified releases of official Kenya examination papers. Questions are illustrative educational material, not medical advice or decision support. Do not enter patient information.
 
 The prototype has no authentication, cloud sync, clinician-reviewed content workflow, or production-ready privacy controls. Browser progress is stored locally; clear the app's storage to remove it.
 
