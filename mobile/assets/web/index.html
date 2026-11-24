@@ -197,7 +197,7 @@
         <button class="icon-button dialog-close" aria-label="Close practice" value="close">×</button>
       </form>
       <div class="dialog-content">
-        <p class="eyebrow"><span class="eyebrow-dot"></span> QUICK PRACTICE <span class="question-count" id="question-count">01 / 01</span></p>
+        <p class="eyebrow"><span class="eyebrow-dot"></span> <span id="session-label">QUICK PRACTICE</span> <span class="question-count" id="question-count">01 / 01</span><span class="exam-timer" id="exam-timer" role="timer" aria-label="Time remaining" hidden>60:00</span></p>
         <h2 id="dialog-title">Check your understanding</h2>
         <p class="question-topic" id="question-topic"></p>
         <p class="question-prompt" id="question-prompt"></p>
@@ -206,16 +206,21 @@
             <legend class="sr-only">Choose one answer</legend>
           </fieldset>
           <div class="answer-feedback" id="answer-feedback" role="status" hidden></div>
-          <fieldset class="reflection-fieldset" id="reflection-fieldset" hidden>
-            <legend>What made this difficult?</legend>
-            <label><input type="radio" name="reflection" value="knowledge"><span>I didn't know the concept</span></label>
-            <label><input type="radio" name="reflection" value="confusion"><span>I confused similar ideas</span></label>
-            <label><input type="radio" name="reflection" value="clue"><span>I missed a clue in the question</span></label>
-            <label><input type="radio" name="reflection" value="guess"><span>I guessed</span></label>
-          </fieldset>
-            <div class="remediation-hint" id="remediation-hint" hidden></div>
           <button class="button button-primary submit-answer" id="submit-answer" type="submit">Check answer <span>→</span></button>
         </form>
+        <p class="disclaimer">Educational revision only—not clinical guidance. Progress is saved on this device.</p>
+      </div>
+    </dialog>
+
+    <dialog class="review-dialog" id="review-dialog" aria-labelledby="review-title">
+      <form method="dialog" class="dialog-close-form">
+        <button class="icon-button dialog-close" aria-label="Close review" value="close">×</button>
+      </form>
+      <div class="dialog-content">
+        <p class="eyebrow"><span class="eyebrow-dot"></span> PAPER REVIEW <span class="question-count" id="review-score"></span></p>
+        <h2 id="review-title">Session review</h2>
+        <p class="review-summary" id="review-summary"></p>
+        <div class="review-list" id="review-list"></div>
         <p class="disclaimer">Educational revision only—not clinical guidance. Progress is saved on this device.</p>
       </div>
     </dialog>

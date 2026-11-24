@@ -41,8 +41,13 @@ const searchInput = document.querySelector("#course-search");
 const practiceDialog = document.querySelector("#practice-dialog");
 const answerForm = document.querySelector("#answer-form");
 const answerOptions = document.querySelector("#answer-options");
-const reflectionFieldset = document.querySelector("#reflection-fieldset");
 const answerFeedback = document.querySelector("#answer-feedback");
+const sessionLabel = document.querySelector("#session-label");
+const examTimerDisplay = document.querySelector("#exam-timer");
+const reviewDialog = document.querySelector("#review-dialog");
+const reviewScore = document.querySelector("#review-score");
+const reviewSummary = document.querySelector("#review-summary");
+const reviewList = document.querySelector("#review-list");
 const submitAnswer = document.querySelector("#submit-answer");
 const toast = document.querySelector("#toast");
 const sidebar = document.querySelector("#sidebar");
@@ -64,6 +69,8 @@ let sessionMode = "focused";
 let examPaper = null;
 let examDeadline = null;
 let examTimer = null;
+let sessionResults = [];
+let sessionEndReason = "complete";
 
 function loadState() {
   try {
@@ -339,11 +346,6 @@ function resetQuestion() {
   answerFeedback.hidden = true;
   answerFeedback.textContent = "";
   answerFeedback.classList.remove("wrong");
-  reflectionFieldset.hidden = true;
-  reflectionFieldset.querySelectorAll("input").forEach((input) => { input.disabled = false; });
-  const remediationHint = document.querySelector("#remediation-hint");
-  remediationHint.hidden = true;
-  remediationHint.textContent = "";
   submitAnswer.disabled = false;
   submitAnswer.innerHTML = `Check answer <span>→</span>`;
   submitAnswer.classList.remove("finish-session");
@@ -353,26 +355,50 @@ function openQuestion() {
   currentQuestion = sessionQueue[sessionIndex];
   resetQuestion();
   renderQuestion();
+  sessionLabel.textContent = isBoardSession() ? "BOARD EXAMINATION" : "QUICK PRACTICE";
+  examTimerDisplay.hidden = !isBoardSession();
   if (!practiceDialog.open) practiceDialog.showModal();
 }
 
 function updateExamTimer() {
   if (!isBoardSession() || !examDeadline) return;
   const remaining = Math.max(0, examDeadline - Date.now());
-  const minutes = Math.floor(remaining / 60000);
-  const seconds = Math.floor((remaining % 60000) / 1000);
-  document.querySelector("#question-count").textContent =
-    `${BOARD_EXAMS[examPaper].label} · ${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")} · ${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
-  if (remaining === 0) {
-    clearInterval(examTimer);
-    practiceDialog.close("time-expired");
-    showToast("Exam time expired. Completed answers are saved.");
+  const totalSeconds = Math.ceil(remaining / 1000);
+  const minutes = Math.floor(totalSeconds / 60);
+  const seconds = totalSeconds % 60;
+  examTimerDisplay.textContent = `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+  examTimerDisplay.classList.toggle("urgent", remaining <= 5 * 60 * 1000);
+  if (remaining === 0) expireBoardSession();
+}
+
+function expireBoardSession() {
+  clearInterval(examTimer);
+  examDeadline = null;
+  const selected = answerForm.querySelector('input[name="answer"]:checked');
+  if (sessionIndex < sessionQueue.length && selected) {
+    answered = true;
+    showAnswerFeedback(selected.value, selected.value === currentQuestion.answer);
   }
+  if (sessionIndex < sessionQueue.length) {
+    if (answered && selected) saveCurrentAttempt();
+    else recordAttempt(currentQuestion, null, false);
+  }
+  for (let index = sessionIndex + 1; index < sessionQueue.length; index += 1) {
+    recordAttempt(sessionQueue[index], null, false);
+  }
+  saveState();
+  renderDashboard();
+  sessionIndex = sessionQueue.length;
+  endSession("time-expired");
 }
 
 function startSession(mode = "focused", courseKey = null) {
   sessionMode = mode;
   examPaper = null;
+  examDeadline = null;
+  sessionResults = [];
+  sessionEndReason = "complete";
+  examTimerDisplay.classList.remove("urgent");
   clearInterval(examTimer);
   const allCandidates = courseKey
     ? questions.filter((question) => question.course === courseKey)
@@ -398,44 +424,20 @@ function startSession(mode = "focused", courseKey = null) {
   openQuestion();
 }
 
-function updateReflectionHint(value) {
-  const hints = {
-    knowledge: "Next step: revisit the core concept, then test yourself on a different example.",
-    confusion: "Next step: compare the two ideas side by side and identify the clue that separates them.",
-    clue: "Next step: re-read the stem and name the clue that should guide your choice.",
-    guess: "Next step: explain your reasoning before choosing; this concept is scheduled for a short review.",
-  };
-  const hint = document.querySelector("#remediation-hint");
-  hint.textContent = hints[value] || "";
-  hint.hidden = !value;
-}
-
 function showAnswerFeedback(selectedValue, correct) {
-  if (!isBoardSession()) {
-    const correctOption = currentQuestion.options.find(([value]) => value === currentQuestion.answer);
-    const selectedRationale = correct ? "" : ` ${currentQuestion.rationales[selectedValue] || ""}`;
-    answerFeedback.textContent = correct
-      ? `Correct. ${currentQuestion.explanation}`
-      : `Not quite. The best answer is ${correctOption[1]}. ${currentQuestion.explanation}${selectedRationale}`;
-    answerFeedback.hidden = false;
-    answerFeedback.classList.toggle("wrong", !correct);
-    answerOptions.querySelectorAll(".answer-option").forEach((option) => {
-      const input = option.querySelector("input");
-      input.disabled = true;
-      if (input.value === currentQuestion.answer) option.classList.add("correct");
-      if (input.value === selectedValue && !correct) option.classList.add("incorrect");
-    });
-    if (!correct) {
-      reflectionFieldset.hidden = false;
-      submitAnswer.innerHTML = `Save reflection <span>→</span>`;
-      submitAnswer.disabled = true;
-      return;
-    }
-  } else {
-    answerOptions.querySelectorAll(".answer-option").forEach((option) => {
-      option.querySelector("input").disabled = true;
-    });
-  }
+  const correctOption = currentQuestion.options.find(([value]) => value === currentQuestion.answer);
+  const selectedRationale = correct ? "" : ` ${currentQuestion.rationales[selectedValue] || ""}`;
+  answerFeedback.textContent = correct
+    ? `Correct. ${currentQuestion.explanation}`
+    : `Not quite. The best answer is ${correctOption[1]}. ${currentQuestion.explanation}${selectedRationale}`;
+  answerFeedback.hidden = false;
+  answerFeedback.classList.toggle("wrong", !correct);
+  answerOptions.querySelectorAll(".answer-option").forEach((option) => {
+    const input = option.querySelector("input");
+    input.disabled = true;
+    if (input.value === currentQuestion.answer) option.classList.add("correct");
+    if (input.value === selectedValue && !correct) option.classList.add("incorrect");
+  });
   submitAnswer.innerHTML = sessionIndex === sessionQueue.length - 1
     ? `Finish session <span>→</span>`
     : `Save & continue <span>→</span>`;
@@ -457,9 +459,18 @@ function scheduleReview(question, correct) {
   };
 }
 
+function recordAttempt(question, selectedValue, correct) {
+  state.attempts.push({
+    questionId: question.id,
+    at: new Date().toISOString(),
+    correct,
+  });
+  scheduleReview(question, correct);
+  sessionResults.push({ question, selectedValue, correct });
+}
+
 function saveCurrentAttempt() {
   const selected = answerForm.querySelector('input[name="answer"]:checked');
-  const reflection = answerForm.querySelector('input[name="reflection"]:checked')?.value || null;
   if (!selected) {
     showToast("Choose an answer before continuing.");
     return false;
@@ -468,41 +479,75 @@ function saveCurrentAttempt() {
     showToast("Check your answer before saving the attempt.");
     return false;
   }
-  if (!isBoardSession() && selected.value !== currentQuestion.answer && !reflection) {
-    showToast("Choose what made the question difficult to get targeted feedback.");
-    return false;
-  }
 
   const correct = selected.value === currentQuestion.answer;
-  state.attempts.push({
-    questionId: currentQuestion.id,
-    at: new Date().toISOString(),
-    correct,
-    reflection,
-  });
-  scheduleReview(currentQuestion, correct);
+  recordAttempt(currentQuestion, selected.value, correct);
   saveState();
   renderDashboard();
   return correct;
 }
 
+function renderReview(score, total) {
+  const board = isBoardSession();
+  reviewScore.textContent = `${score} / ${total} CORRECT`;
+  document.querySelector("#review-title").textContent = board
+    ? `${BOARD_EXAMS[examPaper].label} review`
+    : "Practice review";
+  reviewSummary.textContent = sessionEndReason === "time-expired"
+    ? "Time expired. Unanswered questions were marked incorrect."
+    : board
+      ? `${BOARD_EXAMS[examPaper].title} complete. Review your answers below.`
+      : "Review your answers below. Your next reviews are scheduled.";
+  reviewList.innerHTML = sessionResults.map((result, index) => {
+    const { question, selectedValue, correct } = result;
+    const correctOption = question.options.find(([value]) => value === question.answer);
+    const yourAnswer = selectedValue
+      ? question.options.find(([value]) => value === selectedValue)?.[1] || selectedValue
+      : "Unanswered";
+    const status = selectedValue ? (correct ? "Correct" : "Incorrect") : "Unanswered";
+    const selectedRationale = selectedValue && selectedValue !== question.answer
+      ? question.rationales[selectedValue] || ""
+      : "";
+    return `
+      <article class="review-item ${correct ? "is-correct" : "is-incorrect"}">
+        <div class="review-item-top">
+          <span class="review-index">${String(index + 1).padStart(2, "0")}</span>
+          <span class="review-topic">${board ? question.examTopic : question.topic}</span>
+          <span class="review-badge">${status}</span>
+        </div>
+        <p class="review-prompt">${question.prompt}</p>
+        <p class="review-choice"><span>Your answer</span><strong>${yourAnswer}</strong></p>
+        <p class="review-choice is-answer"><span>Correct answer</span><strong>${correctOption[1]}</strong></p>
+        <p class="review-explanation">${question.explanation}${selectedRationale ? ` ${selectedRationale}` : ""}</p>
+      </article>
+    `;
+  }).join("");
+  reviewDialog.showModal();
+}
+
+function endSession(reason = "complete") {
+  sessionEndReason = reason;
+  clearInterval(examTimer);
+  examDeadline = null;
+  practiceDialog.close(reason);
+  const score = sessionResults.filter((result) => result.correct).length;
+  const total = sessionQueue.length;
+  showToast(isBoardSession()
+    ? `${BOARD_EXAMS[examPaper].title}${reason === "time-expired" ? " time expired" : " complete"}: ${score} of ${total} correct.`
+    : `Session saved: ${score} of ${total} correct. Your next reviews are scheduled.`);
+  renderReview(score, total);
+}
+
 function finishCurrentQuestion() {
   const correct = saveCurrentAttempt();
   if (correct === false && !answered) return;
-  if (!isBoardSession() && answered && currentQuestion && answerForm.querySelector('input[name="answer"]:checked')?.value !== currentQuestion.answer &&
-      !answerForm.querySelector('input[name="reflection"]:checked')) return;
 
   sessionIndex += 1;
   if (sessionIndex < sessionQueue.length) {
     openQuestion();
     return;
   }
-  const savedCorrect = state.attempts.slice(-sessionQueue.length).filter((attempt) => attempt.correct).length;
-  practiceDialog.close("complete");
-  clearInterval(examTimer);
-  showToast(isBoardSession()
-    ? `${BOARD_EXAMS[examPaper].title} complete: ${savedCorrect} of ${sessionQueue.length} correct.`
-    : `Session saved: ${savedCorrect} of ${sessionQueue.length} correct. Your next reviews are scheduled.`);
+  endSession("complete");
 }
 
 renderCourses();
@@ -572,9 +617,13 @@ document.addEventListener("click", (event) => {
     clearInterval(examTimer);
     sessionQueue = queue;
     sessionIndex = 0;
+    sessionResults = [];
+    sessionEndReason = "complete";
+    examTimerDisplay.classList.remove("urgent");
     examDeadline = Date.now() + BOARD_EXAM_MINUTES * 60 * 1000;
     examTimer = setInterval(updateExamTimer, 1000);
     openQuestion();
+    updateExamTimer();
     setActiveNavigation("board-exams");
     closeSidebar();
     return;
@@ -610,12 +659,6 @@ answerForm.addEventListener("submit", (event) => {
     return;
   }
   finishCurrentQuestion();
-});
-
-reflectionFieldset.addEventListener("change", (event) => {
-  if (event.target.name !== "reflection") return;
-  updateReflectionHint(event.target.value);
-  submitAnswer.disabled = false;
 });
 
 document.querySelectorAll(".nav-link").forEach((link) => {

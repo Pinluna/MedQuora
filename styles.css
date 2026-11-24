@@ -206,6 +206,8 @@ h2 { margin-bottom: 0; color: #223941; font-size: 17px; font-weight: 700; letter
 .dialog-content { padding: 32px; }
 .dialog-content .eyebrow { margin-bottom: 9px; }
 .question-count { margin-left: auto; color: #9aa5a9; font-size: 8px; }
+.exam-timer { margin-left: 9px; padding: 3px 8px; border: 1px solid #cfe4df; border-radius: 6px; background: #eef6f4; color: #276d67; font-size: 10px; font-variant-numeric: tabular-nums; font-weight: 800; letter-spacing: .4px; }
+.exam-timer.urgent { border-color: #f0c9bf; background: #fff0ec; color: #a95847; }
 .dialog-content h2 { margin-bottom: 12px; font-size: 21px; }
 .question-prompt { margin-bottom: 20px; color: #68777e; font-size: 12px; line-height: 1.6; }
 #answer-options { display: grid; gap: 8px; margin: 0; padding: 0; border: 0; }
@@ -292,19 +294,31 @@ h2 { margin-bottom: 0; color: #223941; font-size: 17px; font-weight: 700; letter
 .context-setting small { color: #98a2a7; font-size: 8px; line-height: 1.5; }
 .course-art.evidence { background: linear-gradient(125deg, #768c83, #b6c8aa); }
 .question-topic { margin: -5px 0 12px; color: #4a9288; font-size: 10px; font-weight: 700; }
-.reflection-fieldset { display: grid; gap: 8px; margin: 16px 0 0; padding: 0; border: 0; grid-template-columns: repeat(2, minmax(0, 1fr)); }
-.reflection-fieldset legend { margin-bottom: 8px; color: #53636a; font-size: 10px; font-weight: 750; grid-column: 1 / -1; }
-.reflection-fieldset label { display: flex; align-items: center; gap: 8px; min-height: 36px; padding: 7px 9px; border: 1px solid #e6ebec; border-radius: 8px; color: #66757b; cursor: pointer; font-size: 9px; }
-.reflection-fieldset label:has(input:checked) { border-color: #8abbb4; background: #f0f8f6; color: #286f69; }
-.reflection-fieldset input { accent-color: var(--teal); }
-.reflection-fieldset label { min-height: 39px; line-height: 1.35; }
-.remediation-hint { margin-top: 9px; padding: 10px 11px; border-radius: 8px; background: #f2f7f6; color: #526e68; font-size: 9px; line-height: 1.5; }
 .submit-answer:disabled { cursor: not-allowed; opacity: .55; transform: none; }
 .finish-session { background: #276d67; }
 
+.review-dialog { width: min(720px, calc(100% - 24px)); max-width: none; padding: 0; border: 1px solid #e6ecec; border-radius: 18px; background: #fff; box-shadow: 0 28px 80px rgb(15 39 45 / 24%); color: var(--ink); }
+.review-dialog::backdrop { background: rgb(17 37 42 / 45%); backdrop-filter: blur(3px); }
+.review-summary { margin: -5px 0 18px; color: #68777e; font-size: 11px; line-height: 1.5; }
+.review-list { display: grid; gap: 10px; }
+.review-item { padding: 14px; border: 1px solid #e6ebec; border-left: 3px solid #7fbd9a; border-radius: 10px; background: #fbfdfc; }
+.review-item.is-incorrect { border-left-color: #e3a79a; background: #fffbf9; }
+.review-item-top { display: flex; align-items: center; gap: 9px; }
+.review-index { color: #9aa5a9; font-size: 9px; font-weight: 800; }
+.review-topic { color: #4a9288; font-size: 9px; font-weight: 700; }
+.review-badge { margin-left: auto; padding: 3px 7px; border-radius: 999px; background: #eef7f1; color: #36734e; font-size: 8px; font-weight: 800; letter-spacing: .4px; text-transform: uppercase; }
+.review-item.is-incorrect .review-badge { background: #fff0ec; color: #a95847; }
+.review-prompt { margin: 11px 0 10px; color: #40525a; font-size: 11px; line-height: 1.55; }
+.review-choice { display: flex; flex-wrap: wrap; gap: 6px; margin: 5px 0; color: #68777e; font-size: 10px; }
+.review-choice span { min-width: 88px; color: #9aa5a9; }
+.review-choice strong { color: #4b5c63; font-weight: 700; }
+.review-choice.is-answer strong { color: #36734e; }
+.review-explanation { margin: 10px 0 0; padding-top: 10px; border-top: 1px solid #edf1f1; color: #607077; font-size: 10px; line-height: 1.55; }
+
 @media (max-width: 460px) {
   .context-setting { margin-top: 22px; }
-  .reflection-fieldset { grid-template-columns: 1fr; }
+  .review-item { padding: 12px; }
+  .review-explanation, .review-choice { font-size: 11px; }
 }
 
 html {
@@ -485,13 +499,16 @@ h2 {
   line-height: 1.4;
 }
 
-.reflection-fieldset label {
-  min-height: 44px;
-  font-size: 10px;
+.answer-feedback {
+  font-size: 11px;
 }
 
-.answer-feedback,
-.remediation-hint {
+.exam-timer {
+  font-size: 12px;
+}
+
+.review-choice,
+.review-explanation {
   font-size: 11px;
 }
 

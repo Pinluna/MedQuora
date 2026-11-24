@@ -20,14 +20,19 @@ void main() {
 
     expect(html, contains('<title>MedQuora'));
     expect(html, contains('assets/medquora-logo.png'));
-    expect(html, contains('not an official PPB paper'));
-    expect(html, isNot(contains('2018–2025')));
+    expect(html, contains('Board exam simulations'));
+    expect(html, contains('practice simulations—not official papers'));
+    expect(html, contains('id="exam-timer"'));
+    expect(html, contains('id="review-dialog"'));
+    expect(html, isNot(contains('reflection-fieldset')));
     expect(html.indexOf('assets/open-pharmacy-questions.js'), lessThan(html.indexOf('app.js')));
     expect(script, contains('window.MedQuoraWidget'));
-    expect(RegExp(r'"id": "open-pharmacy-\d{2}"').allMatches(bank).length, 43);
-    expect(questionData, hasLength(43));
-    expect(ids, hasLength(43));
-    expect(prompts, hasLength(43));
+    expect(script, contains('function updateExamTimer'));
+    expect(script, contains('function renderReview'));
+    expect(script, isNot(contains('name="reflection"')));
+    expect(questionData, hasLength(326));
+    expect(ids, hasLength(326));
+    expect(prompts, hasLength(326));
     for (final item in questionData.cast<Map<String, dynamic>>()) {
       final options = item['options'] as List<dynamic>;
       expect(options.any((option) => (option as List<dynamic>).first == item['answer']), isTrue);
