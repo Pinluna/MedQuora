@@ -39,6 +39,13 @@ OpenALG chemistry ancillary materials
 (https://oer.galileo.usg.edu/chemistry-ancillary/18) — licensed CC BY 4.0.
 Region tag: US.
 
+MedQuora PPB Board Mock Series Volumes 1-12 are original local practice papers
+(stored as `/home/luna/1/PPB_Board_Mock_Series_Volume_*.pdf` when generated). Their
+questions include the published rationales and are attributed in each item's
+`source` field. Stage and subtopic questions marked `MedQuora original` are
+editorial questions written from the PPB registration guideline syllabus and the
+suggested reference list on page 21.
+
 OpenExamPrep, PharmaProLearn, and the PPB Stage Two Paper II model paper remain
 attributed in each question's `source` and `sourceUrl` fields. Questions without
 a published answer key are marked with editorial best-evidence in `answerBasis`.

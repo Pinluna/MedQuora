@@ -8,6 +8,7 @@
     <title>MedQuora — Clinical Study Studio</title>
     <link rel="stylesheet" href="styles.css">
     <script src="assets/open-pharmacy-questions.js" defer></script>
+    <script src="assets/syllabus-topics.js" defer></script>
     <script src="app.js" defer></script>
   </head>
   <body>
@@ -27,6 +28,10 @@
           <a class="nav-link" href="#courses">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21.5z"/><path d="M4 5.5v16M8 7h8M8 11h7"/></svg>
             My courses
+          </a>
+          <a class="nav-link" href="#stages">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V9M10 20V4M16 20v-7M22 20H2"/></svg>
+            Stages
           </a>
           <a class="nav-link" href="#practice" data-open-practice>
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4.5h14A1.5 1.5 0 0 1 20.5 6v12a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 18V6A1.5 1.5 0 0 1 5 4.5Z"/><path d="M8 9h8M8 13h5M8 16h3"/></svg>
@@ -86,7 +91,7 @@
           </button>
           <div class="breadcrumbs"><span>WORKSPACE</span><i>/</i><strong>OVERVIEW</strong></div>
           <div class="topbar-tools">
-            <span class="version-badge">v1.6.0</span>
+            <span class="version-badge">v1.7.0</span>
             <label class="search-box">
               <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 4.2 4.2"/></svg>
               <input id="course-search" type="search" placeholder="Find a course" aria-label="Find a course">
@@ -134,6 +139,22 @@
               <div class="stat-value"><span id="current-streak">0</span><span class="stat-unit"> days</span></div>
               <div class="stat-bottom"><span id="due-count">No reviews due</span></div>
             </article>
+          </section>
+
+          <section class="panel syllabus-panel" id="stages">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">PPB SYLLABUS MAP</p>
+                <h2>Stage 1 and Stage 2 practice</h2>
+              </div>
+              <span class="date-chip" id="syllabus-count">0 SESSIONS AVAILABLE</span>
+            </div>
+            <p class="syllabus-intro">Work through each subject in the order shown in the registration guidelines. Open a subject to practise a named subheading; every session uses unseen questions and saves its review to history.</p>
+            <div class="stage-grid" id="stage-grid" aria-live="polite"></div>
+            <details class="reference-list">
+              <summary>Suggested reference materials from page 21</summary>
+              <ol id="syllabus-references"></ol>
+            </details>
           </section>
 
           <div class="content-grid">
@@ -187,7 +208,7 @@
               </div>
               <p class="board-exam-intro">Each paper is a 60-question, 60-minute simulation. Paper 1 and Paper 2 banks are strictly separated by topic. Sessions use only unseen questions; reset a paper when fewer than 60 remain. These are practice simulations—not official papers or a past-year archive.</p>
               <div class="exam-grid" id="exam-grid" aria-live="polite"></div>
-              <p class="exam-disclaimer">The 2,103-question bank combines <a href="https://github.com/rocksonsamuel96/PharmacyQuizChallenge-">Pharmacy Quiz Challenge</a> (MIT), <a href="https://huggingface.co/datasets/openlifescienceai/medmcqa">MedMCQA</a> (Apache-2.0), <a href="https://github.com/Google-Health/rxqa">RxQA</a> (CC BY 4.0), <a href="https://durgical.com/en/practice/questions.json">DurgiPedia</a> (CC BY 4.0), <a href="https://huggingface.co/datasets/ekacare/Eka_NFI_MCQA">Eka NFI</a> (MIT), <a href="https://oer.galileo.usg.edu/chemistry-ancillary/18">OpenALG</a> (CC BY 4.0), OpenExamPrep, PharmaProLearn, MedQuora original questions, and the <a href="https://www.scribd.com/document/897815579/stagetwopapertwo">PPB Stage Two Paper II model paper</a>. Every item carries its source, license, and region tag; Scribd answers without a published key are labelled editorial best-evidence. <a href="assets/open-pharmacy-license.txt">Read the open-source licenses</a>. Content is not officially endorsed or clinically reviewed.</p>
+              <p class="exam-disclaimer">The 3,870-question bank combines <a href="https://github.com/rocksonsamuel96/PharmacyQuizChallenge-">Pharmacy Quiz Challenge</a> (MIT), <a href="https://huggingface.co/datasets/openlifescienceai/medmcqa">MedMCQA</a> (Apache-2.0), <a href="https://github.com/Google-Health/rxqa">RxQA</a> (CC BY 4.0), <a href="https://durgical.com/en/practice/questions.json">DurgiPedia</a> (CC BY 4.0), <a href="https://huggingface.co/datasets/ekacare/Eka_NFI_MCQA">Eka NFI</a> (MIT), <a href="https://oer.galileo.usg.edu/chemistry-ancillary/18">OpenALG</a> (CC BY 4.0), OpenExamPrep, PharmaProLearn, MedQuora original questions, the local PPB Board Mock Series volumes, and the <a href="https://www.scribd.com/document/897815579/stagetwopapertwo">PPB Stage Two Paper II model paper</a>. Every item carries its source, license, and region tag; Scribd answers without a published key are labelled editorial best-evidence. <a href="assets/open-pharmacy-license.txt">Read the open-source licenses</a>. Content is not officially endorsed or clinically reviewed.</p>
             </section>
 
             <section class="panel history-panel" id="history">

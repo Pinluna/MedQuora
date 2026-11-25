@@ -1,4 +1,5 @@
 const questions = window.OpenPharmacyQuestions;
+const syllabus = window.MedQuoraSyllabus || { stages: [], references: [] };
 
 const courses = [
   {
@@ -57,6 +58,9 @@ const todayPlan = document.querySelector("#today-plan");
 const studyRegion = document.querySelector("#study-region");
 const notificationButton = document.querySelector("#notification-button");
 const browsePathsButton = document.querySelector("#browse-paths");
+const stageGrid = document.querySelector("#stage-grid");
+const syllabusCount = document.querySelector("#syllabus-count");
+const syllabusReferences = document.querySelector("#syllabus-references");
 
 const emptyStateData = { attempts: [], reviews: {}, history: [], region: "global" };
 let state = loadState();
@@ -66,6 +70,7 @@ let currentQuestion = null;
 let answered = false;
 let toastTimer;
 let sessionMode = "focused";
+let sessionFocus = null;
 let examPaper = null;
 let examDeadline = null;
 let examTimer = null;
@@ -129,7 +134,7 @@ function getDueQuestions(now = Date.now()) {
     .filter(Boolean);
 }
 
-function getWeakQuestionOrder(source = questions) {
+function getWeakQuestionOrder(source = questions, dedupeObjectives = true) {
   const sorted = [...source].sort((a, b) => {
     const aLast = getLastAttempt(a.id);
     const bLast = getLastAttempt(b.id);
@@ -142,7 +147,7 @@ function getWeakQuestionOrder(source = questions) {
   });
   const seenObjectives = new Set();
   return sorted.filter((question) => {
-    if (seenObjectives.has(question.objective)) return false;
+    if (dedupeObjectives && seenObjectives.has(question.objective)) return false;
     seenObjectives.add(question.objective);
     return true;
   });
@@ -244,6 +249,91 @@ function renderBoardExams() {
   }).join("");
 }
 
+function escapeHtml(value) {
+  return String(value).replace(/[&<>"']/g, (character) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;",
+  })[character]);
+}
+
+function getFocusQuestions(path) {
+  return questions.filter((question) => question.focusPaths?.includes(path));
+}
+
+function getSubjectQuestions(subjectId) {
+  return questions.filter((question) => question.subject === subjectId);
+}
+
+function focusButton(pool, focus, label, className = "subtopic-button") {
+  const unseen = getUnansweredQuestions(pool).length;
+  return `
+    <button class="${className}" type="button" data-focus-path="${escapeHtml(focus.id)}"
+      data-focus-label="${escapeHtml(focus.label)}"
+      data-focus-subject="${escapeHtml(focus.subjectId || "")}"
+      data-focus-stage="${escapeHtml(focus.stage || "")}" ${unseen ? "" : "disabled"}>
+      <span>${escapeHtml(label)}</span><small>${unseen ? `${unseen} unseen` : "Done"}</small>
+    </button>
+  `;
+}
+
+function renderSyllabus() {
+  if (!stageGrid) return;
+  const totalFoci = syllabus.stages.reduce((total, stage) =>
+    total + stage.papers.reduce((sum, paper) =>
+      sum + paper.subjects.reduce((subjectTotal, subject) => subjectTotal + 1 + subject.subtopics.length, 0), 0), 0);
+  syllabusCount.textContent = `${questions.length} questions · ${totalFoci} syllabus sessions`;
+  syllabusReferences.innerHTML = syllabus.references.map((reference) =>
+    `<li>${escapeHtml(reference)}</li>`).join("");
+  stageGrid.innerHTML = syllabus.stages.map((stage) => {
+    const stageQuestions = questions.filter((question) => question.stage === stage.id);
+    return `
+      <article class="stage-card">
+        <div class="stage-card-head">
+          <div>
+            <span class="stage-kicker">${escapeHtml(stage.title)}</span>
+            <h3>${escapeHtml(stage.subtitle)}</h3>
+          </div>
+          <span class="stage-count">${stageQuestions.length} questions</span>
+        </div>
+        <div class="stage-papers">
+          ${stage.papers.map((paper) => `
+            <section class="syllabus-paper">
+              <h4>${escapeHtml(paper.title)}</h4>
+              <div class="syllabus-subjects">
+                ${paper.subjects.map((subject) => {
+                  const subjectPool = getSubjectQuestions(subject.id);
+                  return `
+                    <details class="subject-details">
+                      <summary><span>${escapeHtml(subject.letter)}.</span> ${escapeHtml(subject.title)} <small>${subjectPool.length}</small></summary>
+                      <div class="subject-focus-list">
+                        ${focusButton(subjectPool, {
+                          id: subject.id,
+                          label: `${stage.title} · ${subject.letter}. ${subject.title}`,
+                          subjectId: subject.id,
+                          stage: stage.id,
+                        }, "Practice whole subject", "subject-button")}
+                        ${subject.subtopics.map((subtopic) => focusButton(getFocusQuestions(subtopic.id), {
+                          id: subtopic.id,
+                          label: subtopic.label,
+                          subjectId: subject.id,
+                          stage: stage.id,
+                        }, subtopic.label)).join("")}
+                      </div>
+                    </details>
+                  `;
+                }).join("")}
+              </div>
+            </section>
+          `).join("")}
+        </div>
+      </article>
+    `;
+  }).join("");
+}
+
 function currentStreak() {
   const studyDays = new Set(state.attempts.map((attempt) => dateKey(new Date(attempt.at))));
   const today = new Date();
@@ -314,6 +404,7 @@ function renderDashboard() {
     : `Start focused practice <span>→</span>`;
   renderCourses(searchInput.value);
   renderBoardExams();
+  renderSyllabus();
   renderHistory();
   window.MedQuoraWidget?.postMessage(JSON.stringify({
     due: dueCount,
@@ -331,7 +422,9 @@ function renderQuestion() {
     : `${String(sessionIndex + 1).padStart(2, "0")} / ${String(sessionQueue.length).padStart(2, "0")}`;
   document.querySelector("#question-topic").textContent = isBoardSession()
     ? `${BOARD_EXAMS[examPaper].title} · ${question.examTopic}`
-    : question.topic;
+    : sessionFocus
+      ? `${sessionFocus.label} · ${question.topic}`
+      : question.topic;
   document.querySelector("#question-prompt").textContent = question.prompt;
   answerOptions.innerHTML = `
     <legend class="sr-only">Choose one answer</legend>
@@ -359,7 +452,11 @@ function openQuestion() {
   currentQuestion = sessionQueue[sessionIndex];
   resetQuestion();
   renderQuestion();
-  sessionLabel.textContent = isBoardSession() ? "BOARD EXAMINATION" : "QUICK PRACTICE";
+  sessionLabel.textContent = isBoardSession()
+    ? "BOARD EXAMINATION"
+    : sessionFocus
+      ? "FOCUSED SYLLABUS PRACTICE"
+      : "QUICK PRACTICE";
   examTimerDisplay.hidden = !isBoardSession();
   if (!practiceDialog.open) practiceDialog.showModal();
 }
@@ -398,6 +495,7 @@ function expireBoardSession() {
 
 function startSession(mode = "focused", courseKey = null) {
   sessionMode = mode;
+  sessionFocus = null;
   examPaper = null;
   examDeadline = null;
   sessionResults = [];
@@ -426,6 +524,27 @@ function startSession(mode = "focused", courseKey = null) {
   }
   sessionIndex = 0;
   openQuestion();
+}
+
+function startFocusSession(pool, focus) {
+  const candidates = getUnansweredQuestions(pool);
+  if (!candidates.length) {
+    showToast("You have answered every question for this topic. Reset the bank to revisit it.");
+    return;
+  }
+  sessionMode = "syllabus";
+  sessionFocus = { ...focus };
+  examPaper = null;
+  examDeadline = null;
+  sessionResults = [];
+  sessionEndReason = "complete";
+  examTimerDisplay.classList.remove("urgent");
+  clearInterval(examTimer);
+  sessionQueue = getWeakQuestionOrder(candidates, false).slice(0, Math.min(5, candidates.length));
+  sessionIndex = 0;
+  openQuestion();
+  setActiveNavigation("stages");
+  closeSidebar();
 }
 
 function showAnswerFeedback(selectedValue, correct) {
@@ -491,21 +610,23 @@ function saveCurrentAttempt() {
   return correct;
 }
 
-function sessionModeLabel(mode, paper) {
+function sessionModeLabel(mode, paper, focus = null) {
+  if (focus?.label) return focus.label;
   if (mode === "board") return `Board exam · ${BOARD_EXAMS[paper]?.label || paper}`;
   if (mode === "due") return "Due review";
   if (mode === "course") return "Course practice";
   return "Quick practice";
 }
 
-function reviewTitle(mode, paper) {
-  if (mode === "board") return `${BOARD_EXAMS[paper]?.label || "Board exam"} review`;
-  return `${sessionModeLabel(mode, paper)} review`;
+function reviewTitle(mode, paper, focus = null) {
+  if (mode === "board" && !focus) return `${BOARD_EXAMS[paper]?.label || "Board exam"} review`;
+  return `${sessionModeLabel(mode, paper, focus)} review`;
 }
 
-function reviewSummaryText(reason, mode, paper) {
+function reviewSummaryText(reason, mode, paper, focus = null) {
   if (reason === "time-expired") return "Time expired. Unanswered questions were marked incorrect.";
-  if (mode === "board") return `${BOARD_EXAMS[paper]?.title || "Board exam"} complete. Review your answers below.`;
+  if (mode === "board" && !focus) return `${BOARD_EXAMS[paper]?.title || "Board exam"} complete. Review your answers below.`;
+  if (focus?.label) return `${focus.label} complete. Review your answers below.`;
   return "Review your answers below. Your next reviews are scheduled.";
 }
 
@@ -545,8 +666,8 @@ function openReview({ title, summary, score, total, results }) {
 
 function renderReview() {
   openReview({
-    title: reviewTitle(sessionMode, examPaper),
-    summary: reviewSummaryText(sessionEndReason, sessionMode, examPaper),
+    title: reviewTitle(sessionMode, examPaper, sessionFocus),
+    summary: reviewSummaryText(sessionEndReason, sessionMode, examPaper, sessionFocus),
     score: sessionResults.filter((result) => result.correct).length,
     total: sessionQueue.length,
     results: sessionResults,
@@ -560,6 +681,7 @@ function rememberSession(reason) {
     at: new Date().toISOString(),
     mode: sessionMode,
     paper: examPaper,
+    focus: sessionFocus ? { ...sessionFocus } : null,
     reason,
     score,
     total: sessionQueue.length,
@@ -589,7 +711,7 @@ function renderHistory() {
       return `
         <article class="history-item">
           <div class="history-item-copy">
-            <strong>${sessionModeLabel(session.mode, session.paper)}</strong>
+            <strong>${escapeHtml(sessionModeLabel(session.mode, session.paper, session.focus))}</strong>
             <span>${when} · ${session.score} / ${session.total} correct${expired}</span>
           </div>
           <button class="button button-soft" type="button" data-view-history="${session.id}">View review <span>→</span></button>
@@ -609,7 +731,9 @@ function endSession(reason = "complete") {
   rememberSession(reason);
   showToast(isBoardSession()
     ? `${BOARD_EXAMS[examPaper].title}${reason === "time-expired" ? " time expired" : " complete"}: ${score} of ${total} correct.`
-    : `Session saved: ${score} of ${total} correct. Your next reviews are scheduled.`);
+    : sessionFocus
+      ? `${sessionFocus.label} saved: ${score} of ${total} correct.`
+      : `Session saved: ${score} of ${total} correct. Your next reviews are scheduled.`);
   renderDashboard();
   renderReview();
 }
@@ -667,8 +791,8 @@ document.addEventListener("click", (event) => {
       .map((result) => ({ ...result, question: questions.find((question) => question.id === result.questionId) }))
       .filter((result) => result.question);
     openReview({
-      title: reviewTitle(session.mode, session.paper),
-      summary: `${reviewSummaryText(session.reason, session.mode, session.paper)} Saved session.`,
+      title: reviewTitle(session.mode, session.paper, session.focus),
+      summary: `${reviewSummaryText(session.reason, session.mode, session.paper, session.focus)} Saved session.`,
       score: session.score,
       total: session.total,
       results,
@@ -719,6 +843,7 @@ document.addEventListener("click", (event) => {
       return;
     }
     sessionMode = "board";
+    sessionFocus = null;
     examPaper = paper;
     clearInterval(examTimer);
     sessionQueue = queue;
@@ -732,6 +857,22 @@ document.addEventListener("click", (event) => {
     updateExamTimer();
     setActiveNavigation("board-exams");
     closeSidebar();
+    return;
+  }
+
+  const focusTrigger = event.target.closest("[data-focus-path]");
+  if (focusTrigger) {
+    event.preventDefault();
+    if (focusTrigger.disabled) return;
+    const path = focusTrigger.dataset.focusPath;
+    const subjectId = focusTrigger.dataset.focusSubject;
+    const pool = subjectId && subjectId === path ? getSubjectQuestions(subjectId) : getFocusQuestions(path);
+    startFocusSession(pool, {
+      id: path,
+      label: focusTrigger.dataset.focusLabel,
+      subjectId,
+      stage: focusTrigger.dataset.focusStage,
+    });
     return;
   }
 
