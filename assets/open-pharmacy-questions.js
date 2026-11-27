@@ -489,7 +489,7 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "B",
-        "Hyperophy"
+        "Hypertrophy"
       ],
       [
         "C",
@@ -500,13 +500,13 @@ window.OpenPharmacyQuestions = [
         "Dyplasia"
       ]
     ],
-    "answer": "B",
-    "explanation": "Chronic urethral obstruction because of urinary calculi, prostatic hyperophy, tumors, normal pregnancy, tumors, uterine prolapse or functional disorders cause hydronephrosis which by definition is used to describe dilatation of renal pelvis and calculus associated with progressive atrophy of the kidney due to obstruction to the outflow of urine Refer Robbins 7yh/9,1012,9/e. P950",
+    "answer": "C",
+    "explanation": "Chronic urethral obstruction can cause hydronephrosis, leading to progressive atrophy of renal parenchyma due to back pressure.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -543,13 +543,13 @@ window.OpenPharmacyQuestions = [
         "Hypersensitivity"
       ]
     ],
-    "answer": "B",
-    "explanation": "One of the most impoant pharmacokinetic changes associated with aging is decreased renal elimination of drugs. After age 40, creatinine clearance decreases an average of 8 mL/min/1.73 m2/decade; however, the age-related decrease varies substantially from person to person. Serum creatinine levels often remain within normal limits despite a decrease in GFR because older adults generally have less muscle mass and are generally less physically active than younger adults and thus produce less creatinine. Maintenance of normal serum creatinine levels can mislead clinicians who assume those levels reflect normal kidney function. Decreases in tubular function with age parallel those in glomerular fu…",
+    "answer": "C",
+    "explanation": "A major pharmacokinetic change in older adults is decreased renal clearance of drugs due to reduced GFR and tubular function. Serum creatinine may not reflect this because of reduced muscle mass.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -586,13 +586,13 @@ window.OpenPharmacyQuestions = [
         "Lymphoma"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ref William hematology 6/e p1268 The term cryoglobulinemia refers to the presence in the serum of proteins that precipitate at temperatures below 37 degrees C and redissolve on rewarming. ... The elective treatment for hyperviscosity syndrome, whether associated with monoclonal, mixed, or polyclonalcryoglobulinemia, is plasma exchange.",
+    "answer": "A",
+    "explanation": "Hyperviscosity syndrome can occur in cryoglobulinemia, Waldenström macroglobulinemia, and multiple myeloma. Among the options, cryoglobulinemia is a recognized cause.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -629,13 +629,13 @@ window.OpenPharmacyQuestions = [
         "Vitelline vein"
       ]
     ],
-    "answer": "B",
-    "explanation": "Ans. C Cardinal veinRef; hangman's essesntial medical Embroyology pg. 57# During early embryonic development (through 4th week), paired cardinal veins drain the body. Anterior cardinal veins drain the head and upper limb buds, while posterior cardinal veins drain the body. Both the anterior and posterior veins on each side unite at the common cardinal veins that flow into the sinus venosus and ultimately into the common atrium (Image).# Anterior cardinal veins are retained. An anastomosis between the two forms the left brachiocephalic vein, and anterior segments from both form the jugular system for the head and neck (Image).# Most of the posterior segment on the left disappears except for t…",
+    "answer": "C",
+    "explanation": "The superior vena cava is derived from the right anterior cardinal vein and right common cardinal vein.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -762,13 +762,13 @@ window.OpenPharmacyQuestions = [
         "Inf. radio ulnar joint"
       ]
     ],
-    "answer": "A",
-    "explanation": "B. i.e. Frontoparietal sutureSkull sutures (except sphen-occipital), vomer- sphenoid rostrum schindylesisQ, inferior tibiofibular syndesmosis and dentoalveolar gomphosis (tooth socket) joints are fibrous joints. A Schindylesis is a specialized suture where a rigid bone fits into a groove on a neighbouring element eg a cleft between the alae of vomer, which receives the rostrum of the sphenoid. (i.e. vomer - sphenoidal rostrum junction)Q- Epiphyseo-diaphyseal growth plateQ, costochondral, 1st chondrosternal and sphenoocipital joints are synchondrosis/ syncendrosis or primary cailaginous joints; whereas, symphysis pubis, symphysis menti, sacrococcygeal, interveebral and manubriosternal jointsQ…",
+    "answer": "B",
+    "explanation": "Fibrous joints include sutures, gomphoses, and syndesmoses. The frontoparietal suture is a fibrous joint; pubic symphysis and manubriosternal joints are cartilaginous/symphysis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -807,13 +807,13 @@ window.OpenPharmacyQuestions = [
         "Biceps femoris"
       ]
     ],
-    "answer": "A",
-    "explanation": "Popliteus rotates the tibia medially on the femur or, when the tibia is fixed, rotates the femur laterally on the tibia. At the beginning of flexion of the fully extended knee, lateral femoral rotation by popliteus muscle unlocks the joint.Must know:Locking of knee joint is due to the the action of quadriceps femoris, that brings about medial rotation of femur on tibia in later stages of extension. Ref: Snells, Clinical anatomy, 7th Edition, Page 650.",
+    "answer": "B",
+    "explanation": "Popliteus unlocks the knee at the beginning of flexion by laterally rotating the femur on the fixed tibia or medially rotating the tibia on the femur.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -852,13 +852,13 @@ window.OpenPharmacyQuestions = [
         "D"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A. (A)A. Anterior Talofibular ligamentAnkle sprains: Usually caused by the falls from height or twists of ankle. When the plantar-flexed foot is excessively inverted, the anterior and posterior talofibular and calcaneofibular ligaments are stretched and torn. The anterior talofibular ligament is most commonly torn.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -884,7 +884,7 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "B",
-        "Umbilical aery"
+        "Umbilical artery"
       ],
       [
         "C",
@@ -895,13 +895,13 @@ window.OpenPharmacyQuestions = [
         "Ductus venosus"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Umbilical aery.",
+    "answer": "C",
+    "explanation": "The ligamentum teres (round ligament) of the liver is the fibrous remnant of the left umbilical vein.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -935,16 +935,16 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Succulus"
+        "Saccule"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ans:A.)Subdural Perilymph drains into subarachnoid space through the aqueduct of cochlea... Endolymph is absorbed in subdural space.",
+    "answer": "A",
+    "explanation": "The endolymphatic duct ends in the endolymphatic sac, which lies within the layers of dura mater near the posterior surface of the petrous temporal bone; it is involved in endolymph absorption.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -981,13 +981,13 @@ window.OpenPharmacyQuestions = [
         "Coracohumeral ligament"
       ]
     ],
-    "answer": "A",
-    "explanation": "The axial skeleton shapes the longitudinal axis of the human body. Coracoclavicular ligament suspends the scapula from the lower one third of the clavicle and forms a strong bond between them. The weight of the upper limb is transmitted to the axial skeleton through this ligament. A fracture of the clavicle, medial to the attachment of this ligament leads to drooping of upper limb. Ref: TB of Anatomy and Physiology PR Ashalatha, 1st Ed, Page 110",
+    "answer": "B",
+    "explanation": "The coracoclavicular ligament suspends the upper limb from the clavicle and transmits weight from the scapula/upper limb to the clavicle and axial skeleton.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1060,20 +1060,20 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "C",
-        "Brachial aery"
+        "Brachial artery"
       ],
       [
         "D",
-        "Anterior interosseous aery"
+        "Anterior interosseous artery"
       ]
     ],
-    "answer": "B",
-    "explanation": "Bicipital aponeurosis lies superficial to the brachial aery and median nerve. -lies deep to superficial veins. -provides protection for the deeper structures during venepuncture at cubital fossa. -routinely released to decompress the median nerve",
+    "answer": "C",
+    "explanation": "The bicipital aponeurosis passes medially over the brachial artery and median nerve in the cubital fossa, protecting them during venipuncture.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1110,13 +1110,13 @@ window.OpenPharmacyQuestions = [
         "24-48 hrs"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ref Robbins 9/e p106 Incised wound for the formation of collagen and new tissue, thick layer of epithelial ,and granulation tissue formation along with new blood vessels requires atleast 4_5 days",
+    "answer": "A",
+    "explanation": "By about 4-5 days after an incised wound, granulation tissue fills the space, collagen fibrils begin to bridge the incision, and epidermal proliferation is prominent.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1155,13 +1155,13 @@ window.OpenPharmacyQuestions = [
         "A decrease in size of blastomeres"
       ]
     ],
-    "answer": "C",
-    "explanation": "Cleavage is a series of mitotic divisions by which the large amount of zygote cytoplasm is successively paitioned among the newly formed blastomeres. Although the number of blastomeres increases during cleavage, the size of individual blastomeres decreases until they resemble adult cells in size.",
+    "answer": "D",
+    "explanation": "During cleavage, mitotic divisions partition the zygote cytoplasm into progressively smaller blastomeres, with little increase in overall embryo size.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1187,7 +1187,7 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "B",
-        "Nervs"
+        "Nerves"
       ],
       [
         "C",
@@ -1198,13 +1198,13 @@ window.OpenPharmacyQuestions = [
         "Blood vessels"
       ]
     ],
-    "answer": "B",
-    "explanation": "Blaschko&;s lines, are lines of normal cell development in the skin. These lines are invisible under normal conditions.",
+    "answer": "C",
+    "explanation": "Blaschko lines are thought to represent pathways of epidermal cell migration and proliferation during embryonic development.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1241,13 +1241,13 @@ window.OpenPharmacyQuestions = [
         "Semimembranosus"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ans. A PopliteusRef: BDC, vol II pg. 155* Quadriceps femoris is the main and only extensor of knee.* It produces locking action as a result of medial rotation of the femur during the last stage of extension.* To reverse this lock popliteus muscle comes into action and does so by the lateral rotation of femurRemember: Lock is: Quadriceps femoris muscle and, Key is popliteus muscle.Muscles producing movements at the knee jointMovementPrincipal musclesA. Flexion * Biceps femoris* Semitendinosus* SemimembranosusB. ExtensionQuadriceps femorisC. Medial rotation of flexed leg* Popliteus* Semimembranosus* SemitendinosusD. Lateral rotation of flexed leg * Biceps femorisExtra Mile* Quadriceps femoris…",
+    "answer": "A",
+    "explanation": "Popliteus unlocks the fully extended knee by laterally rotating the femur on the tibia (or medially rotating the tibia when the foot is free).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1284,13 +1284,13 @@ window.OpenPharmacyQuestions = [
         "Masseter"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ans. A Lateral pterygoidRef: Grays, 41st ed. pg. 507-508* The primary function of the lateral pterygoid muscle is to pull the head of the condyle out of the mandibular fossa along the articular eminence to protrude the mandible.* The effort of the lateral pterygoid muscles acts in helping lower the mandible and open the jaw whereas unilteral action of a lateral pterygoid produces contralateral excursion (a form of mastication), usually performed in concert with the medial pterygoids.* Unlike the other three muscles of mastication, the lateral pterygoid is the only muscle of mastication that assists in depressing the mandible i.e. opening the jaw. At the beginning of this action it is assiste…",
+    "answer": "A",
+    "explanation": "The lateral pterygoid assists in opening the jaw by protruding and depressing the mandible. Masseter, temporalis, and medial pterygoid primarily elevate the jaw.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1327,13 +1327,13 @@ window.OpenPharmacyQuestions = [
         "Agammaglobulinamia"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ref Robbins 9/e p224 Thymic Hypoplasia: DiGeorge Syndrome DiGeorge syndrome results from a congenital defect in thymic development with deficient T cell maturation. T cells are absent in the lymph nodes, spleen, and peripheral blood, and infants with this defect are extremely vulnera- ble to viral, fungal, and protozoal infections. Patients are also susceptible to infection with intracellular bacteria, because of defective T cell-mediated immunity. B cells and serum immunoglobulins are generally unaffected. The disorder is a consequence of a developmental mal- formation affecting the third and fouh pharyngeal pouches, structures that give rise to the thymus, parathy- roid glands, and poions…",
+    "answer": "B",
+    "explanation": "DiGeorge syndrome is caused by defective development of third and fourth pharyngeal pouches, leading to thymic hypoplasia/aplasia and T-cell deficiency.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1362,24 +1362,24 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "B",
-        "During feilization"
+        "During fertilization"
       ],
       [
         "C",
-        "5th day after feilization"
+        "5th day after fertilization"
       ],
       [
         "D",
-        "7th day after feilization"
+        "7th day after fertilization"
       ]
     ],
-    "answer": "B",
-    "explanation": "Zona pellucida is thick membranous covering made up of glycoprotein, the microvilli of oocyte and follicular cells project into zona pellucida for nutrition. it prevent polyspermy and implantation. Blastocyst forms at 4th day and by the end of 5th day, zona pellucida disappears and implantation takes place at 6th -7th day after feilization.",
+    "answer": "C",
+    "explanation": "The blastocyst hatches from the zona pellucida around day 5 after fertilization, allowing implantation to begin around day 6-7.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1416,13 +1416,13 @@ window.OpenPharmacyQuestions = [
         "Temporalis"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Temporalis.",
+    "answer": "A",
+    "explanation": "The mandibular nerve (V3) supplies muscles of mastication, tensor tympani, tensor veli palatini, mylohyoid, and anterior digastric. Buccinator is a muscle of facial expression supplied by the facial nerve.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1459,13 +1459,13 @@ window.OpenPharmacyQuestions = [
         "Coeliac"
       ]
     ],
-    "answer": "A",
-    "explanation": "Suprarenal glands drain into para-aortic nodes.",
+    "answer": "B",
+    "explanation": "Lymphatic drainage of the suprarenal glands is primarily to para-aortic (lateral aortic/lumbar) lymph nodes.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1502,13 +1502,13 @@ window.OpenPharmacyQuestions = [
         "S3"
       ]
     ],
-    "answer": "D",
-    "explanation": "First web space of foot is supplied by deep peroneal nerve (L5)",
+    "answer": "A",
+    "explanation": "Sensory supply to the skin between the great toe and second toe is typically from the deep fibular (peroneal) nerve, commonly tested as L5 sensation.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1526,7 +1526,7 @@ window.OpenPharmacyQuestions = [
     "objective": "anatomy · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Human Anatomy",
-    "prompt": "Most dangerous paicles causing pneumoconiosis are of size",
+    "prompt": "Most dangerous particles causing pneumoconiosis are of size",
     "options": [
       [
         "A",
@@ -1545,13 +1545,13 @@ window.OpenPharmacyQuestions = [
         "D. 10-20 micron"
       ]
     ],
-    "answer": "D",
-    "explanation": "In pneumoconiosis, the most dangerous paicles range from 1-5 micron in diameter, because they may reach the terminal small airway and settle in there lining notes The solubility and cytotoxicity of paicles ,modify the nature of pulmonary response",
+    "answer": "A",
+    "explanation": "In pneumoconiosis, particles about 1-5 micrometers in diameter are most dangerous because they can reach terminal airways and alveoli and be retained.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1588,13 +1588,13 @@ window.OpenPharmacyQuestions = [
         "4cm"
       ]
     ],
-    "answer": "C",
-    "explanation": "ValveDiameter of OrificePulmonary2.5cmAoic2.5cmMitral3cmTricuspid4cmRef: BD Chaurasia; Volume 1; 6th edition; Table 18.1",
+    "answer": "D",
+    "explanation": "The tricuspid orifice is larger than the mitral orifice. In standard anatomical measurements used in such questions, tricuspid orifice diameter is about 4 cm.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1631,13 +1631,13 @@ window.OpenPharmacyQuestions = [
         "Ventral mesogastrium"
       ]
     ],
-    "answer": "B",
-    "explanation": "ANSWER: (C) Dorsal mesogastriumREF: Langman's Medical Embryology 9th edition 293The gastrosplenic ligament (ligamentum gastrosplenicum or gastrolienal ligament) is part of the greater omentum. Embryonically the gastrosplenic ligament is derived from the dorsal mesogastrium. The gastrosplenic ligament is made of peritoneum that connects the greater curvature of stomach with the hilum of the spleen. Contains: Short gastric vessels and left Gastro-Epiploic vessels",
+    "answer": "C",
+    "explanation": "The gastrosplenic ligament is derived from the dorsal mesogastrium and connects the greater curvature of the stomach to the splenic hilum.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1655,7 +1655,7 @@ window.OpenPharmacyQuestions = [
     "objective": "anatomy · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Human Anatomy",
-    "prompt": "Superior suprarenal aery originates from:",
+    "prompt": "Superior suprarenal artery originates from:",
     "options": [
       [
         "A",
@@ -1663,24 +1663,24 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "B",
-        "Renal aery"
+        "Renal artery"
       ],
       [
         "C",
-        "Inferior phrenic aery"
+        "Inferior phrenic artery"
       ],
       [
         "D",
-        "Splenic aery"
+        "Splenic artery"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Renal aery.",
+    "answer": "C",
+    "explanation": "The superior suprarenal arteries arise from the inferior phrenic arteries; middle suprarenal from abdominal aorta; inferior suprarenal from renal arteries.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1717,13 +1717,13 @@ window.OpenPharmacyQuestions = [
         "Hemiazygous vein"
       ]
     ],
-    "answer": "D",
-    "explanation": "The left gonadal vein drains into the left renal vein which crosses the midline to join inferior vena cava. All the other options (Left renal vein, left brachiocephalic vein and hemiazygous vein) cross the midline.Ref: Human Anatomy, B D Chaurasia, 4th Edition, Volume 2, Chapter 24, Page 297, 307, 316; Clinical Anatomy by Systems, Richard S. Snell, 2007 Edition, Page 166, 167, 840.",
+    "answer": "A",
+    "explanation": "The left gonadal vein drains into the left renal vein and does not cross the midline. Left renal vein, left brachiocephalic vein, and hemiazygos vein cross the midline.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1760,13 +1760,13 @@ window.OpenPharmacyQuestions = [
         "Diabetics not responding to sulfonylureas"
       ]
     ],
-    "answer": "D",
-    "explanation": "(Ref:KDT 6/e p269) Metformin is the drug of choice for the treatment of obese diabetic patients, as it causes weight loss. It does not cause release of insulin, therefore less chances of hypoglycemia.",
+    "answer": "A",
+    "explanation": "Metformin primarily reduces hepatic gluconeogenesis and improves insulin sensitivity; it does not usually cause hypoglycemia and is not effective for lowering blood glucose in non-diabetic individuals.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1803,13 +1803,13 @@ window.OpenPharmacyQuestions = [
         "TMJ"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: TMJ.",
+    "answer": "A",
+    "explanation": "Pes anserinus refers to the conjoined tendons of sartorius, gracilis, and semitendinosus at the medial tibia, and also to the branching plexus of the facial nerve within the parotid gland.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1846,13 +1846,13 @@ window.OpenPharmacyQuestions = [
         "Insula"
       ]
     ],
-    "answer": "A",
-    "explanation": "Motor speech area of Broca (Brodmann's area 44, 45) occupies the opercular and triangular poions of the inferior frontal gyrus of the dominant hemisphere. Broca's area is formed of two minor gyri, called pars opercularis and pars triangularis, that lie in the posterior end of the inferior frontal gyrus. This area subserves expressive language function.",
+    "answer": "B",
+    "explanation": "Broca’s area is located in the inferior frontal gyrus of the dominant hemisphere, typically Brodmann areas 44 and 45.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1889,13 +1889,13 @@ window.OpenPharmacyQuestions = [
         "Loss of dorsiflexion"
       ]
     ],
-    "answer": "C",
-    "explanation": "The common peroneal nerve is extremely vulnerable to injury as it winds around the neck of the fibula if that happens, clinical features are:Motor loss-a)The foot drop is due to paralysis of muscles of anterior compament of the leg (dorsiflexors of the foot) {dorsiflexion not possible}.b)Loss of extension of toes due to the paralysis of extensor digitorum longus & extensor hallucis longus.c)Loss of eversion of the foot due to paralysis of peroneus longus & brevis.Sensory loss- Sensory loss on the anterior aspect of the leg & whole of the dorsum of foot except the cleft between the great & second toes, which is supplied by the branch from the deep peroneal nerve.",
+    "answer": "D",
+    "explanation": "Injury to the common fibular (peroneal) nerve at the fibular neck causes loss of dorsiflexion (foot drop), loss of toe extension, and sensory loss over dorsum of foot.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1932,13 +1932,13 @@ window.OpenPharmacyQuestions = [
         "Apical"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. is 'd' i.e., Apical o The apical group of axillary lymph node receives lymph from anterior (pectoral), posterior (subscapular), central and lateral (humeral) group of axillary lymph nodes. Hence apical group of lymph node is the terminal group of axillary lymph node.Axillary lymph nodeRelated vesselsAnterior (pectoral)Along lateral thoracic vesselsPosterior (scapular)Along subscapular vesselsLateralMedial to axillary veinApical (terminal or infraclavicular)Along axillary vessels",
+    "answer": "D",
+    "explanation": "The apical group of axillary lymph nodes receives lymph from the other axillary groups and is the terminal axillary drainage group.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -1960,7 +1960,7 @@ window.OpenPharmacyQuestions = [
     "options": [
       [
         "A",
-        "Hematogenous through poal vein."
+        "Hematogenous through portal vein."
       ],
       [
         "B",
@@ -1968,20 +1968,20 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "C",
-        "Hepatic aery"
+        "Hepatic artery"
       ],
       [
         "D",
         "Local spread"
       ]
     ],
-    "answer": "A",
-    "explanation": "\"Along with cryptogenic infections, infections from the biliary tree are presently the most common identifiable cause of the hepatic abscess. Biliary obstruction results in bile stasis, with the potential for subsequent bacterial colonization, infection and ascension into the liver. This process is k/a ascending suppurative cholangitis. The nature of biliary obstruction is mostly related to stone disease or malignancy. In Asia, intrahepatic stones and cholangitis (recurrent pyogenic cholangitis) is a common cause, whereas, in the Western world, malignant obstruction is becoming a more predominant factor\" Ref : Sabiston 18/e p1485",
+    "answer": "B",
+    "explanation": "Pyogenic liver abscess commonly arises from biliary tract infection/obstruction (ascending cholangitis), though routes vary by region and etiology. The provided explanation indicates biliary tree as the most common identifiable cause.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -2018,13 +2018,13 @@ window.OpenPharmacyQuestions = [
         "Furosemide"
       ]
     ],
-    "answer": "D",
-    "explanation": "SLE like syndrome is caused due to S-SULPHONAMIDES H-HYDRALAZINE I-ISONIAZIDE P-PROCAINAMIDE Ref-KDT 7/e p66",
+    "answer": "A",
+    "explanation": "Drug-induced lupus-like syndrome is associated with drugs such as hydralazine, procainamide, isoniazid, and some others.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -2061,13 +2061,13 @@ window.OpenPharmacyQuestions = [
         "Adrenaline"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Adrenaline.",
+    "answer": "A",
+    "explanation": "Methylphenidate is a first-line pharmacologic treatment for ADHD. Other options include amphetamines, atomoxetine, guanfacine, and clonidine depending on case.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -2085,32 +2085,32 @@ window.OpenPharmacyQuestions = [
     "objective": "anatomy · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Human Anatomy · Female reproductive tract",
-    "prompt": "The internal pudendal aery arises from which of the following aeries?",
+    "prompt": "The internal pudendal artery arises from which of the following aeries?",
     "options": [
       [
         "A",
-        "External iliac aery"
+        "External iliac artery"
       ],
       [
         "B",
-        "Inferior vesical aery"
+        "Inferior vesical artery"
       ],
       [
         "C",
-        "Internal iliac aery"
+        "Internal iliac artery"
       ],
       [
         "D",
-        "Inferior epigastric aery"
+        "Inferior epigastric artery"
       ]
     ],
-    "answer": "B",
-    "explanation": "The internal iliac aery divides into an anterior and a posterior trunk near the greater sciatic foramen.Branches of ANTERIOR TRUNKUmbilical aeryObturator aeryUterine aeryInferior vesical and vaginal aery (females)Middle rectal aeryInternal pudendal aeryInferior gluteal aeryBranches of POSTERIOR TRUNKIliolumbar aeryLateral sacral aerySuperior gluteal aery",
+    "answer": "C",
+    "explanation": "The internal pudendal artery arises from the anterior division of the internal iliac artery.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -2138,7 +2138,7 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "B",
-        "Poal Tracts"
+        "Portal Tracts"
       ],
       [
         "C",
@@ -2149,13 +2149,13 @@ window.OpenPharmacyQuestions = [
         "Hepatic Lobule"
       ]
     ],
-    "answer": "B",
-    "explanation": "Anatomical unit of liver - Hepatic Lobule Functional unit of liver- Liver Acinus",
+    "answer": "C",
+    "explanation": "The hepatic acinus is considered the functional unit of the liver, while the classic hepatic lobule is the anatomical unit.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -2259,7 +2259,7 @@ window.OpenPharmacyQuestions = [
     "objective": "anatomy · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Human Anatomy",
-    "prompt": "Not a branch of external carotid aery:-",
+    "prompt": "Not a branch of external carotid artery:-",
     "options": [
       [
         "A",
@@ -2279,7 +2279,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Branch of ECA: - Superior thyroid aery Lingual aery Facial aery Anteriorly Ascending pharyngeal aery medially Occipital aery Posteriorly Posterior auricular aery Superficial temporal aery Maxillary aery Terminal aery Branches of ICA Ophthalmic aery Anterior choroidal aery Anterior cerebral Middle cerebral Posterior communication aery.",
+    "explanation": "Branch of ECA: - Superior thyroid artery Lingual artery Facial artery Anteriorly Ascending pharyngeal artery medially Occipital artery Posteriorly Posterior auricular artery Superficial temporal artery Maxillary artery Terminal artery Branches of ICA Ophthalmic artery Anterior choroidal artery Anterior cerebral Middle cerebral Posterior communication artery.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2474,19 +2474,19 @@ window.OpenPharmacyQuestions = [
     "objective": "anatomy · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Human Anatomy",
-    "prompt": "In rectus sheath which branch of aoa make anastmosis with superior epigastric aery",
+    "prompt": "In rectus sheath which branch of aoa make anastmosis with superior epigastric artery",
     "options": [
       [
         "A",
-        "Subclan aery"
+        "Subclan artery"
       ],
       [
         "B",
-        "External iliac aery"
+        "External iliac artery"
       ],
       [
         "C",
-        "Internal iliac aery"
+        "Internal iliac artery"
       ],
       [
         "D",
@@ -2494,7 +2494,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "The external iliac aeries are two major aeries which bifurcate off the common iliac aeries anterior to the sacroiliac joint of the pelvis. They proceed anterior and inferior along the medial border of the psoas major muscles. They exit the pelvic girdle posterior and inferior to the inguinal ligament about one third laterally from the inseion point of the inguinal ligament on the pubic tubercle at which point they are referred to as the femoral aeries. The external iliac aery is usually the aery used to attach the renal aery to the recipient of a kidney transplant. Ref - BDC vol2 6e pg339 , britannica.com",
+    "explanation": "The external iliac aeries are two major aeries which bifurcate off the common iliac aeries anterior to the sacroiliac joint of the pelvis. They proceed anterior and inferior along the medial border of the psoas major muscles. They exit the pelvic girdle posterior and inferior to the inguinal ligament about one third laterally from the inseion point of the inguinal ligament on the pubic tubercle at which point they are referred to as the femoral aeries. The external iliac artery is usually the artery used to attach the renal artery to the recipient of a kidney transplant. Ref - BDC vol2 6e pg339 , britannica.com",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2582,7 +2582,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "(Ref: KDT 6/e p323) Isoxsuprine and ritodrine are selective b2 agonists useful as tocolytic agents for arresting labour. Pulmonary edema is an impoant adverse effect of these agents.",
+    "explanation": "(Ref: KDT 6/e p323) Isoxsuprine and ritodrine are selective b2 agonists useful as tocolytic agents for arresting labour. Pulmonary edema is an important adverse effect of these agents.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2756,7 +2756,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Lateral ventricle develops from the cavity of telencephalon. Third ventricle develops from diencephalon. Cavity of mesencephalon remains narrow and forms the aqueduct, while the cavity of rhombencephalon forms the fouh ventricle.",
+    "explanation": "Lateral ventricle develops from the cavity of telencephalon. Third ventricle develops from diencephalon. Cavity of mesencephalon remains narrow and forms the aqueduct, while the cavity of rhombencephalon forms the fourth ventricle.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2890,7 +2890,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "Pleomorphic adenomas or benign mixed tumors, are the most common neoplasms of the salivary glands. They represent approximately 60-70% of all parotid tumors and 90% of submandibular benign tumors. These neoplasms affect females more than males and are commonly seen in the third to sixth decades of life. Histologically, pleomorphic adenomas arise from the distal poions of the salivary ducts, including the intercalated ducts and acini.",
+    "explanation": "Pleomorphic adenomas or benign mixed tumors, are the most common neoplasms of the salivary glands. They represent approximately 60-70% of all parotid tumors and 90% of submandibular benign tumors. These neoplasms affect females more than males and are commonly seen in the third to sixth decades of life. Histologically, pleomorphic adenomas arise from the distal portions of the salivary ducts, including the intercalated ducts and acini.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3367,7 +3367,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "There are areas of colon with poor blood supply resulting from incomplete anastomosis of marginal aeries. These are watershed areas of colon and include :Splenic flexure (Griffith point) : Watershed area between superior mesenteric aery and inferior mesenteric aery.Rectosigmoid junction (Sudeck's point) : Watershed zone between inferior mesenteric aery and internal iliac aery.",
+    "explanation": "There are areas of colon with poor blood supply resulting from incomplete anastomosis of marginal aeries. These are watershed areas of colon and include :Splenic flexure (Griffith point) : Watershed area between superior mesenteric artery and inferior mesenteric artery.Rectosigmoid junction (Sudeck's point) : Watershed zone between inferior mesenteric artery and internal iliac artery.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3712,13 +3712,13 @@ window.OpenPharmacyQuestions = [
         "Depression"
       ]
     ],
-    "answer": "B",
-    "explanation": "Ans. is 'c' i.e., Elevation There are six extraocular muscles in each eye.MusclePrimary ActionSecondary ActionSuperior rectusElevationAdduction and intorsionInferior rectusDepressionAdduction and extorsionMedial rectusAdduction Lateral rectusAbduction Superior obliqueIntorsionAbduction and depressionInferior obliqueExtorsionAbduction and elevationo All the extra ocular muscles are supplied by the occulomotor nerve except for the superior oblique which is supplied by the trochlear nerve and the lateral rectus which is supplied by the abducens nerve.o The occulomotor nerve also supplies the levator palpebrae superioris, sphincter papillae and the ciliary muscle.",
+    "answer": "C",
+    "explanation": "The superior rectus primarily elevates the eye; secondary actions are adduction and intorsion.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -3929,13 +3929,13 @@ window.OpenPharmacyQuestions = [
         "Inferior petrosal sinus"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ans. A Cavernous sinusRef: Gray's Anatomy, 40th ed. Ch; 29* The upper most segment of the facial vein, above its junction with the superior labial vein, is also called the angular vein.* Any infection of the mouth or face can spread via the angular veins to the cavernous sinuses resulting in thrombosis.",
+    "answer": "A",
+    "explanation": "Infection from the angular/facial vein can spread to the cavernous sinus through valveless connections with ophthalmic veins.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -3972,13 +3972,13 @@ window.OpenPharmacyQuestions = [
         "Centromere"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans. B. NucleusThe spermatozoon consists of head, neck, and tail. The tail is further divided into three parts: middle piece, principle piece, and end piece.a. The head mainly consists of a nucleus that contains the condensed chromatin material (mostly DNA).b. Anterior two-third of the nucleus is covered by an acrosomal cap that contains various enzymes including hyaluronidase and acrosin.c. Neck contains a funnel-shaped basal plate and a centriole. The centriole gives rise to axial filament that extends throughout the tail.d. Middle piece contains the axial filament in the center that is surrounded by spirally arranged mitochondrial sheath.",
+    "answer": "B",
+    "explanation": "The sperm head is mainly formed by the condensed nucleus. The acrosome over the anterior nucleus is derived from the Golgi apparatus.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -4147,7 +4147,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "HUMAN EMBRYOLOGY-INDERBIR SINGH TENTH EDITION-PAGE NO:254 The arch of aoa is derived from the ventral pa of the aoic sac ,its left horn,and the left fouh arch aery",
+    "explanation": "HUMAN EMBRYOLOGY-INDERBIR SINGH TENTH EDITION-PAGE NO:254 The arch of aoa is derived from the ventral pa of the aoic sac ,its left horn,and the left fourth arch artery",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4189,13 +4189,13 @@ window.OpenPharmacyQuestions = [
         "Genital swelling"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. is 'd' i.e., Genital swelling Embryogical structureFate in femaleFate in maleGenital ridgeOvaryTestisGenital swellingLabia majoraScrotumGenital foldLabia minoraVentral aspect of penis penile urethraGenital tubercleClitorisGians penis",
+    "answer": "D",
+    "explanation": "The labia majora develop from the genital (labioscrotal) swellings. The labia minora develop from the urethral/genital folds.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -4232,13 +4232,13 @@ window.OpenPharmacyQuestions = [
         "Commoncarotid artery"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans. is 'b' i.e., Stapedial artery Pharyngeal ArchMuscular ContributionSkeletal ContributionsNerveArteryCorresponding Pouch Structures1st (mandibular arch)Muscles of mastication, Anterior belly of the digastric,Mylohyoid,Tensor tympani.Tensor veli palatiniMaxilla, mandible (only as a model for mandible not actual formation of mandible). Incus andMalleus, Meckel's cartilage, Ant. Ligament of malleus,SphenomandibularligamentTrigeminal nerve (V2 and V3)Maxillary artery,External carotid arteryEustachian tube,middleear, mastoid antrum,and inner layer ofthe tympanicmembrane.2nd (hyoid archMuscles of facialexpression,Buccinator,Pfatysma,Stapedius,Stylohoid,Posterior belly of the digastricStapes, St…",
+    "answer": "B",
+    "explanation": "The artery of the second pharyngeal arch is the stapedial artery. The maxillary artery is associated with the first pharyngeal arch.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -4361,13 +4361,13 @@ window.OpenPharmacyQuestions = [
         "Endocardium"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. is D. The most appropriate answer to this question is actually endocardial cushion.",
+    "answer": "D",
+    "explanation": "Cardiac jelly separates the developing myocardium and endocardium in the early heart tube and contributes to endocardial cushion formation; among the listed layers, endocardium is the best answer.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -4756,13 +4756,13 @@ window.OpenPharmacyQuestions = [
         "D"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. D. Supraclavicular nervesThe phrenic nerve consists of contributions from spinal nerve levels C3 to 5.Therefore, when sensory information comes from the parietal peritoneum on the inferior diaphragmatic surface, it may refer through spinal nerves at the same levels.a. Supraclavicular nerve shares levels with the C3 and C4 levels.b. The greater and lesser occipital nerves both originate at the C2 level.c. Great auricular nerve root value is C2, C3",
+    "answer": "D",
+    "explanation": "Pain from diaphragmatic parietal peritoneum is carried by the phrenic nerve (C3-C5) and may be referred to the shoulder/supraclavicular region (C3-C4).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -4928,13 +4928,13 @@ window.OpenPharmacyQuestions = [
         "Cytotrophoblasts"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ans. is 'a' i.e., Epiblast cells o Notochord is a bud like structure formed by epiblast cells extending from cranial end of primitive streak to caudal end of prochordal plate, in between the ectoderm and endoderm.o Siginificances of notochord includes followingi) It defines the axis of embryoii) It functions as the primary inductor, inducing the overlying ectoderm to develop into neural plate (the primordium of CNS).iii) It serves as the basis for development of axial skeleton. The notochord is an intricate structure around which vertebral column is formed and indicates future site of vertebral bodies. However, the notochord does not give rise to vertebral column, after development of verteb…",
+    "answer": "A",
+    "explanation": "The notochord develops from epiblast cells migrating through the primitive node/pit to form the notochordal process.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -5547,13 +5547,13 @@ window.OpenPharmacyQuestions = [
         "Intranuclear receptors"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans. is 'b' i.e., IGI-1GH has two major functions :-i) Growth of skeletal system :- The growth is mediated by somatomedins (IGF). Increased deposition of cailage (including chondroitin sulfate) and bone with increased proliferation of chondrocytes and osteocytes.ii) Metabolic effects :- Most of the metabolic effects are due to direct action of GH. These include gluconeogenesis, decreased peripheral utilization of glucose (decreased uptake), lipolysis and anabolic effect on proteins.",
+    "answer": "B",
+    "explanation": "Growth hormone promotes skeletal growth largely indirectly through IGF-1 (somatomedin C). GH also has direct metabolic effects.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -6212,7 +6212,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "D i.e. Mid diastole- During cardiac imaging (such as MRI, CT, electron beam tomography), mid diastolic phase (or diastasis) of cardiac cycle is usually (but not always) associated with lowest (minimum) mean motion of hea.Q- Optimum phase (i.e. with minimum cardiac motion) for cardiac and coronary vessel imaging is mid-diastole (diastasis) at low or intermediate hea rates; but is variable and may occur in late systole at high hea rates.Cardiac Motion and Imaging- Radiological imaging by CT and MRI can detect coronary aery disease in early stage. However, the use of these tools to cardiac imaging is severely limited because of motion aifacts produced by constantly in motion hea completing an e…",
+    "explanation": "D i.e. Mid diastole- During cardiac imaging (such as MRI, CT, electron beam tomography), mid diastolic phase (or diastasis) of cardiac cycle is usually (but not always) associated with lowest (minimum) mean motion of hea.Q- Optimum phase (i.e. with minimum cardiac motion) for cardiac and coronary vessel imaging is mid-diastole (diastasis) at low or intermediate hea rates; but is variable and may occur in late systole at high hea rates.Cardiac Motion and Imaging- Radiological imaging by CT and MRI can detect coronary artery disease in early stage. However, the use of these tools to cardiac imaging is severely limited because of motion aifacts produced by constantly in motion hea completing an e…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -6523,13 +6523,13 @@ window.OpenPharmacyQuestions = [
         "400 mg/dl"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans. is 'b' i.e., 200 mg/dl * The transport maximum for glucose is 375 mg/min whereas the filtered load of glucose is only 125 mg/min.* Therefore, in normal conditions 100% of glucose is reabsorbed in proximal tubules.* When plasma glucose concentration is 100 mg/dl the filtered load is at its normal level, 125 mg/min, there is no loss of glucose in the urine.* However, when the plasma concentration of glucose rises above about 200 mg/dl, increasing the filtered load about 250 mg/min, a small amount of glucose begins to appear in the urine.* This point is termed as threshold for glucose.* Note that this appearance of glucose in the urine occurs before the transport maximum is reached.* The r…",
+    "answer": "B",
+    "explanation": "Glucose begins to appear in urine when plasma glucose exceeds the renal threshold, approximately 180-200 mg/dL.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -7054,13 +7054,13 @@ window.OpenPharmacyQuestions = [
         "Loop of Henle"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ans. A Collecting ductRef: Ganong, 23rd ed. pg. 648* Aldosterone is secreted from adrenal cortex.* Action of aldosterone is localized to distal tubule are collecting duct.* Mechanism: Stimulates Na+K+ ATPase at basolateral end which generate gradient for movement of sodium ion from apical membrane causing an increase in sodium: reabsorption.",
+    "answer": "A",
+    "explanation": "Aldosterone acts mainly on principal cells in the late distal tubule and collecting duct, increasing Na+ reabsorption and K+/H+ secretion.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -7188,13 +7188,13 @@ window.OpenPharmacyQuestions = [
         "Hypothalamus"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. is 'd' i.e., Hypothalamus PyrogenesPyrogenes are substances that cause fever.Pyrogens may be exogenous or endogenousExogenous - Bacterial toxinsEndogenous - IL-1, TNF-a, IL-6, Interferons, Ciliory's neurotropic factorThese pyrogenes increase the level of PGE, in the hypothalamus that elevates the thermoregulatory set point and causes fever.",
+    "answer": "D",
+    "explanation": "Pyrogens increase PGE2 in the hypothalamus, raising the thermoregulatory set point and causing fever.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -7413,7 +7413,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "The plasma colloid osmotic pressure is often low in alcoholics with chronic liver disease (cirrhosis). The diseased liver cannot produce adequate amounts of albumin, which leads to a decrease in the concentration of albumin in the plasma, i.e., hypoalbuminemia. Because about 75% of the plasma colloid osmotic pressure can be attributed to the presence of albumin in the plasma, the decrease in plasma albumin concentration that occurs in the latter stages of cirrhosis often leads to peripheral edema. Cirrhosis also causes excess fluid to accumulate in the peritoneal cavity as ascites. In the case of ascites, the edema results not only from hypoalbuminemia, but also from poal vein obstruction (w…",
+    "explanation": "The plasma colloid osmotic pressure is often low in alcoholics with chronic liver disease (cirrhosis). The diseased liver cannot produce adequate amounts of albumin, which leads to a decrease in the concentration of albumin in the plasma, i.e., hyportalbuminemia. Because about 75% of the plasma colloid osmotic pressure can be attributed to the presence of albumin in the plasma, the decrease in plasma albumin concentration that occurs in the latter stages of cirrhosis often leads to peripheral edema. Cirrhosis also causes excess fluid to accumulate in the peritoneal cavity as ascites. In the case of ascites, the edema results not only from hyportalbuminemia, but also from portal vein obstruction (w…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7589,7 +7589,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Vitamin K is an essential factor to a liver carboxylase that adds a carboxyl group to glutamic acid residues on five of the impoant clotting factors: prothrombin, Factor VII, Factor IX, Factor X, and protein C.Ref: Guyton and Hall textbook of medical physiology 13th edition. Page: 490",
+    "explanation": "Vitamin K is an essential factor to a liver carboxylase that adds a carboxyl group to glutamic acid residues on five of the important clotting factors: prothrombin, Factor VII, Factor IX, Factor X, and protein C.Ref: Guyton and Hall textbook of medical physiology 13th edition. Page: 490",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7674,13 +7674,13 @@ window.OpenPharmacyQuestions = [
         "Decreases the production of ferritin by enterocytes"
       ]
     ],
-    "answer": "B",
-    "explanation": "Ans. C. Is a reducing agent, thereby helping to keep iron in the ferrous stateAscorbic acid enhances iron absorption mostly by its reducing capacity, keeping iron in the ferrous state. Ascorbic acid does not enhance heme iron absorption, nor does it affect heme oxygenase activity or the production of ferritin or transferrin.",
+    "answer": "C",
+    "explanation": "Ascorbic acid enhances non-heme iron absorption by reducing ferric iron (Fe3+) to the more absorbable ferrous form (Fe2+).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -7719,13 +7719,13 @@ window.OpenPharmacyQuestions = [
         "Tyrosine"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. is 'd' i.e., TVrosine Thyroid hormones (Important facts)o Thyroid hormones are T4 (throxine) and T3 (Triiodothyroxine)o Thyroid hormones are synthesised from amino acid tyrosine.o Their synthesis is regulated by TSH, a hormone secreted by anterior pituitary.o T3 is the active form and T4 is converted to T, in liver and kidney. Thus T4 mainly serves as transport form,o Circulating thyroid hormones are bound to thyroxine binding globulin fmain binding protein), throxine binding albumin and throxine binding prealbumin.o Thyroid hormone has two main function.i) Morphogenesis: - Growth & differentiation.ii) Calorigensis : - It increases all metabolism producing energy.",
+    "answer": "D",
+    "explanation": "Thyroid hormones T3 and T4 are synthesized from tyrosine residues on thyroglobulin.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -8074,7 +8074,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "Superior colliculus integrates impulses for eye-hand coordination to control rapid directional movements of the two eyes. VISUAL PATHWAY Other impoant areas of the brain involved in visual pathway: Suprachiasmatic nucleus of the hypothalamus, to control circadian rhythms; Pretectal nuclei in the midbrain, to elicit reflex movements of the eyes to focus on objects of impoance and to activate the pupillary light reflex; Superior colliculus, to control rapid directional movements of the two eyes; and Ventral lateral geniculate nucleus of the thalamus and surrounding basal regions of the brain, to help control some of the body's behavioral functions.",
+    "explanation": "Superior colliculus integrates impulses for eye-hand coordination to control rapid directional movements of the two eyes. VISUAL PATHWAY Other important areas of the brain involved in visual pathway: Suprachiasmatic nucleus of the hypothalamus, to control circadian rhythms; Pretectal nuclei in the midbrain, to elicit reflex movements of the eyes to focus on objects of impoance and to activate the pupillary light reflex; Superior colliculus, to control rapid directional movements of the two eyes; and Ventral lateral geniculate nucleus of the thalamus and surrounding basal regions of the brain, to help control some of the body's behavioral functions.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8252,7 +8252,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Endothelial cells constitute a large and impoant tissue. They secrete many growth factors and vasoactive substances. The vasoactive substances include prostaglandins and thromboxanes, nitric oxide, and endothelins.Lungs activate angiotensin I to angiotensin II; this reaction is paicularly prominent in the lungsRef: Ganong's Review of Medical Physiology;23rd edition; Page No: 606",
+    "explanation": "Endothelial cells constitute a large and important tissue. They secrete many growth factors and vasoactive substances. The vasoactive substances include prostaglandins and thromboxanes, nitric oxide, and endothelins.Lungs activate angiotensin I to angiotensin II; this reaction is paicularly prominent in the lungsRef: Ganong's Review of Medical Physiology;23rd edition; Page No: 606",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8475,7 +8475,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Pendrin protein is a chloride-iodide transpoer protein encoded by the gene responsible for Pendred syndrome, impoant in function of thyroid gland, kidney, and inner ear.Endocytosis is defined as the uptake by a cell of material from the environment by invagination of the plasma membrane; it includes both phagocytosis and pinocytosis.Antipo a cell membrane transpo mechanism that transpos two molecules at once through the membrane in opposite directions.Primary active transpo - Active transpo is the movement of all types of molecules across a cell membrane against its concentration gradient (from low to high concentration). In all cells, this is usually concerned with accumulating high concent…",
+    "explanation": "Pendrin protein is a chloride-iodide transpoer protein encoded by the gene responsible for Pendred syndrome, important in function of thyroid gland, kidney, and inner ear.Endocytosis is defined as the uptake by a cell of material from the environment by invagination of the plasma membrane; it includes both phagocytosis and pinocytosis.Antipo a cell membrane transpo mechanism that transpos two molecules at once through the membrane in opposite directions.Primary active transpo - Active transpo is the movement of all types of molecules across a cell membrane against its concentration gradient (from low to high concentration). In all cells, this is usually concerned with accumulating high concent…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8650,13 +8650,13 @@ window.OpenPharmacyQuestions = [
         "1.8"
       ]
     ],
-    "answer": "B",
-    "explanation": "Ans. is 'c' i.e., 0.6 o Overall V/Q ratio of lung-0.8o V/Q ratio at apex-3.0 (maximum)o V/Q ratio at base-0.6 (Least)",
+    "answer": "C",
+    "explanation": "At the lung base, perfusion increases more than ventilation, so V/Q is lower (about 0.6). At the apex it is about 3.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -8910,13 +8910,13 @@ window.OpenPharmacyQuestions = [
         "Residual volume"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C. Lung compliancea. TLC is the maximum volume to which the lungs can be expanded with the greatest possible inspiratory effort.b. TLC=IRV+TV+ERV+RV=IC+RVc. Compliance (stretch ability) of lungs: D is increased in Emphysema (obstructive lungs dis) and decreased in Interstitial pulmonary fibrosis (Restrictive lung disease). Compliance of lung is change in lung volume per unit change in airways pressure.d. TLC is increased in obstructive lung disease (eg. emphysema, COPD) and decreased in the restrictive lung disease (Interstitial pulmonary fibrosis).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -8998,13 +8998,13 @@ window.OpenPharmacyQuestions = [
         "5 meter/sec"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., 0.05 meter/sec Cardiac tissueConduction velocity (meter/second)SA node0 [?] 05Inteatrial pathways1Atrial muscle0 [?] 30AV node0 [?] 05 (minimum)Bundle of His1Purkinje system4 (maximum)Ventricular muscle1",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -9218,7 +9218,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "The sounds of Korotkoff are produced by turbulent flow in the brachial aery. When the aery is narrowed by the cuff, the velocity of flow through the constriction exceeds the critical velocity and turbulent flow results.",
+    "explanation": "The sounds of Korotkoff are produced by turbulent flow in the brachial artery. When the artery is narrowed by the cuff, the velocity of flow through the constriction exceeds the critical velocity and turbulent flow results.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9436,13 +9436,13 @@ window.OpenPharmacyQuestions = [
         "90 seconds"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. D 90 secondsRef: Datta, 8th ed. pg. 673The image shows LSCS being performed, with the head being delivered by hooking fingers carefully between the lower uterine flap. The head is delivered by elevation and flexion using the palm as fulcrum and the optimum time between the uterine incision and delivery should be less than 90 seconds.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -9525,13 +9525,13 @@ window.OpenPharmacyQuestions = [
         "LH"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A: OxytocinHormonal control of Breast development and secretion and ejection of milkProgesterone -- influences the growth in size of alveoli and lobes.Oestrogen -- stimulates the milk duct system to grow and become specific.Follicle stimulating hormoneLuteinizing hormoneProlactin -- contributes to the increased growth of the alveoli during pregnancy and formation of milkOxytocin -- oxytocin contracts the smooth muscle layer of band-like cells surrounding the alveoli to squeeze the newly-produced milk into the duct system. Oxytocin is necessary for the milk ejection reflex, or let-down to occur.Human placental lactogen (HPL) --This hormone appears to be associated with breast, nipple, an…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -9686,7 +9686,7 @@ window.OpenPharmacyQuestions = [
     "objective": "physiology · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Medical Physiology · Acid-base balance and homeostasis",
-    "prompt": "Most impoant from of carbon-dioxide transpo in the blood",
+    "prompt": "Most important from of carbon-dioxide transpo in the blood",
     "options": [
       [
         "A",
@@ -9774,7 +9774,7 @@ window.OpenPharmacyQuestions = [
     "objective": "physiology · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Medical Physiology · Urinary, skeletal and muscular physiology",
-    "prompt": "A 60-year old patient underwent renal aery doppler which shows narrowing and turbulence in right renal aery. If radius of the aery is reduced by 1/3rd, resistance to blood flow in right kidney would have increased by:",
+    "prompt": "A 60-year old patient underwent renal artery doppler which shows narrowing and turbulence in right renal artery. If radius of the artery is reduced by 1/3rd, resistance to blood flow in right kidney would have increased by:",
     "options": [
       [
         "A",
@@ -9794,7 +9794,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "\"Fouh power law\" of radius ~ Blood flow varies directly and resistance inversely with the fouh power of the radius (r 4). If the radius is changed by a factor of 3 (reduced by 1/3rd), resistance would change by (34).",
+    "explanation": "\"Fouh power law\" of radius ~ Blood flow varies directly and resistance inversely with the fourth power of the radius (r 4). If the radius is changed by a factor of 3 (reduced by 1/3rd), resistance would change by (34).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -10019,13 +10019,13 @@ window.OpenPharmacyQuestions = [
         "Touch"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C: Heat sensationLateral spinothalamic tract carries fibers of all type of pain and temperature impulses (both hot and cold)Spinothalamic tractIt transmits information to the thalamus about pain, temperature, itch and crude touch.The pathway decussates at the level of the spinal cord, rather than in the brainstem like the posterior column-medial lemniscus pathway and coicospinal tract.Posterior column-medial lemniscus pathway/dorsal column-medial lemniscus pathway/dorsal white column-medial lemniscus systemIt is the sensory pathway responsible for transmitting fine touch, vibration and conscious proprioceptive information from the body to the cerebral coex as well as tactile pressure, b…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -11220,13 +11220,13 @@ window.OpenPharmacyQuestions = [
         "30"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' > b' i.e., 24 One turn of the TCA cycle, staing with acetyl CoA produces 10 ATPs. When the staing molecule is pyruvate, the oxidative decarboxylation of pyruvate, the oxidative decarboxylation of pyruvate yields 2.5 ATPs and therefore, 12.5 ATPs are produced when staing compound is pyruvate. Since, two molecules of pyruvate enter the TCA cycle when glucose is metabolized (glycolysis produces 2 molecules of pyruvate), the number of ATPs is doubled. Therefore, 25 ATP molecules, per glucose molecule, are produced when pyruvate enters the TCA cycle.Note : Previously calculations were made assuming that NADH produces 3 ATPs and FADH generates 2 ATPs. This will amount a net generation…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -11531,13 +11531,13 @@ window.OpenPharmacyQuestions = [
         "L-Phenylalanine"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. d (L-Phenylalanine) (Ref. Biochemistry by Vasudevan, 4th ed., 57; 5th ed., 55-56)ALKALINE PHOSPHATASE# The pH optimum for the enzyme reaction is between 9 and 10.# It is activated by magnesium and manganese.# Zinc is a constituent ion of ALR# It is produced by osteoblasts of bone, and is associated with the calcification process.# It is localised in cell membranes (ecto-enzyme), and is associated with transport mechanisms in liver, kidney and intestinal mucosa.# For estimation, sodium phenyl phosphate is used as the substrate, pH is adjusted to 9.9, serum sample is added as the source of ALP and incubated.# Normal serum value of ALP is 40-125 U/L.# Raised Levels:Mild increasepregnancy.M…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -11620,13 +11620,13 @@ window.OpenPharmacyQuestions = [
         "DNA ligase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., DNA primase ProteinFunctionDNA polymerasesDeoxynucleotide polymerizationHelicasesProcessive unwinding of DNATopoisomerasesRelieve torsional strain that results from helicase-induced unwindingDNA primaseInitiates synthesis of RNA primersSingle-strand binding proteinsPrevent premature reannealling of dsDNADNA ligaseSeals the single strand nick between the nascent chain and Okazaki fragments on lagging strand",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -11977,13 +11977,13 @@ window.OpenPharmacyQuestions = [
         "Ketoacyl synthase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C. Acetyl-CoA carboxylase(Ref: Harper 31/e page 217)Fatty Acid Synthase (FAS) Multienzyme ComplexThe complex is a homodimer of two identical polypeptide monomers in which six enzyme activities and the acyl carrier protein (ACP)ACP contains the vitamin pantothenic acid in the form of 4'-phosphopantetheineX-ray crystallography of the three-dimensional structure, shown that the complex is arranged in an X shapeAcetyl-CoA carboxylase is not a part FAS ComplexQ.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -12022,13 +12022,13 @@ window.OpenPharmacyQuestions = [
         "Tryptophan"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c >d' i.e., Methionine > TryptophanLeucine and lysine are purely ketogenic.Trypotophan is not purely ketogenic, but it is ketogenic along with glucogenic. Methionine is purely glucogenic.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -12065,13 +12065,13 @@ window.OpenPharmacyQuestions = [
         "Vitamin B12"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. d (Vitamin B12) (Ref. H - 17th/pg. Table 71-1).Vitamins: Major FunctionsVITAMINFUNCTIONVitamin AA component of visual pigment; Maintenance of specialized epithelia; Maintenance of resistance to infectionVitamin DFacilitates intestinal absorption of calcium and phosphorus and mineralization of boneVitamin EMajor antioxidant; scavenges free radicalsVitamin KCofactor in hepatic carboxylation of procoagulants--factors II (prothrombin), VII, IX, and X; and protein C and protein S.Vitamin B1 (thiamine)As pyrophosphate, is coenzyme in decarboxylation reactions. Converted to coenzymes flavin mononucleotide and flavin adenine dinucleotide, cofactors for many enzymes in intermediary metabolismNia…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -12156,13 +12156,13 @@ window.OpenPharmacyQuestions = [
         "Histidine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., TyrosineAmino acidsBiological important compoundTyrosineCatecholamines (epinephrine, norepinephrine, dopamine), thyroxine, triiodothryonine, melanin.(Note : - Phenylalanine is the precursor of tyrosine, thus it can also give rise to all these compounds through tyrosine (phenylalanine - Tyrosine - Catecholamines, thyroxine, T3' melanin).TryptophanVitamin niacin, melatonin, SerotoninGlycine, Arginine, methionineCreatineGlycine, cysteineBile saltsGlycineHemeAspartic acid and glutaminePyrimidine basesGlycine, aspartic acid, glutaminePurine basesb-alanineCoenzyme-AArginineNitric oxideHistidine, Arginine, lysineKeratinMethionine, lysineCarnitineGABAGlutamateGlutamate, cysteine, g…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -12245,13 +12245,13 @@ window.OpenPharmacyQuestions = [
         "Obstructive jaundice"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. D. Obstructive jaundiceLaboratory tests in three different types of JaundiceConditionSerum BilirubinUrine UrobilinogenUrine BilirubinNormalDirect: 0.1-0.4mg/dL Indirect: 0.2-0.7mg/dL0-4mg/24hAbsentHemolytic anemiaIndirectIncreasedAbsentHepatitisDirect and indirectDecreased if micro-obstruction is presentPresent if micro-obstruction occursObstructive jaundiceDirectAbsentPresent",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -12331,13 +12331,13 @@ window.OpenPharmacyQuestions = [
         "Methionine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Hydroxylysine o The initial step in protein synthesis is the activation of amino acid in which each of the 20 amino-acids is covalently attached to their respective t-RNA, forming specific amino acyl t-RNA.o The reaction is catalyzed by ami noacyl t-RNA synthase.o Hydroxyproline and hydroxylysine are not represented into genetic code, i.e. they to not have t-RNA capable of accepting them and inserting them into polypeptide chain. Therefore, they have to be synthesized post-translational ly from proline and lysine residues in the polypeptides.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -12603,13 +12603,13 @@ window.OpenPharmacyQuestions = [
         "Mutation"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e. Degeneracy There are 20 amino acids, to be coded by 61 codons, so every amino acid except methionine and tryptophan are represented by more than one codon. This is k/a degeneracy or redundancy.The genetic code is made up of codons. Codons consist of a sequence of three nucleotides i.e. it is a triplet code. Since there are 4 different nucleotides, their various combination leads to 64 codons (43). Three of these codons do not code for any specific amino acid (known as nonsense codons) and are used as termination signals (hence also known as termination or stop codons. When one of these termination codons appear in an mRNA sequence, it signals that polymerization of amino aci…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -12738,13 +12738,13 @@ window.OpenPharmacyQuestions = [
         "IDL"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., LDL o Maximum triglyceride contento Maximum exogenous triglyceride o Maximum endogenous triglycerideo Maximum cholesterol content----ChylomicronsChylomicronsVLDLLDL",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -12957,13 +12957,13 @@ window.OpenPharmacyQuestions = [
         "7 a hydroxylase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., 5 a reductase* 5 a reductase is the enzyme which converts testosterone to dihydroxytestosterone (DHT).* Testosterone is sufficient to support male secondary sexual characteristics* Dihydroxytestosterone (DHT) is however, essential for male type external genitalia to get established. DHT is found to have higher affinity for the receptors, which are responsible for male external genital development, than testosterone. In addition DHT is found to cause prostrate hyperplasia.* Hence 5 a reductase is necessary for male type external genitalia to get established",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -13629,13 +13629,13 @@ window.OpenPharmacyQuestions = [
         "Carbonic Anhydrase IV"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B. Carbonic Anhydrase IIIn osteoporosis, also called as marble bone disease there is increased bone density. It is due to mutation in gene encodingcarbonic anhydrase II enzyme. The deficiency of this enzyme in osteoclasts leads to inability of bone resorption.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -14165,13 +14165,13 @@ window.OpenPharmacyQuestions = [
         "Lipids"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans. is 'b' i.e., Amino acids Impoant chemical reactions of amino acids Following are some impoant chemical reactions. A. Reaction used to determine amino acid sequence in polypeptide chain : - Generally, amino terminal (N-terminal) of amino acid is tagged with some reagent. It is split off by hydrolysis and tagged amino acid is identified. The reaction is, then, repeated with new N-terminal of subsequent amino acid and so on. The two reactions are used for identification of amino acid sequence : ? Sanger's reaction : - Uses Sanger's reagent ( 1 -fluoro-2,4-dinitrobenzene) to tag amino terminal. Edman's reaction : - Uses Edman's reagent (phenylisothiocyanate) to tag amino terminal. B. Reacti…",
+    "answer": "B",
+    "explanation": "Ans. is 'b' i.e., Amino acids Impoant chemical reactions of amino acids Following are some important chemical reactions. A. Reaction used to determine amino acid sequence in polypeptide chain : - Generally, amino terminal (N-terminal) of amino acid is tagged with some reagent. It is split off by hydrolysis and tagged amino acid is identified. The reaction is, then, repeated with new N-terminal of subsequent amino acid and so on. The two reactions are used for identification of amino acid sequence : ? Sanger's reaction : - Uses Sanger's reagent ( 1 -fluoro-2,4-dinitrobenzene) to tag amino terminal. Edman's reaction : - Uses Edman's reagent (phenylisothiocyanate) to tag amino terminal. B. Reacti…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -14568,13 +14568,13 @@ window.OpenPharmacyQuestions = [
         "Acid maltase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A. HGPRTaseSlide 1 showing nibbling of lips and fingers; slide 2 showing bite marks on hand inflicted by self. Self-mutilation seen in Lesch Nyhan Syndrome; characteristic of the disease in children.Clinical signs and symptoms seen in Lesch Nyhan Syndrome:a. Biochemical: Hyperuricemia, can result ini. Gout (Joint pains)ii. Nephrolithiasis (abdominal pain, may be radiating in nature)iii. Tophib. Neurological:i. Mental Retardation (Poor performance in school)ii. Dystonia, variablec. Neuropsychiatric:i. Aggressive Behaviour (frequent fight, quarreling with siblings)ii. Self-Mutilation Tendency (associated with muscle loss; biting, chewing, etc.)d. Inheritance is XLR, enzyme absent is HGPRT…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -14656,13 +14656,13 @@ window.OpenPharmacyQuestions = [
         "Activation of cyclic AMP production by insulin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B. Activation of triglyceride lipase as a result of hormone-stimulated increases in cyclic AMP levelsa. Lipolysis is directly regulated by hormones in adipocytes. Epinephrine stimulates adenylate cyclase to produce cyclic AMP, which in turn stimulates a protein kinase.b. The kinase activates triglyceride lipase by phosphorylating it. Lipolysis then proceeds and results in the release of free fatty acids and glycerol.c. A futile re esterification of free fatty acids is prevented, since adipocytes contain little glycerol kinase to phosphorylate the liberated glycerol, which must be processed in the liver. Inhibition of lipolysis occurs in the presence of insulin, which lowers cyclic AMP l…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -14774,7 +14774,7 @@ window.OpenPharmacyQuestions = [
     "options": [
       [
         "A",
-        "Coronary aery disease"
+        "Coronary artery disease"
       ],
       [
         "B",
@@ -14789,13 +14789,13 @@ window.OpenPharmacyQuestions = [
         "Neuropsychiatric manifestations"
       ]
     ],
-    "answer": "B",
-    "explanation": "Ans. is 'c' i.e., Hearing lossElevated level of homocysteine (hyperhomocysteinemia) is associated with -i) Thrombosis, coronary aery disease & stroke.ii) Osteoporosis & fracture.iii) Neuropsychiatric manifestations.iv) Developmental delay.v) Visual disturbances.vi) Microalbuminuria.",
+    "answer": "C",
+    "explanation": "Ans. is 'c' i.e., Hearing lossElevated level of homocysteine (hyperhomocysteinemia) is associated with -i) Thrombosis, coronary artery disease & stroke.ii) Osteoporosis & fracture.iii) Neuropsychiatric manifestations.iv) Developmental delay.v) Visual disturbances.vi) Microalbuminuria.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -14966,13 +14966,13 @@ window.OpenPharmacyQuestions = [
         "Planar"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B. FibrousBased on the shape of protein are classified into:Fibrous Protein#Elongated or Needle shaped or long cylindrical or rodlike a Minimum Solubility in water#Regular Secondary Structure#Axial Ratio >10#They are Structural Proteins, e.g. Collagen, Elastin, KeratinGlobular Proteins#Spherical or oval or Spheroidal in shape#Easily Soluble#Axial Ratio <3#They perform dynamic functions, e.g. Albumin, Globulin, most enzymes",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -15011,13 +15011,13 @@ window.OpenPharmacyQuestions = [
         "Vitamin A"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Niacin o Option a, c & d are themselves antioxidants, but glutatbion requires niacin as NADPH.o NADPH is necessary tor the maintenance of a reducing environment in the cell.o NADPH plays a key role in antioxidant defences by converting the oxidized glutathione into the reduced glutathione, which is protective.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -15101,13 +15101,13 @@ window.OpenPharmacyQuestions = [
         "EDS"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Thalassemiao Defective splicing (defect in snurps) is the most common mutation causing thalassemia,o Molecular defect in pathogens is of thalassemia:-b-Thalassemiao Most common type of genetic abnormality in b-thalassemia is point mutation i.e., nonsense.o Some may also occur due to deletion or insertion i.e., frame shift mutations,o Defect may occur at different steps of b-chain synthesis:i) Splicing mutationso Mutations leading to aberrant splicing are the most common cause of b-thalassemia.ii) Chain terminator mutationso This cause premature termination of mRNA translation.iii) Promoter region mutationso This results in transcription defect.a-Thalassemiao The most common…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -15372,13 +15372,13 @@ window.OpenPharmacyQuestions = [
         "Pinocytosis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C. Active TransportFree amino acids are absorbed across the intestinal mucosa by sodium-dependent active transport. There are several different amino acid transporters, with specificity for the nature of the amino acid side-chain.Transporters of Amino AcidsFor Neutral Amino acidsFor Basic Amino acids and Cysteine.For Imino Acids and GlycineFor Acidic Amino acidsFor Beta Amino Acids (Beta-Alanine)Meister's CycleFor absorption of Neutral Amino acids from Intestines, Kidney tubules and brain.The main role is played by Glutathione (GSH).For transport of 1 amino acid and regeneration of GSH 3 ATPs are required.Disorders associated with Meister's Cycle Oxoprolinuria5 Oxoprolinase deficiency l…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -16003,13 +16003,13 @@ window.OpenPharmacyQuestions = [
         "WAIS"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., MMSE o The most w idely used test for bedside evaluation of the mental status is folstein's mini mental state examination (MMSE).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -16222,13 +16222,13 @@ window.OpenPharmacyQuestions = [
         "30"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans.D.30ExplanationMMSE or Folstein test is a simplified form of routine cognitive status examination. It is routinely used to track improvement and deterioration. It includes following points:Orientation to time-5Orientation to place-5Registration-3Attention and calculation-5Recall-3Language-2Repetition-1Complex commands-6Total score-30, score less than 24 indicates cognitive impairment.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -16490,13 +16490,13 @@ window.OpenPharmacyQuestions = [
         "NF1"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Pol III gene Alcohol induces pol III gene (RNA polymerase III-dependent genes) transcription in vivo and in vitro. Brfl specifically regulates pol III gene transcription. Changes in pol III gene and Brfl expression tightly link to cell transformation and tumor formation. Alcohol induced deregulation of pol III genes may be fundamental to the development of breast cancer.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -16942,13 +16942,13 @@ window.OpenPharmacyQuestions = [
         "Saline water"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. a (10% glycerin). (Ref. Parikh, FMT, 5th/pg.l68)PHENOL OR CARBOLIC ACID POISONING# Corrosive poison# Hardening of the tissues occurs with it.# Thorough gastric lavage with 10% glycerine in water + MgS04 till phenolic odour emited.# Then, about 2 ounces of liquid may be left in stomach.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -17209,13 +17209,13 @@ window.OpenPharmacyQuestions = [
         "Arrhythmia Assessment"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Angina AssessmentThe London school of Hygjne chest pain questionnaire-The Rose questionaire (version for self administration)PARTAa)Have you ever had any pain or discomfort in your chest# Yes# Nob) Do you get this pain or discomfort when you walk uphill or hurry?# Yes# Noc) Do you get it when you walk at an ordinary pace on the level?# Yes# Nod) When you get any pain or discomfort in your chest what do you do ?# Stop# Slow down# Continue at the same pacee)Does it go away when you stand still?# Yes# Nof) How soon# 10 minutes or less# More than 19 minutesg) Where do you get this pain or discomfort? Mark the place (s) with an X on the diagram.PARTBHave you ever had a severe pa…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -17252,13 +17252,13 @@ window.OpenPharmacyQuestions = [
         "NADP' to NADPH"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., NADH to NAD,Ethyl alcohol (ethanol) is readily absorbed from GIT and degraded by oxidation (oxidative process).Liver is the major site for ethanol oxidation.Excess alcohol intake leads to excessive production of NADH with a concomitant decrease in NAD+ which causes Hypoglycemia, Inhibition of p- oxidation of fatty acids and citric acid cycle, Increased lipogenesis, Accumulation of lipids, Lactic acidosis and hyperuricemia.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -17388,7 +17388,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Depressive pseudodementia- depression in the elderly people may mimic dementia clinically. Identification of depression is very impoant as it is far more easily treatable than dementia. (Ref: a sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no.23)",
+    "explanation": "Depressive pseudodementia- depression in the elderly people may mimic dementia clinically. Identification of depression is very important as it is far more easily treatable than dementia. (Ref: a sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no.23)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -17520,13 +17520,13 @@ window.OpenPharmacyQuestions = [
         "Acamprosate"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. b. Disulfiram Disulfiram should not be used in alcohol dependent patients as it can cause severe disulfiram-ethanol reaction. Alcohol sensitizing drugs (Deterrent agents) DisulfiramQ Sulfonylureas (especially ChlorpropamideQ Citrated calcium carbimide (CCC) Cephalosporins: MetronidazoleQ CefoperazoneQ NitrafezoleQ MoxalactamQ Methyltetrazolethiol CefamandoleQ",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -17610,13 +17610,13 @@ window.OpenPharmacyQuestions = [
         "Clonidine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. b (Ethyl alcohol). (Ref. Harrison, Medicine, 18th/Ch. 47)TREATMENT OF METHYL ALCOHOL POISONING# Patient in quiet, dark room# Gastric lavage with sodabicarb and Combat acidosis by IV sodabicarb infusion (the most vital measure, prevents retinal damage).# Ethanol 100mg/dl (retards methanol metabolism), Fomepizole (specific alcohol dehydrogenase inhibitor) and Haemodialysis are useful.PoisioningFeaturesRxEthylene Glycol (anti-freeze)High anion gap Metabolic acidosis and severe damage to the CNS, heart, lungs, and kidneys.Prompt institution of a saline or osmotic diuresis, thiamine and pyridoxine supplements, fomepizole or ethanol, and hemodialysis.Methanol (wood alcohol)Causes high anion g…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -17790,13 +17790,13 @@ window.OpenPharmacyQuestions = [
         "Clonidine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. c. Diazepam (Ref: Niraj Ahuja 6th/39-40; Kaplan Synopsis 10th/396)'Long acting benzodiazepines such as chlordiazepoxide and diazepam or short acting such as lorazepam can be used to treat mild-moderate uncomplicated alcohol withdrawal.''Chlordiazepoxide is preferred over diazepam for treatment of alcohol withdrawal syndrome.'Management ofAlcohol IntoxicationAlcohol WithdrawalDelirium TremensDrugs used are:* Lorazepam (can worsen the vitals due to CNS depression)* Haloperidol (can lower seizure threshold)Other drugs which may be used:* Ziprasidone* Olanzapine* All patients should be given multiple oral vitamin B1 including 50-100 mg of thiamine daily for a week.* Replace alcohol (CNS dep…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -17970,13 +17970,13 @@ window.OpenPharmacyQuestions = [
         "Jamaican vomiting sickness"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. D. Jamaican vomiting sickness* The fruit given in picture is Ackee apple fruit seen in Africa.* The fruit contains a toxin hypoglycin that inhibit acyl-CoA dehydrogenase.* Lack of beta oxidation results in lack of ATP and acetyl-Co A, which decreases gluconeogenesis.* This result in hypoglycaemia.* No ketone bodies due to lack of beta oxidation.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -18240,13 +18240,13 @@ window.OpenPharmacyQuestions = [
         "Pyridoxine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Thiamine Wernike's encephalopathyo This is caused by thiamine deficiency.o There are acute degenerative changes in thalamus, hypothalamus and mammillary bodies,o Signs are: confusion, ocular paresis and nystagmus, staggering gait and peripheral neuropathy.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -18999,13 +18999,13 @@ window.OpenPharmacyQuestions = [
         "Atrial fibrillation"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Answer is D (Atrial fibrillation) Atrial fibrillation is the most common arrhythmia appearing after a drinking binge. Fibrillation is followed by atrial flutter and ventricular premature depolarization in frequency.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -19846,13 +19846,13 @@ window.OpenPharmacyQuestions = [
         "Strychnine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Red chilli o Hunan hand is severe burning lesions of fingers in persons handling dried red chilly powder for prolonged period. \"Hunan hand is contact dermatitis caused due to chili (capsicum) \"",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -20159,13 +20159,13 @@ window.OpenPharmacyQuestions = [
         "Occipital"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A. FrontalNeurological and Neuropsychologic Findings with Localizing ValueFrontal lobesPrefrontal: Contralateral grasp reflex, Personality changes, executive functioning deficits (inability to formulate goals, to plan, and to effectively carry out these plans), decreased oral fluency (dominant hemisphere), decreased design fluency (nondominant hemisphere), motor perseveration or impersistence, and inability to hold set Posterior Contralateral hemiparesis; decreased motor strength, speed, and coordination; and Broca's aphasia Temporal lobes: Partial complex seizures, contralateral homonymous inferior quadrantanopsia, Wernicke's aphasia, decreased learning and retention of verbal material…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -20202,13 +20202,13 @@ window.OpenPharmacyQuestions = [
         "Pompe's disease"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "ANS. AGlycogen-storage diseasesTypeDefective enzymeOrgan affectedGlycogen in the affected organClinical featuresI Von GierkeGlucose- 6-phosphataseLiver and kidneyIncreased amount; normal structureMassive enlargement of the liver.Failure to thrive.Severe hypoglycemia, ketosis, hyperuricemia, hyperlipemiaII Pompea-1,4-glucosidase (lysosomal)All organsMassive increase in amount; normal structureCardiorespiratory failure causes death, usually before age 2III CoriAmylo-1,6-glucosidase (debranching enzyme)Muscle and liverIncreased amount; short outer branchesLike type I but milder courseIV AndersenBranching enzyme (a-1, 4 - a-1, 6)Liver and spleenNormal amount; very long outer branchesProgressive…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -20380,13 +20380,13 @@ window.OpenPharmacyQuestions = [
         "Acetic acid"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Formic acid o Formic acid is the primary agent responsible for the toxic effects and occular complications.o Methanol is metabolized to formaldehyde (by alcohol dehydrogenase) and formic acid (by acetaldehyde dehydrogenase).o It is the accumulation of formic acid which causes toxic effects in methanol poisoning. Accumulation of formic acid results in lactic acidosis/high anion gap metabolic acidosis with low plasma bicarbonates, blindness due to retinal damage, papilledema and optic atrophy.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -20470,13 +20470,13 @@ window.OpenPharmacyQuestions = [
         "Acetic acid"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Formic acid o Formic acid is the primary agent responsible for the toxic effects and occular complications.o Methanol is metabolized to formaldehyde (by alcohol dehydrogenase) and formic acid (by acetaldehyde dehydrogenase).o It is the accumulation of formic acid which causes toxic effects in methanol poisoning. Accumulation of formic acid results in lactic acidosis/high anion gap metabolic acidosis with low plasma bicarbonates, blindness due to retinal damage, papilledema and optic atrophy.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -20603,13 +20603,13 @@ window.OpenPharmacyQuestions = [
         "Bupivacaine"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. d (Bupivacaine ) (Ref. Lee anaesthesia 12th/ 591 & Anaesthesia by Ajya yadav, 2nd, pg 105)LOCAL ANESTHETIC AGENTSEstersAmidesAll metabolised by pseudocholinesterase except cocaineMetabolised in liverHigh chances of allergic reactionsLow chances of allergic reactionsUntable solutionStable solutionEg: Amethocaine (Tetracaine)BupivacaineBenzocaineEtidocaineCocaineLignocaineChlorprocaineMepivacaineProcainePrilocaineHint: Letter Y appears twice in the name of ail amides, while it appears only once in esters.Local anesthetic agentsSubclassMechanism of ActionEffectsClinical ApplicationsPharmacokinetics, ToxicitiesAmidesLidocaineBlockade of sodium channelsSlows, then blocks action potential pro…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -20693,13 +20693,13 @@ window.OpenPharmacyQuestions = [
         "Cognition"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e. Thought Delusion is a disorder of the thought Delusion sociocultural of the patient's* A false unshakable belief which is not amenable to reasoning and is not in keeping with the patient's and educational background.(i) Because delusions are fixed, false beliefs, they cannot be corrected by the physician. Contradiction delusional belief may cause the patient to become angry and stop the interview.A-96 (ii) The physician should not pretend to agree with the delusion but should take a neutral position and continue the examination.The other thought disorder is obsessionObsessionObsessions are persistent intrusive thoughts, ideas or impulses.The patient realizes that the ideas d…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -23961,13 +23961,13 @@ window.OpenPharmacyQuestions = [
         "Iron deficiency anemia"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A: Hereditary spherocytosisThe normal red blood cell is a relatively impermeable biconcave disc which maintains osmotic equilibrium with the surrounding medium. As the surrounding medium becomes hypotonic, fluid will be taken into the cell to maintain stability. Eventually under very hypotonic conditions the cell will fill to capacity and rupture. Spherocytic red blood cells have a decreased capacity to expand, and will rupture in mildly hypotonic conditions that fail to lyse normal red cells. They thus exhibit increased osmotic fragility.Osmotic fragility is determined by measuring the degree of hemolysis in hypotonic saline solution. With the unincubated test, red cell osmotic fragili…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -24399,13 +24399,13 @@ window.OpenPharmacyQuestions = [
         "Arginine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. aRef.: Harper's Illustrated Biochemistry, 30th edn.Option aTrueYes, due to its pyrolidone ring is stable at neutral pH (pH 7)Option bFalseNo, glycine is simplest amino acid and not affected by pHOption cFalseNo, it is steric hinderance is there due to branched chain amino acidOption dFalseNo, false, it is not affected by pH due to guanidino groupOption eFalseNo, not affected due to aromaticityAt physiological pH (around 7.4) the carboxyl group of the amino acid is unprotonated and the amino group is protonated. Thus an amino acid with no ionizable R-group would be electrically neutral at this pH. This species is termed a zwitterion.Histidine is a unique amino acid as pKa of its imidazol…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -24530,13 +24530,13 @@ window.OpenPharmacyQuestions = [
         "Cytochrome A"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Cytochrome p450 o Biotransformation reactions (metabolism) of drugs can be classified :A. Non-synthetic (phase I) reactions# Metabolism brings about a change in the drug molecule by:1. Oxidation2. Reduction3. Hydrolysis4. Cyclization5. Decyclization# The new metabolite may retain biological activity or it may be an inactive metabolite.# Oxidation is the most important metabolizing reaction.# The most important enzyme for oxidation reaction is cytochrome P450B.Synthetic (phase II or conjugation) reaction# Metabolism involves union of the drug with one of several polar (water-soluble) endogenous molecules that are products of intermediary metabolism, to form a water-soluble c…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -24836,7 +24836,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "Pepsin is an enzyme that breaks down proteins into smaller peptides (that is, a protease). It is produced in the stomach and is one of the main digestive enzymes in the digestive systems of humans and many other animals, where it helps digest the proteins in food. Pepsin exhibits maximal activity at pH 2.0 and is inactive at pH 6.5 and above, however, pepsin is not fully denatured or irreversibly inactivated. Therefore, pepsin in the solution of up to pH 8.0 can be reactivated upon re-acidification. Lowering pH does not denature many proteins. Unfolding, yes; denaturation, no. Hydrogen bonds play an impoant role in stabilizing pepsin. Lowering pH does not necessarily break the hydrogen bond…",
+    "explanation": "Pepsin is an enzyme that breaks down proteins into smaller peptides (that is, a protease). It is produced in the stomach and is one of the main digestive enzymes in the digestive systems of humans and many other animals, where it helps digest the proteins in food. Pepsin exhibits maximal activity at pH 2.0 and is inactive at pH 6.5 and above, however, pepsin is not fully denatured or irreversibly inactivated. Therefore, pepsin in the solution of up to pH 8.0 can be reactivated upon re-acidification. Lowering pH does not denature many proteins. Unfolding, yes; denaturation, no. Hydrogen bonds play an important role in stabilizing pepsin. Lowering pH does not necessarily break the hydrogen bond…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24878,13 +24878,13 @@ window.OpenPharmacyQuestions = [
         "Etomidate"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Theophylline 1 o Drugs showing zero/pseudo-zero order kinetics :# Phenytoin# Tolbutamide# Theophylline# Warfarin# Alcohol# Salicylates (Aspirin)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -24902,7 +24902,7 @@ window.OpenPharmacyQuestions = [
     "objective": "physical chemistry · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Physical Chemistry",
-    "prompt": "Which of the following is an impoant disinfectant on account of effectively destroying gram positive and gram negative bacteria, viruses and even spores at low pH levels -",
+    "prompt": "Which of the following is an important disinfectant on account of effectively destroying gram positive and gram negative bacteria, viruses and even spores at low pH levels -",
     "options": [
       [
         "A",
@@ -25093,13 +25093,13 @@ window.OpenPharmacyQuestions = [
         "Myosin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd'i.e.. Myosin o The inner hair cells of organ of corti have 50-200 ciliated structure called stereocilia.o The top of each stereocilium is linked to the side of next adjacent higher stereocilium by means of a thin filamentous strucuture called the tip-link.o Mechanically gated ion channels are located at these attachment points on the sides of stereocilia.o Each stereocilium comprises of several actin filaments encased by a plasma membrane.o The opening and closing of the ion channels is accomplished through the binding and unbinding of proteins at terminal ends of the tip links with a group of channel motor proteins (myosin) which move up and down the actin filaments of stereocili…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -25441,13 +25441,13 @@ window.OpenPharmacyQuestions = [
         "50.00%"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. a (93.75 %). (Ref. KDT, Pharmacology, 4th ed., 53)Elimination of drugsZero order eliminationRate of elimination is constant regardless of C (i.e., constant amount of drug eliminated per unit time). Cp linearly with time. Examples of drugs--ethanol., phenytoin aspirin (at high or toxic concentrations).First order eliminationRate of elimination is proportional teo the drug concentration (i.e., constant fraction of drug eliminated per unit time). Cp exponentially with time. tl/2Drug eliminated1 t 1/2 50% drug is eliminated.2 t 1/2 75% (50 + 25) drug is eliminated.3 t 1/2 87.50% (50+ 25 + 12.50) drug is eliminated.4 t 1/2 93.75% (50+ 25 + 12.50 + 6.25) drug is eliminated.Thus, complete drug…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -25484,13 +25484,13 @@ window.OpenPharmacyQuestions = [
         "Metabolic alkalosis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Answer is B (Respiratory acidosis) The acid base disorder is respiratory acidosis. There is acidosis (pH : low) Raised pCO2 (acidosis) indicates that the change in CO2 is therefore primary Normal bicarbonate indicates that there is no alteration in the metabolic component The acid base disorder therefore is Respiratory acidosis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -25659,7 +25659,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "According to the Van't Hoff equation, an ideal solution containing 1 mole of dissolved paicles per liter of solvent at 0deg C will have an osmotic pressure of 22.4 atm Ref guyton and hall textbook of medical physiology 12/e pg159",
+    "explanation": "According to the Van't Hoff equation, an ideal solution containing 1 mole of dissolved particles per liter of solvent at 0deg C will have an osmotic pressure of 22.4 atm Ref guyton and hall textbook of medical physiology 12/e pg159",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -25703,13 +25703,13 @@ window.OpenPharmacyQuestions = [
         "Cytochrome A"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Cytochrome p450 o Cytochrome p450 enzymes are microsomal enzymes that are involved in phase I metabolism of many drugs,o Most of the drugs are metabolized by CYP 3 A4 isoform.Drug metabolizing enzymeso The drug metabolizing enzymes are divided into two types :MicrosomalThese are located on smooth endoplasmic reticulum primarily in liver, also in kidney, intestinal mucosa and lungs.Examples are monooxygenase, cytochrome P450, glucronyl transferase.They catalyze most of the oxidation, reduction, hydrolysis and glucuronide conjugation.They are inducible by drugs, diet and other agencies.Non microsomalThese are present in the cytoplasm and mitochondria of hepatic cells as well…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -31600,7 +31600,7 @@ window.OpenPharmacyQuestions = [
     "objective": "microbiology · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Medical Microbiology, Parasitology and Immunology",
-    "prompt": "What is the most probable poal of entry of Aspergillus?",
+    "prompt": "What is the most probable portal of entry of Aspergillus?",
     "options": [
       [
         "A",
@@ -31620,7 +31620,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Aspergillus species are widely distributed on decaying plants, producing chains of conidia. Aspergillus species unlike Candida species do not form the pa of normal flora of humans. They are ubiquitous in the environment; hence transmission of infection is mostly exogenous. Aspergillus transmission occurs by inhalation of airborne conidia. Risk Factors for invasive aspergillosis are: Glucocoicoid use (the most impoant risk factor) Profound neutropenia or Neutrophil dysfunction Underlying pneumonia or COPD, tuberculosis or sarcoidosis Antitumor necrosis factor therapy.",
+    "explanation": "Aspergillus species are widely distributed on decaying plants, producing chains of conidia. Aspergillus species unlike Candida species do not form the pa of normal flora of humans. They are ubiquitous in the environment; hence transmission of infection is mostly exogenous. Aspergillus transmission occurs by inhalation of airborne conidia. Risk Factors for invasive aspergillosis are: Glucocoicoid use (the most important risk factor) Profound neutropenia or Neutrophil dysfunction Underlying pneumonia or COPD, tuberculosis or sarcoidosis Antitumor necrosis factor therapy.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -31708,13 +31708,13 @@ window.OpenPharmacyQuestions = [
         "RSV"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., EBV EBV encephalomyelitis shows :Abnormal white matter with perivascular infiltrates of inflammatory cells and foam cells.Some myelin is replaced by lipid-filled macrophages and hyperplastic astrocytes.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -32016,7 +32016,7 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Single umbilical aery"
+        "Single umbilical artery"
       ]
     ],
     "answer": "B",
@@ -32105,13 +32105,13 @@ window.OpenPharmacyQuestions = [
         "Hepadnavirus"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Enterovirus 70 Acute hemorrhagic conjunctivitis (AHC) may be caused by adenoviruses, but two enteroviruses, enterovirus 70 and coxsackie A24 variant, are the major causes.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -32238,13 +32238,13 @@ window.OpenPharmacyQuestions = [
         "Peptostreptococcus"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans. is 'b' i.e., Clostridia There are two medically impoant spore forming bacteria. Both of them are 'gram positive' `bacilli' :-Aerobic : BacillusAnaerobic (obligate anaerobes) : Clostridia.",
+    "answer": "B",
+    "explanation": "Ans. is 'b' i.e., Clostridia There are two medically important spore forming bacteria. Both of them are 'gram positive' `bacilli' :-Aerobic : BacillusAnaerobic (obligate anaerobes) : Clostridia.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -32283,13 +32283,13 @@ window.OpenPharmacyQuestions = [
         "M leprosy"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., M. Marinum o Fish tank granulomaalso called ' swimming pool granuiomaf is caused by M. marinum.Principal types of opportunist mycobacterial disease in man and the usual causative agents.DiseasesUsual causative agentLymphadenopathyM. avium complexM. scrofulaceumSkin lesionPost-trauma abscessSwimming pool granulomaBuruli ulcerM. chelonaeM.fortuitumM. terraeM.marinumM. ulceransPulmonary' diseaseM. avium complexM. kansasiiM.xenopiM.malmoenseDisseminated diseaseAIDS-relatedM, avium complexM.genevenseM.avium complexM. chelonae",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -32458,13 +32458,13 @@ window.OpenPharmacyQuestions = [
         "Caecum"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. D: Caecum Adult Enterobius vermicularis worms inhabit the caecum, appendix and adjacent poions of the ascending colon, lying closely applied to the mucosal surface. Pinworm (genus En terobius)/Threadworm/Seatworm, It is a nematode (roundworm) and a common human intestinal parasite, especially in children. It inhabits the caecum, appendix and adjacent poion of the ascending colon, lying closely applied to the mucosal surface It causes enterobiasis, or less precisely as oxyuriasis in reference to the family Oxyuridae. The pinworm appears as a white, small and delicate nematode. The adult female has a sharply pointed posterior end, is 8 to 13 millimeters long, and 0.5 millimeter thick. The…",
+    "answer": "D",
+    "explanation": "Ans. D: Caecum Adult Enterobius vermicularis worms inhabit the caecum, appendix and adjacent portions of the ascending colon, lying closely applied to the mucosal surface. Pinworm (genus En terobius)/Threadworm/Seatworm, It is a nematode (roundworm) and a common human intestinal parasite, especially in children. It inhabits the caecum, appendix and adjacent poion of the ascending colon, lying closely applied to the mucosal surface It causes enterobiasis, or less precisely as oxyuriasis in reference to the family Oxyuridae. The pinworm appears as a white, small and delicate nematode. The adult female has a sharply pointed posterior end, is 8 to 13 millimeters long, and 0.5 millimeter thick. The…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -33214,13 +33214,13 @@ window.OpenPharmacyQuestions = [
         "Sporo-zoonoses"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Meta-zoonoses Zoonoseso Zoonoses are diseases and infections which are naturally transmitted between vertebrate animal and man.o The zoonoses may be classified according to the direction of transmission of disease : -AnthropozoonosesInfection is transmitted to man from lower vertebrate animals.Examples - Rabies, plague, hydatid disease, anthrax, trichinosis,ZoonthroponosesInfection is transmitted from man to lower vertebrate animalsExamples - Human tuberculosis in cattle3. AmphixenosesInfection is maintained in both man and lower vertebrate animals that may be transmitted in either direction.Examples - T. cruzt S. japonicum.Based on the type of life cycle of infecting organ…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -33259,13 +33259,13 @@ window.OpenPharmacyQuestions = [
         "Entamoeba histolytica"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Giardiasis . Mobile protozoa with absence of RBC's and pus cells in stools in a patient with diarrhoea suggests giardiasis. . In balantidum cob and entomoeba histolytica infections, pus cells and RBC's will be present in stools. Trichomonas hominis is considered as non-pathogenic",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -33883,13 +33883,13 @@ window.OpenPharmacyQuestions = [
         "12 to 25 days"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., 2 to 15 days Incubation period of gonorrhea is 2 - 8 days.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -34057,13 +34057,13 @@ window.OpenPharmacyQuestions = [
         "Glutaraldehyde"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "ANS. B# Spaulding's classification for sterilization1. Critical, e.g. heart lung machine, scalpel (contact with blood)2. Semicritical, e.g. endoscopes3. Noncritical, e.g. stethoscope, BP cuff, plasters.Method of sterilization1. Critical: Autoclave/ethylene oxide2. Semicritical: 2% glutaraldehyde for 20 minutes3. For plastic tubes: Gamma rays",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -34276,13 +34276,13 @@ window.OpenPharmacyQuestions = [
         "Adenovirus"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Adenovirus . Adenovirus type 12 and 18 produce sarcoma when inoculated into baby hamsters. . However there is no evidence at all relating adenoviruses to natural malignancy in human or animals. . All other viruses given in option are oncogenic in man.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -34364,13 +34364,13 @@ window.OpenPharmacyQuestions = [
         "Fresh water snail"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. D i.e. Fresh water snail Schistosoma haematobium It is an impoant digenetic trematode, and is found in the Middle East, India, Pougal and Africa. It is a major agent of schistosomiasis; more specifically, it is associated with urinary schistosomiasis. Adults are found in the Venous plexuses around the urinary bladder and the released eggs traverse the wall of the bladder causing haematuria and fibrosis of the bladder. The bladder becomes calcified, and there is increased pressure on ureters and kidneys otherwise known as hydronephrosis. Inflammation of the genitals due to S. haematobium may contribute to the propagation of HIV. Studies have shown the relationship between S. haematobium…",
+    "answer": "D",
+    "explanation": "Ans. D i.e. Fresh water snail Schistosoma haematobium It is an important digenetic trematode, and is found in the Middle East, India, Pougal and Africa. It is a major agent of schistosomiasis; more specifically, it is associated with urinary schistosomiasis. Adults are found in the Venous plexuses around the urinary bladder and the released eggs traverse the wall of the bladder causing haematuria and fibrosis of the bladder. The bladder becomes calcified, and there is increased pressure on ureters and kidneys otherwise known as hydronephrosis. Inflammation of the genitals due to S. haematobium may contribute to the propagation of HIV. Studies have shown the relationship between S. haematobium…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -34409,13 +34409,13 @@ window.OpenPharmacyQuestions = [
         "B. malayi"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Onchocerca(Ref: Harrison, 19th/e, p. 1421)* Onchocerciasis is also known as River blindness Q and fly involved is Simulium fly.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -34762,13 +34762,13 @@ window.OpenPharmacyQuestions = [
         "Group D"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. b (Group B). (Ref. Textbook of microbiology by Ananthanarayan 6th ed. 187).Serological or Lancefield classification system for streptococci1Group A streptococciCatalase -,Beta-hemolysis,Bacitracin sensitive,PYR test +,Ribose not fermented.Includes Streptococcus pyogenes.2Group B streptococciCAMP + and Beta-hemolysis +.CAMP reaction (Christie, Atkins and Munch Peterson reaction) due to their ability to hydrolyze hippurate, which can be demonstrated as accentuated zone of hemolysis when streptococcus agalactiae is inoculated perpendicular to streak of staph aureus grown on blood agar.Includes only one bacterium, S. agalactiae.Currently, it has been found to be a cause of sexually transmit…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -34809,7 +34809,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Option a, b, c, d * There are three mechanisms of horizontal gene transfer in bacteria:- 1.Transformation 2. Transduction 3. Conjugation (Most common mechanism), It was discovered first by Lederberg and Tatum. * Conjugation plays an impoant role in the transfer of plasmids coding for antibacterial drug resistance and bacteriocin production . * R factor (or the resistance factor) is a plasmid which has two components. o Resistance transfer factor (F) is the plasmid responsible for conjugational transfer(similar to F factor) o Resistance determinant (r): Codes for resistance to one drug. An R factor can have several r determinants.",
+    "explanation": "Option a, b, c, d * There are three mechanisms of horizontal gene transfer in bacteria:- 1.Transformation 2. Transduction 3. Conjugation (Most common mechanism), It was discovered first by Lederberg and Tatum. * Conjugation plays an important role in the transfer of plasmids coding for antibacterial drug resistance and bacteriocin production . * R factor (or the resistance factor) is a plasmid which has two components. o Resistance transfer factor (F) is the plasmid responsible for conjugational transfer(similar to F factor) o Resistance determinant (r): Codes for resistance to one drug. An R factor can have several r determinants.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34854,13 +34854,13 @@ window.OpenPharmacyQuestions = [
         "Liver"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c'Rarely neurocysticercosis happens and most common site is Parenchymal and associate with Ingestion of infected eggs of Taenia solium with food and water.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -35013,7 +35013,7 @@ window.OpenPharmacyQuestions = [
     "objective": "microbiology · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · Medical Microbiology, Parasitology and Immunology · Mycology and antifungal drugs",
-    "prompt": "What is the most probable poal of entry for Aspergillus",
+    "prompt": "What is the most probable portal of entry for Aspergillus",
     "options": [
       [
         "A",
@@ -35389,13 +35389,13 @@ window.OpenPharmacyQuestions = [
         "Paramyxoviridae"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c* i.e., Orthomyxoviridae RNA VirusesPicornaviridae:Poliovirus, Coxsackievirus, Eehovirus, Enterovirus, Rhinovirus, Hepatitis A virusCalicivtridae: Norwalk virus. Hepatitis E virusTogaviridae: Rubella virus, Eastern equine encephalitis virus, Western equine encephalitis virusFlaviviridae: Yellow fever virus, Dengue virus, St. Louis encephalitis virus. West nile virus. Hepatitis C virus. Hepatitis G virusCoronaviridae: Coronavi rusesRhabdoviridae: Rabies virus. Vesicular stomatitis virusFiloviridae :: Marburg virus, Ebola virusParamyxoviridae: Parainfluenza virus, Respiratory syncytial virus, Newcastle disease virus , Mumps virus. Rubeola (measles) vimsOrthomyxoviridae: Influenza vim…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -35524,13 +35524,13 @@ window.OpenPharmacyQuestions = [
         "Bronchoscope"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., BronchoscopeEndoscopes are sterilized by chemical methods Methods for sterilization of endoscopes Rigid endoscope - Autoclave Flexible - Glutaraldehyde Peracetic acidNowadays musculoskeletal tissue allografts are being increasingly used for knee reconstructive procedures.The soft tissue allografts commonly being used are bone-patellar tendon-bone, Achilles tendon, fascia lata, anterior and posterior tibial tendon.Infections with allografts is a serious concern.Therefore these allografts need proper sterilization and disinfection.The proper sterilization procedure for these allografts is Gamma/Electron beam irradiation.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -35963,7 +35963,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Infections caused by methicillin-sensitive S aureus, high-magnitude bacteremia (defined as >4 positive blood cultures ), and endocarditis. The most impoant test is a blood culture used to identify bacteria in the bloodstream. REFERENCE: www.mayoclinic.org",
+    "explanation": "Infections caused by methicillin-sensitive S aureus, high-magnitude bacteremia (defined as >4 positive blood cultures ), and endocarditis. The most important test is a blood culture used to identify bacteria in the bloodstream. REFERENCE: www.mayoclinic.org",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -36539,13 +36539,13 @@ window.OpenPharmacyQuestions = [
         "G6PD deficiency"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B i.e. Sickle cell anemia Splenomegaly Splenomegaly refers strictly to spleen enlargement, and is distinct from hyperspineism , which connotes overactive function by a spleen of any size. Splenomegaly and hypersplenism should not be confused. Each may be found separately, or they may coexist. Clinically if a spleen is palpable, it means it is enlarged as it has to undergo enlargement by at least two folds to become palpable. However, the tip of the spleen may be palpable in a newborn baby up to 3 months of age Early sickle cell anemia may present with splenomegaly",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -36584,13 +36584,13 @@ window.OpenPharmacyQuestions = [
         "Endothelium"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Endothelium The most acceptable hypothesis for the pathogenesis of atherosclerosis is \"the response to injury hypothesis\". According to this hypothesis, atherosclerosis is a chronic inflammatory response of the aerial wall initiated by injury to endothelium. Pathogenesis of atherosclerosis Following stages occurs in the pathogenesis of Atherosclerosis: Endothelial injury Earliest stages of the development of atherosclerosis are mediated by the inflammatory cascade. Inflammation mediated injury to endothelium is the cornestone in the development of atherosclerosis. After injury, endothelium is activated and there is increased expression of adhesion molecule-VCAM-1 and there…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -36758,13 +36758,13 @@ window.OpenPharmacyQuestions = [
         "FDP"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., APTT o Factor VIII is a part of the intrinsic pathway of coagulation. The test used to identity1 the defects in the intrinsic and common pathways of coagulation is PTT. Thus prolonged PTT is a feature of patient with factor VIII deficiency.o Patients with hemophilia have deficiency of factor VIII that results in prolonged PTT.o Tests used to evaluate different aspects of hemostasis.Bleeding timeo It is not a test for coagulation rathers it tests the ability of the vessels to vasoconstrict and the platelets to form a hemostatic plug.o It is the time taken for a standardized skin puncture to stop bleeding,o Normal reference value is between 2-9 minutes.o Prolongation generall…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -36847,7 +36847,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Ref:Robbins Basic Pathology (9th Edition),page no.478,479 Sarcoidosis Although sarcoidosis is considered here as an example of a restrictive lung disease, it is impoant to note that sarcoidosis is a multisystem disease of unknown etiology characterized by noncaseating granulomas in many tissues and organs. MORPHOLOGY The diagnostic histopathologic feature of sarcoidosis is the noncaseating epithelioid granuloma, irrespective of the organ involved. This is a discrete, compact collection of epithelioid cells rimmed by an outer zone of largely CD4+ T cells. The epithelioid cells are derived from macrophages and are characterized by abundant eosinophilic cytoplasm and vesicular nuclei. It is not…",
+    "explanation": "Ref:Robbins Basic Pathology (9th Edition),page no.478,479 Sarcoidosis Although sarcoidosis is considered here as an example of a restrictive lung disease, it is important to note that sarcoidosis is a multisystem disease of unknown etiology characterized by noncaseating granulomas in many tissues and organs. MORPHOLOGY The diagnostic histopathologic feature of sarcoidosis is the noncaseating epithelioid granuloma, irrespective of the organ involved. This is a discrete, compact collection of epithelioid cells rimmed by an outer zone of largely CD4+ T cells. The epithelioid cells are derived from macrophages and are characterized by abundant eosinophilic cytoplasm and vesicular nuclei. It is not…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -36978,7 +36978,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Mutation in factor V (called the Leiden mutation, after the city in the Netherlands where it was discovered) causes recurrent DVTs. The mutation results in a glutamine to arginine substitution at position 506 that renders factor V resistant to cleavage by protein C. As a result, an impoant antithrombotic counter-regulatory pathway is lost Ref: Robbins 8th edition Chapter 4.",
+    "explanation": "Mutation in factor V (called the Leiden mutation, after the city in the Netherlands where it was discovered) causes recurrent DVTs. The mutation results in a glutamine to arginine substitution at position 506 that renders factor V resistant to cleavage by protein C. As a result, an important antithrombotic counter-regulatory pathway is lost Ref: Robbins 8th edition Chapter 4.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37372,13 +37372,13 @@ window.OpenPharmacyQuestions = [
         "Cercinoma ovary"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Carcinoma breasto Bloom Richardson Grading and its variants are used to grade breast cancers.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -37593,13 +37593,13 @@ window.OpenPharmacyQuestions = [
         "IBD"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Valproate Steatosiso Accumulation of triglyceride fat droplets within the heaptocytes is known as steatosis or fatty liver. It may be of two types -1. Microvesicular steatosis - Multiple tiny droplets accumulate that do not displace the nucleus.2. Macrovasicular steatosis - A single large droplet accumulates that displaces the nucleus.Causes of steatosisMicrovesicularMacrovesicularo Reye's syndromeo Acute fatty liver of pregnancyo Jamaican vomiting sicknesso Drugs - valproic acid, tetracycline, nucleoside analogueo Wolman's diseaseo Lysosomal acid lipase deficiencyo Congenital defects of urea cycle enzymeso Early stage of alcoholic cirrhosiso Chronic viral hepatitiso Alcoho…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -37705,7 +37705,7 @@ window.OpenPharmacyQuestions = [
     "objective": "pathology · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · General Pathology, Haematology, Clinical Chemistry",
-    "prompt": "The most impoant prognostic factor of Wilms tumor-",
+    "prompt": "The most important prognostic factor of Wilms tumor-",
     "options": [
       [
         "A",
@@ -37725,7 +37725,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "Robbins basic pathology 10th edition page no 290. Wilms tumor or nephroblastoma is the most common primary tumor of the kidney in children. On microscopic examination, Wilms tumors are characterized by recognizable attempts to recapitulate different stages of nephrogenesis. The pattern of anaplastic cells within the primary tumor has impoant implications for prognosis.",
+    "explanation": "Robbins basic pathology 10th edition page no 290. Wilms tumor or nephroblastoma is the most common primary tumor of the kidney in children. On microscopic examination, Wilms tumors are characterized by recognizable attempts to recapitulate different stages of nephrogenesis. The pattern of anaplastic cells within the primary tumor has important implications for prognosis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37812,13 +37812,13 @@ window.OpenPharmacyQuestions = [
         "Baggassosis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Asbestosis \"Ferruginous bodies are most commonly seen in asbestosis\". ------------Chandrasoma Taylor* Ferruginous bodies represent foreign inorganic or organic fibers coated by complexes of iron and glycoproteins.* While ferruginous bodies are most commonly seen in asbestosis they are not diagnostic because it may be seen in other type of pneunoconiosis.* When asbestos fiber is coated by iron and glycoprotein, this ferruginous body is called asbestos body-characteristic of asbestosis.* Ferruginous bodies are best seen in section that have stained for iron with prussion blue.* Microscopically ferruginous bodies give a Sheikh Kebab appearance.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -38251,13 +38251,13 @@ window.OpenPharmacyQuestions = [
         "Codominance"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. d. Codominance (Ref Robbins 9/e p140; Ganong 23/e p527)Inheritance of ABO blood group is Codominance.\"Although Mendelian traits are usually described as dominant or recessive, in some cases both of the alleles of a gene pair contribute to the phenotype--a condition called codominance. Histocompatibility and blood group antigens are good examples of codominant inheritance. \"--Robbins 9/e p140Codominance is a relationship between two versions of a gene, individuals receive one version of a gene, called an allele, from each parent. If the alleles are different, the dominant allele usually will be expressed, while the effect of the other allele, called recessive, is masked. In Codominance,…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -38294,13 +38294,13 @@ window.OpenPharmacyQuestions = [
         "Chronic glomerulonephritis"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Diabetes mellitusCauses of Granular contracted kidney ?Chronic glomerulonephritis (symmetric)Chronic pyelonephritis (asymmetric) o Benign Nephrosclerosis (Symmetric) Sometimes, Diabetes too can cause granular contracted kidney",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -38382,13 +38382,13 @@ window.OpenPharmacyQuestions = [
         "Fragmented megakaryocytes"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C i.e. Increased megakaryocytesDiagnosis of ITPDespite the destruction of platelets by splenic macrophages, the spleen is normally not enlarged.In fact, an enlarged spleen should lead to a search for other possible causes for the thrombocytopenia.Bleeding time is usually prolonged in ITP patients.Normal bleeding time does not exclude a platelet disorder.Bone marrow examination may be performed on patients over the age of 60 and those who do not respond to treatment, or when the diagnosis is in doubt.On examination of the marrow, an increase in the production of megakaryocytes may be observed and may help in establishing a diagnosis of ITP.An analysis for anti-platelet antibodies is a ma…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -38513,13 +38513,13 @@ window.OpenPharmacyQuestions = [
         "Vitamin B12 deficiency"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Oxidative stress * Normally RBCs are protected from oxidant injury by reduced glutathione. Reduced glutathione is generated from oxidized glutathione and the reducing equivalent for this reaction is provided by NADPH. This NADPH is generated in HMP shunt by enzyme Glucose-6-phosphate dehydrogenase, while oxidizing glucose-6-phosphate.* If G6PD is deficient, NADPH production will be reduced that results in increased susceptibility of RBC to oxidative damage because of unavailability of reduced glutathione. So, whenever there is oxidant stress, e.g. by drugs, infection or foods, hemolysis occurs. G6PD deficiency causes episodic intravascular and extravascular hemolysis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -38547,7 +38547,7 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "B",
-        "Morphological classification into Chronic ActiveHepatitis and Chronic Persistent Hepatitis areimpoant"
+        "Morphological classification into Chronic ActiveHepatitis and Chronic Persistent Hepatitis areimportant"
       ],
       [
         "C",
@@ -38603,13 +38603,13 @@ window.OpenPharmacyQuestions = [
         "Pneumonia"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C: Chronic bronchitisThe Reid Index is a mathematical relationship that exists in a human bronchus section observed under the microscope. It is defined as ratio between the thickness of the submucosal mucus secreting glands and the thickness between the epithelium and cailage that covers the bronchi.It isn't of diagnostic use in vivo since it requires a dissection of the airway tube, but it has value in post moem evaluations and for research.RI = gland/wallRI is the Reid IndexWall is the thickness of the airway wall between the epithelium and the cailage's perichondriumGland is the thickness of the mucous producing gland at the location of inspection.A normal Reid Index should be smalle…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -38689,13 +38689,13 @@ window.OpenPharmacyQuestions = [
         "IL-10"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., IL-1 Proinflammatory cytokinesi) Major:- IL-1, TNF- a, IL-6ii) Other:- IL-2, IL-4, IL-5, IL-6, IL-8, IL-11, IL-12, IL-15, IL-21, IL-23, IFN- g, GM-CSFAnti-inflammatory cytokines* IL-4, IL-10, IL-13, and transforming growth factor-b (TGF-b).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -39002,7 +39002,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "ANSWER: (B) Cardiac failureREF: Harrison's Internal Medicine 17th edition chapter 324. AmyloidosisThe kidneys are the most frequently affected organ (80%), Renal amyloidosis is usually manifested by proteinuria, which is often in the nephrotic range and associated with significant hypoalbuminemia and edema or anasarca; rarely, tubular rather than glomerular deposition of amyloid can produce azotemia without significant proteinuria. Cardiac symptoms are the second most common presentation (40%), but cardiac dysfunction is associated with death in 75% of patients.",
+    "explanation": "ANSWER: (B) Cardiac failureREF: Harrison's Internal Medicine 17th edition chapter 324. AmyloidosisThe kidneys are the most frequently affected organ (80%), Renal amyloidosis is usually manifested by proteinuria, which is often in the nephrotic range and associated with significant hyportalbuminemia and edema or anasarca; rarely, tubular rather than glomerular deposition of amyloid can produce azotemia without significant proteinuria. Cardiac symptoms are the second most common presentation (40%), but cardiac dysfunction is associated with death in 75% of patients.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39439,13 +39439,13 @@ window.OpenPharmacyQuestions = [
         "GTN"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Breast Important risk factors for breast cancer1) Increased age8) High fat diet2) Female sex9) High socioeconomic status3) Western countries10) Irradiation4) Early menarche11) Hormone replacement therapy5) Late menopause12) Family history positive6) Obesity13) Somatic mutation in p53 gene (in 40% cases)7) Nulliparity * Most of these factors are related to increased exposure of estrogen to breast.* Breast feeding is protective against breast cancer. Thus women who avoid breast cancer are at increased risk to develop breast cancer. Oral contraceptives and smoking do not appear to increase the risk of breast cancer.* 3 most important cancer associated with estrogen are breast,…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -39528,7 +39528,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "Cell cycle Correct sequence: G0-G1-S-G2-M Most impoant checkpoint: G1-S Cellular content doubled in: S phase Cyclins D,E,A,B appears sequentially Cyclin D - first to increase in cell cycle Cyclin D - controls G1-S transition P16 (CDKN2A), P53& RB - Induce cell cycle arrest at G1-S Cyclin B - controls G2-M transition Fixed time is required for: S & M phase Most radio-resistant phase: S Most radio-sensitive phase: M",
+    "explanation": "Cell cycle Correct sequence: G0-G1-S-G2-M Most important checkpoint: G1-S Cellular content doubled in: S phase Cyclins D,E,A,B appears sequentially Cyclin D - first to increase in cell cycle Cyclin D - controls G1-S transition P16 (CDKN2A), P53& RB - Induce cell cycle arrest at G1-S Cyclin B - controls G2-M transition Fixed time is required for: S & M phase Most radio-resistant phase: S Most radio-sensitive phase: M",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39570,13 +39570,13 @@ window.OpenPharmacyQuestions = [
         "Lymphocytes"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a'i.e., Monocytes o The monocytes migrate to tissues and become part of the tissue (fixed) macrophages.o Blood macrophages - Monocyteso Tissue macrophages - HistiocytesTissue macrophages (histiocytes) in different tissue are mentioned below -o Lung: 'Alveolar macrophages' or 'Dust' cellso Placenta: Hoffbauer cellso Brain: Microgliao Kidney : Mesangial cellso Liver : Kupffer cellso Spleen : Littoral cellso Bone: Osteoclastso Synovium: Type-A lining cellso Skin: Langerhans cellso Spleen: Red pulp sinusoidal lining cellso Connective tissue: Histiocytes (tissue macrophages)o Life span of monocytes in circulation is 1-3 days whereas tissue macrophages have life span of 3 months to years",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -39967,13 +39967,13 @@ window.OpenPharmacyQuestions = [
         "Chemical exposure"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Alcohol Leukemia risk factors1) Generala) Gender: Men are more likely to develop CML, CLL and AML than women.b) Age: The risk of most leukemias, with the exception of ALL, typically increases with age.2) Geneticsa) Family history: First degree relatives of CLL patients, or having an identical twin who has or had AML or ALL, increases the risk for developing the disease.b) Genetic diseases: AML has been associated with Down syndrome, Klinefelter syndrome, Patau syndrome, Fanconi anemia, Bloom syndrome, Ataxia telangiectasia, and Kostman syndrome, may play a role in the development of leukemia.3) Smoking: Smoking cigarettes does increase the risk of developing AML.4) Exposure…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -40189,13 +40189,13 @@ window.OpenPharmacyQuestions = [
         "Spleen"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. a (Brain). (Ref. Robbins, Pathologic Basis of Disease, 8th/pg.7-13)NECROSIS# Enzymatic degradation of a cell resulting from exogenous injury.# Characterized by enzymatic digestion and protein denaturation, with release of intracellular components.# Morphologically occurs as coagulative (heart, liver, kidney), liquefactive (brain), caseous (tuberculosis), fat (pancreas), fibrinoid (blood vessels), or gangrenous (limbs, GI tract).# Kidney infarct exhibiting coagulative necrosis will be seen with loss of nuclei and clumping of cytoplasm but with preservation of basic outlines of glomerular and tubular architecture.# Liquefactive necrosis in the kidney can be caused by fungal infection, whi…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -40717,13 +40717,13 @@ window.OpenPharmacyQuestions = [
         "Factor XI"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Factor VIII Hemophila A :? Hemophilia A is due to deficiency of factor VIII. Hemophilia A is inherited as an X-linked recessive trait. Factor VIII is an intrinsic pathway component required for activation of factor X. Clinical manifestations are due to defect in coagulation system :- Large post traumatic ecchymoses or hematoma. Prolonged bleeding after a laceration or any form of surgical procedure. Bleeding into weight bearing joints. Petechiae are characteristically absent (in contrast to platelet dysfunction where bleeding occur from small vessels of skin and mucous membrane, e.g., petechiae). Laboratory findings :- T PTT Normal PT Normal BT Normal platelet counts Rememb…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -40829,7 +40829,7 @@ window.OpenPharmacyQuestions = [
     "objective": "pathology · MedMCQA",
     "course": "paper-1",
     "topic": "Stage 1 · General Pathology, Haematology, Clinical Chemistry",
-    "prompt": "Factor responsible for Cardiac Hyperophy is?",
+    "prompt": "Factor responsible for Cardiac Hypertrophy is?",
     "options": [
       [
         "A",
@@ -41024,13 +41024,13 @@ window.OpenPharmacyQuestions = [
         "Endodermal sinus tumor"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Seminoma * Testicular tumors are divided into two major categories : (i) Germ cell tumors, and (ii) Sex cord tumors.A) Germ cell tumors# More than 95% of testicular tumors are germ cell tumors. They are further divided into -i) Seminoma* It is the most common germ cell tumor of testis. Female counterpart of seminoma is dysgerminoma of ovary.ii) Non-seminoma germ cell tumors (NSGCT)* These are spermatocytic seminomay embryonal carcinoma, Yolk sac tumor (also called endodermal sinus tumor or infantile embryonal carcinoma), teratoma, and choriocarcinoma.# Risk factors for germ cell tumors of testis are -i) Cryptorchidism (abdominal > inguinal, i.e. higher the undescended testi…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -41113,7 +41113,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Ans. is 'b' i.e. Kupffer's cell hyperplasia with macrophage infiltration around periportal area laden with pigments * In severe infections with plasmodium falciparum, the vital organs are packed with erythrocytes containing mature form of the parasite.* There is abundant intra and extraerythrocytic pigment and organs such as liver, spleen and placenta may be grey black in colour.Also know * Durck's granuloma are pathognomic of malignant cerebral malaria.Histopathological features in liver due to falciparum malariaReticuloendothelial cell proliferation i.e., Kupffer cell hyperplasia.Malarial pigmentation i.e., haemoglobin pigmentation.CongestionPortal infiltration of the macrophageSinusoidal…",
+    "explanation": "Ans. is 'b' i.e. Kupffer's cell hyperplasia with macrophage infiltration around periportal area laden with pigments * In severe infections with plasmodium falciparum, the vital organs are packed with erythrocytes containing mature form of the parasite.* There is abundant intra and extrarterythrocytic pigment and organs such as liver, spleen and placenta may be grey black in colour.Also know * Durck's granuloma are pathognomic of malignant cerebral malaria.Histopathological features in liver due to falciparum malariaReticuloendothelial cell proliferation i.e., Kupffer cell hyperplasia.Malarial pigmentation i.e., haemoglobin pigmentation.CongestionPortal infiltration of the macrophageSinusoidal…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -41820,13 +41820,13 @@ window.OpenPharmacyQuestions = [
         "Lipopolysaccharide-6"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Lipopolysaccharide-1 Legionella are classified into serogroup on the basis ofgroup specific lipopolysaccharide (somatic antigen or 'O' antigen). Legionella pneumophila sero-group-1 (LP-1) is the most common infecting organism. Urine test detect LP-1.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -42262,7 +42262,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "IgA Antibody:- IgA is the second most abundant antibody (2nd highest for DHS). It is of two types: Serum IgA: Predominantly in monomeric form. Secretory IgA (SIgA): It is dimeric (valency four); Secretory IgA is responsible for Mucosal /local immunity. IgA also exist in two subclasses/isotypes: IgA1 is mainly found in serum. IgA2 predominates in secretions. IgA (Secretory IgA) is selectively concentrated in secretions and on mucous surfaces forming an antibody paste and is believed to play, an impoant role in local immunity against respiratory and intestinal pathogens. It protects the mucous membranes against microbial pathogens. It serves an impoant effector function at mucous membrane surf…",
+    "explanation": "IgA Antibody:- IgA is the second most abundant antibody (2nd highest for DHS). It is of two types: Serum IgA: Predominantly in monomeric form. Secretory IgA (SIgA): It is dimeric (valency four); Secretory IgA is responsible for Mucosal /local immunity. IgA also exist in two subclasses/isotypes: IgA1 is mainly found in serum. IgA2 predominates in secretions. IgA (Secretory IgA) is selectively concentrated in secretions and on mucous surfaces forming an antibody paste and is believed to play, an important role in local immunity against respiratory and intestinal pathogens. It protects the mucous membranes against microbial pathogens. It serves an important effector function at mucous membrane surf…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42526,7 +42526,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Ref Harrison 17/e p2021 CD45 (lymphocyte common antigen) is a receptor-linked protein tyrosine phosphatase that is expressed on all leucocytes, and which plays a crucial role in the function of these cells. ... These CD45-associated molecules may play an impoant role in regulatingCD45 tyrosine phosphatase activity and function. Present on memory T cells",
+    "explanation": "Ref Harrison 17/e p2021 CD45 (lymphocyte common antigen) is a receptor-linked protein tyrosine phosphatase that is expressed on all leucocytes, and which plays a crucial role in the function of these cells. ... These CD45-associated molecules may play an important role in regulatingCD45 tyrosine phosphatase activity and function. Present on memory T cells",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42615,13 +42615,13 @@ window.OpenPharmacyQuestions = [
         "IL - 10 antagonist"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., IL-1 antagonisto Anakinra is an IL-1 antagonist.o It is used for some rare syndromes dependent on IL-1 production :Neonatal - onset inflammatory diseaseMuckle - Wells syndromeFamilial cold urticariaSystemic juvenile - onset inflammatory arthritisRA",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -42643,11 +42643,11 @@ window.OpenPharmacyQuestions = [
     "options": [
       [
         "A",
-        "Carbon paicles"
+        "Carbon particles"
       ],
       [
         "B",
-        "Iodine paicles"
+        "Iodine particles"
       ],
       [
         "C",
@@ -42659,7 +42659,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "The rapid plasma reagin (RPR) test is a macroscopic, nontreponemal flocculation card test used to screen for syphilis. RPR antigen is prepared from a modified VDR antigen suspension containing choline chloride to eliminate the need to heat inactivate serum, ethylenediaminetetraacetic acid (EDTA) to enhance the stability of the suspension, and finely divided charcoal paicles as a visualizing agent. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno : 374",
+    "explanation": "The rapid plasma reagin (RPR) test is a macroscopic, nontreponemal flocculation card test used to screen for syphilis. RPR antigen is prepared from a modified VDR antigen suspension containing choline chloride to eliminate the need to heat inactivate serum, ethylenediaminetetraacetic acid (EDTA) to enhance the stability of the suspension, and finely divided charcoal particles as a visualizing agent. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno : 374",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42748,13 +42748,13 @@ window.OpenPharmacyQuestions = [
         "Thromboangiitis obliterans"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Answer A. MetastasisFollowing radiography that revealed a lytic lesion of the terminal phalynx, the firm 2-cm lesion with a scab in the center was biopsied and found to represent a metastasis from follicular thyroid carcinoma.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -42792,7 +42792,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Weil- Felix reaction for the diagnosis of typhus fever. - The Agglutination reaction is when a paiculate antigen is mixed with its antibody in the presence of electrolytes at a suitable temperature and pH, the paicles are clumped or agglutinated. Reference : Anathanarayan & paniker's 9th edition, pg no: 108,109 <\\p>",
+    "explanation": "Weil- Felix reaction for the diagnosis of typhus fever. - The Agglutination reaction is when a paiculate antigen is mixed with its antibody in the presence of electrolytes at a suitable temperature and pH, the particles are clumped or agglutinated. Reference : Anathanarayan & paniker's 9th edition, pg no: 108,109 <\\p>",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43148,13 +43148,13 @@ window.OpenPharmacyQuestions = [
         "Defects in microbicidal activity"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. a (Defects in phagolysosome function) (Ref. H - 17th/pg. Table 61-4)CHRONIC GRANULOMATOUS DISEASEChronic Granulomatous Disease presents before the age of 2 and can be transmitted through X-linked or autosomal pattern of inheritance. The defect lies in the inability to generate oxidative burst to kill organisms after being phagocytosed. The neutrophils lack enzyme NADPH oxidase, which plays an important role in production of microbicidal oxygen radicles. In the lab, the diagnosis can be confirmed through Nitro blue Tetrazolium reduction dye test, which will be negative. B cell and T cell functions are normal. Recurrent infections with catalase producing organisms are common. The NBT test…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -43453,7 +43453,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Among the vaccines, polio is the most sensitive to heat, requiring storage at minus 20 degree Celsius. Vaccines which must be stored in the vaccine compaments are polio and measles. The cold chain is a system of storage and transpo of vaccines at low temperature from the manufacturer to the actual vaccination site (refer pgno:109 park 23 rd edition)",
+    "explanation": "Among the vaccines, polio is the most sensitive to heat, requiring storage at minus 20 degree Celsius. Vaccines which must be stored in the vaccine compartments are polio and measles. The cold chain is a system of storage and transpo of vaccines at low temperature from the manufacturer to the actual vaccination site (refer pgno:109 park 23 rd edition)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43847,7 +43847,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Ans. is 'c' i.e., Henoch schonlein purpurao HSP is not hypersensitivity angitis. But the best answer amongst the given options is HSP because it is the most impoant differential of hypersensitivity angitis.Hypersensitivity angitis Hypersensitivity vasculitis or hypersensitivity angitis or leukocytoclastic angitis is a small vessel vasculitis due to hypersensitivity reaction.It is usually to a known drug, e.g. cefoperazone, autoantigens or infectious agents.Immune complexes lodge in the vessel wall, attracting polymorphoneuclear leukocytes who in turn release tissue-degrading substances leading to an inflammatory process.Hypersensitivity angitis usually present with skin manifestation, e.g. p…",
+    "explanation": "Ans. is 'c' i.e., Henoch schonlein purpurao HSP is not hypersensitivity angitis. But the best answer amongst the given options is HSP because it is the most important differential of hypersensitivity angitis.Hypersensitivity angitis Hypersensitivity vasculitis or hypersensitivity angitis or leukocytoclastic angitis is a small vessel vasculitis due to hypersensitivity reaction.It is usually to a known drug, e.g. cefoperazone, autoantigens or infectious agents.Immune complexes lodge in the vessel wall, attracting polymorphoneuclear leukocytes who in turn release tissue-degrading substances leading to an inflammatory process.Hypersensitivity angitis usually present with skin manifestation, e.g. p…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43935,13 +43935,13 @@ window.OpenPharmacyQuestions = [
         "Graves disease"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Coeliac diseases Coeliac disea.se (CD) is a permanent intolerance of the small intestine to gluten, characterized by gluten-dependent changes in villous morphology and/or signs of immunological activation detectable in the lamina propria of intestinal mucosa. The presence of serum anti-endomysial antibodies (EMA) is generally considered to be highly suggestive for CD because of their high values of sensitivity and specificity. Other antibodies used for diagnosis Tissue transglutaminase, Antigliadin antibodies Treatment is Gluten-free diet",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -44023,13 +44023,13 @@ window.OpenPharmacyQuestions = [
         "lgM anti - HBe"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e. IgM anti-HBc You are sure to get questions on serological marker of Hepatitis in every PG exams (particularly AIIMS & AI). This topic has been thoroughly discussed.See Q. No 58 of Nov. 2001.Coming to the question; Hbs Ag is also present in recent hepatitis B infection but it is not a reliable marker because it can also be seen in carriers, whereas IgM anti- HBc is seen only in acute or recent hepatitis and is replaced by IgG anti Hbc in chronic infections.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -44201,13 +44201,13 @@ window.OpenPharmacyQuestions = [
         "CD 55"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., CD 20 * Rituximab is a targeted antibody against cell surface molecule CD-20, i.e. Rituximab is anti CD-20 antibody.* It is used in:i) B-cell lymphomas Low grade lymphomas, mantle cell lymphomas, relapsed aggressive B cell lymphomas, CLLii) SLEiii) Rheumatoid arthritis",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -44603,13 +44603,13 @@ window.OpenPharmacyQuestions = [
         "Type IV"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. c (Type III). (Textbook of Microbiology by Ananthnarayan, 6th ed., 155)HYPERSENSITIVITY ReactionsTypeMechanismE.g.Hints to rememeberType I(Anaphylactic and Atopic)Antigen cross -links IgE on presensitized mast cells and basophils, causing of vasoactive amines (i.e., histamine) release.- Anaphylaxis,- Asthma,- Hives- Local wheal and flareFirst and fast (anaphylaxis)Type I, II, and III are all antibody mediated.Type II Cytotoxic(antibody mediated)Antibody mediatedIgM, IgG bind to antigen on \"enemy\" cell, leading to lysis (by complement) or phagocytosis.- Autoimmune Hemolytic anemia,- Rh disease,- Good pasture's syndrome,- Rheumatic fever,- Grave's disease,- Bullous pemphigoid,- Myasthenia…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -44691,13 +44691,13 @@ window.OpenPharmacyQuestions = [
         "Peussis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Hemophillus influenzae HIB PRP vaccine (conjugate vaccine) is available for H. influenzae type b. o Currently no vaccine is available for non typable strains.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -44958,7 +44958,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "D",
-    "explanation": "Decreased size of paracoical areas of lymph nodes is expected as this child has DiGeorge Syndrome. DiGeorge Syndrome: Deficient CMI is seen due to aplasia of thymus and hence deficiency of T cells. This leads to paracoical areas of lymph nodes and periaeriolar sheaths of the spleen being reduced in size. B cells are usually not affected. Clinical Features of DiGeorge Syndrome - DiGeorge syndrome is a cellular immunodeficiency disorder caused by the deletion of a small segment of chromosome 22 (22q11) leading to a developmental defect involving the endodermal derivatives of the third and fouh pharyngeal pouches. (Thymus and parathyroid glands) The clinical features can be remembered with the…",
+    "explanation": "Decreased size of paracoical areas of lymph nodes is expected as this child has DiGeorge Syndrome. DiGeorge Syndrome: Deficient CMI is seen due to aplasia of thymus and hence deficiency of T cells. This leads to paracoical areas of lymph nodes and periaeriolar sheaths of the spleen being reduced in size. B cells are usually not affected. Clinical Features of DiGeorge Syndrome - DiGeorge syndrome is a cellular immunodeficiency disorder caused by the deletion of a small segment of chromosome 22 (22q11) leading to a developmental defect involving the endodermal derivatives of the third and fourth pharyngeal pouches. (Thymus and parathyroid glands) The clinical features can be remembered with the…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45002,13 +45002,13 @@ window.OpenPharmacyQuestions = [
         "PAN"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C. Gouta. Acute gout causing swelling, erythema and extreme pain and tenderness of the first metatarsophalangeal joint.b. This is also known as Podagra- Colchicine and indomethacin are the drug of choice in this acute attack.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -45402,13 +45402,13 @@ window.OpenPharmacyQuestions = [
         "CA anal canal"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans is 'a' ie Ca Colon Radioimmunoguided surgery (RIGS) is a new technology capable of detecting minimal neoplastic lesions using radiocolloids, intraoperatively. It has numerous uses in oncology, it uses colloid radiotracers, monoclonal antibodies or non-immunological tracers. Its uses are Radioguided Occult Lesion Localization (ROLL) and Sentinel Lymph-Node Biopsy (SLNB).The malignancies mentioned in the above given web addresses of Pubmed, in which RIGS is being used are:Breast cancerColorectal cancerNon-small cell lung cancer",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -45670,13 +45670,13 @@ window.OpenPharmacyQuestions = [
         "Diphtheria"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., DiphtheriaVaccines recommended in disasters -* Following vaccines are recommended1) Children < 10years:- DPT, inactivated polio (IPV), H.influenzae type b (Hib), hepatitis B, pneumococcal conjugate vaccine (PCV), measles-mumps-rubella (MMR), varicella vaccine, influenza, hepatitis A and rotavirus.2) Children and adolescents (11-18 years):- Tetanus, diphtheria, pertussis, meningococcal conjugate vaccine (MCV), Influenza.3) Adults (>18 years):- Tetanus, diphtheria, pertussis, pneumococcal polysaccharide vaccine (PPSV23), and influenza.* Vaccination against typhoid and cholera is not recommended.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -46295,7 +46295,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "1. All the three complement activation pathways(classical , alternate , lectin) lead to activation of C3, resulting in the production of C3b. Hence, C3b is considered as the central molecule in the activation of the complement cascade. 2. The C3b has two impoant functions to perform First, it combines with other components of the complement system to produce C5 convease, the enzyme that leads to the production of membrane attack complex(MAC) Second, it opsonizes bacteria due to the presence of receptors for C3b on the surface of the phagocytes. Biological Effects of Complement C5a: C5a is a chemotactic molecule specifically recognized by polymorphonuclear leukocytes or phagocytic cells. This…",
+    "explanation": "1. All the three complement activation pathways(classical , alternate , lectin) lead to activation of C3, resulting in the production of C3b. Hence, C3b is considered as the central molecule in the activation of the complement cascade. 2. The C3b has two important functions to perform First, it combines with other components of the complement system to produce C5 convease, the enzyme that leads to the production of membrane attack complex(MAC) Second, it opsonizes bacteria due to the presence of receptors for C3b on the surface of the phagocytes. Biological Effects of Complement C5a: C5a is a chemotactic molecule specifically recognized by polymorphonuclear leukocytes or phagocytic cells. This…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -46385,13 +46385,13 @@ window.OpenPharmacyQuestions = [
         "8 weeks"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b1 i.e., 4 weeks Basic principle of immunezationMinimum 4 week interval recommended between 2 live vaccine adminstration except OPVand oral thyphoid.Two or more killed vaccine may be administrated simultaneously or at any given internalA live and killed vaccine given simultaneously but at different site.If immunisation status unknown, give age appropriate vaccineMixing of vaccine in same syringe not recommendedLive vaccine should be avoided in AIDS,",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -48562,13 +48562,13 @@ window.OpenPharmacyQuestions = [
         "Impairs exercise capacity"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A: Is more potent in blocking beta-1 receptors Metoprolol is cardioselective beta blocker, more potent in blocking beta-1 than beta-2 adrenergic receptors.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -48782,13 +48782,13 @@ window.OpenPharmacyQuestions = [
         "Cloxacillin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Piperacillin Drugs acting against Pseudomonas. o Penicillins- Piperacillin, Carbenicillin, Ticarcillin, Mezlocillin. o Cephalosporins - Ceftazidime, Cefoperazone, Cefepime. o Carbapenems- Imipenem, meropenem o Monobactams - Aztreonam. o Aminoglycosides - Tobramycin, Gentamycin, Amikacin. o Fluroquinolones - Ciprofloxacin, Levofloxacin, Norfloxacin.. o Other - Polymixin B, Colistin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -49044,13 +49044,13 @@ window.OpenPharmacyQuestions = [
         "Tobutamide"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Rosiglitazone o Oral hypoglycemic drugs may be divided into two groups. 1. Group 1 These drugs reduce plasma glucose by stimulating insulin production, therefore called insulin secretogogues. Hypoglycemia is a well known side effect. Examples are: i) Sulfonylureas: first generation (chlorpropamide, tobutamide); second generation (Glimipiride, glyburide, glipizide, gliclazide). ii) Megalitinnide/D-phenylalanine analogues: Nateglinide, Rapaglinide. 2. Group 2 These drugs reduce blood glucose without stimulating insulin production, therefore are insulin nonsecretogogues. These durgs do not cuase hypoglycemia when used alone and can cause hypoglycemia, only when used with other…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -49134,13 +49134,13 @@ window.OpenPharmacyQuestions = [
         "Naproxen"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B (Acetaminophen) \"Gastric mucosal damageQ: Gastric pain, mucosal erosion/ ulceration and blood loss are produced by all MSAIDs to varying extents: relative gastric toxicity is a major consideration in the choice of MSAIDs. Paracetamol\", a very weak inhibitor of COX is practically free of gastric toxicity and selective (misoprosto) administered concurrently with NSAIDsanatgonise their gastric toxicity\"- KDT 6th/186Aspirin is acetylsalicylic acid KDT 6th/187",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -49349,13 +49349,13 @@ window.OpenPharmacyQuestions = [
         "Benzhexol"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Tolcapone o Both entacapone and tolcapone enhance and prolong the therapeutic effect of levodopa-carbidopa in advanced and fluctuating parkinsons disease. They may be used to smoothen off the 'wearing off', increase 'on' time and decrease loff' time, improve activities of daily living and allow levodopa dose to be reduced,o Treatment of on - off phenomenon in parkinsonism:Add one or two additional doses of levodopa.Continuous delivery of levodopa in duodenum.Avoid proteins in diet.Controlled release oral levodopa.'' peripheral decarboxylase inhibitor.Use of subcutaneous apomorphine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -49440,13 +49440,13 @@ window.OpenPharmacyQuestions = [
         "nebulised salbutamol"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e. epinephrine injection Urticaria, swelling of lips, hypotension and bronchospasm within 5 minutes of i.v penicillin suggests anaphylactic reaction. It's a major problem with the use of penicillin.The t/t of choice for anaphylaxis is i.v epinephrine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -49483,13 +49483,13 @@ window.OpenPharmacyQuestions = [
         "Cefuroxime"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Cefuroxime Third generation cephalosporins include Parenteral OralCefotaxime - CefiximeCeftizoxime - Cefpodoxime proxetilCeftriaxone - CefdinirCeftazidime - Ceftibuten Cefoperazone Also knowFourth generation cephalosporinsCefepimeCefaparole",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -49526,13 +49526,13 @@ window.OpenPharmacyQuestions = [
         "Moxifloxacin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Ofloxacin Drugs acting on M. leprae* Established agents used to treat leprosy include dapsone (50-100 mg/d), clofazimine (50-100 mg/d, 100 mg three times weekly, or 300 mg monthly), and rifampin (600 mg daily or monthly. Of these drugs, only rifampin is bactericidal.* The sulfones (folate antagonists), the foremost of which is dapsone, were the first antimicrobial agents found to be effective for the treatment of leprosy and are still the mainstay of therapy.* Other antimicrobial agents active against M. leprae in animal models and at the usual daily doses used in clinical trials include ethionamide/prothionamide; the aminoglycosides streptomycin, kanamycin, and amikacin (b…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -49876,13 +49876,13 @@ window.OpenPharmacyQuestions = [
         "Phospholipase C"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. c. Thromboxane A2 (Ref: Goodman Gilman 12/e p868; Katzung 12/e p638; KDT 7/e p195, 6/e p186, 609)Aspirin causes several different effects in the body, mainly the reduction of inflammation, analgesia, the prevention of clotting, and the reduction of fever. Much of this is believed to be due to decreased production of prostaglandins and TXA2.\"In platelets, the major cyclooxygenase product is TxA2 (thromboxane A 2), a labile inducer of platelet aggregation and a potent vasoconstrictor. Aspirin blocks production of TxA2 by acetylating a serine residue near the active site of platelet cyclooxygenase-1 (COX-1), the enzyme that produces the cyclic endoperoxide precursor of TxA2. Because platel…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -50050,13 +50050,13 @@ window.OpenPharmacyQuestions = [
         "Drugs affecting diastolic relaxation"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B: Drugs affecting hea rate Chronotropic effects are those drugs that change the hea rate. Chronotropic drugs may change the hea rate by affecting the nerves controlling the hea, or by changing the rhythm produced by the sinoatrial node. Positive chronotropes increase hea rate; negative chronotropes decrease hea rate. A dromotrope affects Atrioventricular node (AV node) conduction. A positive dromotrope increases AV nodal conduction, and a negative dromotrope decreases AV nodal conduction. A lusitrope is an agent that affects diastolic relaxation. Inotropes affects contractility of the hea. Chronotropic variables in systolic myocardial performance can be split left and right. Left sided…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -50361,13 +50361,13 @@ window.OpenPharmacyQuestions = [
         "Inhaled ipratropium bromide"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A: Sho acting beta 2 agonists Severe asthma (Continuous symptoms; activity limitation; frequent exacerbations/hospitalization) requires: Regular high dose of inhaled steroid (800-2000 microgram/ day) through a large volume spacer device and inhaled long acting beta2 agonist (Salmeterol). Additional treatment with one or more of the following: Leukotriene antagonist/Sustained release oral theophylline/ oral beta2 agonist/ inhaled ipratropium bromide. Rescue treatment with sho acting inhaled beta2 agonist In patients not adequately controlled or those needing frequent emergency care-institute oral steroid therapy.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -50667,13 +50667,13 @@ window.OpenPharmacyQuestions = [
         "13 mg/ml"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A: 3 mg/ml Tobramycin works by binding to a site on the bacterial 30S and 50S ribosome, preventing formation of the 70S complex. As a result, mRNA cannot be translated into protein and cell death ensues. Sterile Tobramycin Ophtha Solution (eye-drops) contains tobramycin concentration of 0.3%. It is mixed with 0.01% benzalkonium chloride as a preservative. This concentrations result in 3 mg per ml.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -50888,13 +50888,13 @@ window.OpenPharmacyQuestions = [
         "Myalgia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Peptic ulcer Contraindications of Aspirin Peptic ulcer Prostaglandin has cytoprotective function for gastric mucosa by inhibiting acid secretion and promoting secretion of mucus. Aspirin inhibits synthesis of cytoprotective PG -3 bleeding & perforation may occur. Children with chicken pox & influenza Aspirin can cause Reye's syndrome (hepatic encephalopathy). Acknowledging this aspirin should not be given to children < 12 years, e.g. in JRA. Bleeding tendencies By its antiplatelet action, aspirin can exacerbate bleeding. Chronic liver disease Long-term therapy with high dose aspirin can cause insidious onset hepatic injury.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -51331,13 +51331,13 @@ window.OpenPharmacyQuestions = [
         "Atovaquone"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Chloroquine * Chloroquine is a 1st line anti malarial drug, which is an erythrocytic schizonticide.* However, its prolonged use of high doses (as in DLE, rheumatoid arthritis) may cause loss of vision due to retinal damage in the form of retinal pigmentation.* Chloroquine may also cause corneal deposits and affect vision and are reversible on discontinuation.* Loss of hearing, rashes, photoallergy, myopathy, graying of hair may occur.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -51419,13 +51419,13 @@ window.OpenPharmacyQuestions = [
         "Phytonadione"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Octreotide Among the given options, only octeride is used (otherwise vasopressine analogue terlipressine is the DOC). Has been explained in previous sessions.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -51551,7 +51551,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "ANTICHOLINERGIC DRUGS (Muscarinic receptor antagonists, Atropinic, Parasympatholytic) Smooth muscles:- All visceral smooth muscles that receive parasympathetic motor innervation are relaxed by atropine (M3 blockade). Tone and amplitude of contractions of stomach and intestine are reduced; the passage of chyme is slowed--constipation may occur, spasm may be relieved. Atropine has relaxant action on ureter and Urinary bladder; urinary retention can occur in older males with prostatic hyperophy. However,this relaxant action can be beneficial for increasing bladder capacity and controlling detrusor hyperreflexia in neurogenic bladder/enuresis. Ref:- kd tripathi; pg num:-114,115",
+    "explanation": "ANTICHOLINERGIC DRUGS (Muscarinic receptor antagonists, Atropinic, Parasympatholytic) Smooth muscles:- All visceral smooth muscles that receive parasympathetic motor innervation are relaxed by atropine (M3 blockade). Tone and amplitude of contractions of stomach and intestine are reduced; the passage of chyme is slowed--constipation may occur, spasm may be relieved. Atropine has relaxant action on ureter and Urinary bladder; urinary retention can occur in older males with prostatic hypertrophy. However,this relaxant action can be beneficial for increasing bladder capacity and controlling detrusor hyperreflexia in neurogenic bladder/enuresis. Ref:- kd tripathi; pg num:-114,115",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -52077,13 +52077,13 @@ window.OpenPharmacyQuestions = [
         "Cyanide poisoning"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Renal colic Uses of nitrates Angina pectoris MI CHF and acute LVF --> nitroglycerine i.v. can be used Act by decreasing preload (LV filling pressure). Biliary colic and esophageal spasm (achalasia cardia) Acute coronary syndrome (unstable angina and non-ST segment elevation Ml). Cyanide poisoning",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -52122,13 +52122,13 @@ window.OpenPharmacyQuestions = [
         "Diazepam"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Diazepam Prodrug o Few drugs are inactive as such and need conversion in the body to one or more active metabolites. Such a drug is called a prodrug. Prodrug Levodopa Enalapril - Methyldopa Chloralhydrate Dipivefrine Oxcarbazepine Prednisone Bacampicillin Sulfasalazine Cyclophosphamide Mercaptopurine Fluorouracil Sulindac Azathioprine Coisone Benorilate Proguanil Zidovudin Terfenadine Prontosil",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -52210,13 +52210,13 @@ window.OpenPharmacyQuestions = [
         "Nifedipine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A: Sodium Nitroprusside Antihypeensive therapy in acute aoic dissection aims specifically to lessen pulsatile load or aoic stress, in order to retard the propagation of the dissection and prevent aoic rupture. The goals of treatment are to prevent myocardial ischemia, decrease left ventricular afterload, decrease myocardial oxygen consumption, and prevent rupture and bleeding from suture lines Nitroprusside is a potent direct aerial and venous dilator, acting through release of nitric oxide. It has a rapid onset of action, and a shoer half-life and thus is given in the form of continuous infusion. The hypotensive effects of nitroprusside can be unpredictable because it simultaneously ca…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -52296,13 +52296,13 @@ window.OpenPharmacyQuestions = [
         "Phenytoin"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C: Valproate Sodium valproate is effective in absence/petit-mal seizures, combined grand mal and petit mal, myoclonic epilepsy, paial epilepsy, maniac depressive psychosis and as a prophylactic in febrile convulsion Absence seizures/Petit mal seizures (from the French for \"little illness\", a term dating from the late 18th century). Absences seizures are brief (usually less than 20 seconds), generalized epileptic seizures of sudden onset and termination. They have 2 essential components: - Clinically the impairment of consciousness (absence) - EEG generalized spike-and-slow wave discharges Absence seizures are broadly divided in typical and atypical absence seizures. Typical absence seiz…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -52427,13 +52427,13 @@ window.OpenPharmacyQuestions = [
         "Highly specific reversible and non-competitive carbonic anhydrase inhibitor."
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans is 'd' i.e. Highly specific reversible and noncompetitive carbonic anhydrase inhibitor o Carbonic anhydrase inhibitors act by a non-competitive, reversible inhibition of the enzyme carbonic anhydrase. o Brinzolamide is a highly .specific inhibitor of carbonic anhydrase II (CA II), which is the main carbonic anhydrase isoenzyme involved in the secretion of aqueous humour. o Inhibition caused by brinzolamide is reversible and non-competitive.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -52470,13 +52470,13 @@ window.OpenPharmacyQuestions = [
         "Streptomycin with erythromycin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Rifampin with doxycyclinelRef : Harrison 18n/e p. 1299,1672 & I4/e p. 1268).The gold standard for the treatment of brucellosis in adults is IM streptomycin (0.75-1 g daily for 14-21 days) together with doxycycline (100 mg twice daily for 6 weeks).In both clinical trials and observational studies, relapse follows such treatment in 5-10 % of cases.The usual alternative regimen (and the current World Health Organization recommendation) k rifampin (600-9{n mg/it) plus doxycycline (100 mg twice daily) for 6 weeks.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -52690,13 +52690,13 @@ window.OpenPharmacyQuestions = [
         "Clofazimine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Tetracycline Drugs causing Pseudotumour cerebri o A miodarone o Mineralocoicoids (withdrawl) o Oral contraceptives o Glucocoicoids (withdrawl) o Hypervitaminosis A o Tetracyclines o Quinolones",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -52907,13 +52907,13 @@ window.OpenPharmacyQuestions = [
         "Terbutaline"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Theophylline o Theophylline has low safety margin and therefore requires therepeutic drug monitoring.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -53081,13 +53081,13 @@ window.OpenPharmacyQuestions = [
         "5HT4"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., 5HT ID/IB * Sumatriptan is the first selective 5-HT1D/1B receptor agonist; activates other subtypes of 5-HT1 receptors only at very high concentrations, and does not interact with 5-HT2, 5-HT3, 5-HT4-7, a or b adrenergic, dopaminergic, cholinergic or GABA receptors.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -60813,13 +60813,13 @@ window.OpenPharmacyQuestions = [
         "Hypokalemia"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Hypoglycemia o Sweating and palpitations suggest hypoglycemia; which can occur due to quinine. Cinchonism is characterized by ringing in ears, nausea, vomiting, veigo, headache, mental confusion, difficulty in hearing and vision. Hypotension and cardiac arrhythmias develop on rapid i.v. injection.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -61032,13 +61032,13 @@ window.OpenPharmacyQuestions = [
         "Chromophobic"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., ChromophobicHistopathological findings of perinuclear halo and plant cell appearance are seen in chromophobe cell carcinoma ofRCC.o Electron microscopic finding consisting of numerous 150-300 nm microvesicles is the single most distinctive and defining feature of chromophobe cell ca.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -61075,13 +61075,13 @@ window.OpenPharmacyQuestions = [
         "Physostigmine"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Physostigmine o Atropine blocks cholinergic receptors. So, for atropine overdose, we require a drug that increases cholinergic action. o Physostigmine increases the concentration of Ach. Physostigmine counteracts central (because it crosses BBB) as well as peripheral symptoms of atropine toxicity (other anticholinesterases like neostigmine and pyridostigmine counteract only peripheral symptoms as they cannot cross BBB) --> Physostigmine is the DOC.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -61852,7 +61852,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "The tumor in the picture is a carcinoid. This neoplasm derives from the neuroendocrine cells of the intestinal epithelium and often retains the capacity to produce hormonal substances, such as serotonin, gastrin, somatostatin, etc. The architectural arrangement is variable, although trabecular and insular patterns are the most common. Carcinoid tumors may be found throughout the intestinal canal, as well as in the bronchial tree and other organs. Location and size are the most impoant predictor of their metastatic potential. Carcinoids of the appendix and cecum (the most frequent) only rarely metastasize to the liver. Carcinoids of the stomach, ileum and colon have a high metastatic propensi…",
+    "explanation": "The tumor in the picture is a carcinoid. This neoplasm derives from the neuroendocrine cells of the intestinal epithelium and often retains the capacity to produce hormonal substances, such as serotonin, gastrin, somatostatin, etc. The architectural arrangement is variable, although trabecular and insular patterns are the most common. Carcinoid tumors may be found throughout the intestinal canal, as well as in the bronchial tree and other organs. Location and size are the most important predictor of their metastatic potential. Carcinoids of the appendix and cecum (the most frequent) only rarely metastasize to the liver. Carcinoids of the stomach, ileum and colon have a high metastatic propensi…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62066,13 +62066,13 @@ window.OpenPharmacyQuestions = [
         "Rivastigmine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Galantamine Galantamine: o It is a natural alkaloid which selectively inhibits cerebral acetylcholinesterase and has some direct agonistic action on nicotinic receptors as well. o It has produced cognitive and behavioral benefits in Alzheimer's disease",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -62111,13 +62111,13 @@ window.OpenPharmacyQuestions = [
         "NaHCO3"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Physostigmine o Atropine blocks cholinergic receptors. o So, for atropine overdose, we require a drug that increases cholinergic action, o Physostigmine increases the concentration of Ach. o Physostigmine counteracts central (because it crosses BBB) as well as peripheral symptoms of atropine toxicity (other anticholinesterases like neostigmine and pyridostigmine counteract only peripheral symptoms as they cannot cross BBB) - Physostigmine is the DOC.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -62412,13 +62412,13 @@ window.OpenPharmacyQuestions = [
         "Vitamin A"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., CobalamineVitamin B12 (cobalamin or cynocobalmin) is present only in food of animal origin. Other three vitamins can be taken from plant source.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -62842,13 +62842,13 @@ window.OpenPharmacyQuestions = [
         "Post-operative pain"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B. Biliary colicOpioids have potent analgesic effect via mu, kappa receptor. They are known to increase the intrabilliary pressure by constricting the smooth muscle. Therefore, they are contraindicated in biliary colic.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -63014,13 +63014,13 @@ window.OpenPharmacyQuestions = [
         "Inhibiting Na+ H+ ATPase pump"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Increase in A.V. node refractoriness Digitalis in arrhvthma o Digitalis is the drug of choice for controlling ventricular rate in atrial fibrillation (AF) with hea failure. o Digitalis reduces the ventricular rate in AF by decreasing the number of impulses that are able to pass down the A-V node and bundle of His 1. It increases effective refractory period-ERP (Le refractoriness) of A-V node by direct, vagomimetic and antiadrenergic action - the minimum interval between consecutive impulses that can successfully traverse the conducting tissue is increased. 2. A degree of A-V block is naturally established in AF. Because of the relatively long ERP of A-V node, many atrial im…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -63831,13 +63831,13 @@ window.OpenPharmacyQuestions = [
         "Excreted rapidly in urine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' elevated plasma alpha} acid glycoprotein. Patient with malaria can achieve high plasma level of quinine with few signs of toxicity because of the elevated plasma alpha 1 acid glycoproteins, produced during acute phase of infection. It prevents quinine toxicity through binding of most of the drug in the plasma.Peak plasma level which a person can achieve without producing toxicity.a. in severely ill patients -15-20 mg/litreb. in persons without malaria - 10 mg/litreAbout quinineIt is an erythrocytic schizonticide*Used for treatment of multidrug resistant strains of P. falciparumAssociated with a triad of dose related toxicitiesCinchonism*Hypotension*Hypoglycemia*",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -63874,13 +63874,13 @@ window.OpenPharmacyQuestions = [
         "Lidocaine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Hemodialysis Hemodialysis & Diuretics are not effective.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -64181,13 +64181,13 @@ window.OpenPharmacyQuestions = [
         "Normal in appearance"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A. Post maturityAmniotic fluid color:a. Early pregnancyColorlessb. At termStraw coloredc. Foetal distressGreen (pea soup)d. IUDDark brown (tobacco juice)e. Rh incompatibilityGoldenf. Post maturitySaffron/greenish yellow.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -64354,7 +64354,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "- The nurse will give quinine infusion through 5% dextrose. - Hypoglycaemia is the most impoant side effect which can be prevented by infusing quinine in 5% dextrose. Note: Adverse effects of quinine infusion: Hypoglycemia is also common, mostly in the treatment of severe malaria, and can be life threatening if not treated promptly with intravenous glucose. Hypotension is rarer but also serious and most often is associated with excessively rapid intravenous infusions of quinine or Quinidine. Quinine diluted preferably in 5% (w/v) glucose solution to counteract hypoglycemia. In the absence of glucose, physiological saline may be used. This method of administration minimizes the danger of seve…",
+    "explanation": "- The nurse will give quinine infusion through 5% dextrose. - Hypoglycaemia is the most important side effect which can be prevented by infusing quinine in 5% dextrose. Note: Adverse effects of quinine infusion: Hypoglycemia is also common, mostly in the treatment of severe malaria, and can be life threatening if not treated promptly with intravenous glucose. Hypotension is rarer but also serious and most often is associated with excessively rapid intravenous infusions of quinine or Quinidine. Quinine diluted preferably in 5% (w/v) glucose solution to counteract hypoglycemia. In the absence of glucose, physiological saline may be used. This method of administration minimizes the danger of seve…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -64525,13 +64525,13 @@ window.OpenPharmacyQuestions = [
         "Calcium pump"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. a (Na+-K+ ATPase pump) (Ref. KDT 6th/pg. 493-497)Digitalis increases force of cardiac contraction by a direct action indepen dent of innervation. It selectively binds to extracellular face of the membrane associated Na+K+ ATPase of myocardial fibres and inhibitis this enzyme. Inhibition of this cation pump results in accumulation of Na+intracellularly. This indirectly results in intracellular Ca2+ accumulation.CARDIAC GLYCOSIDESMechanism of Action# These inhibit the monovalent cation transport enzyme-coupled Na+-K+-ATPase and increase intracellular ; the latter, in turn, increases intracellular through a Na+-Ca2+ exchange carrier mechanism. The increased myocardial augments Ca2+ release…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -64592,7 +64592,7 @@ window.OpenPharmacyQuestions = [
     "objective": "pharmacognosy · MedMCQA",
     "course": "paper-2",
     "topic": "Stage 1 · Pharmacognosy",
-    "prompt": "The most impoant channel of elimination of digoxin is",
+    "prompt": "The most important channel of elimination of digoxin is",
     "options": [
       [
         "A",
@@ -64654,13 +64654,13 @@ window.OpenPharmacyQuestions = [
         "Decrease in hea rate with decrease in oxygen consumption"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Decrease in hea rate with decrease in oxygen consumption Effect of digitalis on hea o Main mechanism of action of digitalis is to increase in force of contraction of hea - a positive inotropic action. o Amongst given options, option d is the best choice --> hea rate is decreased by digitalis and there is increase myocardial contractility without a propaionate increase in 02 consumption. How does digitalis decrease hea rate? o Hea rate is decreased by digitalis mainly in patients with CHF. In CHF there is sympathetic overactivity and vagal tone because of CO. o Digitalis increases myocardial contractility (major action) T CO and better emptying of ventricle --> improvement i…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -64783,13 +64783,13 @@ window.OpenPharmacyQuestions = [
         "Acts on peripheral cholinergic receptors only"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Acts on central and peripheral cholinergic receptors o In organophosphate poisoning, atropine counteracts the peripheral muscarinic symptoms and at higher doses central effects as well. o Atropine does not reverse nicotinic action i.e., peripheral muscular paralysis.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -64912,13 +64912,13 @@ window.OpenPharmacyQuestions = [
         "Liver biopsy"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. is 'd' i.e., Liver biopsy The given clinical picture is suggestive of either of the following diagnosis: Neonatal hepatiits Extra hepatic biliary atresia \"Percutaneous liver biopsy is the most valuable procedure in the evaluation of neonatal hepatobiliary disease and provides the most reliable discriminatory evidence\". Biopsy findings of biliary atresia o Bile ductular proliferation o Poal or perilobular edema and fibrosis. o Bile plug o Intact basic hepatic lobular architecture. Biopsy findings of Neonatal hepatitis o Severe, diffuse hepatocellular disease o Distoion of lobular architecture. o Focal hepatocellular necrosis. o Marked infiltration with inflammatory cells. o No alteration…",
+    "answer": "D",
+    "explanation": "Ans. is 'd' i.e., Liver biopsy The given clinical picture is suggestive of either of the following diagnosis: Neonatal hepatiits Extra hepatic biliary atresia \"Percutaneous liver biopsy is the most valuable procedure in the evaluation of neonatal hepatobiliary disease and provides the most reliable discriminatory evidence\". Biopsy findings of biliary atresia o Bile ductular proliferation o Portal or perilobular edema and fibrosis. o Bile plug o Intact basic hepatic lobular architecture. Biopsy findings of Neonatal hepatitis o Severe, diffuse hepatocellular disease o Distoion of lobular architecture. o Focal hepatocellular necrosis. o Marked infiltration with inflammatory cells. o No alteration…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -65217,7 +65217,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Pahenium dermatitis is caused by dry powder of leaves and flowers and hair-like structures (trichomes). Sesquiterpene lactones (SQLs) are the most impoant allergens responsible for ACD to pahenium. Ref Harrison20th edition pg 1234",
+    "explanation": "Pahenium dermatitis is caused by dry powder of leaves and flowers and hair-like structures (trichomes). Sesquiterpene lactones (SQLs) are the most important allergens responsible for ACD to pahenium. Ref Harrison20th edition pg 1234",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65913,13 +65913,13 @@ window.OpenPharmacyQuestions = [
         "Antacids"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Quinidine Quinidine reduces binding of digoxin to tissue proteins as well as its renal/biliary clearance. Its plasma concentration is then doubled and toxicity may occur if dose is not reduced.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -66042,13 +66042,13 @@ window.OpenPharmacyQuestions = [
         "Nalmefene"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Methadone Treatment of morphine or heroin poisoningo Treatment can be divided intoTreatment of toxicity (overdose)o Overdose is a medical emergency, and is treated with opioid antagonist to reverse the complications (respiratory depression) by antagonizing the action on opioid receptors. Intravenous naloxone is the antagonist of choince for morphine (heroin) poisoning. Oral naltrexone is used for maintenance therapy, once acute poisoning has been treated by iv naloxone. Intravenous nalmefene is another specific antagonist.Treatment of dependenceo Treatment of dependence include medically supervised withdrawal and detoxification, followed by maintenance therapy :(a) Detoxifi…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -66433,13 +66433,13 @@ window.OpenPharmacyQuestions = [
         "Hypercalcemia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' Hepatic disease Make it clear once and for all that Digitalis is the parent compound. Digitalis is applied as a collective term for the whole group and has come to mean a cardiac glycoside.Digoxin and digitoxin are two of the many types of cardiac glycoside.Digoxin is a polar glycoside, and is excreted by kidney, does not undergo hepatic metabolism. So does need not be altered in hepatic disease.Digitoxin undergoes hepatic metabolism and its dose has to be altered in hepatic disease.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -70271,13 +70271,13 @@ window.OpenPharmacyQuestions = [
         "Sulphur"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Nitrocellulose Smoke producing powder :- Black powder (black gun powder), Pyrodex. Smokeless powder :- Black powder plus nitrocellulose/nitrocellulose + nitroglycerine/nitroglycerine + nitrocellulose nitroguanidine. Semismokeless powder :- 80% black powder plus 20% smokeless powder.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -70990,13 +70990,13 @@ window.OpenPharmacyQuestions = [
         "Mutase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., oc-ketoacid decarboxylase o Maple syrup urine disease is due to deficiency of a-ketoacid dehydrogenase (also called a-ketoacid decarboxylase).Maple syrup urine disease (MSUD) or branched chain ketoaciduriao It is an inborn error of metabolism of branched chain amino acids valine, leucine and isoleucine,o It is due to deficiency of enzyme that catalyzes the second reaction in these amino acids metabolism i.e. branched chain-a keto acid dehydrogenase which catalyses decarboxylationQ of branched chain amino acidsQ,o As a result, the branched chain amino acids, leucineQ, isoleucineQ and valineQ and their a-keto acids accumulate in blood, urine and CSF.o There is characteristic…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -71475,13 +71475,13 @@ window.OpenPharmacyQuestions = [
         "Calcoflour white"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Methylene blue * When blood films containing anthrax bacilli are stained with polychrome methylene blue for a few seconds and examined under microscope, an amorphous purplish material is noticed around bacilli. This represents the capsular material and is characteristic of the anthrax bacillus.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -71874,13 +71874,13 @@ window.OpenPharmacyQuestions = [
         "Buprenorphine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is'c'i.e., Butorphanol [Ref: KDT 7h/e p. 482)Butorphanol - Nasal spray (Stadol)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -72232,13 +72232,13 @@ window.OpenPharmacyQuestions = [
         "Diode laser"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is c i.e., Nd:YAG Laser * Nd:YAG Laser is used for treatment of posterior capsular opacities commonly seen after cataract surgeries.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -72594,7 +72594,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Projection Fibres- These are fibres which connect the cerebral coex to other pas of the CNS, e.g.1) the brainstem and spinal cord. Many impoant tracts, e.g.2) coicospinal and coicopontine are made up of projection fibres. Ref : B D Chaurasia's Human Anatomy , seventh edition , volume 4, pg . no., 145.",
+    "explanation": "Projection Fibres- These are fibres which connect the cerebral coex to other pas of the CNS, e.g.1) the brainstem and spinal cord. Many important tracts, e.g.2) coicospinal and coicopontine are made up of projection fibres. Ref : B D Chaurasia's Human Anatomy , seventh edition , volume 4, pg . no., 145.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -72683,13 +72683,13 @@ window.OpenPharmacyQuestions = [
         "6 million/ml"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., 5 million/mlIndications of ICSI in male infeility comprise:Sperm count less than 5 million/mL. Decreased or absent motility of sperms.Many abnormal sperms. Previous failed IVF.Unexplained infeility.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -72863,13 +72863,13 @@ window.OpenPharmacyQuestions = [
         "Aripiprazone"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. a. Fluphenazine Fluphenazine decanoate can be given as a depot i.m. injection every 2-4 weeks. \"Long acting intramuscular (IM) depot preparations of antipsychotics include fluphenazine decanoate, fluphenazine enanthate, flupenthixol decanoate, haloperidol decanoate, olanzapine pamoate, pipotiazine palmitate, resperidone consta and zulcopenthixol decanoate.\" Long Acting Intramuscular (IM) Depot Preparations of Antipsychotics Fluphenazine decanoate Haloperidol decanoate Resperidone consta Fluphenazine enanthate Olanzapine pamoate Zulcopenthixol decanoate Flupenthixol decanoate Pipotiazine palmitate",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -72953,13 +72953,13 @@ window.OpenPharmacyQuestions = [
         "100 mg iron, 100 hg folic acid"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., 100 mg iron, 500 jig folic acid",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -73348,13 +73348,13 @@ window.OpenPharmacyQuestions = [
         "2000 gm"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., 1300 gm o In Horrock's apparatus, 6 cups are filled with water and indicator (starch iodine) is added in increasing quantity in each cup (1 unit in 1 st, 2 units in 2nd, 3 units in third and so on)o The first cup which shows the blue color is multiplied by 2, for example if 2nd cup shows blue colour than 4 grams (2x2) of bleaching powder will required to disinfect 455 litre of water,o In this question, 4th cup is showing blue color. So, 8 gms (4x2) of bleaching powder is required to disinfect 455 litre of water. Thus, total water of well require -Amount of bleaching powder =8x75000------455=1318gms",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -73393,13 +73393,13 @@ window.OpenPharmacyQuestions = [
         "Potassium nitrate plus charcoal"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. a. Nitrocellulose plus Nitroglycerine (Ref: Reddy 33/e p210, 29/e p192)Double based smokeless gun powder consists of Nitrocellulose plus Nitroglycerine.Gun-PowderSmokeless PowderSmoke producing powdersSemismokeless powderNitrocellulose (gun cotton)QNitrocellulose and Nitroglycerine (double base)Q* Black Powder:- It is described in FG, FFG, FFFG and so on depending on the size of die grains.- The finer and faster burning grains have more numbers of Fs.- It contains PCSQ- Potassium nitrate (75%)Q- Charcoal (15%)Q- Sulphur (10%)Q* Pyrodex:- PCS - Potassium perchlorate, Sodium benzoate, Dicyandiamide, Dextrin wax and graphite80% of black and 20% of smokeless powderQ",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -73438,13 +73438,13 @@ window.OpenPharmacyQuestions = [
         "15%"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., 5% Agents suitable for disinfection of faeces and urineDisinfectantAmount per litrePercent1. Bleaching powder2. Crude phenol3. Cresol4. Formalin50g 100 ml 50 ml 100 ml510510",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -74496,13 +74496,13 @@ window.OpenPharmacyQuestions = [
         "Transcriptase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A. Helicase(Ref: Harper 31/e page 364)Classes of proteins involved in DNA replicationProteinFunctionDNA polymerasesDeoxynucleotide polymerizationHelicasesProcessive unwinding of DNATopoisomerasesRelieve torsional strain that results from helicase-induced unwindingProteinFunctionDNA primaseInitiates synthesis of RNA primersSingle-strand binding proteinsPrevent premature reannealing of dsDNADNA ligaseSeals the single strand nick between the Nascent chain and Okazaki fragments on lagging strand",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -75280,13 +75280,13 @@ window.OpenPharmacyQuestions = [
         "Methionine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Leucine o Synthesis of glucose from non-carbohydrate precursors is called gluconeogenesis.o When the end product is glycogen instead of glucose, the process is called glyconeogenesis, i.e., synthesis of glycogen from noncarbohydrate precursors.o Terms gluconeogenesis and glyconeogenesis are used interchangeably as all reactions are same except for last where glucose-6-phosphate enters the glycogen synthesis pathway, instead of by being converted to glucose.Coming back to questiono Alanine, threonine, and methionine are glucogenic amino-acids, i.e. can be used as substrates for gluconeogenesis or glyconeogenesis.o Leucine is purely ketogenic amino acid, can not be used as a…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -75626,13 +75626,13 @@ window.OpenPharmacyQuestions = [
         "Glycine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Serine o Selenocysteine is considered as 21\" standard amino acid. o It is present at the active site of some enzymes that catalyze redox reactions, e.g. thioredoxin reductase, glutathione peroxidase, and the deiodinase (converts thyroxin to triiothyronine). o Biosynthesis of selenocysteine requires cysteine, serine, ATP and a specific t-RNA o Serine provides the carbon skeleton of selenocysteine. o Selenocysteine has a structure similar to cysteine, but containing the trace element selenium in place of sulfur atom of cysteine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -76061,7 +76061,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Iodine metabolism within the thyroid can be regulated independently of TSH. This mechanism is impoant when plasma iodide levels are elevated (15-20-fold above normal) because this elevation inhibits the organic binding of iodine within the thyroid. This autoregulatory phenomenon consisting of inhibition of the organification of iodine by elevated circulating levels of iodide is known as the Wolff-Chaikoff effect. This effect lasts for a few days and is followed by the so-called escape phenomenon, at which point the organification of intra-thyroidal iodine resumes and the normal synthesis of T4 and T3 returns. Ref: Molina P.E. (2013). Chapter 4. Thyroid Gland. In P.E. Molina (Ed), Endocrine P…",
+    "explanation": "Iodine metabolism within the thyroid can be regulated independently of TSH. This mechanism is important when plasma iodide levels are elevated (15-20-fold above normal) because this elevation inhibits the organic binding of iodine within the thyroid. This autoregulatory phenomenon consisting of inhibition of the organification of iodine by elevated circulating levels of iodide is known as the Wolff-Chaikoff effect. This effect lasts for a few days and is followed by the so-called escape phenomenon, at which point the organification of intra-thyroidal iodine resumes and the normal synthesis of T4 and T3 returns. Ref: Molina P.E. (2013). Chapter 4. Thyroid Gland. In P.E. Molina (Ed), Endocrine P…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -76387,7 +76387,7 @@ window.OpenPharmacyQuestions = [
     "objective": "pharmaceutical chemistry · MedMCQA",
     "course": "paper-2",
     "topic": "Stage 1 · Pharmaceutical Chemistry",
-    "prompt": "Main pa of pulmonary aery is a derivative of which of the following branchial arch?",
+    "prompt": "Main pa of pulmonary artery is a derivative of which of the following branchial arch?",
     "options": [
       [
         "A",
@@ -76407,7 +76407,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "The ventral pa of the 6th arch forms the main pa of the pulmonary aery. The dorsal pa on the left side persist as ductus aeriosus which closes after bih and remains as ligamentum aeriosum. The dorsal pa on the right side disappears. Vascular elements of branchial arches:First arch: Maxillary aerySecond arch: Stapedial aeryThird arch: Common carotid and internal carotid aeryFouh arch: On the right side it forms the first pa of subclan aery and on the left side it forms the main pa of arch of aoaRef: Bedside Clinics In Surgery By M.L. Saha page 363.",
+    "explanation": "The ventral pa of the 6th arch forms the main pa of the pulmonary artery. The dorsal pa on the left side persist as ductus aeriosus which closes after bih and remains as ligamentum aeriosum. The dorsal pa on the right side disappears. Vascular elements of branchial arches:First arch: Maxillary arterySecond arch: Stapedial arteryThird arch: Common carotid and internal carotid arteryFouh arch: On the right side it forms the first pa of subclan artery and on the left side it forms the main pa of arch of aoaRef: Bedside Clinics In Surgery By M.L. Saha page 363.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -76492,13 +76492,13 @@ window.OpenPharmacyQuestions = [
         "12a-hydroxylase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., 7a-hydroxylase o About half of the cholesterol in the body is ultimately metabolized to bile acids.o The primary bile acids are synthesized from cholesterol in liver. These are cholic acid and chenodeoxycholic acid.o Rate limiting enzyme in primary bile acids synthesis is 7a- hydroxylase (cholesterol 7a - hydroxylase).o This enzyme is inhibited by bile acids and induced by cholesterol.o Thyroid hormones induce transcription of 7a-hvdroxylase, thus in patients with hypothyroidism plasma cholesterol tends to rise (because of inhibition of 7a-hydroxyiase which in turn inhibits conversion of cholesterol to bile acids).",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -78312,13 +78312,13 @@ window.OpenPharmacyQuestions = [
         "ADH"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A InsulinRef: Ganong, 25th ed. pg. 434Insulin receptor is a tetramer made of two alpha and two beta glycoprotein proteins. The alpha subunits bind insulin and are extracellular while beta subunits have tyrosine kinase activity. The growth promoting anabolic effects of insulin are mediated by phosphatidyl inositol kinase pathway.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -78510,7 +78510,7 @@ window.OpenPharmacyQuestions = [
     "objective": "pharmaceutical chemistry · MedMCQA",
     "course": "paper-2",
     "topic": "Stage 1 · Pharmaceutical Chemistry",
-    "prompt": "The hepatocyte is compamentalized to carry out specific functions. In which subcellular compament does fatty acid synthesis occur",
+    "prompt": "The hepatocyte is compartmentalized to carry out specific functions. In which subcellular compartment does fatty acid synthesis occur",
     "options": [
       [
         "A",
@@ -78572,13 +78572,13 @@ window.OpenPharmacyQuestions = [
         "By inhibiting DNA gyrase or topoisomerase activity"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Resistance to antibiotics occurs by following mechanism. By synthesizing enzymes against antibiotics : Penicillinases , Beta lactamases, Aminoglycoside inactivating enzymes. By altering porin channels, so the drug is not able to enter inside. Resistance to aminoglycosides occurs by this mechanism. By actively effluxing the drug out of the cell : resistance to tetracyclines occurs by this mechanism. Inhibition of DNA gyrase or topoisomerase activity is mechanism of action of flouroquinolones rather than mechanism of acquisition of resistance. So, answer is 'D'.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -78704,13 +78704,13 @@ window.OpenPharmacyQuestions = [
         "Linoleic acid"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Palmitic acido Palmitate (Palmitic acid) is formed after a total of seven cycles in fatty acid synthesis.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -78834,7 +78834,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "In choice A and D vasopressin stimulates V2 receptors and leads to reduction in polyuria due to re-absorbtion of water the water channels. DDAVP induces vWF secretion by binding to V2R and activating cAMP-mediated signaling in endothelial cells and controls bleeding in vWD. Vasopressin exes vasoconstrictive effect on splanchnic circulation VI receptors Receptor of vasopressin Location Action V1 G protein - coupled phoshatidyl inositol/ calcium Vascular smooth muscle, platelet, hepatocytes, myometrium Vasoconstriction, myocardial hyperophy, platelet aggregation, glycogenolysis, uterine contraction V3 G protein -coupled, phosphatidyl inositol/calcium Anterior pituitary gland Releases ACTH, pro…",
+    "explanation": "In choice A and D vasopressin stimulates V2 receptors and leads to reduction in polyuria due to re-absorbtion of water the water channels. DDAVP induces vWF secretion by binding to V2R and activating cAMP-mediated signaling in endothelial cells and controls bleeding in vWD. Vasopressin exes vasoconstrictive effect on splanchnic circulation VI receptors Receptor of vasopressin Location Action V1 G protein - coupled phoshatidyl inositol/ calcium Vascular smooth muscle, platelet, hepatocytes, myometrium Vasoconstriction, myocardial hypertrophy, platelet aggregation, glycogenolysis, uterine contraction V3 G protein -coupled, phosphatidyl inositol/calcium Anterior pituitary gland Releases ACTH, pro…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -79093,13 +79093,13 @@ window.OpenPharmacyQuestions = [
         "sideroblastic anemia"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Thalassemia Thalassemia Syndromeso The thalassemia syndromes are a heterogeneous group of disorders caused by inherited mutations that decrease the synthesis of either the a-globin or b-globin chains that compose adult hemoglobin, HbA (a2b2), leading to anemia, tissue hypoxia, and red cell hemolysis related to the imbalance in globin chain synthesis.DisorderDefectThalassemiaDeficient Globin SynthesisHereditary SpherocytosisInherited red cell membrane defectSickle Cell DiseaseStructurally abnormal hemoglobin (hemoglobinopathy)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -79351,13 +79351,13 @@ window.OpenPharmacyQuestions = [
         "Canagliflozin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Exenatide ANTI-HYPERGLYCEMIC AGENTS | | |OralParenteral|| | ||||Release insulinOther mechanismInsulinGLP-analogsAmylin analogs| |||||||||| o Exenatideo Liraglutideo Pramlintide|| Sulfonyl ureasMeglitinides ||o Repaglinideo Nateglinide ||First generationo Chlorpropamide o TolbutamideSecond generationo Glipizideo Gliclazideo Glibenclamide ||||||BiguanidesThiazolidinedionesa-glucosidase inhibitorsD2 AgonistDPP-4 inhibitorSGLT-2 inhibitoro Metformino Pioglitazoneo Rosiglitazoneo Bromocriptineo Sitagliptino Vildagliptino Saxagliptino Alogliptino Dapagliflozino Canagliflozino Acarboseo Miglitol",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -79695,13 +79695,13 @@ window.OpenPharmacyQuestions = [
         "Nucleus"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B i.e. Rough endoplasmic reticulumRough ERThe surface of the rough endoplasmic reticulum (often abbreted RER) is studded with protein-manufacturing ribosomes giving it a \"rough\" appearance (hence its name).",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -79738,13 +79738,13 @@ window.OpenPharmacyQuestions = [
         "Laryngeal cortilages"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Maxilla Pharyngeal ArchMuscular ContributionSkeletal ContributionsNerveArteryCorresponding Pouch Structures1st (mandibular arch)Muscles of mastication. Anterior belly of the digastric, Mylohyoid, Tensor tympani. Tensor veli palatiniMaxilla, mandible (only as a model for mandible not actual formation of mandible). Incus and Malleus, Meckel's cartilage. Ant. Ligament of malleus, Sphenomandibular ligamentTrigeminal nerve (V2 and V3)Maxillary artery, external carotid arteryEustachian tubc.middle ear. mastoid antrum, and inner layer of the tympanic membrane.2nd (hyoid archMuscles of facial expression. Buccinator, Platysma, Stapedius. Stvlohoid, Posterior belly of the digastricSt…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -79850,7 +79850,7 @@ window.OpenPharmacyQuestions = [
     "objective": "pharmaceutical chemistry · MedMCQA",
     "course": "paper-2",
     "topic": "Stage 1 · Pharmaceutical Chemistry · Drug metabolism and biotransformation",
-    "prompt": "The most impoant source of reducing equivalents for fatty acid synthesis in the liver is",
+    "prompt": "The most important source of reducing equivalents for fatty acid synthesis in the liver is",
     "options": [
       [
         "A",
@@ -80351,13 +80351,13 @@ window.OpenPharmacyQuestions = [
         "Flash cards"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B i.e. Demonstrations Demonstration involves showing by reason or proof explaining or making clear by use of examples or experiments. Put more simply, demonstration means to clearly show",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -80523,13 +80523,13 @@ window.OpenPharmacyQuestions = [
         "Permethrin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Malathion* Insectisides used for control of malaria are-i) Residual sprapy-# In residual spray, spraying of houses with residual insectisides is done. Residual insectisides remains active over extended periods i.e., they have residual action even after the time of spray.# Commonly used residual insectisides are - Malathion, DDT, Lindane, propoxure (OMS-33).ToxicantDosage in g/m2Average duration of effectiveness (months)DDT1 to 26 to 12Lindane0-53Malathion23OMS-3323ii) Space spray# Space sprays are those where the insecticidal formation is sprayed into the atmosphere in the form of a mist or fog to kill insect. Action is short lived and temporary since there is no residual a…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -80610,7 +80610,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Agent factors :- * Caused by group B arbovirus (flavivirus) * The main reservoirs are Ardeid birds and pigs * Pigs are amplifiers of the virus and they do not manifest ove symptoms but circulates the virus Host factors :- * Most common in the age group of <15 years of age * Man - incidental dead end host * Affects other animals also and horse is the only animal which does not shows symptoms of encephalitis Vector:- * Transmitted by culex tritaeniorrhynchus - most impoant vector, others are C.Vishnuii and c. Gelidus * Incubation period is 5-15 days * Case fatality rate - 20-40% Ref:- K Park, 24th ed; pg num:- 302-303",
+    "explanation": "Agent factors :- * Caused by group B arbovirus (flavivirus) * The main reservoirs are Ardeid birds and pigs * Pigs are amplifiers of the virus and they do not manifest ove symptoms but circulates the virus Host factors :- * Most common in the age group of <15 years of age * Man - incidental dead end host * Affects other animals also and horse is the only animal which does not shows symptoms of encephalitis Vector:- * Transmitted by culex tritaeniorrhynchus - most important vector, others are C.Vishnuii and c. Gelidus * Incubation period is 5-15 days * Case fatality rate - 20-40% Ref:- K Park, 24th ed; pg num:- 302-303",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -80739,7 +80739,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Hypeension due to an occlusive lesion of a renal aery is renovascular hypeensionIn the initial stages, the mechanism of hypeension generally is related to activation of the renin-angiotensin system. Obstruction of the renal aery leads to decreased renal perfusion pressure, thereby stimulating renin secretion. Over time, possibly as a consequence of secondary renal damage, this form of hypeension may become less renin-dependent.As a screening test, renal blood flow may be evaluated with a radionuclide -ohoiodohippurate (OIH) scan, or glomerular filtration rate may be evaluated with a - diethylenetriamine pentaacetic acid (DTPA) scan before and after a single dose of captopril (or another ACE…",
+    "explanation": "Hypeension due to an occlusive lesion of a renal artery is renovascular hypeensionIn the initial stages, the mechanism of hypeension generally is related to activation of the renin-angiotensin system. Obstruction of the renal artery leads to decreased renal perfusion pressure, thereby stimulating renin secretion. Over time, possibly as a consequence of secondary renal damage, this form of hypeension may become less renin-dependent.As a screening test, renal blood flow may be evaluated with a radionuclide -ohoiodohippurate (OIH) scan, or glomerular filtration rate may be evaluated with a - diethylenetriamine pentaacetic acid (DTPA) scan before and after a single dose of captopril (or another ACE…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -80953,13 +80953,13 @@ window.OpenPharmacyQuestions = [
         "Doppler"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Doppler o Color doppler ultrasonography is the screening method of choice (not simple USG : option a is incorrect),o Carotid angiography is the investigation of choice for diagnosis,o MRI is the investigation of choice for demyelinating disorder, e.g. multiple sclerosis.Investigations in nervous systemo Investigation of choice for white matter disease - MRI (CT is second choice),o Investigation of choice of acoustic neuroma - GD enhanced MRIo Best investigation for all brain tumors - Contrast enhanced MRIo Investigation of choice for meningeal carcinomatosis - Contrast (gadolinium) enhanced MRI.o Investigation of choice for posterior fossa tumor - MRIo Investigation of choi…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -81125,13 +81125,13 @@ window.OpenPharmacyQuestions = [
         "Tape worm"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. B: Hook worm Morbidity and moality from hookworm infection depend much on the worm load. Chandler worked out an index on the basis of an average number of hookworm eggs per gram of feces for the entire community, Chandler's index is still used in epidemiological studies of hookworm disease. By this index, worm loads in different population groups can be compared and also the degree of reduction of egg output after mass treatment.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -81170,13 +81170,13 @@ window.OpenPharmacyQuestions = [
         "50microgram"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., 150 microgram o The RDA of iodine for adults is 150 microgram.GroupRecommended daily intakePreschool children (0-59 months)School children (6 - 12 years)Adults (>12 years)Pregnancy and lactation90 meg120 meg150 meg250 meg",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -81258,13 +81258,13 @@ window.OpenPharmacyQuestions = [
         "Symposium"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A: Panel discussion In panel discussion there is a chairman/moderator and 4-8 speakers. Each speaker prepares separately, the other speakers hear one another for the time at the session itself. Panel discussions, however, differ from team presentations. Their purpose is different. In a team presentation, the group presents agreed-upon views; in a panel discussion, the purpose is to present different views. Also in a team presentations, usually speakers stand as they speak; in panel discussions, usually speakers sit the whole time. Technically, a panel discussion consists of questions and answers only, and a symposium consists of a series of prepared speeches, followed by questions and a…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -81346,13 +81346,13 @@ window.OpenPharmacyQuestions = [
         "600 mg"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., 80-120 mg Recommended daily allowances of folic acid are:- Healthy adults - 200 micro gm.(mcg) Pregnancy - 500 mcg Lactation - 300 mcg Children - 80-120 mcg",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -81560,11 +81560,11 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Test of propoions"
+        "Test of proportions"
       ]
     ],
     "answer": "D",
-    "explanation": "Source answer key: Test of propoions.",
+    "explanation": "Source answer key: Test of proportions.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81608,13 +81608,13 @@ window.OpenPharmacyQuestions = [
         "Vaginal"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., IUCD o Actinomycosis may occur by use of IUCD.Side effects and complications of lUDs1. Bleeding - Most common2. Pain - Second major side effect3. Pelvic infection - PID4. Uterine perforation5. Pregnancy6. Ectopic pregnancy7. Expulsion8. Mortality' - extremely rare",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -81780,13 +81780,13 @@ window.OpenPharmacyQuestions = [
         "Case report"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Case Control Study \" The association of consanguinity with complex disorders can be studied using different approaches. For example, epidemialogial surveys could compare the frequency of a disorder in the progeny offirst cousin parents with that of unrelated parents, whereas case-control studies could compare the rates of first cousins among affected individuals and controls\".",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -81866,13 +81866,13 @@ window.OpenPharmacyQuestions = [
         "Lofexidine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Disulfiram o Heroin is diamorphine and is 3 times more potent than morphine.Treatment of morphine or heroin poisoningo Treatment can be divided into:-A. Treatment of toxicity (overdose)# Overdose is a medical emergency, and is treated with opioid antagonist to reverse the complications (respiratory depression) by antagonizing the action on opioid receptors. Intravenous naloxone is the antagonist of choince for morphine (heroin) poisoning. Oral naltrexone is used for maintenance therapy, once acute poisoning has been treated by iv naloxone. Intravenous nalmefene is another specific antagonist.B. Treatment of dependence# Treatment of dependence include medically supervised wi…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -82429,13 +82429,13 @@ window.OpenPharmacyQuestions = [
         "Whitneys test"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'C' i.e., Log rank test o The Kaplan-Meier estimator is an estimater for estimating the survival function from life time data. o A plot of the Kaplan-Meier estimate of the survival function is a series of horizontal steps of declining magnitude which, wrhen a large enough sample is taken, approaches the true survial function of that population. The value of the survival function between successive distinct sampled observations is assumed to be constant, o Different Kaplan-Meier curves can be compared by - The log rank test The cox proportional hazards test",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -82472,13 +82472,13 @@ window.OpenPharmacyQuestions = [
         "Disability"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Risk factors LEVELS OF PREVENTION There are four levels of prevention :? Primordial prevention Primary prevention Secondary prevention Teiary prevention Primordial Level of Prevention: Is primary prevention (see below) in purest sense It is the prevention of the emergence or development of risk factors in countries or population groups in which they have not yet appeared Modes of Intervention: Individual Education Mass Education Primordial Level is Best level of prevention for Non-communicable diseases",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -82730,13 +82730,13 @@ window.OpenPharmacyQuestions = [
         "Bajaj Committee"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e.,Bhore Committe Bhore CommitteIt is also known as 'Health Survey and Development Committee'. Its recommendations were :1) Integration of preventive and curative services at all administration levels2) Sho term and long term recommendationsSho term : PHC to cater to a population of 40,000Long term (3 million plan) : PHC units to be set up with 75 bedded hospital for each 10,000 to 20,000 population3) Major charger in medical education including 3 months training in social and preventive medicine to prepare 'social physicians'.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -83424,13 +83424,13 @@ window.OpenPharmacyQuestions = [
         "Not feeding well"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Fever of 39degC Indications for urgent referral for hospital in AI Not able to drink Convulsions Severe malnutrition Stridor in calm child Abnormally sleepy or difficult to wake o All these are signs of very severe disease which is an indication for urgent hospital referrel. o Signs of very severe pneumonia i.e., chest retraction, cyanosis are also indications for urgent referrel to a hospital.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -83815,13 +83815,13 @@ window.OpenPharmacyQuestions = [
         "Health education"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Vaccination o The reduced incidence of diphtheria in India is primarily due to the high coverage of appropriate immunization in children and to an apparent reduction in toxin-producing strains of the bacterium.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -84294,13 +84294,13 @@ window.OpenPharmacyQuestions = [
         "Number of total cases at a given point of time"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Number of total cases at a given point of time * Prevalence refers specifically to all current cases (old and new) existing at a given point in time or over a period of time in a given population.* Prevalence is of two types: (i) Point prevalence, and (ii) Period prevalencei) Point prevalence# Point prevalence is defined as the number of all current cases (old and new) of a disease at one point of time, in relation to a defined population.Point prevalence =No. of all current cases (old & new) of a specified disease existing at a given in time------------------------------------Estimated population at same point in timex 100# When the term prevalence rate is used, without an…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -84472,13 +84472,13 @@ window.OpenPharmacyQuestions = [
         "6 ppm"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C: 5 ppm Park's PSM, 21st ed., p- 723 states: Chlorine destroys cyclops and larvae of the guineaworm in a strength of 5 ppm Cyclops may be controlled by the use of the physical, chemical or biological methods: Physical methods - Straining - Boiling at 60 degree Celsius Chemical methods - Chlorine in a strength of 5 ppm - Lime - Abate Biological - Barbel fish and gambusia fish The most satisfactory and permanent method of controlling Cyclops in drinking water is to provide piped water supply or tube wells. Abolition of step wells and provision of sanitary wells should receive attention in rural areas.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -84515,13 +84515,13 @@ window.OpenPharmacyQuestions = [
         "0.05"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., 0.05 P is the probability that the difference seen between 2 samples occurs due to chance\". If p . .05 it is considered statistically significant. It means that There is 5% probability that the result could have been obtained by chance. or The investigator can be 95% sure that the result was not obtained by chance.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -84602,7 +84602,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "ESI act is an impoant measure of social security and health insurance in India. Administration: The Union Ministry of Labour is the Chairman of ESI corporation. Secretary to Govt. of India Ministry of Labour is Vice-Chairman of ESI.",
+    "explanation": "ESI act is an important measure of social security and health insurance in India. Administration: The Union Ministry of Labour is the Chairman of ESI corporation. Secretary to Govt. of India Ministry of Labour is Vice-Chairman of ESI.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -84818,13 +84818,13 @@ window.OpenPharmacyQuestions = [
         "Beta oxalylamino alanine (BOAA)"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., Pyrrolizidine Endemic ascites o Endemic ascites is caused by a hepatotoxin - pyrralizidine alkaloid found in weed seeds of Crotolariu (Jhunjhunia). o These weed seeds of Jhunjhunia contaminate the millet seeds Panicum ',Ware (locally k/a Gondhli) o Endemic ascites presented in Sarguja district of Madhya Pradesh during 1973 & 1976 as outbreak of rapidly developing ascites and jaundice with high moality. Preventive measures Educating the people Deweeding of Jhunjhunia plants which grow along with the staple food-millet. o Sieving to separate out the Jhunjhunia seeds from millet seeds.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -84863,13 +84863,13 @@ window.OpenPharmacyQuestions = [
         "Cotton dust"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Coal dust * Anthracosis- Coal dust* Silicosis- Silica* Siderosis- Iron* Byssinosis- Cotton dust (textile industry)* Farmer's lung- Hay or grain dust (micropolyspora faeni)* Sequousis- Moldy red wood saw dust* Suberosis- Moldy cork dust* Detergent workers lung- Enzyme additives* Baggassosis- Sugarcane dust (thermoactinomyces sacchari)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -85035,13 +85035,13 @@ window.OpenPharmacyQuestions = [
         "Serial inverval"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans is 'c' i.e., Generation time * Generation time - Period from receipt of infection to maximal infectivity.* Serial interval - Gap between onset of primary case and secondary case.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -85597,7 +85597,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Sterilization is the most effective contraception to achieve NRR =1 Male sterilization Male sterilization or vasectomy being a comparatively* simple operation can be performed even in primary health centres by trained doctors under local anaesthesia. When carried out under strict aseptic technique, it should have no risk of moality. In vasectomy, it is customary to remove a piece of vas at least 1 cm after clamping. The ends are ligated and then folded back on themselves and sutured into position, so that the cut ends face away from each other. This will reduce the risk of recanalization at a later date. It is impoant to stress that the acceptor is not immediately sterile after the operation…",
+    "explanation": "Sterilization is the most effective contraception to achieve NRR =1 Male sterilization Male sterilization or vasectomy being a comparatively* simple operation can be performed even in primary health centres by trained doctors under local anaesthesia. When carried out under strict aseptic technique, it should have no risk of moality. In vasectomy, it is customary to remove a piece of vas at least 1 cm after clamping. The ends are ligated and then folded back on themselves and sutured into position, so that the cut ends face away from each other. This will reduce the risk of recanalization at a later date. It is important to stress that the acceptor is not immediately sterile after the operation…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85726,7 +85726,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "The incidence of mental illness is the maximum if the causal factors affect a paicular period of first five years of life crucial points in the life cycle of human being which are impoant from the view of mental health are prenatal period, first five years of life, school child , adolescence, old age. ref ;(page no;832)23rd edition of PARK&;s textbook of Preventive and Social medicine",
+    "explanation": "The incidence of mental illness is the maximum if the causal factors affect a paicular period of first five years of life crucial points in the life cycle of human being which are important from the view of mental health are prenatal period, first five years of life, school child , adolescence, old age. ref ;(page no;832)23rd edition of PARK&;s textbook of Preventive and Social medicine",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85899,13 +85899,13 @@ window.OpenPharmacyQuestions = [
         "500 mg"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., 40 mgo The daily requirement for vitamin C --> 40 mg.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -85942,13 +85942,13 @@ window.OpenPharmacyQuestions = [
         "Trench fever"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., KFDo White disease- AIDSo Poverty disease - Cholerao Hundred day cough: Pertussis (Whooping cough)o 5 day fever: Trench fevero 8th day disease: Tetanuso Black sickness: Kala azaro Black death: Plagueo Cerebrospinal fever: Meningococcal meningitiso Kochs phenomenon: Tuberculosiso Hansen s disease: Leprosyo Break-bone fever: Dengueo Slim disease: AIDSo Monkey fever: KFDo First disease/ Rubeolla: Measleso Second disease: Scarlet fevero Third disease/ German Measles: Rubellao Fourth disease: Duke's diseaseo Fifth disease: Erythema infectiosum (Parvovirus)o Sixth disease/Baby Measles/3-day fever: Exanthem subitum/ Roseola infantumo Barometer of Social Welfare (India): Tuberculos…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -86028,13 +86028,13 @@ window.OpenPharmacyQuestions = [
         "100 mg"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., 450 mg TREATMENT REGIMEN SPUTUM EXAMINATIONS FOR PULMON ARY TBCategory of treatmentType of patientRegimentPre treatment sputumTest at monthIf result isTHEN -Start continuation phase, test sputum 6 monthsNew casesNew sputum smear-positive2(HRZE)3+-2 Category 1New sputum semar-negative+ +Continue intesive phase for one more montfRed BoxNew extra-pulmonaryNew others4 (HR)3 Complete the treatment in 7 monthsPreviouslySputum smear-positive Relapse2(HRZES}3 -Start continuation phase, test sputum again 6 months, completion of treatmentTreatedSputum smear-positive Fa ilure+ Category IISputum smear-positive1 (HRZE)3+3+Continue intensive phase for one more monthBlue Boxtreatment afte…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -86464,13 +86464,13 @@ window.OpenPharmacyQuestions = [
         "10"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., 3 o To maintain protection, revaccination is recommended every 3 years.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -87339,7 +87339,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "<p> EGG Contain all the nutrients except carbohydrates and vitamin C. An egg weighing 60g contains 6g of protein, 6g of fat , 30 mg of calcium and 1.5 mg of iron, and supplies about 70 kcal of energy. Egg proteins have all the nine essential aminoacids needed by body in right propoions. Egg protein is the standard against which the quality of other proteins is compared. Except for vitamin C, egg contains all the fat soluble and water soluble vitamins in appreciable amounts. Impoant minerals such as calcium, phosphorous, iron, zinc, and other trace elements. NPU (Net protein Utilization) is 100 for egg . Boiling destroys avidin , a substance which prevents the body from obtaining biotin . {Re…",
+    "explanation": "<p> EGG Contain all the nutrients except carbohydrates and vitamin C. An egg weighing 60g contains 6g of protein, 6g of fat , 30 mg of calcium and 1.5 mg of iron, and supplies about 70 kcal of energy. Egg proteins have all the nine essential aminoacids needed by body in right proportions. Egg protein is the standard against which the quality of other proteins is compared. Except for vitamin C, egg contains all the fat soluble and water soluble vitamins in appreciable amounts. Impoant minerals such as calcium, phosphorous, iron, zinc, and other trace elements. NPU (Net protein Utilization) is 100 for egg . Boiling destroys avidin , a substance which prevents the body from obtaining biotin . {Re…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87424,13 +87424,13 @@ window.OpenPharmacyQuestions = [
         "Wrist drop"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Ape thumbDeformity' or disorderNerve involvedo Wrist dropo Radial nerveo Foot dropo Common peroneal nerve (Lateral popliteal)o Claw hand (complete)o Ulnar + Median nerveo Ulnar claw hando Ulnar nerveo Ape thumb deformityo Median nerveo Pointing indexo Median nerveo Policeman tip deformity'o Erb's Palsy (Brachial plexus)o Winging of scapulao Long thoracic nerve (nerve to SA)o Meralgia parestheticao Lateral cutaneous nerve of thigh",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -87555,13 +87555,13 @@ window.OpenPharmacyQuestions = [
         "Incubation period"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Secondary attect rate Secondary attack rateo SAR is defined as \"the number of exposed persons developing the disease within the range of incubation period, following exposure to primary caseSAR =No of exposed persons developing disease within the range of the incubation period------------------------------------------Total number of exposed/susceptible contactx 100o The important features of SAR are:-i) The primary case is excluded from both the numerator and denominator.ii) Denominator is restricted to susceptible contacts of primary case.iii) In denominator, person should be suscetible - Immune person (to disease) are not susceptible to develop the disease, So they are ex…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -87600,13 +87600,13 @@ window.OpenPharmacyQuestions = [
         "Histogram blocks"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. d (Histogram blocks) (Ref. Park PSM 22nd/ 788; Methods in Bio-statistics, by B. K. Mahajan 6th/p. 23)Quantitative data is presented by the following graphsQualitative or discrete or enumeration data is presented by the following graphs:# Histogram.# Bar diagram# Frequency polygon.# Pie or sector diagram# Frequency curve.# Pictogram# Line chart or graph.# Spot map# Cumulative frequency diagram (Ogive). # Scatter or dot diagram.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -87731,13 +87731,13 @@ window.OpenPharmacyQuestions = [
         "90%"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans. is 'd' i.e., 90% SAR of some impoant infectious diseases Measles Rubella Chicken pox Peussis Mumps 80% 90 - 95% -- 90% -- 90% 86%",
+    "answer": "D",
+    "explanation": "Ans. is 'd' i.e., 90% SAR of some important infectious diseases Measles Rubella Chicken pox Peussis Mumps 80% 90 - 95% -- 90% -- 90% 86%",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -87819,13 +87819,13 @@ window.OpenPharmacyQuestions = [
         "40%"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., 10% o Measles-associated mortality is usually higher among the very' young and very old.o Mortality in developing countries may be as high as 10 to 15% due to one or several factors, including the early age of infection, malnutrition, diarrhea, concomitant-secondary bacterial infections, and lack of access to good medical care.o Most common cause of death is pneumonia in children and encephalitis in adults.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -87864,13 +87864,13 @@ window.OpenPharmacyQuestions = [
         "First case detected by investigator"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., First case defected by investigator [Ref: Park 22nd/e d. 92 & 21st/e p. 9/1o Primary caseo Index case--First case of communicable disease introduced into the population.First case to come to attention of the investigator.o It is not always necessary that primary case will be index case : -When the first case noticed by the investigator is also the first case of the population - Primary case and index case are the same.When the first case nociced by the investigator is not the first case of the population (primary case) - Index case and primary case are different.o Secondary cases - Cases those developing from contact with primary case.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -88339,13 +88339,13 @@ window.OpenPharmacyQuestions = [
         "Pie diagram"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. c (Line chart) (Ref. Text book of biostatistics by B K Mahajan, Vlth /pg. 20; Park PSm 22nd/788)Line diagrams are used to show the trend of events with the passage of time.Type of dataQualitative dataQuantitative dataDefinitionCharacteristics same, only frequency variesCharacteristics as well as frequency both varyExampie Method of presentation of dataMales, females1. Bar diagramLength of the bars, drawn vertical or horizontal, indicates the frequency of a character. Bar may be drawn in ascending or descending order of magnitude. Spacing between any two bars should be nearly equal to half of the width of the bar. There are four types of bar diagrams,a) Simple bar diagram:Here bars can b…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -88775,13 +88775,13 @@ window.OpenPharmacyQuestions = [
         "Contraction"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. c (Complete extension) (Ref. Park Textbook of PSM 22nd/pg.635)A family is a primary unit in all socities. Familes are not constant. A normal family-cycle is generally conceived as having six phases as follows:BASIC MODEL OF NUCLEAR FAMILY LIFE CYCLE Phase of family cycleCharacterizing EventsNo.DescriptionBeginning of phaseEnd of phaseIFormationMarriageBirth of 1st childIIExtensionBirth of 1st childBirth of last childIIIComplete extensionBirth of last child1st child leaves homeIVContraction1st child leaves homeLast child has left home of parentsVCompleted contractionLast child has left home of parents1st spouse diesVIDissolution1st spouse diesDeath of survivor (Extinction)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -89334,13 +89334,13 @@ window.OpenPharmacyQuestions = [
         "Green"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e.,WhitePre-packed colour coded STI/I kits have been provided for free supply to all designated STI/I clinics :Kit 1 4 Grey, for urethral discharge, ano-rectal discharge, cervicitis.Kit 2 - Green, for vaginitisKit 3 4 White, for genital ulcersKit 4 - Blue, for genital ulcersKit 5 - Red, for genital ulcersKit 6 4 Yellow, for lower abdominal painKit 7 - Black, for scoal swelling.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -89377,13 +89377,13 @@ window.OpenPharmacyQuestions = [
         "Standard detion"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., Standard detion \"Standard detion is most common and generally most appropriate measure of dispersion (variation)\".",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -89420,13 +89420,13 @@ window.OpenPharmacyQuestions = [
         "Cost effectiveness"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans. is 'b' i.e., Predictability Screening test to be applied o The screening test to be applied should fulfil the following impoant criteria before it is considered suitable for screening : ? 1. Acceptability The test should be acceptable to the people at whom it is aimed. In general painful or embarrasing tests e.g., per rectal or vaginal examination are not likely to be acceptable. 2. Repeatability (reliability) Repeatability means, the test must give consistent results when it is repeated more than once on the same individual under same conditions. That means the results of test are precise (exact), So repeatability is some time called precision, reliability or reproducibility. 3. Validi…",
+    "answer": "B",
+    "explanation": "Ans. is 'b' i.e., Predictability Screening test to be applied o The screening test to be applied should fulfil the following important criteria before it is considered suitable for screening : ? 1. Acceptability The test should be acceptable to the people at whom it is aimed. In general painful or embarrasing tests e.g., per rectal or vaginal examination are not likely to be acceptable. 2. Repeatability (reliability) Repeatability means, the test must give consistent results when it is repeated more than once on the same individual under same conditions. That means the results of test are precise (exact), So repeatability is some time called precision, reliability or reproducibility. 3. Validi…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -89508,13 +89508,13 @@ window.OpenPharmacyQuestions = [
         "1500 gm"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., 350 gmCarbohydrate store of body is approximately 350 grams (70 grams hepatic glycogen and 280 grams muscle glycogen).",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -89854,13 +89854,13 @@ window.OpenPharmacyQuestions = [
         "Neonatal hypothyroidism"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. d. Neonatal hypothyroidism",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -90071,13 +90071,13 @@ window.OpenPharmacyQuestions = [
         "Skin"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., Kidney [Ref: style=\"font-size: 1.04761904761905em; font-family: Times New Roman, Times, serif; margin: 0 0 8pt 8px; text-indent: 0; text-align: left\">o Cyclophosphomide is primarily metabolized (80%) and metabolites are excerted in urine.o 10 to 20% is excreted unchanged in urine and 4% is excreted in bile.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -90114,13 +90114,13 @@ window.OpenPharmacyQuestions = [
         "> 10 mg/litre"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., 10 mg/liter Crippling fluorosis This occurs at fluoride level > 10 mg/litre (PPM). Patient is crippled and bed ridden.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -90202,13 +90202,13 @@ window.OpenPharmacyQuestions = [
         "60%"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is 'c' i.e., 50% * The term literacy rate is used for the population relating to seven years age & above.* In the given question, population 7 years 8c above is 8000. Out of which 4000 are literate thus literacy rate is 50%.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -90331,13 +90331,13 @@ window.OpenPharmacyQuestions = [
         "Chloroquine + Pyrimethamine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b'. Sulfadoxine + Pyrimethamine * Under the recent 'National anti-Malaria Programme.' the drug policy for malaria treatment is as follows-Any fever in endemic areas during transmission season without any other obvious cause may be considered as malaria and investigated/treated accordingly.Drug resistance foci are prevalent in the country but chloroquine is still the safe, effective and cheap antimalarial drug and is simple to be administered.The best approach in malaria treatment is diagnosis and treatment on the same day.b(Plasmodium falciparum predominant and drug resistance areas)Presumptive treatment of all suspected/clinical malaria cases :Day 1 Tab. Chloroquine - 10 mg/kg body…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -90589,13 +90589,13 @@ window.OpenPharmacyQuestions = [
         "Cervical pap smear checking"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. D: Cervical pap smear checking The levels of prevention: Primordial prevention is prevention of the emergence/development of the risk factors in countries/population in which they have not yet appeared. e.g. obesity and hypeension prevention Primary prevention methods are used before the person gets the disease. Primary prevention aims to prevent the disease from occurring. So primary prevention reduces both the incidence and prevalence of a disease. Encouraging people to protect themselves from the sun's ultraviolet rays is an example of primary prevention of skin cancer. Secondary prevention is used after the disease has occurred, but before the person notices that anything is wrong.…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -91154,13 +91154,13 @@ window.OpenPharmacyQuestions = [
         "20 per 1000"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is 'a' i.e., 1 per 1000 * Annual Parasite Incidence = (confirmed cases during one year/population under surveillancee) x 1000* Population under surveillance = 100000* Confirmed cases =100API =100------100,000x 1000 = 1* So, API is 1 per 1000 population.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -91326,13 +91326,13 @@ window.OpenPharmacyQuestions = [
         "RMP + INH + ETM"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. c (RMP + INH + PZM + ETM); (Ref. Park PSM 22nd/pg. 175)Treatment categories and sputum examination schedule in DOTS chemotherapy in IndiaTREATMENT REGIMENSPUTUM EXAMINATIONS FOR PULMONARY TBCategory of treatmentType of patientRegimenPret- reat- ment sputumTest at monthIF: result is-----THEN:New cases Category I Red BoxNew sputum smear-positiveNew sputum smear-negativeNew extra-pulmonary**New others2(HRZEE)3+4(HR)3+2-Start continuation phase, test sputum again at 4 and 6 months +Continue intensive phase for one more monthComplete the treatment in 7 monthsPreviouslyTreatedCategory IIBlue BoxSputum smear positiveRelapse***Sputum smear-positiveFailure***Sputum smear-positive treatment after…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -91541,13 +91541,13 @@ window.OpenPharmacyQuestions = [
         "5 drugs for 2 months; 4 drugs for 1 month; 3 drugs for 5 months"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. C. 6 drugs for 6 months; 4 drugs for 18 months* Resistance to rifampicin and isoniazid is termed as multiple-drug-resistant TB (MDR-TB). In such a case, 6 drugs are used for 6-9 months in an intensive phase followed by 4 drugs for 18 months in a continuous phase.* The number of drugs used for specific duration in a particular type of TB is given below:Type of TBNumber of Drugs UsedNon-drug resistant - New case4 drugs for 2 months + 3 drugs for 4 monthsNon-drug resistant - Previously treated5 drugs for 2 months + 4 drugs for 1 month + 3 drugs for 5 monthsRifampicin resistance + Isoniazid sensitive7 drugs for 6-9 months + 5 drugs for 18 monthsMDR-TB6 drugs for 6-9 months + 4 drugs for 18…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -91972,7 +91972,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Ref: Parks 23rd edition pg 852 Chi-square test offers an alternate method of testing the significance of difference between two propoions.Advantage: it can also be used when more than 2groups are to be compared. Ref:Parks 23rd edition pg 852 Tests of significance: Qualitative: Chi- square : 2 or more than 2 groups Mc Nemar test : 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
+    "explanation": "Ref: Parks 23rd edition pg 852 Chi-square test offers an alternate method of testing the significance of difference between two proportions.Advantage: it can also be used when more than 2groups are to be compared. Ref:Parks 23rd edition pg 852 Tests of significance: Qualitative: Chi- square : 2 or more than 2 groups Mc Nemar test : 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92061,13 +92061,13 @@ window.OpenPharmacyQuestions = [
         "Very hard"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e., Moderately hard Classification of hardness in waterClassificationLevel of hardness (mEq./litre)a) Soft waterb) Moderately hardc) Hard waterd) Very hard waterLess than 1 (< 50 mg/L)1 - 3 (50 - 150 mg/L)3 - 6 (150 - 300 mg/L)Over 6 (> 300 mg/L)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -92280,13 +92280,13 @@ window.OpenPharmacyQuestions = [
         "IV drug abusers"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. A: Heterosexual Intercourse. Heterosexual Intercourse is the most common route but the chance of infection is less (0.30%) ,looking to the other options. Average per act risk of getting HIVby exposure route to an infected source Exposure routeChance of infection Blood transfusion 90% Childbih (to child) 25% Needle-sharing injection drug use 0.67% Percutaneous needle stick 0.30% Receptive anal intercourse* 0.04-3.0% Inseive anal intercourse* 0.03% Receptive penile-vaginal intercourse* 0.05-0.30% Inseive penile-vaginal intercourse* 0.01-0.38% Receptive oral intercourse*SS 0-0.04% Inseive oral intercourse*SS 0-0.005% * assuming no condom useSS source refers to oral intercourseperformed on…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -92538,13 +92538,13 @@ window.OpenPharmacyQuestions = [
         "1.50%"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is 'd' i.e., 1.5% * Growth rate = Crude birth rate - Crude death rate.* Thus, growth rate = 25-10=15 per 1000 or 1.5%",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -92670,13 +92670,13 @@ window.OpenPharmacyQuestions = [
         "375 IPC"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 'b' i.e. 327 CrPC S. 327 CrPC (2) -The inquiry into and trial of rape or an offence under sec.376 IPC shall be conducted in camera and it is not lawful for any person to print or publish any matter in relation to such proceedings except with the permission of cou.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
     "source": "MedMCQA",
-    "answerBasis": "Source answer key and explanation",
+    "answerBasis": "editorial-corrected",
     "sourceUrl": "https://huggingface.co/datasets/openlifescienceai/medmcqa",
     "regions": [
       "IN"
@@ -122379,7 +122379,7 @@ window.OpenPharmacyQuestions = [
     "objective": "Pathology · volume 6 question 52",
     "course": "paper-1",
     "topic": "Stage 1 · General Pathology, Haematology, Clinical Chemistry · Calcium, phosphate, carbohydrate and protein metabolism",
-    "prompt": "Nephrotic syndrome is classically defined by massive proteinuria (>3.5 g/day), hypoalbuminemia, generalized edema, and:",
+    "prompt": "Nephrotic syndrome is classically defined by massive proteinuria (>3.5 g/day), hyportalbuminemia, generalized edema, and:",
     "options": [
       [
         "A",
@@ -133263,7 +133263,7 @@ window.OpenPharmacyQuestions = [
     "options": [
       [
         "A",
-        "Massive proteinuria (>3.5 g/day) and severe hypoalbuminemia"
+        "Massive proteinuria (>3.5 g/day) and severe hyportalbuminemia"
       ],
       [
         "B",
