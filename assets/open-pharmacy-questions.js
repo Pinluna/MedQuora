@@ -674,8 +674,8 @@ window.OpenPharmacyQuestions = [
         "Lateral vessel."
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Lateral vessel..",
+    "answer": "A",
+    "explanation": "Source answer key: A. Basal vessel.. Source answer key: Lateral vessel..",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2192,7 +2192,7 @@ window.OpenPharmacyQuestions = [
         "Alpha 2 receptor"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ref-KDT 6/e p146 Stimulation of Alpha 2 receptors located on ciliary epithelium reduces secretion of aqueous humor.",
     "rationales": {},
     "paper": "paper-1",
@@ -2235,8 +2235,8 @@ window.OpenPharmacyQuestions = [
         "Serum electrophoresis"
       ]
     ],
-    "answer": "D",
-    "explanation": "pt. is suspected to have Ca Prostate as Prostatic Ca is the most common malignant tumor in men over 65 yrs. of age. Symptoms of Bladder outlet obstruction and back pains (due to bony metastasis in the pelvis & lumbar veebra) indicate towards prostate Ca. Serum acid phosphates is a tumor marker of prostate Ca. But now serum acid phosphates assay has been superseded by PSA assay (Prostate specific antigen). Prostate-specific antigen It is a glycoprotein produced only in the prostatic cells (both benign & malignant). It facilitates liquefaction of semen. It is neither sensitive nor specific for early prostate carcinoma (it is prostate specific and not prostate cancer specific), neveheless it gi…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Serum acid phosphatase. pt. is suspected to have Ca Prostate as Prostatic Ca is the most common malignant tumor in men over 65 yrs. of age. Symptoms of Bladder outlet obstruction and back pains (due to bony metastasis in the pelvis & lumbar veebra) indicate towards prostate Ca. Serum acid phosphates is a tumor marker of prostate Ca. But now serum acid phosphates assay has been superseded by PSA assay (Prostate specific antigen). Prostate-specific antigen It is a glycoprotein produced only in the prostatic cells (both benign & malignant). It facilitates liquefaction of semen. It is neither sensitive nor specific for early prostate carcinoma (it is prostate specific and not prostate cancer specific), neveheless it gi…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2278,7 +2278,7 @@ window.OpenPharmacyQuestions = [
         "Ascending pharyngeal"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Branch of ECA: - Superior thyroid artery Lingual artery Facial artery Anteriorly Ascending pharyngeal artery medially Occipital artery Posteriorly Posterior auricular artery Superficial temporal artery Maxillary artery Terminal artery Branches of ICA Ophthalmic artery Anterior choroidal artery Anterior cerebral Middle cerebral Posterior communication artery.",
     "rationales": {},
     "paper": "paper-1",
@@ -2321,8 +2321,8 @@ window.OpenPharmacyQuestions = [
         "acd"
       ]
     ],
-    "answer": "C",
-    "explanation": "Structures passing deep to inguinal ligament. - Psoas major, Iliacus, pectineus - Femoral nerve and vessels - Lateral cutaneous nerve of thigh - Femoral branch of genitofemoral nerve - Lymphatics",
+    "answer": "D",
+    "explanation": "Source answer key: D. acd. Structures passing deep to inguinal ligament. - Psoas major, Iliacus, pectineus - Femoral nerve and vessels - Lateral cutaneous nerve of thigh - Femoral branch of genitofemoral nerve - Lymphatics",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2364,8 +2364,8 @@ window.OpenPharmacyQuestions = [
         "Superior oblique"
       ]
     ],
-    "answer": "C",
-    "explanation": "The annulus of Zinn, also known as the annular tendon or common tendinous ring, is a ring of fibrous tissue surrounding the optic nerve at its entrance at the apex of the orbit.It can be used to divide the regions of the superior orbital fissure.The aeries surrounding the optic nerve are sometimes called the \"circle of Zinn-Haller\" (CZH).Some sources distinguish between these terms more precisely, with the annulus tendineus communis being the parent structure, divided into two pas:A lower, the ligament or tendon of Zinn, which gives origin to the Rectus inferior, pa of the Rectus internus, and the lower head of origin of the Rectus lateralis.An upper, which gives origin to the Rectus superio…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Superior oblique. The annulus of Zinn, also known as the annular tendon or common tendinous ring, is a ring of fibrous tissue surrounding the optic nerve at its entrance at the apex of the orbit.It can be used to divide the regions of the superior orbital fissure.The aeries surrounding the optic nerve are sometimes called the \"circle of Zinn-Haller\" (CZH).Some sources distinguish between these terms more precisely, with the annulus tendineus communis being the parent structure, divided into two pas:A lower, the ligament or tendon of Zinn, which gives origin to the Rectus inferior, pa of the Rectus internus, and the lower head of origin of the Rectus lateralis.An upper, which gives origin to the Rectus superio…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2407,7 +2407,7 @@ window.OpenPharmacyQuestions = [
         "6th CN palsy"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "3rd CN palsy (oculomotor)Ref.:BDC 6th ed. Vol-III/361-62* Ptosis is drooping of eyelid.* Eyelid is comprised of 4 muscles:Muscles, their innervation and functionMuscleCN innervationFunction* LPSIIIOpens the eyelid* Muller's muscleT1 (NOT a CN; sympathetic nerve)Opens eyelid when LPS tired* FrontalisVIICloses the eyelid* Orbicularis oculiVIICloses the eyelid* CN III palsy leads to drooping of eyelid (Ptosis).* CN VII palsy may also cause ptosis.Also Know*All the extraocular muscles are supplied by CN III except lateral rectus and superior oblique.* Lateral rectus supplied by- CN VI* Superior oblique supplied by- CN IVRemember- LR6; So4",
     "rationales": {},
     "paper": "paper-1",
@@ -2450,7 +2450,7 @@ window.OpenPharmacyQuestions = [
         "punishment"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Behavioral therapy is learning given by BF Skinner , according to him all behaviors are learned phenomenon and thus can be unlearned Positive reinforcement a type of reinforcement when a behavior is rewarded there is more chance that the behavior is repeated Negative reinforcement is that when a behavior is done and an aversive response is removed, the behavior is repeated. When I go and meet my girlfriend, she checks my messages and picks up fight (aversive response) suddenly I delete all messages one day and that day there was no fight (no aversive response) then that behavior is repeated (delete all messages before meeting my girlfriend) Extinction is the type of reinforcement where a beh…",
     "rationales": {},
     "paper": "paper-1",
@@ -2493,7 +2493,7 @@ window.OpenPharmacyQuestions = [
         "External carotid A"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The external iliac aeries are two major aeries which bifurcate off the common iliac aeries anterior to the sacroiliac joint of the pelvis. They proceed anterior and inferior along the medial border of the psoas major muscles. They exit the pelvic girdle posterior and inferior to the inguinal ligament about one third laterally from the inseion point of the inguinal ligament on the pubic tubercle at which point they are referred to as the femoral aeries. The external iliac artery is usually the artery used to attach the renal artery to the recipient of a kidney transplant. Ref - BDC vol2 6e pg339 , britannica.com",
     "rationales": {},
     "paper": "paper-1",
@@ -2536,7 +2536,7 @@ window.OpenPharmacyQuestions = [
         "Spermatogonia"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Maturation of germ cells (spermatogenesis) within the seminiferous tubules occurs in a concentric pattern with the less mature spermatogonia near the basal lamina and the mature forms near the tubule center. Spermatogonia are 2N cells and mature into larger primary spermatocytes (4N) . These mature into secondary spermatocytes (2N) , and finally into spermatids (1N) . Spermatids undergo spermatogenesis to become mature spermatozoa . Acrosomes form from the Golgi apparatus and a flagellum forms from microtubules. Unneeded organelles are shed. The seminiferous tubules of a reproductive-age male should exhibit all stages of maturation, with mature flagellated sperm in their centers.",
     "rationales": {},
     "paper": "paper-1",
@@ -2581,7 +2581,7 @@ window.OpenPharmacyQuestions = [
         "Terbutaline"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "(Ref: KDT 6/e p323) Isoxsuprine and ritodrine are selective b2 agonists useful as tocolytic agents for arresting labour. Pulmonary edema is an important adverse effect of these agents.",
     "rationales": {},
     "paper": "paper-1",
@@ -2624,8 +2624,8 @@ window.OpenPharmacyQuestions = [
         "Facial nerve"
       ]
     ],
-    "answer": "C",
-    "explanation": "Submandibular duct is thin-walled and is about 5 cm long.it emerges at the anterior end of the deep pa of the gland and runs forwards on the hyoglossus between the lingual and hypoglossal nerves.at the anterior border of the hyoglossus, the duct is crossed by lingual nerve.it opens on the floor of the mouth on the summit of the sublingual papilla at the side of the frenulum of the tongue. Ref BDC volume 3; 6th edition pg 135",
+    "answer": "D",
+    "explanation": "Source answer key: D. Facial nerve. Submandibular duct is thin-walled and is about 5 cm long.it emerges at the anterior end of the deep pa of the gland and runs forwards on the hyoglossus between the lingual and hypoglossal nerves.at the anterior border of the hyoglossus, the duct is crossed by lingual nerve.it opens on the floor of the mouth on the summit of the sublingual papilla at the side of the frenulum of the tongue. Ref BDC volume 3; 6th edition pg 135",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2669,7 +2669,7 @@ window.OpenPharmacyQuestions = [
         "Reiter's syndrome"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ref Robbins 9/e p205 A positive result meansHLA-B27 was found in your blood. You may have a higher-than-average risk of ceain autoimmune diseases, such as ankylosing spondylitis and reactive ahritis.",
     "rationales": {},
     "paper": "paper-1",
@@ -2712,8 +2712,8 @@ window.OpenPharmacyQuestions = [
         "The diaphragm"
       ]
     ],
-    "answer": "C",
-    "explanation": "The sinus of Morgagni or ventricle of the larynx is a narrow fusiform cleft between the vestibular and vocal folds. the anterior pa of the sinus is prolonged upwards as diveiculum between the vestibular fold and the lamina of the thyroid cailage .this extension is known as the saccule of the larynx. The saccule contains mucous glands which help to lubricate the vocal folds.it is often called oil can of larynx. Ref BDC volume 3; 6th edition pg 256",
+    "answer": "D",
+    "explanation": "Source answer key: D. The diaphragm. The sinus of Morgagni or ventricle of the larynx is a narrow fusiform cleft between the vestibular and vocal folds. the anterior pa of the sinus is prolonged upwards as diveiculum between the vestibular fold and the lamina of the thyroid cailage .this extension is known as the saccule of the larynx. The saccule contains mucous glands which help to lubricate the vocal folds.it is often called oil can of larynx. Ref BDC volume 3; 6th edition pg 256",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2755,7 +2755,7 @@ window.OpenPharmacyQuestions = [
         "Rhombencephalon"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Lateral ventricle develops from the cavity of telencephalon. Third ventricle develops from diencephalon. Cavity of mesencephalon remains narrow and forms the aqueduct, while the cavity of rhombencephalon forms the fourth ventricle.",
     "rationales": {},
     "paper": "paper-1",
@@ -2798,8 +2798,8 @@ window.OpenPharmacyQuestions = [
         "I cervical vertebra"
       ]
     ],
-    "answer": "B",
-    "explanation": "Second cervical vertebra (axis) Presence of odontoid process. Transverse processes are small and lack the anterior tubercle. Anterior margin of the inferior surface of the body projects downwards to a considerable extent. Foramen transversarium is directed superolaterally (expand in typical vertebrae it is directed vertically) Inferior surface presents a deep and wide inferior vertebral notch placed in front of the inferior articular process. The superior vertebral notch is shallow and is present behind the superior articular process. Key concept: Second cervical vertebra is called the axis. it is identiﬁed by the presence of the dens or odontoid process which is a strong, tooth-like process…",
+    "answer": "C",
+    "explanation": "Source answer key: C. II cervical vertebra. Second cervical vertebra (axis) Presence of odontoid process. Transverse processes are small and lack the anterior tubercle. Anterior margin of the inferior surface of the body projects downwards to a considerable extent. Foramen transversarium is directed superolaterally (expand in typical vertebrae it is directed vertically) Inferior surface presents a deep and wide inferior vertebral notch placed in front of the inferior articular process. The superior vertebral notch is shallow and is present behind the superior articular process. Key concept: Second cervical vertebra is called the axis. it is identiﬁed by the presence of the dens or odontoid process which is a strong, tooth-like process…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2843,8 +2843,8 @@ window.OpenPharmacyQuestions = [
         "Epidural block"
       ]
     ],
-    "answer": "C",
-    "explanation": "When complete relief of pain is needed throughout labor epidural analgesia is safest and simplest",
+    "answer": "D",
+    "explanation": "Source answer key: D. Epidural block. When complete relief of pain is needed throughout labor epidural analgesia is safest and simplest",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -2889,7 +2889,7 @@ window.OpenPharmacyQuestions = [
         "Adenocarcinoma"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Pleomorphic adenomas or benign mixed tumors, are the most common neoplasms of the salivary glands. They represent approximately 60-70% of all parotid tumors and 90% of submandibular benign tumors. These neoplasms affect females more than males and are commonly seen in the third to sixth decades of life. Histologically, pleomorphic adenomas arise from the distal portions of the salivary ducts, including the intercalated ducts and acini.",
     "rationales": {},
     "paper": "paper-1",
@@ -2934,7 +2934,7 @@ window.OpenPharmacyQuestions = [
         "Inoculation"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "M.tuberculosis is mainly transmitted by direct inhalation of aerosolised bacilli contained in the droplet nuclei of expectorated sputum. Generated while coughing. sneezing,or speaking of infected patients. There may be as many as 3000 infectious nuclei per cough. The tiny droplets may remain suspended in the air for several hours and are easily inhaled. Ref: Textbook of microbiology; Ananthanarayan and paniker's; 10th edition; Pg: 355",
     "rationales": {},
     "paper": "paper-1",
@@ -2977,8 +2977,8 @@ window.OpenPharmacyQuestions = [
         "Elbow joint"
       ]
     ],
-    "answer": "A",
-    "explanation": "Kness is the most commonly affected joint. Other joints such as hip, ankle , elbow and shoulder can also be involved. Definition : * Localized condition affecting the aicular surface of a joint with separation of a segment of cailage and subchondral bone * Knee by far the most common joint involved (75% of all OCD lesions) with the ankle, elbow, wrist and other joints accounting for the remaining 25% * Most common: Lateral aspect of medial femoral condyle * Weightbearing surfaces of medial and lateral femoral condyles also affected . ref : maheswari 9th ed",
+    "answer": "B",
+    "explanation": "Source answer key: B. Knee joint. Kness is the most commonly affected joint. Other joints such as hip, ankle , elbow and shoulder can also be involved. Definition : * Localized condition affecting the aicular surface of a joint with separation of a segment of cailage and subchondral bone * Knee by far the most common joint involved (75% of all OCD lesions) with the ankle, elbow, wrist and other joints accounting for the remaining 25% * Most common: Lateral aspect of medial femoral condyle * Weightbearing surfaces of medial and lateral femoral condyles also affected . ref : maheswari 9th ed",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3020,8 +3020,8 @@ window.OpenPharmacyQuestions = [
         "Posterior interosseus"
       ]
     ],
-    "answer": "C",
-    "explanation": "Posterior interosseous emerges from the supinator on the back of the forearm .Here it lies between the superficial and deep muscles.At the lower border of the extensor pollicis brevis, it passes deep to extensor pollicis longus.it then runs on the posterior surface of the interosseous membrane up to the wrist where it enlarges into pseudoganglion and ends by supplying the wrist and intercarpal joints.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Posterior interosseus. Posterior interosseous emerges from the supinator on the back of the forearm .Here it lies between the superficial and deep muscles.At the lower border of the extensor pollicis brevis, it passes deep to extensor pollicis longus.it then runs on the posterior surface of the interosseous membrane up to the wrist where it enlarges into pseudoganglion and ends by supplying the wrist and intercarpal joints.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3063,7 +3063,7 @@ window.OpenPharmacyQuestions = [
         "Liver biopsy"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Biliary atresia Evaluation of biliary anatomy begins with ultrasound Other imaging modalities such as HIDA scintigraphy, MRCP and ERCP have been used with varying success Although these are useful adjuncts, liver biopsy is gold standard for the diagnosis of biliary atresia and can safely be done percutaneously under local anaesthesia Ref: Sabiston 20th edition Pgno : 639",
     "rationales": {},
     "paper": "paper-1",
@@ -3108,8 +3108,8 @@ window.OpenPharmacyQuestions = [
         "Voiding bladder pressures > 50 cm of water"
       ]
     ],
-    "answer": "B",
-    "explanation": "Absolute indications for surgical treatment of BPH 1) Refractory urine retention (failing at least one attempt at catheter removal 2) Recurrent UTI from BPH 3) Bladder stones d/t BPH 4) Renal insufficiency d/t BPH 5) Large bladder diveicula secondary to BPH 6) Recurrent gross hematuria from BPH Ref : Cambell's Urology 8/e p1340",
+    "answer": "C",
+    "explanation": "Source answer key: C. Recurrent urinary tract infection. Absolute indications for surgical treatment of BPH 1) Refractory urine retention (failing at least one attempt at catheter removal 2) Recurrent UTI from BPH 3) Bladder stones d/t BPH 4) Renal insufficiency d/t BPH 5) Large bladder diveicula secondary to BPH 6) Recurrent gross hematuria from BPH Ref : Cambell's Urology 8/e p1340",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3151,7 +3151,7 @@ window.OpenPharmacyQuestions = [
         "freud"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "HISTORY * Medunna ====IM injection of camphor to induce seizures * Ugo cerletti and lucio bini==== ECT in a catatonic patient INDICATIONS * DEPRESSION SUICIDAL IDEAS-------------- first choice * CATATONIC SCHIZOPHRENIA * SCHIZOPHRENIA * MANIA * ELECTRODE PLACEMENT * Most commonly used=== bi fronto temporal * More cognitive side effects==bi fronto temporal * Less cognitive side effect======bi frontal * SIDE EFFECTS * RETROGRADE AMNESIA * BODY ACHE * MEDICATIONS USED IN THE PROCEDURE * ANAESTHETIC======Thiopentone / ethosuximide * MUSCLE RELAXANT====Succynyl choline CURARE IN PSEUDOCHOLINEESTERASE DEFICIENCY * ANTICHOLINERGIC=====Atropine CONTRA INDICATIONS * NO ABSOLUTE Contra indication * RE…",
     "rationales": {},
     "paper": "paper-1",
@@ -3194,8 +3194,8 @@ window.OpenPharmacyQuestions = [
         "8th"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 6th.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 7th. Source answer key: 6th.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3237,7 +3237,7 @@ window.OpenPharmacyQuestions = [
         "bulimia nervosa"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Anorexia nervosa Anorexia nervosa is a eating disorder where the patient has decreased weight and altered body image and persistent desire to maintain thinness * Gender==== more common in females * Age=======adolescence * Comorbidity=== depression and social phobia * Duration====3 months * Criteria= * Intense fear of becoming fat * Restriction of food intake * Restricting type * Binge eating and purging type * Amenorrhea is not needed for diagnosis, previously amenorrhea is considered as a diagnostic criteria for diagnosis, in recent DSM 5 amenorrhea is considered for a diagnosis * Association= * OCD and depression * Decreased interest in sex * Complication * 7-14% moality * ECG changes * Hy…",
     "rationales": {},
     "paper": "paper-1",
@@ -3280,7 +3280,7 @@ window.OpenPharmacyQuestions = [
         "Down and out"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "(b) Source: GAS 849-852, 855; GA 450, 465, 536The right abducens nerve innervates the right lateral rectus, which mediates outward movement (abduction) of the right eye. Inward movement is accomplished by the medial rectus, supplied by the oculomotor nerve. Downward movement in the midline is accomplished by joint activation of the superior oblique and inferior rectus muscle. Downward movement of the pupil from the adducted position is a function of the superior oblique alone, which is supplied by the trochlear nerve. Down and out motion is mediated by the combined actions of the lateral rectus and inferior rectus, which are innervated by the abducens and oculomotor nerves. Downward movement…",
     "rationales": {},
     "paper": "paper-1",
@@ -3323,8 +3323,8 @@ window.OpenPharmacyQuestions = [
         "Definitive repair"
       ]
     ],
-    "answer": "A",
-    "explanation": "Deadly triad of trauma Following a trauma protracted surgery in physiologically unstable patient, the three factors that carry moality are Hypothermia Acidosis Coagulopathy Hence originated a phenomenon - DAMAGE CONTROL SURGERY Phases of damage control surgery Phase1 :Initial exploration Phase 2: Secondary Resucitation Phase 3: Definitive operation Phase 1(initial exploration) Control of active hemorrhage and contamination Midline incision--4 quadrant packing done GIT perforation done with sutures or staples External drains kept for pancreatic or bile duct injuries Temporary closure of abdomen using plastic sheet known as OPSITE This technique of closure is known as VACPAC or OPSITE SANDWICH…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Resuscitation in ICU. Deadly triad of trauma Following a trauma protracted surgery in physiologically unstable patient, the three factors that carry moality are Hypothermia Acidosis Coagulopathy Hence originated a phenomenon - DAMAGE CONTROL SURGERY Phases of damage control surgery Phase1 :Initial exploration Phase 2: Secondary Resucitation Phase 3: Definitive operation Phase 1(initial exploration) Control of active hemorrhage and contamination Midline incision--4 quadrant packing done GIT perforation done with sutures or staples External drains kept for pancreatic or bile duct injuries Temporary closure of abdomen using plastic sheet known as OPSITE This technique of closure is known as VACPAC or OPSITE SANDWICH…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3366,7 +3366,7 @@ window.OpenPharmacyQuestions = [
         "Transverse colon"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "There are areas of colon with poor blood supply resulting from incomplete anastomosis of marginal aeries. These are watershed areas of colon and include :Splenic flexure (Griffith point) : Watershed area between superior mesenteric artery and inferior mesenteric artery.Rectosigmoid junction (Sudeck's point) : Watershed zone between inferior mesenteric artery and internal iliac artery.",
     "rationales": {},
     "paper": "paper-1",
@@ -3409,8 +3409,8 @@ window.OpenPharmacyQuestions = [
         "Inferior oblique"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Superior oblique.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Inferior oblique. Source answer key: Superior oblique.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3452,8 +3452,8 @@ window.OpenPharmacyQuestions = [
         "D. Lipid storage diseases"
       ]
     ],
-    "answer": "D",
-    "explanation": "NARP syndrome (neuropathy ,ataxia, & retinitis pigmentosa) is a condition related to changes in mitochondrial DNA Refer Harrison 17/316-317 Robbins 8/1328",
+    "answer": "A",
+    "explanation": "Source answer key: A. A. Mitochondrial diseases. NARP syndrome (neuropathy ,ataxia, & retinitis pigmentosa) is a condition related to changes in mitochondrial DNA Refer Harrison 17/316-317 Robbins 8/1328",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3540,8 +3540,8 @@ window.OpenPharmacyQuestions = [
         "Metacentric"
       ]
     ],
-    "answer": "D",
-    "explanation": "A normal chromosome appear constricted at the centromere, this divides each chromosome into two arms. The sho arm is designated as p arm and the long arm is designated as q. Ref: Primate Anatomy: An Introduction By Friderun Ankel-Simon, 3rd Edition, Page 552 ; Clinical Laboratory Medicine By Kenneth D. McClatchey 2nd Edition, Page 568 ; Folia Biologica 2001, Page 146",
+    "answer": "A",
+    "explanation": "Source answer key: A. Acrocentric. A normal chromosome appear constricted at the centromere, this divides each chromosome into two arms. The sho arm is designated as p arm and the long arm is designated as q. Ref: Primate Anatomy: An Introduction By Friderun Ankel-Simon, 3rd Edition, Page 552 ; Clinical Laboratory Medicine By Kenneth D. McClatchey 2nd Edition, Page 568 ; Folia Biologica 2001, Page 146",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3583,8 +3583,8 @@ window.OpenPharmacyQuestions = [
         "Limbus fossa ovalis"
       ]
     ],
-    "answer": "C",
-    "explanation": "Koch's Triangle is a triangle enclosed by the septal leaflet of the tricuspid valve, the coronary sinus, and the membranous pa of the interatrial septum.Koch's triangle: Walter Karl Koch (1880-1962) was a distinguished German surgeon who discovered a triangular-shaped area in the right atrium of the hea that marks the atrioventricular node (known as Koch's triangle).The three sides of the triangle are defined by the following structures within the right atrium: The ostium of the coronary sinus, posteriorly; The anterior poion of the tricuspid valve annulus; and The tendon of Todaro (a tendinous structure connecting the valve of the inferior vena cava ostium to the central fibrous body), post…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Limbus fossa ovalis. Koch's Triangle is a triangle enclosed by the septal leaflet of the tricuspid valve, the coronary sinus, and the membranous pa of the interatrial septum.Koch's triangle: Walter Karl Koch (1880-1962) was a distinguished German surgeon who discovered a triangular-shaped area in the right atrium of the hea that marks the atrioventricular node (known as Koch's triangle).The three sides of the triangle are defined by the following structures within the right atrium: The ostium of the coronary sinus, posteriorly; The anterior poion of the tricuspid valve annulus; and The tendon of Todaro (a tendinous structure connecting the valve of the inferior vena cava ostium to the central fibrous body), post…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3626,7 +3626,7 @@ window.OpenPharmacyQuestions = [
         "T7"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "ANSWER: (D) T7REF: Gray's Anatomy 30th edition page 819, Instant Anatomy by Robert H. Whitaker, Neil R. Borley 4th edition Page 199See APPENDIX- 9 below for \"VERTEBRAL LEVELS\"The scapula is a large, flat, triangular bone which lies on the posterolateral aspect of the chest wall, covering parts of the second to seventh ribs (also T7). It has costal and dorsal surfaces, superior, lateral and medial borders, inferior, superior and lateral angles, and three processes, the spine, its continuation the acromion and the coracoid process. APPENDIX - 9Vertebral Levels (Mnemonic: All Bifurcations (B 14-cation) are at The Level of 4)C4Hyoid bone; Bifurcation of common carotid artery.C5Thyroid cartilageC…",
     "rationales": {},
     "paper": "paper-1",
@@ -3669,8 +3669,8 @@ window.OpenPharmacyQuestions = [
         "Neural crest"
       ]
     ],
-    "answer": "B",
-    "explanation": "Stroma of cornea develops from neural crest cells derived (secondary) mesenchyme. The adult cornea has developmentally three layers: Outer epithelium layer (surface ectoderm) Middle stromal layer of collagen-rich extracellular matrix between stromal keratocytes (neural crest) Inner layer of endothelial cells (neural crest). Ref - medscape.com",
+    "answer": "C",
+    "explanation": "Source answer key: C. Mesoderm. Stroma of cornea develops from neural crest cells derived (secondary) mesenchyme. The adult cornea has developmentally three layers: Outer epithelium layer (surface ectoderm) Middle stromal layer of collagen-rich extracellular matrix between stromal keratocytes (neural crest) Inner layer of endothelial cells (neural crest). Ref - medscape.com",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3755,8 +3755,8 @@ window.OpenPharmacyQuestions = [
         "Creatinine"
       ]
     ],
-    "answer": "A",
-    "explanation": "Acute Physiology And Chronic Health Evaluation (APACHE) II scoring system It incorporates 12 physiological and laboratory parameters as well as age and comorbid conditions to estimate severity of any disease process The 12 physiologic variables are BT| HR at CWG SHOP - 2 Mean aerial blood pressure Temperature Hea rate. Respiratory rate. Creatinine WBC count Glasgow Coma Scale Sodium Hematocrit Oxygenation Aerial pH Serum potassium Ref: Sabiston 20th edition Pgno :1527",
+    "answer": "B",
+    "explanation": "Source answer key: B. Serum calcium. Acute Physiology And Chronic Health Evaluation (APACHE) II scoring system It incorporates 12 physiological and laboratory parameters as well as age and comorbid conditions to estimate severity of any disease process The 12 physiologic variables are BT| HR at CWG SHOP - 2 Mean aerial blood pressure Temperature Hea rate. Respiratory rate. Creatinine WBC count Glasgow Coma Scale Sodium Hematocrit Oxygenation Aerial pH Serum potassium Ref: Sabiston 20th edition Pgno :1527",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3798,8 +3798,8 @@ window.OpenPharmacyQuestions = [
         "VI"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: I.",
+    "answer": "B",
+    "explanation": "Source answer key: B. III. Source answer key: I.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3841,8 +3841,8 @@ window.OpenPharmacyQuestions = [
         "Interruption of fifth pharyngeal arch development"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ectopia cordis is a condition in which the heart is located abnormally outside the thoracic cavity, commonly resulting from a failure of fusion of the lateral folds in forming the thoracic wall. This is incompatible with life because of the occurrence of infection, cardiac failure, or hypoxemia. Faulty development of the sinus venosus is related to atrial septal defects that result from deficient absorption of the sinus venosus into the right atrium and/or unusual development of the septum secundum.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Faulty development of the sternum and pericardium, secondary to incomplete fusion of the lateral folds. Ectopia cordis is a condition in which the heart is located abnormally outside the thoracic cavity, commonly resulting from a failure of fusion of the lateral folds in forming the thoracic wall. This is incompatible with life because of the occurrence of infection, cardiac failure, or hypoxemia. Faulty development of the sinus venosus is related to atrial septal defects that result from deficient absorption of the sinus venosus into the right atrium and/or unusual development of the septum secundum.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -3886,7 +3886,7 @@ window.OpenPharmacyQuestions = [
         "Flexor carpi radialis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Tenosynovitis can be due to an infection of the synovial sheaths of the digits. Tenosynovitis in the thumb may spread through the synovial sheath of the flexor pollicis longus tendon, also known as the radial bursa. The tendons of the flexor digitorum superficialis and profundus muscles are enveloped in the common synovial flexor sheath, or ulnar bursa. Neither the flexor carpi radialis nor flexor pollicis brevis tendons are contained in synovial flexor sheaths.",
     "rationales": {},
     "paper": "paper-1",
@@ -4015,7 +4015,7 @@ window.OpenPharmacyQuestions = [
         "Spleen"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Corpuscles of hassall present in the medulla of thymus Formed from eosinophilic epithelial reticular cells arranged concentrically INDERBIR SINGH'S TEXTBOOK OF HUMAN HISTOLOGY SEVENT EDITION PAGE NO139",
     "rationales": {},
     "paper": "paper-1",
@@ -4060,7 +4060,7 @@ window.OpenPharmacyQuestions = [
         "Menotropins"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "(Ref: KDT 6/e p57) Drugs used for the treatment of central (pituitary) diabetes insipidus are: - Desmopressin (selective V2 agonist) - Thiazides - Chlorpropamide - Carbamazepine Drugs used for the treatment of nephrogenic (renal) diabetes insipidus are: - Thiazides - Amiloride (for lithium induced) Thiazides are useful for the treatment of both central as well as nephrogenic diabetes insipidus. Desmopressin is not effective in nephrogenic diabetes insipidus.",
     "rationales": {},
     "paper": "paper-1",
@@ -4103,8 +4103,8 @@ window.OpenPharmacyQuestions = [
         "Vaso constriction"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Vaso constriction.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Vasodilation. Source answer key: Vaso constriction.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4146,8 +4146,8 @@ window.OpenPharmacyQuestions = [
         "Left 4th aoic arch"
       ]
     ],
-    "answer": "C",
-    "explanation": "HUMAN EMBRYOLOGY-INDERBIR SINGH TENTH EDITION-PAGE NO:254 The arch of aoa is derived from the ventral pa of the aoic sac ,its left horn,and the left fourth arch artery",
+    "answer": "D",
+    "explanation": "Source answer key: D. Left 4th aoic arch. HUMAN EMBRYOLOGY-INDERBIR SINGH TENTH EDITION-PAGE NO:254 The arch of aoa is derived from the ventral pa of the aoic sac ,its left horn,and the left fourth arch artery",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4275,8 +4275,8 @@ window.OpenPharmacyQuestions = [
         "Albumin"
       ]
     ],
-    "answer": "A",
-    "explanation": "Variables in Child-Turcotte-Pugh scoring system Serum albumin Bilirubin Prothrombin time Ascites Encephalopathy Ref: Sabiston 20th edition Pgno : 1436",
+    "answer": "B",
+    "explanation": "Source answer key: B. ALT. Variables in Child-Turcotte-Pugh scoring system Serum albumin Bilirubin Prothrombin time Ascites Encephalopathy Ref: Sabiston 20th edition Pgno : 1436",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4318,7 +4318,7 @@ window.OpenPharmacyQuestions = [
         "To prevent damage to liver"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The left kidney is preferred because of implantation advantages associated with a longer renal vein making anastomosis easier Also know, procurement of kidney, In a brainstem dead donor, the organ to be procured should be preserved to maintain its functional integrity. For this purpose the organ should be perfused with organ preservative solution twice before it is transplanted to the recipient. The first perfusion is done just after the abdomen is opened at laporotomy and the second perfusion is done just after the organ has been removed from the donor. Commonly used preservative solutions include UW solution (University of Wisconsin) and Eurocollins solution. After removal from the donor,…",
     "rationales": {},
     "paper": "paper-1",
@@ -4404,7 +4404,7 @@ window.OpenPharmacyQuestions = [
         "bleuler"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "ERIC ERIKSON ERIC ERIKSON gave the psychosocail stages of development There are 8 psychosocial stages A person has to succesfully pass one stage to move to the next stage If he gets arrested in one stage he may develop some disorders Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition, pf no. 485",
     "rationales": {},
     "paper": "paper-1",
@@ -4447,8 +4447,8 @@ window.OpenPharmacyQuestions = [
         "4"
       ]
     ],
-    "answer": "D",
-    "explanation": "Observe that whereas one primary spermatocyte gives rise to four spermatozoa, one primary oocyte forms only one ovumHuman embryology Inderbir Singh&;s Tenth edition Pg 23",
+    "answer": "A",
+    "explanation": "Source answer key: A. 1. Observe that whereas one primary spermatocyte gives rise to four spermatozoa, one primary oocyte forms only one ovumHuman embryology Inderbir Singh&;s Tenth edition Pg 23",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4492,8 +4492,8 @@ window.OpenPharmacyQuestions = [
         "L4"
       ]
     ],
-    "answer": "B",
-    "explanation": "In premature & term neonates- it lies b/w 1st & 3rd lumbar veebrae. In children between ages of (1-7yrs)- it lies between 12th thoracic and 3rd lumbar veebra. In adults, it terminates at the level of middle 3rd of body of 1st lumbar veebra which corresponds approximately to transpyloric plane. Spinal cord occupies superior 2/3rd of veebral canal It continues cranially with medulla oblongata, just below the level of foramen magnum, at the upper border of atlas and terminates caudally as conus medullaris. During development, veebral column elongates more rapidly than spinal cord, so there is increasing discrepancy b/w anatomical level of spinal cord segments & their corresponding veebrae.",
+    "answer": "C",
+    "explanation": "Source answer key: C. L3. In premature & term neonates- it lies b/w 1st & 3rd lumbar veebrae. In children between ages of (1-7yrs)- it lies between 12th thoracic and 3rd lumbar veebra. In adults, it terminates at the level of middle 3rd of body of 1st lumbar veebra which corresponds approximately to transpyloric plane. Spinal cord occupies superior 2/3rd of veebral canal It continues cranially with medulla oblongata, just below the level of foramen magnum, at the upper border of atlas and terminates caudally as conus medullaris. During development, veebral column elongates more rapidly than spinal cord, so there is increasing discrepancy b/w anatomical level of spinal cord segments & their corresponding veebrae.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4537,7 +4537,7 @@ window.OpenPharmacyQuestions = [
         "Levator palatini"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Sternocleidomastoid and trapezius develop from branchial arch mesoderm and are supplied by spinal pa of the accessory nerve. Levator scapulae are supplied by a branch from dorsal scapular nerve and branches from C3, C4. BD Chaurasia 7th edition Page no: 65",
     "rationales": {},
     "paper": "paper-1",
@@ -4580,7 +4580,7 @@ window.OpenPharmacyQuestions = [
         "Deltoid"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "LONG THORACIC NERVE ■ Arises from ventral rami of C5, C6, and C7. ■ Descends behind the brachial plexus on the lateral surface of the serratus anterior, to which it supplies. ■ The serratus anterior muscle can be examined by asking patient to push against a wall with both hands. Winging of scapula will be typically noted",
     "rationales": {},
     "paper": "paper-1",
@@ -4623,8 +4623,8 @@ window.OpenPharmacyQuestions = [
         "Interleukins"
       ]
     ],
-    "answer": "A",
-    "explanation": "steps: (1) migration and proliferation of fibroblasts into the site of injury and (2) deposition of ECM proteins produced by these cells. The recruitment and activation of fibroblasts to syn- thesize connective tissue proteins are driven by many growth factors, including PDGF, FGF-2 (described earlier), and TGF-b. The major source of these factors is inflamma- tory cells, paicularly macrophages, which are present at sites of injury and in granulation tissue. Sites of inflamma- tion are also rich in mast cells, and in the appropriate chemotactic milieu, lymphocytes may be present as well. Each of these cell types can secrete cytokines and growth factors that contribute to fibroblast prolifera…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Myeloperoxidase. steps: (1) migration and proliferation of fibroblasts into the site of injury and (2) deposition of ECM proteins produced by these cells. The recruitment and activation of fibroblasts to syn- thesize connective tissue proteins are driven by many growth factors, including PDGF, FGF-2 (described earlier), and TGF-b. The major source of these factors is inflamma- tory cells, paicularly macrophages, which are present at sites of injury and in granulation tissue. Sites of inflamma- tion are also rich in mast cells, and in the appropriate chemotactic milieu, lymphocytes may be present as well. Each of these cell types can secrete cytokines and growth factors that contribute to fibroblast prolifera…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4668,7 +4668,7 @@ window.OpenPharmacyQuestions = [
         "Basopils"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "IEL are6 a distinctive population of T cells dispersed among the luminal epithelial cells. paicularly in the small intestine there is a predominantly of CD8+T cells",
     "rationales": {},
     "paper": "paper-1",
@@ -4713,8 +4713,8 @@ window.OpenPharmacyQuestions = [
         "Inferior alveolar artery"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Inferior alveolar artery.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Lingual artery. Source answer key: Inferior alveolar artery.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4799,7 +4799,7 @@ window.OpenPharmacyQuestions = [
         "8th"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "ANSWER: (C) 7thREF: Gray's Anatomy 40th Ed Ch: 49Indirect repeat Anatomy 2012 Session II, 2013 Session 1The inferior angle overlies the seventh rib or intercostal space and T7",
     "rationales": {},
     "paper": "paper-1",
@@ -4842,8 +4842,8 @@ window.OpenPharmacyQuestions = [
         "Erythromycin"
       ]
     ],
-    "answer": "C",
-    "explanation": "Treatment options for acute M.pneumoniae infection include macrolides (e.g., oral azithromycin, 500 mg on day 1, then 250 mg/d on days 2-5), tetracyclines (e.g., oral doxycycline, 100 mg twice daily for 10-14 days), and respira-tory fluoroquinolones Ref Davidson edition23rd pg 585",
+    "answer": "D",
+    "explanation": "Source answer key: D. Erythromycin. Treatment options for acute M.pneumoniae infection include macrolides (e.g., oral azithromycin, 500 mg on day 1, then 250 mg/d on days 2-5), tetracyclines (e.g., oral doxycycline, 100 mg twice daily for 10-14 days), and respira-tory fluoroquinolones Ref Davidson edition23rd pg 585",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4885,8 +4885,8 @@ window.OpenPharmacyQuestions = [
         "T11"
       ]
     ],
-    "answer": "B",
-    "explanation": "The oesophagus is a muscular tube 25 cm (10 in) long, which connects the pharynx to the stomach. It begins in the neck, level with the lower border of the cricoid cailage and the sixth cervical veebra. It descends largely anterior to the veebral column through the superior and posterior mediastina, passes through the diaphragm, level with the tenth thoracic veebra, and ends at the gastric cardiac orifice level with the eleventh thoracic veebra.",
+    "answer": "C",
+    "explanation": "Source answer key: C. T10. The oesophagus is a muscular tube 25 cm (10 in) long, which connects the pharynx to the stomach. It begins in the neck, level with the lower border of the cricoid cailage and the sixth cervical veebra. It descends largely anterior to the veebral column through the superior and posterior mediastina, passes through the diaphragm, level with the tenth thoracic veebra, and ends at the gastric cardiac orifice level with the eleventh thoracic veebra.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -4973,7 +4973,7 @@ window.OpenPharmacyQuestions = [
         "Styloglossus-stylopharyngeus"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Palatoglossus-palatopharyngeus form the boundary of the tonsillar fossaReference: Chaurasia; 6th edition",
     "rationales": {},
     "paper": "paper-1",
@@ -5016,7 +5016,7 @@ window.OpenPharmacyQuestions = [
         "Atrial Repolarization"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Normal ECG waves and Intervals: ECG wave/Interval Characteristics 1. P Wave Reflects Atrial Depolarization (activation) 2. QRS complex Depolarization of ventricles 3. T Wave Repolarization of ventricles 4. PR Interval Atrial depolarization and conduction through AV node 5. QT Interval Total duration of Ventricular depolarization and repolarization 6. ST segment Plateau phase of ventricular action potential",
     "rationales": {},
     "paper": "paper-1",
@@ -5059,8 +5059,8 @@ window.OpenPharmacyQuestions = [
         "Labyrinthine artery"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Basilar artery.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Vertebral artery. Source answer key: Basilar artery.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "anatomy",
@@ -5593,8 +5593,8 @@ window.OpenPharmacyQuestions = [
         "Cl-"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Cl-.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Na+. Source answer key: Cl-.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -5636,7 +5636,7 @@ window.OpenPharmacyQuestions = [
         "ERV"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The spirometer is a simple device for measuring gas volumes. The frequently used water spirometer, rolling seal spirometer and bellows spirometer. The last two are not water-filled and are more poable. The VT, IRV, ERV, IC, and VC can all be measured with a spirometer (as can the forced expiratory volume in 1 second , forced vital capacity , and forced expiratory flow ). The RV, the FRC, and the TLC, however, cannot be determined with a spirometer because the subject cannot exhale all the gas in the lungs. The lung volumes not measurable with spirometry can be determined by the nitrogen-washout technique, by the helium-dilution technique, and by body plethysmography. The FRC is usually deter…",
     "rationales": {},
     "paper": "paper-1",
@@ -5681,7 +5681,7 @@ window.OpenPharmacyQuestions = [
         "Monocyte"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Monocyte is considered as the second line of defence. Phagocytosis by Macrophages. Macrophages are the end-stage product of monocytes that enter the tissues from the blood. When activated by the immune system, they are much more powerful phagocytes than neutrophils, often capable of phagocytizing as many as 100 bacteria. They also have the ability to engulf much larger particles, even whole RBCs or, occasionally, malarial parasites, whereas neutrophils are not capable of phagocytizing particles much larger than bacteria. Also, after digesting particles, macrophages can extrude the residual products and often survive and function for many more months. Reference: GUYTON AND HALL TEXTBOOK OF ME…",
     "rationales": {},
     "paper": "paper-1",
@@ -5726,8 +5726,8 @@ window.OpenPharmacyQuestions = [
         "Increase oxygen release to tissue"
       ]
     ],
-    "answer": "C",
-    "explanation": "Fever right shifts the oxygen dissociation curve, which allows for a greater release of oxygen to the tissue, making oxygen easily available to neutrophils and monocytes for use in the oxygen-dependent myeloperoxidase system of bactericidal killing. Having more oxygen available to tissue also enhances wound healing. In addition, fever interferes with bacterial and viral replication by providing a hostile environment for incubation. Fever is produced by the release of interleukin-I from macrophages. Interleukin-I, in turn, stimulates the hypothalamus to synthesize prostaglandins, which interact with the thermoregulatory center to produce fever.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Increase oxygen release to tissue. Fever right shifts the oxygen dissociation curve, which allows for a greater release of oxygen to the tissue, making oxygen easily available to neutrophils and monocytes for use in the oxygen-dependent myeloperoxidase system of bactericidal killing. Having more oxygen available to tissue also enhances wound healing. In addition, fever interferes with bacterial and viral replication by providing a hostile environment for incubation. Fever is produced by the release of interleukin-I from macrophages. Interleukin-I, in turn, stimulates the hypothalamus to synthesize prostaglandins, which interact with the thermoregulatory center to produce fever.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -5771,7 +5771,7 @@ window.OpenPharmacyQuestions = [
         "Estrogen surge"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ovulation occurs due to the effect of increased concentration of LH. In the pre-ovulatory phase of the menstrual cycle, the ovarian follicle will undergo a series of transformations called cumulus expansion, which is stimulated by FSH. This is followed by LH surge.",
     "rationales": {},
     "paper": "paper-1",
@@ -5816,8 +5816,8 @@ window.OpenPharmacyQuestions = [
         "Ghrelin"
       ]
     ],
-    "answer": "A",
-    "explanation": "There are 6 established hypothalamic releasing and inhibiting hormones : Corticotropin-releasing hormone (CRH), Thyrotropin releasing hormone (TRH), Growth hormone releasing hormone (GRH), Growth hormone inhibiting hormone (GIH), Luteinizing hormone releasing hormone (LHRH) and Prolactin inhibiting hormone(PIH).",
+    "answer": "B",
+    "explanation": "Source answer key: B. Cortisol releasing hormone. There are 6 established hypothalamic releasing and inhibiting hormones : Corticotropin-releasing hormone (CRH), Thyrotropin releasing hormone (TRH), Growth hormone releasing hormone (GRH), Growth hormone inhibiting hormone (GIH), Luteinizing hormone releasing hormone (LHRH) and Prolactin inhibiting hormone(PIH).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -5861,7 +5861,7 @@ window.OpenPharmacyQuestions = [
         "Paravermal region of Spinocerebellum"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans:A (Flocculonodular Lobe) Ref: Pal GK. Cerbellurn. In: Textbook of Medical Physiology. Ahuja Publishing House. 2007: 116: 871.Explanation:Functional Division of CerebellumVestibulo cerebellum/Arch-cerebellum (Flocculonodular lobe)Connections with vestibular apparatusConcerned with equilibrium and learning induced changes in vesiihulo-occular reflexSpino cerebellumVermis - controls muscle movements of axial bodyIntermediate zone - controls muscle movements of limbsCerbrocerbellum (Ponto cerebellum/Neo cerbellurn) Overall planning programming of motor activities",
     "rationales": {},
     "paper": "paper-1",
@@ -5906,8 +5906,8 @@ window.OpenPharmacyQuestions = [
         "ade"
       ]
     ],
-    "answer": "D",
-    "explanation": "Freely filterable substances by glomerulus - Water - Na+ - Cl- - HCO3- - Inulin - Glucose - Creatinine - Free Calcium or phosphate",
+    "answer": "A",
+    "explanation": "Source answer key: A. cde. Freely filterable substances by glomerulus - Water - Na+ - Cl- - HCO3- - Inulin - Glucose - Creatinine - Free Calcium or phosphate",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -5951,8 +5951,8 @@ window.OpenPharmacyQuestions = [
         "Brain matter"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Pial vassels.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Duramater. Source answer key: Pial vassels.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -5994,8 +5994,8 @@ window.OpenPharmacyQuestions = [
         "Ventricular myocardial fibres"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Ventricular myocardial fibres.",
+    "answer": "A",
+    "explanation": "Source answer key: A. AV node. Source answer key: Ventricular myocardial fibres.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -6037,8 +6037,8 @@ window.OpenPharmacyQuestions = [
         "Mature follicles"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Corpora albicans.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Corpora lutea. Source answer key: Corpora albicans.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -6080,7 +6080,7 @@ window.OpenPharmacyQuestions = [
         "Decrease osmolarity"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans: C HypovolemiaRef: Guyton 12th/e p. 9051Hypovolemia (Decreased ECF) stimulates the release of ADH.Vasopressin secretion is increased by: - i) Increased osmolarity (osmotic pressure) of plasma; ii) Decreased ECF volume; iii) Pain, emotion, stress, exercise; iv) Nausea and vomiting; v) Standing; vi) Clofibrate, Carbamazapine; vii) Angiotensin II.",
     "rationales": {},
     "paper": "paper-1",
@@ -6123,7 +6123,7 @@ window.OpenPharmacyQuestions = [
         "Blood"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Vitamin D is a fat-soluble vitamin molecule found in fish liver oils, and also produced in the skin when subjected to ultraviolet rays from sunlight. The main function of the vitamin is to increase the utilization of calcium and phosphorus in bones and teeth. A mixture of several forms of vitamin D: Vitamin D3 is synthesized in the skin upon exposure to ultraviolet light; in contrast, vitamin D2 is obtained only from the diet. Both vitamins D2 and D3 are metabolized to 25-hydroxyvitamin D in the liver, and then to the active 1,25 dihydroxy form in the kidney. Vitamin D has a major role in the intestinal absorption of calcium, bone calcium balance and renal excretion of calcium.Ref: Ganong&;s…",
     "rationales": {},
     "paper": "paper-1",
@@ -6168,7 +6168,7 @@ window.OpenPharmacyQuestions = [
         "Colon"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Most of the vitamins are absorbed in the upper small intestine, but vitamin B12 is absorbed in the ileum.Vitamin B12 binds to intrinsic factor and the complex is absorbed across the ileal mucosa.Vitamin B12 and folate absorption are Na+ independent.Other vitamins are absorbed by carriers that are Na+ cotranspoers.(Ref: Ganong&;s Review of medical physiology, 23 rd edition, page 458)",
     "rationales": {},
     "paper": "paper-1",
@@ -6211,7 +6211,7 @@ window.OpenPharmacyQuestions = [
         "Mid diastole"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "D i.e. Mid diastole- During cardiac imaging (such as MRI, CT, electron beam tomography), mid diastolic phase (or diastasis) of cardiac cycle is usually (but not always) associated with lowest (minimum) mean motion of hea.Q- Optimum phase (i.e. with minimum cardiac motion) for cardiac and coronary vessel imaging is mid-diastole (diastasis) at low or intermediate hea rates; but is variable and may occur in late systole at high hea rates.Cardiac Motion and Imaging- Radiological imaging by CT and MRI can detect coronary artery disease in early stage. However, the use of these tools to cardiac imaging is severely limited because of motion aifacts produced by constantly in motion hea completing an e…",
     "rationales": {},
     "paper": "paper-1",
@@ -6299,8 +6299,8 @@ window.OpenPharmacyQuestions = [
         "Relaxin"
       ]
     ],
-    "answer": "A",
-    "explanation": "The synthesis and secretion of hCG begins about day 6 of pregnancy, presumably from the trophoblast cells. Pregnancy tests utilize the measurement of hCG for detection of the embryo. Endothelial growth factor (EGF) is synthesized by the cytotrophoblast cells in the early placenta, then is synthesized by the syncytiotrophoblast cells later (6-8 week old placenta). EGF maintains the trophoblast. Relaxin is synthesized by decidual cells at the time of paurition and acts to \"soften\" the cervix and pelvic ligaments. IGF act similarly to EGF by stimulating differentiation of the cytotrophoblast cells. HCS is synthesized by syncytiotrophoblast cells and will promote general growth. It is essential…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Human chorionic gonadotropin (hCG). The synthesis and secretion of hCG begins about day 6 of pregnancy, presumably from the trophoblast cells. Pregnancy tests utilize the measurement of hCG for detection of the embryo. Endothelial growth factor (EGF) is synthesized by the cytotrophoblast cells in the early placenta, then is synthesized by the syncytiotrophoblast cells later (6-8 week old placenta). EGF maintains the trophoblast. Relaxin is synthesized by decidual cells at the time of paurition and acts to \"soften\" the cervix and pelvic ligaments. IGF act similarly to EGF by stimulating differentiation of the cytotrophoblast cells. HCS is synthesized by syncytiotrophoblast cells and will promote general growth. It is essential…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -6345,7 +6345,7 @@ window.OpenPharmacyQuestions = [
         "Blood flow at apices of lung decreases"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "B i.e. Venous return to hea increases immediately In standing posture, 300- 500m1 of blood pools in venous capacitance vessels of lower extremities, which is immediately returned towards heaQ on assuming lying down posture. Cardiovascular system Onlying On standing - Stroke volume - Cardiac output - Venous return - Central blood pool Increase Decrease - Central venous pressure - Aerial BP - Abdominal & limb flow - Hea rate - Peripheral venous pooling - Total peripheral resistance Decrease Increase - Abdominal & limb resistance - Small vein pressure",
     "rationales": {},
     "paper": "paper-1",
@@ -6388,8 +6388,8 @@ window.OpenPharmacyQuestions = [
         "B cells"
       ]
     ],
-    "answer": "A",
-    "explanation": "The stomach also adds a significant volume of digestive juices to the meal. Like salivary secretion, the stomach actually readies itself to receive the meal before it is actually taken in, during the so-called cephalic phase that can be influenced by food preferences. The gastric secretions arise from glands in the wall of the stomach that drain into its lumen, and also from the surface cells that secrete primarily mucus and bicarbonate to protect the stomach from digesting itself, as well as substances known as trefoil peptides that stabilize the mucus-bicarbonate layer. The glandular secretions of the stomach differ in different regions of the organ. The most characteristic secretions deri…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Parietal cells. The stomach also adds a significant volume of digestive juices to the meal. Like salivary secretion, the stomach actually readies itself to receive the meal before it is actually taken in, during the so-called cephalic phase that can be influenced by food preferences. The gastric secretions arise from glands in the wall of the stomach that drain into its lumen, and also from the surface cells that secrete primarily mucus and bicarbonate to protect the stomach from digesting itself, as well as substances known as trefoil peptides that stabilize the mucus-bicarbonate layer. The glandular secretions of the stomach differ in different regions of the organ. The most characteristic secretions deri…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -6434,7 +6434,7 @@ window.OpenPharmacyQuestions = [
         "GA"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ghrelin: Anorexigenic and somatotrophic signal from the stomach Akio Inui1 About the author top of page Abstract Ghrelin, an endogenous ligand for the growth hormone secretagogue receptor, is synthesized principally in the stomach and is released in response to fasting. Ghrelin is structurally related to motilin and, together, they represent a novel family of gut-brain regulatory peptides. In addition to having a powerful effect on the secretion of growth hormone, ghrelin stimulates energy production and signals directly to the hypothalamic regulatory nuclei that control energy homeostasis. The study of ghrelin has extended our understanding of how growth is controlled and has shown that the…",
     "rationales": {},
     "paper": "paper-1",
@@ -6480,7 +6480,7 @@ window.OpenPharmacyQuestions = [
         "K"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "CaExocytosis is a calcium dependent process where in the cellular contents are moved out of the cell in the form of vesicles (Cell Vomiting)",
     "rationales": {},
     "paper": "paper-1",
@@ -6568,7 +6568,7 @@ window.OpenPharmacyQuestions = [
         "Troponin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Functional unit of muscle is : sarcomere It is the pa of myofibril present between two succsive z lines. Ref: Guyton and Hall textbook of medical physiology 12th edition, page number:86,87",
     "rationales": {},
     "paper": "paper-1",
@@ -6611,8 +6611,8 @@ window.OpenPharmacyQuestions = [
         "13-30"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 7-Apr.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 13-Aug. Source answer key: 7-Apr.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -6654,7 +6654,7 @@ window.OpenPharmacyQuestions = [
         "Bicarbonate"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "D i.e. Bicarbonate Transpo of CO2 in the form of bicarbonate ions accounts for approximately 70% of transpoed carbon dioxide from the tissues to lungs Q. So CO2 is transpoed as plasma HCO3 - > RBC > HCO3- > Carbamino compound > dissolved CO2 Q &Transpo of Carbon Dioxide Carbon dioxide is transpoed in the blood as: HCO3- (70%) > carbamino compounds (23%) > dissolved CO2 (7%) Chloride Shift/ Hamburger Phenomenon When the negatively charged (HCO3-) bicarbonate ions move out of red blood cell into the plasma, to maintain the electrolytic equilibrium the negatively charged chloride ions move into the Red blood Cells from plasma (In plasma plenty of sodium chloride is present). This process is med…",
     "rationales": {},
     "paper": "paper-1",
@@ -6699,8 +6699,8 @@ window.OpenPharmacyQuestions = [
         "Complete transaction"
       ]
     ],
-    "answer": "D",
-    "explanation": "Neurapraxia is a disorder of the peripheral nervous system in which there is a temporary loss of motor and sensory function due to blockage of nerve conduction, usually lasting an average of six to eight weeks before full recovery.Ref: Ganong&;s review of medical physiology 23rd edition",
+    "answer": "A",
+    "explanation": "Source answer key: A. Neuropraxia. Neurapraxia is a disorder of the peripheral nervous system in which there is a temporary loss of motor and sensory function due to blockage of nerve conduction, usually lasting an average of six to eight weeks before full recovery.Ref: Ganong&;s review of medical physiology 23rd edition",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -6744,7 +6744,7 @@ window.OpenPharmacyQuestions = [
         "High fecal levels of tryptophan and indole derivatives"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "High fecal levels of tryptophan and indole derivatives Hanup disease is autosomal recessive metabolic disorder also known as pellagra like dermatosis. This affect the absorption of nonpolar( neutral ) amino acids specially tryptophan. So there is no absorption of tryptophan.",
     "rationales": {},
     "paper": "paper-1",
@@ -6787,7 +6787,7 @@ window.OpenPharmacyQuestions = [
         "Exercise"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The remaining options utilise energy. Basal metabolic rate and obesity The basal metabolic rate accounts for about 60 to 75% of the daily calorie expenditure by individuals. It is influenced by several factors. BMR typically declines by 1-2% per decade after age 20, mostly due to loss of fat-free mass, although the variability between individuals is high. Ref guyton and hall textbook of medical physiology 12/e pg843",
     "rationales": {},
     "paper": "paper-1",
@@ -6830,7 +6830,7 @@ window.OpenPharmacyQuestions = [
         "Sarcoglycan"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Perlecan is a large extracellular matrix proteoglycan that plays a crucial role in tissue development and organogenesis. Dystrophin-glycoprotein complex The dystrophin-glycoprotein complex provides a structural link between the cytoskeleton of the muscle cell and the extracellular matrix, which appears to stabilize the sarcolemma, adds strength to the muscle by providing a scaffolding for the fibrils and prevents contraction-induced injury(rupture). Organisation of DG complex Dystrophin connects F-actin to the transmembrane protein b-dystroglycan smaller proteins called syntrophins. This b-dystroglycan, in turn connects to the merosin subunit of laminin 211 in the extracellular matrix a-dyst…",
     "rationales": {},
     "paper": "paper-1",
@@ -6875,8 +6875,8 @@ window.OpenPharmacyQuestions = [
         "Xylulose and fructose"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Xylulose and fructose.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Glucose and fructose. Source answer key: Xylulose and fructose.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -6918,7 +6918,7 @@ window.OpenPharmacyQuestions = [
         "Atelectasis"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "-Ventilation / perfusion ratio - normal = 4l/min/5l/min=0.8 - AV/Q= INFINITY - Means Perfusion (Q) to lungs is zero that is blood supply to that area is hindered making it awasted ventilationin those alveoli. - This may be due to pulmonary embolism causing |ed Physiological DEAD space . DEAD SPACE- Some of the air a person breathes never reaches the gas exchange areas but simply fills respiratory passages where gas exchange does not occur, - called so as its not useful for gas exchange. Physiologial / total dead space = anatomical dead space +alveolar dead space (non perfused/ non functioning Alveoli) In Atelectasisventilation: perfusion ratio (VA/Q) iszero. it is is the most common cause of…",
     "rationales": {},
     "paper": "paper-1",
@@ -6963,7 +6963,7 @@ window.OpenPharmacyQuestions = [
         "Vit D3"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Calcitonin receptor is expressed in osteoclasts. Calcitonin inhibits bone resorption by inhibiting osteoclasts; and promotes Ca2+ from blood to be deposited on the bone. This decreases blood Ca2+. PTH is a primary endocrine regulator of bone remodeling in adults. The PTH/PTHrP receptor is expressed on osteoblasts, but not on osteoclasts.",
     "rationales": {},
     "paper": "paper-1",
@@ -7008,8 +7008,8 @@ window.OpenPharmacyQuestions = [
         "cause contraction of pyloric sphincter"
       ]
     ],
-    "answer": "A",
-    "explanation": "Main Action of Secretin: Secretin increases the secretion of bicarbonate by the duct cells of the pancreas and biliary tract. It thus causes the secretion of a watery, alkaline pancreatic juice (with high content of bicarbonate). Its action on pancreatic duct cells is mediated via cAMP. Secretin causes alkaline pancreatic juice to flood into the duodenum, neutralizing the acid from the stomach and thus inhibiting further secretion of the hormone - feedback control. Other actions: Inhibits gastric juice secretion. Inhibits gastric motility. Causes contraction of pyloric sphincter. Augments the potency of action of cholecystokinin on pancreatic secretion.",
+    "answer": "B",
+    "explanation": "Source answer key: B. increase secretion of bicarbonates by pancreas. Main Action of Secretin: Secretin increases the secretion of bicarbonate by the duct cells of the pancreas and biliary tract. It thus causes the secretion of a watery, alkaline pancreatic juice (with high content of bicarbonate). Its action on pancreatic duct cells is mediated via cAMP. Secretin causes alkaline pancreatic juice to flood into the duodenum, neutralizing the acid from the stomach and thus inhibiting further secretion of the hormone - feedback control. Other actions: Inhibits gastric juice secretion. Inhibits gastric motility. Causes contraction of pyloric sphincter. Augments the potency of action of cholecystokinin on pancreatic secretion.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7100,7 +7100,7 @@ window.OpenPharmacyQuestions = [
         "CI-"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Glucose is absorbed into the epithelial cells lining the mucous membrane of the small intestine from their brush border surface by an active transpo mechanism Sodium co-transpo mechanism. Binding of glucose & Na+ to carrier protein: The carrier protein in cell membrane has 2 binding sites, one for sodium & another for glucose.It is called sodium-dependent glucose transpoer-I. The conformational change in the carrier protein occurs only when the binding sites are occupied by the sodium & glucose present in the gut lumen forming the sodium- glucose - carrier complex. Ref: Medical Physiology, Indu Khurana",
     "rationales": {},
     "paper": "paper-1",
@@ -7143,7 +7143,7 @@ window.OpenPharmacyQuestions = [
         "J-reflex"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Head's paradoxical reflex is paradoxical to Hering- Breuer inflation reflex This reflex might be the cause for inflation of the lungs in the newborn when the newborn takes the first breath",
     "rationales": {},
     "paper": "paper-1",
@@ -7233,7 +7233,7 @@ window.OpenPharmacyQuestions = [
         "Isotonic exercise"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ventricular distension can produce a powerful depressor reflex called the Bezold-Jarisch reflex; vagal afferents of this cardiopulmonary reflex are also activated by chemical stimulation (eg, prostanoids, cytokines, serotonin, and classically, Veratrum alkaloids). The central connections for this reflex are in the nucleus tractus solitarii, which has both sympathetic and parasympathetic synapses. Ref: Hoit B.D., Walsh R.A. (2011). Chapter 5. Normal Physiology of the Cardiovascular System. In V. Fuster, R.A. Walsh, R.A. Harrington (Eds), Hurst's The Hea, 13e.",
     "rationales": {},
     "paper": "paper-1",
@@ -7278,7 +7278,7 @@ window.OpenPharmacyQuestions = [
         "Intestines"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Insulin stimulated glucose entry in seen in Cardiac muscles. Name Location Features GLUT-1 & GLUT-3 Brain, RBC, placenta Concerned with basal uptake of glucose GLUT-2 Liver, kidney, b-cells of pancreas Allows both entry & release of glucose GLUT-4 Skeletal muscles, adipocytes, cardiac muscles Insulin dependent transpoer GLUT-5 Spermatozoa, testis, intestines Transpos fructose",
     "rationales": {},
     "paper": "paper-1",
@@ -7324,8 +7324,8 @@ window.OpenPharmacyQuestions = [
         "Irregular hea rate"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Atonia.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Sleep walking. Source answer key: Atonia.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7367,8 +7367,8 @@ window.OpenPharmacyQuestions = [
         "725"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 525.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 625. Source answer key: 525.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7412,7 +7412,7 @@ window.OpenPharmacyQuestions = [
         "Plasma colloid osmotic pressure"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The plasma colloid osmotic pressure is often low in alcoholics with chronic liver disease (cirrhosis). The diseased liver cannot produce adequate amounts of albumin, which leads to a decrease in the concentration of albumin in the plasma, i.e., hyportalbuminemia. Because about 75% of the plasma colloid osmotic pressure can be attributed to the presence of albumin in the plasma, the decrease in plasma albumin concentration that occurs in the latter stages of cirrhosis often leads to peripheral edema. Cirrhosis also causes excess fluid to accumulate in the peritoneal cavity as ascites. In the case of ascites, the edema results not only from hyportalbuminemia, but also from portal vein obstruction (w…",
     "rationales": {},
     "paper": "paper-1",
@@ -7455,7 +7455,7 @@ window.OpenPharmacyQuestions = [
         "ad"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Baroreceptors are present in carotid sinus and aortic arch. Increase in BP activates them which results in decrease in the sympathetic discharge. This leads to decrease in cardiac contraction, heart rate and BP.",
     "rationales": {},
     "paper": "paper-1",
@@ -7500,8 +7500,8 @@ window.OpenPharmacyQuestions = [
         "Weber-Fechner's law"
       ]
     ],
-    "answer": "A",
-    "explanation": "(B) (Bell Magendie law's) (157 - Ganang 23rd)* Bell Magandie law - In the spinal cord dorsal roots are sensory and ventral roots are motors (DS - VM)* Weber Fachner law - Magnitude of sensation felt in proportionate to the log of intensity of the stimulus**.* Law of pro jection states than no matter where a particular sensory pathway is stimulated along its course to the cortex. The conscious sensation produced is referred to the location of the receptor (eg. Phantom limb).* Within physiological limits, the force of contraction of the ventricular muscle fibers is directly proportional to its initial length i.e. larger the initial length of the cardiac muscle fibers, greater will be the force…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Bell-Magendle's law. (B) (Bell Magendie law's) (157 - Ganang 23rd)* Bell Magandie law - In the spinal cord dorsal roots are sensory and ventral roots are motors (DS - VM)* Weber Fachner law - Magnitude of sensation felt in proportionate to the log of intensity of the stimulus**.* Law of pro jection states than no matter where a particular sensory pathway is stimulated along its course to the cortex. The conscious sensation produced is referred to the location of the receptor (eg. Phantom limb).* Within physiological limits, the force of contraction of the ventricular muscle fibers is directly proportional to its initial length i.e. larger the initial length of the cardiac muscle fibers, greater will be the force…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7545,7 +7545,7 @@ window.OpenPharmacyQuestions = [
         "t-waves"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "(A) a-waves # Alpha Rhythm> In adult humans who are awake but at rest with the mind wandering and the eyes closed, the most prominent component of Ihe EEG is fairly regular pattern of waves at a frequency of 8-12 Hz and an amplitude of 50-100 pV when recorded from the scalp> This pattern is the alpha rhythm.> It is most marked in the parieto-occipital area.",
     "rationales": {},
     "paper": "paper-1",
@@ -7588,8 +7588,8 @@ window.OpenPharmacyQuestions = [
         "VIII and XII"
       ]
     ],
-    "answer": "A",
-    "explanation": "Vitamin K is an essential factor to a liver carboxylase that adds a carboxyl group to glutamic acid residues on five of the important clotting factors: prothrombin, Factor VII, Factor IX, Factor X, and protein C.Ref: Guyton and Hall textbook of medical physiology 13th edition. Page: 490",
+    "answer": "B",
+    "explanation": "Source answer key: B. IX and X. Vitamin K is an essential factor to a liver carboxylase that adds a carboxyl group to glutamic acid residues on five of the important clotting factors: prothrombin, Factor VII, Factor IX, Factor X, and protein C.Ref: Guyton and Hall textbook of medical physiology 13th edition. Page: 490",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7631,8 +7631,8 @@ window.OpenPharmacyQuestions = [
         "Contraction of left ventricle"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Contraction of left ventricle.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Elastic recoil of aorta. Source answer key: Contraction of left ventricle.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7764,8 +7764,8 @@ window.OpenPharmacyQuestions = [
         "Blood"
       ]
     ],
-    "answer": "B",
-    "explanation": "Prostaglandins were believed to be pa of the prostatic secretions, and eventually were discovered to be produced by the seminal vesicles. ... The biochemists Sune K. Bergstrom, Bengt I. Samuelsson and John R. Vane jointly received the 1982 Nobel Prize in Physiology or Medicine for their research on prostaglandins. Ref: guyton and hall textbook of medical physiology 12 edition",
+    "answer": "C",
+    "explanation": "Source answer key: C. Seminal fluid. Prostaglandins were believed to be pa of the prostatic secretions, and eventually were discovered to be produced by the seminal vesicles. ... The biochemists Sune K. Bergstrom, Bengt I. Samuelsson and John R. Vane jointly received the 1982 Nobel Prize in Physiology or Medicine for their research on prostaglandins. Ref: guyton and hall textbook of medical physiology 12 edition",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7809,8 +7809,8 @@ window.OpenPharmacyQuestions = [
         "Creating negative pleural pressure"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Creating negative pleural pressure.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Lung elasticity. Source answer key: Creating negative pleural pressure.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7898,8 +7898,8 @@ window.OpenPharmacyQuestions = [
         "Epinephrine"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Acetylcholine.",
+    "answer": "B",
+    "explanation": "Source answer key: B. GABA. Source answer key: Acetylcholine.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -7941,7 +7941,7 @@ window.OpenPharmacyQuestions = [
         "At 20 years of age"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The thymus matures at pubey, thus attaining the maximum size Ref: guyton and hall textbook of medical physiology 12 edition",
     "rationales": {},
     "paper": "paper-1",
@@ -7984,8 +7984,8 @@ window.OpenPharmacyQuestions = [
         "Oblique"
       ]
     ],
-    "answer": "A",
-    "explanation": "The various pas of the body are represented in the precentral gyrus, with the feet at the top of the gyrus and the face at the bottom. The facial area is represented bilaterally, but the rest of the representation is generally unilateral, with the coical motor area controlling the musculature on the opposite side of the body. The coical representation of each body pa is propoionate in size to the skill with which the pa is used in fine, voluntary movement. The areas involved in speech and hand movements are especially large in the coex; use of the pharynx, lips, and tongue to form words and of the fingers and apposable thumbs to manipulate the environment are activities in which humans are e…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Veical. The various pas of the body are represented in the precentral gyrus, with the feet at the top of the gyrus and the face at the bottom. The facial area is represented bilaterally, but the rest of the representation is generally unilateral, with the coical motor area controlling the musculature on the opposite side of the body. The coical representation of each body pa is propoionate in size to the skill with which the pa is used in fine, voluntary movement. The areas involved in speech and hand movements are especially large in the coex; use of the pharynx, lips, and tongue to form words and of the fingers and apposable thumbs to manipulate the environment are activities in which humans are e…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8027,8 +8027,8 @@ window.OpenPharmacyQuestions = [
         "Spleen and lymph nodes"
       ]
     ],
-    "answer": "B",
-    "explanation": "Thrombopoietin (THPO) also known as megakaryocyte growth and development factor (MGDF) is a protein that in humans is encoded by the THPO gene.Thrombopoietin is a glycoprotein hormone produced by the liver and kidney which regulates the production of platelets. It stimulates the production and differentiation of megakaryocytes, the bone marrow cells that bud off large numbers of platelets.Ref: Ganong&;s review of medical physiology;24th edition; page no-80",
+    "answer": "C",
+    "explanation": "Source answer key: C. Liver and kidneys. Thrombopoietin (THPO) also known as megakaryocyte growth and development factor (MGDF) is a protein that in humans is encoded by the THPO gene.Thrombopoietin is a glycoprotein hormone produced by the liver and kidney which regulates the production of platelets. It stimulates the production and differentiation of megakaryocytes, the bone marrow cells that bud off large numbers of platelets.Ref: Ganong&;s review of medical physiology;24th edition; page no-80",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8073,7 +8073,7 @@ window.OpenPharmacyQuestions = [
         "Area 17"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Superior colliculus integrates impulses for eye-hand coordination to control rapid directional movements of the two eyes. VISUAL PATHWAY Other important areas of the brain involved in visual pathway: Suprachiasmatic nucleus of the hypothalamus, to control circadian rhythms; Pretectal nuclei in the midbrain, to elicit reflex movements of the eyes to focus on objects of impoance and to activate the pupillary light reflex; Superior colliculus, to control rapid directional movements of the two eyes; and Ventral lateral geniculate nucleus of the thalamus and surrounding basal regions of the brain, to help control some of the body's behavioral functions.",
     "rationales": {},
     "paper": "paper-1",
@@ -8118,7 +8118,7 @@ window.OpenPharmacyQuestions = [
         "Testosterone"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Glycoprotein hormone that controls erythropoiesis, or red blood cell production. Estrogen inhibits the erythropoietin whereas testosterone stimuates production . Ref: Ganong's Review of Medical Physiology; 24th edition; page no: 709",
     "rationales": {},
     "paper": "paper-1",
@@ -8163,7 +8163,7 @@ window.OpenPharmacyQuestions = [
         "Skin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Capillaries are classified in toContinuous or non fenestrated capillaries - Endothelial cells are arranged without any gap in between them. Eg. Skin, BBB. Allows only very small molecules to pass through. Fenestrated capillaries - Gaps in between endothelial cells ranging from 70-100nm in diameter which are lined by basement membrane. Eg. Capillaries of intestinal villi, renal glomeruli, choroid plexus of the ventricles of the brain, ciliary process of eyes and endocrine glandsDiscontinuous type- Very wide cleft are present in between endothelial cells. The basement membrane is incomplete or absent. Almost all substance in plasma can cross this gap. Seen in liver sinusoids, sinusoids of sple…",
     "rationales": {},
     "paper": "paper-1",
@@ -8208,8 +8208,8 @@ window.OpenPharmacyQuestions = [
         "LDL"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: LDL.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Chylomicrons. Source answer key: LDL.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8251,8 +8251,8 @@ window.OpenPharmacyQuestions = [
         "Heparin"
       ]
     ],
-    "answer": "A",
-    "explanation": "Endothelial cells constitute a large and important tissue. They secrete many growth factors and vasoactive substances. The vasoactive substances include prostaglandins and thromboxanes, nitric oxide, and endothelins.Lungs activate angiotensin I to angiotensin II; this reaction is paicularly prominent in the lungsRef: Ganong's Review of Medical Physiology;23rd edition; Page No: 606",
+    "answer": "B",
+    "explanation": "Source answer key: B. Angiotensin 2. Endothelial cells constitute a large and important tissue. They secrete many growth factors and vasoactive substances. The vasoactive substances include prostaglandins and thromboxanes, nitric oxide, and endothelins.Lungs activate angiotensin I to angiotensin II; this reaction is paicularly prominent in the lungsRef: Ganong's Review of Medical Physiology;23rd edition; Page No: 606",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8296,7 +8296,7 @@ window.OpenPharmacyQuestions = [
         "Tectum of midbrain"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Corpus striatum(Ref: Ganong, 25th ed/p.243)The Efferent fibers bundle of the substantia nigra transmits dopamine to corpus striatum",
     "rationales": {},
     "paper": "paper-1",
@@ -8339,8 +8339,8 @@ window.OpenPharmacyQuestions = [
         "Metabolism of basic drugs by cytochrome P–450 system"
       ]
     ],
-    "answer": "A",
-    "explanation": "Extracellular ACE on the surface endothelial cells in pulmonary circulation activates Angiotensin I to Angiotensin II.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Conversion of angiotensin–I to angiotensin–II. Extracellular ACE on the surface endothelial cells in pulmonary circulation activates Angiotensin I to Angiotensin II.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8384,7 +8384,7 @@ window.OpenPharmacyQuestions = [
         "Refractory period"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Rheobase is the minimal current amplitude of indefinite duration that results in the depolarization threshold of the cell membranes being reached (i.e. an action potential or the contraction of a muscle). Chronaxie (or chronaxy) is the minimum time over which an electric current, double the strength of the rheobase, needs to be applied, in order to stimulate a muscle fiber or nerve cell. In the case of a nerve or single muscle cell, rheobase is half the current that needs to be applied for the duration of chronaxie to result in an action potential or muscle twitch. Refractory period is a sho period after a nerve or muscle cell fires during which thecell cannot respond to additional stimulati…",
     "rationales": {},
     "paper": "paper-1",
@@ -8429,8 +8429,8 @@ window.OpenPharmacyQuestions = [
         "Epididymis"
       ]
     ],
-    "answer": "D",
-    "explanation": "Testosterone- the principal male sex hormone (androgen) that is produced by Leydig&;s cells of the testes in response to luteinizing hormone secreted by the pituitary gland. It is also produced by the adrenal coex in both males and females. Its chief function is to stimulate the development of the male reproductive organs, including the prostate, and the secondary sex characters, such as the beard. It encourages growth of bone and muscle and helps maintain muscle strength.Ref: Ganong&;s review of medical physiology; 24th edition; page no:-423",
+    "answer": "A",
+    "explanation": "Source answer key: A. Leydig cells. Testosterone- the principal male sex hormone (androgen) that is produced by Leydig&;s cells of the testes in response to luteinizing hormone secreted by the pituitary gland. It is also produced by the adrenal coex in both males and females. Its chief function is to stimulate the development of the male reproductive organs, including the prostate, and the secondary sex characters, such as the beard. It encourages growth of bone and muscle and helps maintain muscle strength.Ref: Ganong&;s review of medical physiology; 24th edition; page no:-423",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8474,7 +8474,7 @@ window.OpenPharmacyQuestions = [
         "Primary active transpo"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Pendrin protein is a chloride-iodide transpoer protein encoded by the gene responsible for Pendred syndrome, important in function of thyroid gland, kidney, and inner ear.Endocytosis is defined as the uptake by a cell of material from the environment by invagination of the plasma membrane; it includes both phagocytosis and pinocytosis.Antipo a cell membrane transpo mechanism that transpos two molecules at once through the membrane in opposite directions.Primary active transpo - Active transpo is the movement of all types of molecules across a cell membrane against its concentration gradient (from low to high concentration). In all cells, this is usually concerned with accumulating high concent…",
     "rationales": {},
     "paper": "paper-1",
@@ -8519,7 +8519,7 @@ window.OpenPharmacyQuestions = [
         "Glutamate"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Glutamate is the chief excitatory neurotransmitter in CNS.",
     "rationales": {},
     "paper": "paper-1",
@@ -8562,8 +8562,8 @@ window.OpenPharmacyQuestions = [
         "Diacylglycerol (DAG"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: IP3.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Guanylyl cyclase. Source answer key: IP3.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8605,7 +8605,7 @@ window.OpenPharmacyQuestions = [
         "Prostacyclin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Thromboxane A2, prostacyclin, and prostaglandins are formed by the cyclooxygenase pathway whereas leukotrienes are formed by the lipooxygenase pathway.Ref: Textbook of medical physiology by N Geetha, 2nd edition, page no. 103",
     "rationales": {},
     "paper": "paper-1",
@@ -8695,8 +8695,8 @@ window.OpenPharmacyQuestions = [
         "Not changed"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Decreased.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Increased. Source answer key: Decreased.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8738,7 +8738,7 @@ window.OpenPharmacyQuestions = [
         "Increased rate of flow during expiration"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "A i.e. Increased compression of airways",
     "rationales": {},
     "paper": "paper-1",
@@ -8781,8 +8781,8 @@ window.OpenPharmacyQuestions = [
         "Due to change from linear to turbulent flow"
       ]
     ],
-    "answer": "B",
-    "explanation": "More resistance in respiration is seen in bronchial construction Ref: guyton and hall textbook of medical physiology 12 edition page number:333,334,335",
+    "answer": "C",
+    "explanation": "Source answer key: C. Increased compression of airway. More resistance in respiration is seen in bronchial construction Ref: guyton and hall textbook of medical physiology 12 edition page number:333,334,335",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8824,8 +8824,8 @@ window.OpenPharmacyQuestions = [
         "beta 2 globulin"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: alpha 1 globulin.",
+    "answer": "B",
+    "explanation": "Source answer key: B. alpha 2 globulin. Source answer key: alpha 1 globulin.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8867,8 +8867,8 @@ window.OpenPharmacyQuestions = [
         "Lymphocyte"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Neutrophil.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Eosinophil. Source answer key: Neutrophil.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -8955,8 +8955,8 @@ window.OpenPharmacyQuestions = [
         "Factor IX"
       ]
     ],
-    "answer": "D",
-    "explanation": "The loose aggregation of platelets in the temporary plug is bound together and conveed into definitive clot bg fibrin. Fibrin is initially a loose mesh of interlacing strands. It is conveed by the formation of covalent cross-linkages to a dense tight aggregate. The latter reaction is catalyzed by activated factor 13 and requires calcium. Ref: Ganong&;s Review of medical physiology, 24th edition.Pg no. 566",
+    "answer": "A",
+    "explanation": "Source answer key: A. Factor XIII. The loose aggregation of platelets in the temporary plug is bound together and conveed into definitive clot bg fibrin. Fibrin is initially a loose mesh of interlacing strands. It is conveed by the formation of covalent cross-linkages to a dense tight aggregate. The latter reaction is catalyzed by activated factor 13 and requires calcium. Ref: Ganong&;s Review of medical physiology, 24th edition.Pg no. 566",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9041,7 +9041,7 @@ window.OpenPharmacyQuestions = [
         "Increased ECF"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "After MI, there is failure of Na+-K+ pump resulting in NCX failure Thus intracellular Ca+2 increases Now when perfusion is established (nutrients are available), because of increased ICF Ca+2, cardiac fibers contract very strongly Already muscle fibers are fragile due to M.I, now this contraction results in fuher damage. This is basic reason for \"reperfusion injury\".",
     "rationales": {},
     "paper": "paper-1",
@@ -9086,8 +9086,8 @@ window.OpenPharmacyQuestions = [
         "Exocytosis"
       ]
     ],
-    "answer": "C",
-    "explanation": "Placental exchanges that take place occur according to different mechanisms. Simple diffusion is the movement of molecules of gas and water from a high concentration to a low concentration. Iodine readily crosses the placental barrier. Active transpo is another method. This method transpos specific molecules across a membrane or against a concentration gradient which requires energy (ATP) (i. e. Ca++, Na +, and K+). Endocytosis is the method by which the macromolecules are captured by cell microvilli. Leakage is difficult to understand, but it has to do with the connections or like connections between fetal and maternal blood. Ref: Molina P.E. (2013). Chapter 9. Female Reproductive System. I…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Exocytosis. Placental exchanges that take place occur according to different mechanisms. Simple diffusion is the movement of molecules of gas and water from a high concentration to a low concentration. Iodine readily crosses the placental barrier. Active transpo is another method. This method transpos specific molecules across a membrane or against a concentration gradient which requires energy (ATP) (i. e. Ca++, Na +, and K+). Endocytosis is the method by which the macromolecules are captured by cell microvilli. Leakage is difficult to understand, but it has to do with the connections or like connections between fetal and maternal blood. Ref: Molina P.E. (2013). Chapter 9. Female Reproductive System. I…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9129,7 +9129,7 @@ window.OpenPharmacyQuestions = [
         "Duodenum + Jejunum"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans: B i.e. DuodenumSite of absorptionStomach is the site of absorption of water and alcoholDuodenum is the site of absorption of iron and calciumIleum is the site of absorption of vitamin B12 and bile salt",
     "rationales": {},
     "paper": "paper-1",
@@ -9172,7 +9172,7 @@ window.OpenPharmacyQuestions = [
         "Temperature"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Left shift (high affinity for O2) Right shift (low affinity for O2) Temperature decrease increase 2.3-DPG decrease increase p(CO2) decrease increase p(CO) increase decrease pH (Bohr effect) increase (alkalosis) decrease (acidosis) Type of haemoglobin Fetal haemoglobin Adult haemoglobin",
     "rationales": {},
     "paper": "paper-1",
@@ -9217,8 +9217,8 @@ window.OpenPharmacyQuestions = [
         "Aerial valve expansion"
       ]
     ],
-    "answer": "B",
-    "explanation": "The sounds of Korotkoff are produced by turbulent flow in the brachial artery. When the artery is narrowed by the cuff, the velocity of flow through the constriction exceeds the critical velocity and turbulent flow results.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Aerial turbulence. The sounds of Korotkoff are produced by turbulent flow in the brachial artery. When the artery is narrowed by the cuff, the velocity of flow through the constriction exceeds the critical velocity and turbulent flow results.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9303,7 +9303,7 @@ window.OpenPharmacyQuestions = [
         "C- peptide"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "D i.e. C - PeptideInsulin has two interchain (A7 - B7, & A20 - B19) and one intrachain (A6 - All) disulfide bridges with in AB hetrodimeric structureQ.Insulin is synthesized as pre-pro-hormone (MW 11, 500), which makes it difficult to synthesize insulin in laboratory even after synthesizing A, B chains. This pre prohormone is directed by hydrophobic 23 aminoacid pre or leader sequence into cisternae of endoplasmic retinaculum, which is then removed to form 9000 MW proinsulin.Staing from amino terminal, the chain sequenc of proinsulin is.",
     "rationales": {},
     "paper": "paper-1",
@@ -9348,7 +9348,7 @@ window.OpenPharmacyQuestions = [
         "Isomerase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Aromatase enzyme: In a normal ovary, LH acts on the theca interstitial stromal cells, whereas FSH acts on granulosa cells. In response to LH the thecal cells secretes androgen, and the produced androsendione is conveed in the granulosa cells to estrogen by the action of aromatase enzyme. Ref: Physiology By James N. Pasley 2nd Edition, Page 145 ; Androgens in health and disease By William J. Bremne Page 84 ; Pade approximation and its applications: Diagnosis and management of PCOS, Issue 765, By Luc Wuytack, Page 107",
     "rationales": {},
     "paper": "paper-1",
@@ -9391,8 +9391,8 @@ window.OpenPharmacyQuestions = [
         "Decreased urine output"
       ]
     ],
-    "answer": "D",
-    "explanation": "The kidney is innervated primarily by the sympathetic nervous system, and as such, regulates the contraction of the smooth muscle surrounding the afferent and efferent aerioles of the glomerulus. Sympathetic stimulation to the efferent glomerular aerioles causes their constriction and increases the filtration rate, leading to an increase in urinary output. Similarly, with the loss of sympathetic innervation, such as due to sympathectomy of the kidney, relaxation of tone of the afferent aeriole occurs and the filtration rate increases, which results in an increased urine output. Decreased urine output may result from the constriction of the afferent aerioles, leading to a decrease in glomerul…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Reduction of glomerular filtration rate and decreased urinary output. The kidney is innervated primarily by the sympathetic nervous system, and as such, regulates the contraction of the smooth muscle surrounding the afferent and efferent aerioles of the glomerulus. Sympathetic stimulation to the efferent glomerular aerioles causes their constriction and increases the filtration rate, leading to an increase in urinary output. Similarly, with the loss of sympathetic innervation, such as due to sympathectomy of the kidney, relaxation of tone of the afferent aeriole occurs and the filtration rate increases, which results in an increased urine output. Decreased urine output may result from the constriction of the afferent aerioles, leading to a decrease in glomerul…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9571,7 +9571,7 @@ window.OpenPharmacyQuestions = [
         "Decrease in blood pressure"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Baroreceptor stimulation results in Inhibition of sympathetic activity Excitation of parasympathetic activity Decrease in heart rate Decrease in blood pressure",
     "rationales": {},
     "paper": "paper-1",
@@ -9617,7 +9617,7 @@ window.OpenPharmacyQuestions = [
         "Glucagon"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Hormones That Use the Adenylyl Cyclase-cAMP as Second Messenger System Adrenocoicotropic hormone (ACTH) Angiotensin II (epithelial cells) Calcitonin Catecholamines (b receptors) Coicotropin releasing hormone (CRH) Follicle-stimulating hormone (FSH) Glucagon Growth hormone releasing hormone (GHRH) Human chorionic gonadotropin (hCG) Luteinizing hormone (LH) Parathyroid hormone (PTH) Secretin Somatostatin Thyroid-stimulating hormone (TSH) Vasopressin (V2 receptor, epithelial cells) Insulin acts on tyrosine kinase receptor pathway.",
     "rationales": {},
     "paper": "paper-1",
@@ -9662,8 +9662,8 @@ window.OpenPharmacyQuestions = [
         "8 lit."
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 1 lit.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 8 lit.. Source answer key: 1 lit.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9705,8 +9705,8 @@ window.OpenPharmacyQuestions = [
         "Due to CO2 molecules attached to hemoglobin"
       ]
     ],
-    "answer": "B",
-    "explanation": "The route by which most of the carbon dioxide is carried in the bloodstream. Once dissolved in the blood plasma, carbon dioxide combines with water to form carbonic acid, which immediately ionizes into hydrogen and bicarbonate ions. The bicarbonate ions serve as pa of the alkaline reserve.Ref: Ganong&;s Review of Medical Physiology; 24th edition; page no: 644",
+    "answer": "C",
+    "explanation": "Source answer key: C. As bicarbonates. The route by which most of the carbon dioxide is carried in the bloodstream. Once dissolved in the blood plasma, carbon dioxide combines with water to form carbonic acid, which immediately ionizes into hydrogen and bicarbonate ions. The bicarbonate ions serve as pa of the alkaline reserve.Ref: Ganong&;s Review of Medical Physiology; 24th edition; page no: 644",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9750,8 +9750,8 @@ window.OpenPharmacyQuestions = [
         "10% basophils"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 40% neutrophils.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 30% lymphocytes. Source answer key: 40% neutrophils.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9793,8 +9793,8 @@ window.OpenPharmacyQuestions = [
         "81 times"
       ]
     ],
-    "answer": "C",
-    "explanation": "\"Fouh power law\" of radius ~ Blood flow varies directly and resistance inversely with the fourth power of the radius (r 4). If the radius is changed by a factor of 3 (reduced by 1/3rd), resistance would change by (34).",
+    "answer": "D",
+    "explanation": "Source answer key: D. 81 times. \"Fouh power law\" of radius ~ Blood flow varies directly and resistance inversely with the fourth power of the radius (r 4). If the radius is changed by a factor of 3 (reduced by 1/3rd), resistance would change by (34).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9838,8 +9838,8 @@ window.OpenPharmacyQuestions = [
         "Decreased circulation"
       ]
     ],
-    "answer": "D",
-    "explanation": "Etiology of minimal change ds is unknown. Electron microscopy reveals the primary injury to the visceral epithelial cells, which may be caused by:- A) immunological mechanism: Lack of immune deposits in the glomerulus exclude the possibility of immune complex mechanism. But several features suggest immunological mechanisms like 1.H/o respiratory infection or routine prophylactic immunization 2.dramatic response to coicosteroids 3.asscoiated with allergies or atopic disorder 4.increased incidence in Hodgkin&;s lymphoma patient s. Immune dysfn _>increased cytokine production_these damage visceral epithelial cells _ increase glomerular permeability _proteinuria B) Non-immunological mechanism:-…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Increase in pore size. Etiology of minimal change ds is unknown. Electron microscopy reveals the primary injury to the visceral epithelial cells, which may be caused by:- A) immunological mechanism: Lack of immune deposits in the glomerulus exclude the possibility of immune complex mechanism. But several features suggest immunological mechanisms like 1.H/o respiratory infection or routine prophylactic immunization 2.dramatic response to coicosteroids 3.asscoiated with allergies or atopic disorder 4.increased incidence in Hodgkin&;s lymphoma patient s. Immune dysfn _>increased cytokine production_these damage visceral epithelial cells _ increase glomerular permeability _proteinuria B) Non-immunological mechanism:-…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9884,8 +9884,8 @@ window.OpenPharmacyQuestions = [
         "Area postrema"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Ventral hypothalamus.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Area postrema. Source answer key: Ventral hypothalamus.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -9930,7 +9930,7 @@ window.OpenPharmacyQuestions = [
         "Medial longitudinal fasciculus"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Coicospinal fibers pass through the Medullary Pyramid Extra edge Tracts Function Lateral coicospinal and rubrospinal tracts Control distal limb muscles for fine motor and skilled voluntary movements. Anteriorcoicospinal tract and tectospinal, reticulospinal, and vestibulospinal tracts Control the postural adjustments and gross movements",
     "rationales": {},
     "paper": "paper-1",
@@ -9973,7 +9973,7 @@ window.OpenPharmacyQuestions = [
         "Androgens"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is `d i.e., AndrogensThe adrenal coex is divided into three zones (outer to inner) : Zona glomerulosa, zona fasciculata and zona reticularis.All three coical zones secrete coicosterone, but the active enzymatic mechanism for aldosterone biosynthesis is limited to the zona glomerulosa whereas the enzymatic machanisms for forming coisol and sex hormones are found in the two inner zones. Fuhermore, subspecialization occurs within the inner two zones, the zona fasciculata, secreting mostly glucocoicoids and the zona reticularis secreting mainly sex hormones.",
     "rationales": {},
     "paper": "paper-1",
@@ -10064,8 +10064,8 @@ window.OpenPharmacyQuestions = [
         "1P.-DAG"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ans : D (IP3-DAG) & E (Ca2+ channel) Source of Calcium Ions & in Smooth Muscle Contraction Mechanism InvolvedAlmost all the calcium ions that cause contraction enter the muscle cell from the extracellular fluid at the time of action potential or other stimulusSarcoplasmic reticulum (the source of intracellular Ca2+), which provides virtually all the calcium ions for skeletal muscle contraction, is only slightly developed in most smooth muscle.When an action potential is transmitted in caveolae (rudimentary' analogue of the transverse tubule system of skeletal muscle), this is believe to excite calcium ion release from the abutting sarcoplasmic reticulum tubules through opening of calcium cha…",
+    "answer": "D",
+    "explanation": "Source answer key: D. 1P.-DAG. Ans : D (IP3-DAG) & E (Ca2+ channel) Source of Calcium Ions & in Smooth Muscle Contraction Mechanism InvolvedAlmost all the calcium ions that cause contraction enter the muscle cell from the extracellular fluid at the time of action potential or other stimulusSarcoplasmic reticulum (the source of intracellular Ca2+), which provides virtually all the calcium ions for skeletal muscle contraction, is only slightly developed in most smooth muscle.When an action potential is transmitted in caveolae (rudimentary' analogue of the transverse tubule system of skeletal muscle), this is believe to excite calcium ion release from the abutting sarcoplasmic reticulum tubules through opening of calcium cha…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -10109,8 +10109,8 @@ window.OpenPharmacyQuestions = [
         "Lateral coicospinal tract"
       ]
     ],
-    "answer": "C",
-    "explanation": "The pyramidal tracts include both the coicospinal and coicobulbar tracts. These are aggregations of upper motor neuron nerve fibres that travel from the cerebral coex and terminate either in the brainstem (coicobulbar) or spinal cord (coicospinal) and are involved in control of motor functions of the body.The coicospinal tract conducts impulses from the brain to the spinal cord. It is made up of a lateral and anterior tract. The coicospinal tract is involved in voluntary movement. The majority of fibres of the coicospinal tract cross over in the medulla, resulting in muscles being controlled by the opposite side of the brain. The coicospinal tract also contains Betz cells (the largest pyrami…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Lateral coicospinal tract. The pyramidal tracts include both the coicospinal and coicobulbar tracts. These are aggregations of upper motor neuron nerve fibres that travel from the cerebral coex and terminate either in the brainstem (coicobulbar) or spinal cord (coicospinal) and are involved in control of motor functions of the body.The coicospinal tract conducts impulses from the brain to the spinal cord. It is made up of a lateral and anterior tract. The coicospinal tract is involved in voluntary movement. The majority of fibres of the coicospinal tract cross over in the medulla, resulting in muscles being controlled by the opposite side of the brain. The coicospinal tract also contains Betz cells (the largest pyrami…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physiology",
@@ -10152,7 +10152,7 @@ window.OpenPharmacyQuestions = [
         "Hepatotoxin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "B i.e. EstrogenIn chronic liver disease (especially cirrhosis) and pregnancy, impaired estrogen metabolism and consequent hyper estroenemiaQ leads to spider angiomata/nevi (superficial, toous aerioles, that unlike simple telangiectases, typically fill from the center outwards and occur invariably on upper half of body) and palmar erythema (mottled redness of thenar & hypothenar eminences).",
     "rationales": {},
     "paper": "paper-1",
@@ -10195,7 +10195,7 @@ window.OpenPharmacyQuestions = [
         "Diameter of orifice"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Pressure of gas(Ref: Ganong, 25th ed/p.629)Whether the air flow is laminar or turbulent is determined by Reynolds numberReynolds number =rDV/eWhere,r-Density of the gasD-Diameter of the airwaysV -Velocity of gase -Viscosity of gasPressure of gas is not in the formula for Reynolds number",
     "rationales": {},
     "paper": "paper-1",
@@ -10238,7 +10238,7 @@ window.OpenPharmacyQuestions = [
         "Gometz reflex"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is ''a' i.e., Cushing reflex o When intracranial pressure is increased, the blood supply to RVLM neurons is compromised, and the local hypoxia and hypercapnia increase their discharge.o The resultant rise in systemic arterial pressure (Cushing reflex) tends to restore the blood flow to the medulla and over a considerable range, the blood pressure rise is proportional to the increase in intracranial pressure,o The rise in blood pressure causes a reflex decrease in heart rate via the arterial baroreceptors.o This is why bradycardia rather than tachycardia is characteristically seen in patients with increased intracranial pressure.o Cushing reflex consists of hypertension, bradyacardia and…",
     "rationales": {},
     "paper": "paper-1",
@@ -10728,7 +10728,7 @@ window.OpenPharmacyQuestions = [
         "Vitamin D"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Vitamin B12 Ref: Harrison's 19th ed. P 640* Vitamin B12 (Cobalamin) is synthesized solely by microorganisms.* In humans, the only source for humans is food of animal origin, e.g., meat, fish, and dairy products.* Vegetables, fruits, and other foods of nonanimal origin doesn't contain Vitamin B12 .* Daily requirements of vitamin Bp is about 1-3 pg. Body stores are of the order of 2-3 mg, sufficient for 3-4 years if supplies are completely cut off.",
     "rationales": {},
     "paper": "paper-1",
@@ -10773,7 +10773,7 @@ window.OpenPharmacyQuestions = [
         "NADPH cytochrome P-450-reductase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Xenobiotics are compounds which may be accidently ingested or taken as drugs or compounds produced in the body by bacterial metabolism. The cytochrome P-450 enzyme family is involved in the biotransformation reaction of xenobiotics. They are heme containing membrane proteins localized in the smooth endoplasmic reticulum of liver. They are so named because they absorb light at wavelength of 450nm, when exposed to carbon monoxide. Ref: Vasudevan Biochemistry, 3rd Edition, Pages 310-2",
     "rationales": {},
     "paper": "paper-1",
@@ -10819,7 +10819,7 @@ window.OpenPharmacyQuestions = [
         "Lipoprotein lipase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "LDL receptors Familial hypercholesterolemia (type IIa) is due to deficiency of functional LDL receptors as a result of different types of mutations.",
     "rationales": {},
     "paper": "paper-1",
@@ -10862,7 +10862,7 @@ window.OpenPharmacyQuestions = [
         "Vitamin B12"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Higher Intakes of Vitamin D May Be Beneficial There is evidence that Vitamin D intake considerably higher than that required to maintain calcium homeostasis reduce the risk of insulin resistance, obesity, and the metabolic syndrome, as well as various cancers. There is growing evidence that higher vitamin D status is protective against various cancers, including prostate and colorectal cancer, and also against prediabetes and the metabolic syndrome. Desirable levels of intake may be considerably higher than current reference intakes, and ceainly could not be met from unfoified foods. While increased sunlight exposure would meet the need, it carries the risk of developing skin cancer. Referen…",
     "rationales": {},
     "paper": "paper-1",
@@ -10907,8 +10907,8 @@ window.OpenPharmacyQuestions = [
         "Energy coupling system"
       ]
     ],
-    "answer": "D",
-    "explanation": "Functions: Transpo Systems An essential role of biomembranes is to allow movement of all compounds necessary for the normal function of a cell across the membrane barrier. These compounds include a vast array of substances like sugars, amino acids, fatty acids, steroids, cations and anions to mention a few. These compounds must enter or leave the cells in an orderly manner for normal functioning of the cell. A. 1. Ion Channels Ion channels are transmembrane channels, pore-like structures composed of proteins. Specific channels for Na+, K+, Ca++, and Cl- have been identified. Cation conductive channels are negatively charged within the channel and have an average diameter of about 5 to 8 nm.…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Receptor activation. Functions: Transpo Systems An essential role of biomembranes is to allow movement of all compounds necessary for the normal function of a cell across the membrane barrier. These compounds include a vast array of substances like sugars, amino acids, fatty acids, steroids, cations and anions to mention a few. These compounds must enter or leave the cells in an orderly manner for normal functioning of the cell. A. 1. Ion Channels Ion channels are transmembrane channels, pore-like structures composed of proteins. Specific channels for Na+, K+, Ca++, and Cl- have been identified. Cation conductive channels are negatively charged within the channel and have an average diameter of about 5 to 8 nm.…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -10952,8 +10952,8 @@ window.OpenPharmacyQuestions = [
         "Vitamin B2"
       ]
     ],
-    "answer": "D",
-    "explanation": "Vitamin Functions Deficiency Disease D Maintenance of calcium balance Enhances intestinal absorption of Ca2+ and mobilizes bone mineral Regulation of gene expression and cell differentiation Rickets = poor mineralization of bone Osteomalacia = bone demineralization Reference: Harper; 30th edition; Page no: 550",
+    "answer": "A",
+    "explanation": "Source answer key: A. Vitamin D. Vitamin Functions Deficiency Disease D Maintenance of calcium balance Enhances intestinal absorption of Ca2+ and mobilizes bone mineral Regulation of gene expression and cell differentiation Rickets = poor mineralization of bone Osteomalacia = bone demineralization Reference: Harper; 30th edition; Page no: 550",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -10998,8 +10998,8 @@ window.OpenPharmacyQuestions = [
         "Apo E deficiency"
       ]
     ],
-    "answer": "C",
-    "explanation": "Reference: Harpers illustrated biochemistry 30th edition page 275",
+    "answer": "D",
+    "explanation": "Source answer key: D. Apo E deficiency. Reference: Harpers illustrated biochemistry 30th edition page 275",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11041,8 +11041,8 @@ window.OpenPharmacyQuestions = [
         "C-D-B-A"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: D-C-A-B.",
+    "answer": "B",
+    "explanation": "Source answer key: B. A-C-D-B. Source answer key: D-C-A-B.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11086,8 +11086,8 @@ window.OpenPharmacyQuestions = [
         "Fluoride"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Cyanide.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Malonate. Source answer key: Cyanide.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11129,7 +11129,7 @@ window.OpenPharmacyQuestions = [
         "Succinate dehydrogenase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Inherited hyperammonemias are a group of six diseases caused by inborn deficiencies of the enzymes of the Krebs-Henseleit urea cycle. The enzymes involved are: 1. N-acetyl glutamate synthetase 2. Arbamyl phosphate synthetase (CPS) 3. Ornithine transcarbamylase (OTC) 4. Argininosuccinic acid synthetase (citrullinemia) 5. Argininosuccinase deficiency 6. Arginase deficiency Most Severe Cases: In the most severe forms of the hyperammonemic disorders, the infants are asymptomatic at bih and during the first day or two of life, after which they refuse their feedings, vomit, and rapidly become inactive and lethargic, soon lapsing into an irreversible coma. Profuse sweating, focal or generalized sei…",
     "rationales": {},
     "paper": "paper-1",
@@ -11175,7 +11175,7 @@ window.OpenPharmacyQuestions = [
         "M"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "EVENTS PHASE of cell cycle Proofreading S phase Most repairs G1 phase Mismatch repair G2 phase",
     "rationales": {},
     "paper": "paper-1",
@@ -11265,7 +11265,7 @@ window.OpenPharmacyQuestions = [
         "Isocitrate Dehydrogenase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "A i.e. NADH-Q Oxidoreductase; C i.e. Cytochrome C-Q oxidoreductase",
     "rationales": {},
     "paper": "paper-1",
@@ -11308,7 +11308,7 @@ window.OpenPharmacyQuestions = [
         "Acetylation"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "D i.e. Acetylation Pantothenic acid is necessary for synthesis of coenzyme A (CoA)Q, which functions as a coenzyme for acetylation reactionsQ",
     "rationales": {},
     "paper": "paper-1",
@@ -11353,7 +11353,7 @@ window.OpenPharmacyQuestions = [
         "Ketone"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Glycogen is the reserve carbohydrate in animals. It is stored in liver and muscles.The phosphorylated enzyme is less sensitive to allosteric inhibitors. Thus even if cellular ATP and glucose-6-phosphate are high, Phosphorylase will be active. The glucose-1-phosphate produced from glycogen in the liver may be conveed to free glucose for release to the blood.",
     "rationales": {},
     "paper": "paper-1",
@@ -11398,8 +11398,8 @@ window.OpenPharmacyQuestions = [
         "Lysine"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Lysine.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Glutamate. Source answer key: Lysine.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11441,8 +11441,8 @@ window.OpenPharmacyQuestions = [
         "<900 mmol/L"
       ]
     ],
-    "answer": "D",
-    "explanation": "Diabetes insipidus is condition characterised by excessive thirst excretion of large amounts of severely diluted urine Those with diabetes insipidus continue to uinate large amount of urine in spite of water deprivation.Ref: DM Vasudevan, 7th edition, page no: 373",
+    "answer": "A",
+    "explanation": "Source answer key: A. <150 mmol/L. Diabetes insipidus is condition characterised by excessive thirst excretion of large amounts of severely diluted urine Those with diabetes insipidus continue to uinate large amount of urine in spite of water deprivation.Ref: DM Vasudevan, 7th edition, page no: 373",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11486,8 +11486,8 @@ window.OpenPharmacyQuestions = [
         "Elevated insulin and free fatty acid, equivalent to blood glucose"
       ]
     ],
-    "answer": "D",
-    "explanation": "A i.e. Increase in glucagons/ insulin ratio, increased C- AMP & increased blood sugar.In diabetes little glucose is oxidized as fuel, except by the brain. The rest of tissues burn a large amount of fat, paicularly the liver where the amount of acetyl COA formed from fatty acids exceeds the capacity of the tricarboxylic acid cycle to oxidize it. The excess acetyl COA is conveed to ketone bodies l/t ketonemia, ketonuria & ketoacidosisDiabetics not only have a defect in the tissue utilization of glucose but also appears to be metabolically poised to produce maximum amount of glucose from amino acids (gluconeogenesis) and to prevent glucose from being utilized to to form fat. (fat synthesis)Insu…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Increase in glucagon/insulin ratio, increased CAMP and increased blood glucose. A i.e. Increase in glucagons/ insulin ratio, increased C- AMP & increased blood sugar.In diabetes little glucose is oxidized as fuel, except by the brain. The rest of tissues burn a large amount of fat, paicularly the liver where the amount of acetyl COA formed from fatty acids exceeds the capacity of the tricarboxylic acid cycle to oxidize it. The excess acetyl COA is conveed to ketone bodies l/t ketonemia, ketonuria & ketoacidosisDiabetics not only have a defect in the tissue utilization of glucose but also appears to be metabolically poised to produce maximum amount of glucose from amino acids (gluconeogenesis) and to prevent glucose from being utilized to to form fat. (fat synthesis)Insu…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11577,7 +11577,7 @@ window.OpenPharmacyQuestions = [
         "Elastin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Marfan Syndrome Is Caused by Mutations in the Gene for Fibrillin-1. It is inherited as an autosomal dominant trait. It affects the eyes (eg, causing dislocation of the lens, known as ectopia lentis), the skeletal system (most patients are tall and exhibit long digits and hyperextensibility of the joints), and the cardiovascular system (eg, causing weakness of the aoic media, leading to dilation of the ascending aoa). Abraham Lincoln may have had this condition. Most cases are caused by mutations in the gene (on chromosome 15) for fibrillin-1.Mutations in the fibrillin-1 gene have also been identified as the cause of acromicric dysplasia and geleophysic dysplasia, which are characterized by s…",
     "rationales": {},
     "paper": "paper-1",
@@ -11666,7 +11666,7 @@ window.OpenPharmacyQuestions = [
         "Missense"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Missense mutations are those in which a single base change (point mutation) results in a codon that encodes for a different amino acid residue. The effects of these types of mutations can range from very minor or even undetectable to major, depending on the impoance of the altered residue to protein folding and function. Nonsense mutations are also point mutations in which the affected codon is altered to a stop (nonsense) codon, resulting hi a truncated protein. Frame shift mutations are due to one or two base \"pair inseions or deletions such that the reading frame is altered. These mutations generally lead to truncated proteins as well, since in most protein coding regions the unused readi…",
     "rationales": {},
     "paper": "paper-1",
@@ -11711,8 +11711,8 @@ window.OpenPharmacyQuestions = [
         "Vitamin E"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Vitamin E.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Vitamin A. Source answer key: Vitamin E.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11754,8 +11754,8 @@ window.OpenPharmacyQuestions = [
         "Transport of FADH"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ans: a (Transport of long....) Ref: Vasudevan, 4th ed, p. 129The long chain fatty acyl CoA cannot pass through the inner mitochondrial membrane. There fore a transporter, carnitine is involved in transfer of fatty acids.Beta oxidation:Beta oxidation is absent in brain and erythrocytes (because erythrocytes lack mitochondria and fatty acids do not cross BBB).Carnitine acyl transferase -1 is inhibited by Malonyl CoA.Clinical correlate:Carnitine acyl transferase(CAT) deficiency (myopathic form)Although all tissues contain CAT most common form of genetic deficiency is myopathic form and due to a defect in muscle specific CAT gene.Features:Muscle aches, red urineRhabdomyolysis, myoglobinuriaProvo…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Transport of long chain fatty acid. Ans: a (Transport of long....) Ref: Vasudevan, 4th ed, p. 129The long chain fatty acyl CoA cannot pass through the inner mitochondrial membrane. There fore a transporter, carnitine is involved in transfer of fatty acids.Beta oxidation:Beta oxidation is absent in brain and erythrocytes (because erythrocytes lack mitochondria and fatty acids do not cross BBB).Carnitine acyl transferase -1 is inhibited by Malonyl CoA.Clinical correlate:Carnitine acyl transferase(CAT) deficiency (myopathic form)Although all tissues contain CAT most common form of genetic deficiency is myopathic form and due to a defect in muscle specific CAT gene.Features:Muscle aches, red urineRhabdomyolysis, myoglobinuriaProvo…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11799,8 +11799,8 @@ window.OpenPharmacyQuestions = [
         "Sodium"
       ]
     ],
-    "answer": "B",
-    "explanation": "PCR is an in vitro method for the polymerase-directed amplification of specific DNA sequences using two oligonucleotide primers that hybridize to opposite strands and flank the region of interest in the target DNA. The specificity and yield in amplifying a paicular DNA fragment by PCR reaction is affected by the proper setting of the reaction parameters (e.g., enzyme, primer, and Mg2+ concentration, as well as the temperature cycling profile). Ref: Feng X., Lin X., Brunicardi F.C. (2010). Chapter 15. Molecular and Genomic Surgery. In F.C. Brunicardi, D.K. Andersen, T.R. Billiar, D.L. Dunn, J.G. Hunter, J.B. Matthews, R.E. Pollock (Eds), Schwaz's Principles of Surgery, 9e.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Magnesium. PCR is an in vitro method for the polymerase-directed amplification of specific DNA sequences using two oligonucleotide primers that hybridize to opposite strands and flank the region of interest in the target DNA. The specificity and yield in amplifying a paicular DNA fragment by PCR reaction is affected by the proper setting of the reaction parameters (e.g., enzyme, primer, and Mg2+ concentration, as well as the temperature cycling profile). Ref: Feng X., Lin X., Brunicardi F.C. (2010). Chapter 15. Molecular and Genomic Surgery. In F.C. Brunicardi, D.K. Andersen, T.R. Billiar, D.L. Dunn, J.G. Hunter, J.B. Matthews, R.E. Pollock (Eds), Schwaz's Principles of Surgery, 9e.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11844,8 +11844,8 @@ window.OpenPharmacyQuestions = [
         "Anticodon arm"
       ]
     ],
-    "answer": "A",
-    "explanation": "Pseudoridine arm of tRNA is involved in binding of aminoacyl tRNA to ribosomal surface.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Pseudouridine arm. Pseudoridine arm of tRNA is involved in binding of aminoacyl tRNA to ribosomal surface.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -11887,7 +11887,7 @@ window.OpenPharmacyQuestions = [
         "Debranching enzyme"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Glycogen storage disease type I (GSD I) or von Gierke&;s disease, is the most common of the glycogen storage disease. This genetic disease results from deficiency of the enzyme glucose-6-phosphatase and has an incidence in the American population of approximately 1 in 100,000 bihs.Ref: DM Vasudevan, 7th edition, page no: 128",
     "rationales": {},
     "paper": "paper-1",
@@ -11932,8 +11932,8 @@ window.OpenPharmacyQuestions = [
         "Type IV"
       ]
     ],
-    "answer": "D",
-    "explanation": "Collagen - the most abundant protein in mammals contains 4-hydroxyproline and 5-hydroxylysine. Vitamin C plays the role of a coenzyme in hydroxylation of proline and lysine while protocollagen is conveed to collagen The hydroxylation reaction is catalysed by lysyl hydroxylase (for lysine) and prolyl hydroxylase (for proline) This reaction is dependent on vitamin C, molecular oxygen and a-ketoglutarate Type Distribution I Noncailaginous connective tissues, including bone, tendon, skin II Cailage, vitreous humor III Extensible connective tissues, including skin, lung, vascular system IV Basement membranes",
+    "answer": "A",
+    "explanation": "Source answer key: A. Type I. Collagen - the most abundant protein in mammals contains 4-hydroxyproline and 5-hydroxylysine. Vitamin C plays the role of a coenzyme in hydroxylation of proline and lysine while protocollagen is conveed to collagen The hydroxylation reaction is catalysed by lysyl hydroxylase (for lysine) and prolyl hydroxylase (for proline) This reaction is dependent on vitamin C, molecular oxygen and a-ketoglutarate Type Distribution I Noncailaginous connective tissues, including bone, tendon, skin II Cailage, vitreous humor III Extensible connective tissues, including skin, lung, vascular system IV Basement membranes",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -12110,7 +12110,7 @@ window.OpenPharmacyQuestions = [
         "DNA polymerase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "TelomeraseRef: Harper's Biochemistry, 30th ed. pg. 374, 732, 26th ed. Pg- 318* The ends of each chromosome contain structures called telomeres.* Telomeres consist of short, repeat TG-rich sequences. Human telomeres have a variable number of repeats of the sequence 5'-TTAGGG-3', which can extend for several kilobases.* Telomerase, is related to viral RNA-dependent DNA polymerases (reverse transcriptases) and is the enzyme responsible for telomere synthesis and thus for maintaining the length of the telomere.* Telomere shortening has been associated with both aging and malignant transformation. Because of this reason, telomerase has become an attractive target for cancer chemotherapy and drug…",
     "rationales": {},
     "paper": "paper-1",
@@ -12202,8 +12202,8 @@ window.OpenPharmacyQuestions = [
         "Urobilinogen"
       ]
     ],
-    "answer": "C",
-    "explanation": "D Harper, 26th ed, p. 283 & 25th ed, p. 370",
+    "answer": "D",
+    "explanation": "Source answer key: D. Urobilinogen. D Harper, 26th ed, p. 283 & 25th ed, p. 370",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -12288,8 +12288,8 @@ window.OpenPharmacyQuestions = [
         "Tuning point phase"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Tuning point phase.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Catabolic phase. Source answer key: Tuning point phase.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -12376,7 +12376,7 @@ window.OpenPharmacyQuestions = [
         "Phenylketonuria hydroxylase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "(C) Phenyalanine hydroxylase # Phenylketonuria is a genetic disorder inherited from a person's parents.> It is due to mutations in the PAH gene which results in low levels of the enzyme phenylalanine hydroxylase.> This results in the build up of dietary phenylalanine to potentially toxic levels. It is autosomal recessive meaning that both copies of the gene must be mutated for the condition to develop.> There are two main types, classic PKU and variant PKU, depending on if any enzyme function remains.> Those with one copy of a mutated gene typically do not have symptoms.",
     "rationales": {},
     "paper": "paper-1",
@@ -12421,7 +12421,7 @@ window.OpenPharmacyQuestions = [
         "Carboxypeptidase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans: b (Sucrase) Ref: Vasudevan, 4th ed, p.Sucrase or invert sugar converts sucrose (which is a complex polysaccharide) into 1 molecule of glucose and 1 molecule of fructose.Na+k+ ATPase is a membrane protein.Enterokinase is a brush border enzyme in intestinal mucosa which will activate trypsinogen to trypsin.Proteolytic enzyme are secreted as zymogens which are converted into their active forms in the intestinal lumen. This will prevent the auto digestion of secretory acini. Once activated trypsin activates other molecules.Carboxypeptidase is a proteolytic enzyme present in pancreatic juice.",
     "rationales": {},
     "paper": "paper-1",
@@ -12466,7 +12466,7 @@ window.OpenPharmacyQuestions = [
         "Methionine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The liver can synthesize niacin from the essential amino acid tryptophan, but the synthesis is extremely inefficient; 60 mg of tryptophan are required to make one milligram of niacin. The 5-membered aromatic heterocycle of the essential amino acid, tryptophan, is cleaved and rearranged with the alpha amino group of tryptophan into the 6-membered aromatic heterocycle of niacin.",
     "rationales": {},
     "paper": "paper-1",
@@ -12512,7 +12512,7 @@ window.OpenPharmacyQuestions = [
         "Glycine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Chromatography paper contains about 15-20% water, held to the paper fibers. This water acts as the stationary phase in paper chromatography. Amino acids are separated according to their solubility in the water and in an organic solvent (the mobile phase) moving up the paper. The most non-polar amino acids migrate the farthest, due to their greater solubility in the organic solvent. Paper also acts as an adsorbent, having an affinity for polar groups. Among the given options, Glycine and Valine are non-polar amino acids (hydrophobic). Aspartic acid and Lysine are polar amino acids. Valine is more non-polar than glycine.",
     "rationales": {},
     "paper": "paper-1",
@@ -12557,7 +12557,7 @@ window.OpenPharmacyQuestions = [
         "Tyrosine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Alanine is a key gluconeogenic amino acid. The rate of hepatic gluconeogenesis from alanine is far higher than from all other amino acids. The capacity of the liver for gluconeogenesis from alanine does not reach saturation until the alanine concentration reaches 20 to 30 times its normal physiologic level. Ref: Harper’s illustrated biochemistry. 30th edition page no: 289",
     "rationales": {},
     "paper": "paper-1",
@@ -12648,7 +12648,7 @@ window.OpenPharmacyQuestions = [
         "70%"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Chargaff's rules state that DNA from any cell of all organisms should have a 1:1 ratio (base Pair Rule) of pyrimidine and purine bases and, more specifically, that the amount of guanine is equal to cytosine and the amount of adenine is equal to thymine. This pattern is found in both strands of the DNA. %A = %T and %G = %C and A + T + G + C = 100% In the question, A is 15%. According to Chargaff's rule, T will also be 15%. A+T=30 Therefore G+C=100-30=70 According to Chargaff's rule C=G, Therefore, C=70/2=35, Hence G=35%",
     "rationales": {},
     "paper": "paper-1",
@@ -12781,8 +12781,8 @@ window.OpenPharmacyQuestions = [
         "DNA+RNA+Histones"
       ]
     ],
-    "answer": "A",
-    "explanation": "Nucleosomes : The double stranded DNA wraps twice around a histone octamer formed by H2A, H2B, H3 and H4. This super - twisted helix forms a spherical paicle of 10nm diameter ; called Nucleosome. The function of the Nucleosomes is to condense DNA ; this arrangement also stabilises the DNA. REF : DM.VASUDEVAN.TEXTBOOK; SEVENTH EDITION ; PAGE NO :577",
+    "answer": "B",
+    "explanation": "Source answer key: B. DNA+Histones. Nucleosomes : The double stranded DNA wraps twice around a histone octamer formed by H2A, H2B, H3 and H4. This super - twisted helix forms a spherical paicle of 10nm diameter ; called Nucleosome. The function of the Nucleosomes is to condense DNA ; this arrangement also stabilises the DNA. REF : DM.VASUDEVAN.TEXTBOOK; SEVENTH EDITION ; PAGE NO :577",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -12824,8 +12824,8 @@ window.OpenPharmacyQuestions = [
         "Lysine"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Glycine.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Lysine. Source answer key: Glycine.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -12867,7 +12867,7 @@ window.OpenPharmacyQuestions = [
         "Tyrosinosis"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "ANSWER: (A) OchronosisREF: Clinical Paediatric Dermatology by Thappa - Page 156, Differential diagnosis in internal medicine: from symptom to diagnosis - Page 347, http:.//en.wikipedia,org/wiki/Ochronosis,http: // en. wikipedia .org/wiki/AlkaptonuriaRepeat from December 2009, June 2009Ochronosis is the syndrome caused by the accumulation of homogentisic add in connective tissues. The condition was named after the yellowish (ocher-like) discoloration of the tissue seen on microscopic examination. However, macroscopically the affected tissues appear bluish grey because of a light scattering phenomenon known as the Tyndall effect. The condition is most often associated with alkaptonuria but can…",
     "rationales": {},
     "paper": "paper-1",
@@ -12912,8 +12912,8 @@ window.OpenPharmacyQuestions = [
         "Thiol of pantothenic acid"
       ]
     ],
-    "answer": "C",
-    "explanation": "- Synthesis of coenzyme A from pantothenate occurs in a series of reactions. Pantothenate is first phosphorylated to which cysteine is added. Decarboxylation, followed by addition of AMP moiety and a phosphate (each from ATP) results in coenzyme A. -Coenzyme A serves as a carrier of activated acetyl or acyl groups (as thiol esters).",
+    "answer": "D",
+    "explanation": "Source answer key: D. Thiol of pantothenic acid. - Synthesis of coenzyme A from pantothenate occurs in a series of reactions. Pantothenate is first phosphorylated to which cysteine is added. Decarboxylation, followed by addition of AMP moiety and a phosphate (each from ATP) results in coenzyme A. -Coenzyme A serves as a carrier of activated acetyl or acyl groups (as thiol esters).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13002,7 +13002,7 @@ window.OpenPharmacyQuestions = [
         "Competitive"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "In citric acid cycle, the initial reaction between acetyl-CoA and oxaloacetate to form citrate is catalyzed by citrate synthase, which forms a carbon-carbon bond between the methyl carbon of acetyl-CoA and the carbonyl carbon of oxaloacetate. The thioester bond of the resultant citryl-CoA is hydrolyzed, releasing citrate and CoASH--an exothermic reaction. In the subsequent reactions, two molecules of CO2 are released and oxaloacetate is regenerated; hence oxaloacetate can be considered as playing a catalytic role. Ref: Bender D.A., Mayes P.A. (2011). Chapter 17. The Citric Acid Cycle: The Catabolism of Acetyl-CoA. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwe…",
     "rationales": {},
     "paper": "paper-1",
@@ -13047,8 +13047,8 @@ window.OpenPharmacyQuestions = [
         "Hepatocytes"
       ]
     ],
-    "answer": "B",
-    "explanation": "GluT4 is the major glucose transpoer in skeletal muscle and adipose tissue.GluT4 is under the control of insulin.In Type 2 diabetes mellitus, membrane GluT4 is reduced, leading to insulin resistance in muscles and fat cells.Ref: DM Vasudevan, 7th edition, page no: 107",
+    "answer": "C",
+    "explanation": "Source answer key: C. Adipocytes. GluT4 is the major glucose transpoer in skeletal muscle and adipose tissue.GluT4 is under the control of insulin.In Type 2 diabetes mellitus, membrane GluT4 is reduced, leading to insulin resistance in muscles and fat cells.Ref: DM Vasudevan, 7th edition, page no: 107",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13092,7 +13092,7 @@ window.OpenPharmacyQuestions = [
         "Thymine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Guanine is a purine base Ref-Harpers illustrated biochemistry 30/e p329",
     "rationales": {},
     "paper": "paper-1",
@@ -13137,8 +13137,8 @@ window.OpenPharmacyQuestions = [
         "Se transporter"
       ]
     ],
-    "answer": "A",
-    "explanation": "Menke's kinky hair syndrome is due to mutation in ATP7A gene, leading defective copper transporter.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Cu transporter. Menke's kinky hair syndrome is due to mutation in ATP7A gene, leading defective copper transporter.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13180,8 +13180,8 @@ window.OpenPharmacyQuestions = [
         "Initiation of dystrophin transcription will be deficient"
       ]
     ],
-    "answer": "C",
-    "explanation": "Because the mutation creates an additional splice acceptor site (the 3'-end) upstream of the normal acceptor site of intron 1, the 19 nucleotides that are usually found at the 3'-end of the excised intron 1 lariat can remain behind as pa of exon 2. Exon 2 can, therefore, have these extra 19 nucleotides at its 5'-end. The presence of these extra nucleotides in the coding region of the mutant mRNA molecule will prevent the ribosome from translating the message into a normal b-globin protein molecule. Those mRNA for which the normal splice site is used to remove the first intron will be normal, and their translation will produce normal b-globin protein.Ref: Lippincott illustrated review, Sixth…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Initiation of dystrophin transcription will be deficient. Because the mutation creates an additional splice acceptor site (the 3'-end) upstream of the normal acceptor site of intron 1, the 19 nucleotides that are usually found at the 3'-end of the excised intron 1 lariat can remain behind as pa of exon 2. Exon 2 can, therefore, have these extra 19 nucleotides at its 5'-end. The presence of these extra nucleotides in the coding region of the mutant mRNA molecule will prevent the ribosome from translating the message into a normal b-globin protein molecule. Those mRNA for which the normal splice site is used to remove the first intron will be normal, and their translation will produce normal b-globin protein.Ref: Lippincott illustrated review, Sixth…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13225,7 +13225,7 @@ window.OpenPharmacyQuestions = [
         "Biotin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Excess consumption of raw eggs, which contains a protein 'avidin' - a biotin binding protein leads to biotin deficiency When cooked, avidin is paially denatured and its binding to biotin is reduced. So cooked egg whites are safe to consume.",
     "rationales": {},
     "paper": "paper-1",
@@ -13270,8 +13270,8 @@ window.OpenPharmacyQuestions = [
         "NANA,hexose,sphingosine,long chain fatty acid,"
       ]
     ],
-    "answer": "C",
-    "explanation": "Gangliosides are the complex glycosphingolipids derived from glucosylceramide that contain in addition one or more molecules of sialic acid. Neuraminic acid is the principal sialic acid found in human tissues. Gangliosides are present in nervous tissue in high concentration.They help in cell-cell recognition and communication and as receptors for hormones and bacterial toxins. Reference: Harpers illustrated biochemistry 30 th edition",
+    "answer": "D",
+    "explanation": "Source answer key: D. NANA,hexose,sphingosine,long chain fatty acid,. Gangliosides are the complex glycosphingolipids derived from glucosylceramide that contain in addition one or more molecules of sialic acid. Neuraminic acid is the principal sialic acid found in human tissues. Gangliosides are present in nervous tissue in high concentration.They help in cell-cell recognition and communication and as receptors for hormones and bacterial toxins. Reference: Harpers illustrated biochemistry 30 th edition",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13316,8 +13316,8 @@ window.OpenPharmacyQuestions = [
         "B12"
       ]
     ],
-    "answer": "D",
-    "explanation": "Wernicke's disease is a common and preventable disorder due to a deficiency of thiamine. Alcoholics account for most cases, but patients with malnutrition due to hyperemesis, starvation, renal dialysis, cancer, AIDS, or rarely gastric surgery are also at risk. The characteristic clinical triad is that of ophthalmoplegia, ataxia, and global confusion. However, only one-third of patients with acute Wernicke's disease present with the classic clinical triad. Most patients are profoundly disoriented, indifferent, and inattentive, although rarely they have an agitated delirium related to ethanol withdrawal. Ref: Hemphill, III J.C., Gress D.R. (2012). Chapter 275. Neurologic Critical Care, Includi…",
+    "answer": "A",
+    "explanation": "Source answer key: A. B1. Wernicke's disease is a common and preventable disorder due to a deficiency of thiamine. Alcoholics account for most cases, but patients with malnutrition due to hyperemesis, starvation, renal dialysis, cancer, AIDS, or rarely gastric surgery are also at risk. The characteristic clinical triad is that of ophthalmoplegia, ataxia, and global confusion. However, only one-third of patients with acute Wernicke's disease present with the classic clinical triad. Most patients are profoundly disoriented, indifferent, and inattentive, although rarely they have an agitated delirium related to ethanol withdrawal. Ref: Hemphill, III J.C., Gress D.R. (2012). Chapter 275. Neurologic Critical Care, Includi…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13361,7 +13361,7 @@ window.OpenPharmacyQuestions = [
         "Oils"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Polysaccharides are polymers of monosaccharides. They are of two types- homopolysaccharides that contain a single type of monosaccharide (e.g., starch, insulin, cellulose) and heteropolysaccharides with two or more different types of monosaccharides (e.g., heparin, chondroitin sulfate).. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno : 10",
     "rationales": {},
     "paper": "paper-1",
@@ -13404,8 +13404,8 @@ window.OpenPharmacyQuestions = [
         "Non-competitive irreversible inhibition"
       ]
     ],
-    "answer": "C",
-    "explanation": "The toxicity of cyanide is due to its inhibitory effect on the terminal cytochrome which brings cellular respiration to a standstill. The inhibitor usually binds to a different domain on the enzyme, other than the substrate binding site. Since these inhibitors have no structural resemblance to the substrate, an increase in the substrate concentration generally does not relieve this inhibition.Ref: DM Vasudevan, Page no: 234",
+    "answer": "D",
+    "explanation": "Source answer key: D. Non-competitive irreversible inhibition. The toxicity of cyanide is due to its inhibitory effect on the terminal cytochrome which brings cellular respiration to a standstill. The inhibitor usually binds to a different domain on the enzyme, other than the substrate binding site. Since these inhibitors have no structural resemblance to the substrate, an increase in the substrate concentration generally does not relieve this inhibition.Ref: DM Vasudevan, Page no: 234",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13450,8 +13450,8 @@ window.OpenPharmacyQuestions = [
         "Phosphoglycerate kinase"
       ]
     ],
-    "answer": "A",
-    "explanation": "Seven of the reactions of glycolysis are reversible and are used in the synthesis of glucose by gluconeogenesis. Thus, seven enzymes are common to both glycolysis and gluconeogenesis : (i) Phosphohexose isomerase; (ii) Aldolase; (iii) Phosphotriose isomerase, (iv) Glyceraldehyde 3-phosphate dehydrogenase; (v) Phosphoglycerate kinase; (vi) Phosphoglycerate mutase; (vii) Enolase. Three reactions of glycolysis are irreversible which are circumvented in gluconeogenesis by four reactions. So, enzymes at these steps are different in glycolysis and gluconeogenesis.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Glucose-6-phosphatase. Seven of the reactions of glycolysis are reversible and are used in the synthesis of glucose by gluconeogenesis. Thus, seven enzymes are common to both glycolysis and gluconeogenesis : (i) Phosphohexose isomerase; (ii) Aldolase; (iii) Phosphotriose isomerase, (iv) Glyceraldehyde 3-phosphate dehydrogenase; (v) Phosphoglycerate kinase; (vi) Phosphoglycerate mutase; (vii) Enolase. Three reactions of glycolysis are irreversible which are circumvented in gluconeogenesis by four reactions. So, enzymes at these steps are different in glycolysis and gluconeogenesis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13495,7 +13495,7 @@ window.OpenPharmacyQuestions = [
         "CO2"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Cyanide is probably the most potent inhibitor of ETC (Complex IV). It binds to Fe3+ of cytochrome oxidase blocking mitochondrial respiration leading to cell death. Cyanide poisoning causes death due to tissue asphyxia (mostly of the central nervous system) In Acute cyanide poisoning Amyl nitrite is given followed by sodium thiosulphate. This is an example of Chemical antagonism i.e. one drug binding to other making it unavailable in body.",
     "rationales": {},
     "paper": "paper-1",
@@ -13541,7 +13541,7 @@ window.OpenPharmacyQuestions = [
         "HDL"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "As excess of carbohydrates are conveed to fat in the body (liver) which eventually gets packed into VLDL so, VLDL represents the amount of fat production in the body, or in other words, it also represent excess dietary carbohydrate intake. While Chylomicrons represents the externally taken fats. Function Lipoproteins Lipoprotein rich in triglyceride Lipoprotein with least electrophoretic mobility Transpoer of dietary (exogenous) triglycerides & Cholesterol Chylomicrons Transpoer of endogenous triglycerides VLDL Transpos endogenous Cholesterol from Liver to Peripheral tissue. LDL Lipoprotein rich in apolipoproteins Transpos excess Cholesterol from Peripheral tissue to Liver called as reverse…",
     "rationales": {},
     "paper": "paper-1",
@@ -13586,8 +13586,8 @@ window.OpenPharmacyQuestions = [
         "Carbonated beverages"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Carbonated beverages.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Cyanide. Source answer key: Carbonated beverages.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13674,7 +13674,7 @@ window.OpenPharmacyQuestions = [
         "Transferase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 4b' i.e., Ligase /Ref Essential of biochemsitry p. 186]o All synthases are ligases.o All digestive enzymes are hydrolases.o Lyases are:DecarboxylasesAldolasesHydratasesEnolaseFumaraseArginosucinaseEnzyme classImportant enzymesOxidoreductaseOxidases, Dehydrogenases, Hydroperoxidases, (catalase, peroxidase), oxygenases.TransferaseAmino transferase or transaminase, e.g., SGOT (AST) and SGPT (ALT), kinases (HexokinaseQ glucokinase, pyruvate kinase etc), Transketolases, transaldolases, transcarboxylases.HydrolasesAll digestive enzymes (Pepsin, trypsin, lipases, esterases), lysosomal enzymes, urease, and phosphataseLyasesDecarboxylasesQ, aldolases, hydratases, enolase, fumaraseQ, Arginosuc…",
     "rationales": {},
     "paper": "paper-1",
@@ -13719,7 +13719,7 @@ window.OpenPharmacyQuestions = [
         "DNA polymerase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Manganese: Cofactor for enzymes, e.g., arginase, pyruvate carboxylase. Enzymes that require a metal ion cofactor are termed metal-activated enzymes to distinguish them from the metalloenzymes for which bound metal ions serve as prosthetic groups. Reference-Satyanarayana Pg- 405",
     "rationales": {},
     "paper": "paper-1",
@@ -13764,8 +13764,8 @@ window.OpenPharmacyQuestions = [
         "Tyrosine transaminase"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Tyrosine transaminase.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Homogentisate oxidase. Source answer key: Tyrosine transaminase.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -13809,7 +13809,7 @@ window.OpenPharmacyQuestions = [
         "Keratomalacia"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Deficiency manifestations of Vitamin A: Night blindness (nyctalopia) is one of the earliest symptoms of vitamin A deficiency. The individuals have difficulty to see in dim light since the dark adaptation time is increased. Prolonged deficiency irreversibly damages a number of visual cells. Severe deficiency of vitamin A leads to xerophthalmia. This is characterized by dryness in conjunctiva and cornea, and keratinization of epithelial cells. In certain areas of conjunctiva, white triangular plaques known as Bitot's spots are seen. lf xerophthalmia persisits for a long time, corneal ulceration and degeneration occur. This results in the destruction of cornea ,a condition referred to as kerato…",
     "rationales": {},
     "paper": "paper-1",
@@ -13854,7 +13854,7 @@ window.OpenPharmacyQuestions = [
         "Storage as glycogen"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "D i.e. Storage as glycogen",
     "rationales": {},
     "paper": "paper-1",
@@ -13897,7 +13897,7 @@ window.OpenPharmacyQuestions = [
         "Galactose"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Hexose sugar is present in:Glucose, \"blood sugar\", the immediate source of energy for cellular respirationGalactose, a sugar in milk (and yogu), andFructose, a sugar found in honeyRibose is a pentose sugar",
     "rationales": {},
     "paper": "paper-1",
@@ -13940,7 +13940,7 @@ window.OpenPharmacyQuestions = [
         "1"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "ADP:O or P:O Ratio: The NAD-dependant dehydrogenases such as malate, pyruvate, a-ketoglutarate, isocitrate, etc. produce three high energy phosphate bonds for each pair of electrons transferred to O2 because they have P: O ratio of 3. Thus P: O ratio is a measure of how many moles of ATP are formed from ADP by phosphorylation per gram atom of oxygen used. This is measured as the number of moles of ADP (or Pi) that disappear per gram atom of oxygen used. Phosphate group esterified P:O ratio = ___________________________________ Electron pairs transferred P:O ratio x 7.3 Efficiency = ______________________ x 100 51 K.Cal However, P:O ratio in case of FADH2 is 2 and therefore efficiency is lowe…",
     "rationales": {},
     "paper": "paper-1",
@@ -13985,7 +13985,7 @@ window.OpenPharmacyQuestions = [
         "36 hours"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Were there no other source of glucose, liver and muscle glycogen would be exhausted after about 18 hours of fasting. As fasting becomes more prolonged, so an increasing amount of the amino acids released as a result of protein catabolism is utilized in the liver and kidneys for gluconeogenesis. Reference: Harper; 30th edition; Chapter 14; Page no: 149",
     "rationales": {},
     "paper": "paper-1",
@@ -14030,7 +14030,7 @@ window.OpenPharmacyQuestions = [
         "Fumarate"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The fumarate formed may be funnelled into TCA cycle to be converted to malate and then to oxaloacetate to be transaminated to aspartate. Thus, the urea cycle is linked to TCA cycle through fumarate. Reference: Vasudevan 7th ed, pg 204",
     "rationales": {},
     "paper": "paper-1",
@@ -14075,7 +14075,7 @@ window.OpenPharmacyQuestions = [
         "Carboxylation"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Carboxylation The only known biological role of vitamin K is as a cofactor for an enzyme carboxylase that catalyzes carboxylation of glutamic acid residues on vitamin K-dependent proteins. The key vitamin K-dependent proteins include: Coagulation proteins: factors II (prothrombin), VII, IX and X Anticoagulation proteins: proteins C, S and Z Bone proteins: osteocalcin and matrix-Gla protein Gas6 is a vitamin K-dependent protein that is found throughout the nervous system, as well in the hea, lungs, stomach, kidneys, and cailage. These proteins have in common the requirement to be post-translationally modified by carboxylation of glutamic acid residues (forming gamma-carboxyglutamic acid) in o…",
     "rationales": {},
     "paper": "paper-1",
@@ -14120,8 +14120,8 @@ window.OpenPharmacyQuestions = [
         "Hydrogen"
       ]
     ],
-    "answer": "B",
-    "explanation": "Vander Walls' forces are too weak, to actively paicipate in formation of enzyme- substrate complex. Forces contribute in binding are:- Hydrogen bondingQ- Ionic (electrostatic) bonding- Hydrophobic interactionEnzymes function to decrease the activation energy so that reactions can occur at normal body temperature. The substrate form a covalent bond with the enzymes active site, & accelerates the reaction.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Van der waals. Vander Walls' forces are too weak, to actively paicipate in formation of enzyme- substrate complex. Forces contribute in binding are:- Hydrogen bondingQ- Ionic (electrostatic) bonding- Hydrophobic interactionEnzymes function to decrease the activation energy so that reactions can occur at normal body temperature. The substrate form a covalent bond with the enzymes active site, & accelerates the reaction.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -14210,8 +14210,8 @@ window.OpenPharmacyQuestions = [
         "Albumin"
       ]
     ],
-    "answer": "A",
-    "explanation": "The uptake of exogenous cholesterol by cells results in a marked suppression of endogenous cholesterol synthesis. Low-density human lipoprotein not only contains the greatest ratio of bound cholesterol to protein but also has the greatest potency in suppressing endogenous cholesterogenesis. normally suppress cholesterol synthesis by binding to a specific membrane receptor that mediates inhibition of hydroxymethylglutaryl (HMG) coenzyme A reductase. In familial hypercholesterolemia the LDL receptor is dysfunctional, with the result that cholesterol synthesis is less responsive to plasma cholesterol levels. Suppression of HMG CoA reductase is attained using inhibitors (statins) that mimic the…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Low-density lipoproteins (LDLs). The uptake of exogenous cholesterol by cells results in a marked suppression of endogenous cholesterol synthesis. Low-density human lipoprotein not only contains the greatest ratio of bound cholesterol to protein but also has the greatest potency in suppressing endogenous cholesterogenesis. normally suppress cholesterol synthesis by binding to a specific membrane receptor that mediates inhibition of hydroxymethylglutaryl (HMG) coenzyme A reductase. In familial hypercholesterolemia the LDL receptor is dysfunctional, with the result that cholesterol synthesis is less responsive to plasma cholesterol levels. Suppression of HMG CoA reductase is attained using inhibitors (statins) that mimic the…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -14255,7 +14255,7 @@ window.OpenPharmacyQuestions = [
         "Succinate dehydrogenase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Alpha ketoglutarate dehydrogenase catalyses an oxidative decarboxylation reaction similar to that of pyruvate dehydrogenase. uses the same coenzymes as the PDH complex (their E3 components are identical). Like PDH complex, its E2 is inhibited by arsenic.",
     "rationales": {},
     "paper": "paper-1",
@@ -14300,7 +14300,7 @@ window.OpenPharmacyQuestions = [
         "K"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Source answer key: D.",
     "rationales": {},
     "paper": "paper-1",
@@ -14345,8 +14345,8 @@ window.OpenPharmacyQuestions = [
         "24,25 dihydroxyvitamin D"
       ]
     ],
-    "answer": "B",
-    "explanation": "Ans. is 'b' i.e., 25 hydroxyvitamin DThough, 1, 25 dihydroxyvitamin D (calcitriol) is the active form of vitamin D, its serum measurement does not provide any information about vitamin D status because it is often normal or elevated due to secondary hyperparathyroidism associated with vitamin D deficiency...Measurement of 25 hydroxyvitamin D (calcifedial) in serum provides more accurate information of vitamin D status. The usual values are :-< 20 ng/ml - Deficiency20-29 ng/ml - Insufficiency30-100 ng/ml - Normal> 100 ng/ml - Toxicity",
+    "answer": "D",
+    "explanation": "Source answer key: D. 24,25 dihydroxyvitamin D. 25 hydroxyvitamin DThough, 1, 25 dihydroxyvitamin D (calcitriol) is the active form of vitamin D, its serum measurement does not provide any information about vitamin D status because it is often normal or elevated due to secondary hyperparathyroidism associated with vitamin D deficiency...Measurement of 25 hydroxyvitamin D (calcifedial) in serum provides more accurate information of vitamin D status. The usual values are :-< 20 ng/ml - Deficiency20-29 ng/ml - Insufficiency30-100 ng/ml - Normal> 100 ng/ml - Toxicity",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -14390,8 +14390,8 @@ window.OpenPharmacyQuestions = [
         "Aldolase A"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Aldolase A.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Aldolase B. Source answer key: Aldolase A.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -14433,7 +14433,7 @@ window.OpenPharmacyQuestions = [
         "Calcineurin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Titin Location: Reaches from the Z line to the M line.Function: Largest protein in the body. Role in relaxation of the muscle.Ref: Harper&;s Biochemistry; 30th edition; Chapter 51 Muscle & the Cytoskeleton",
     "rationales": {},
     "paper": "paper-1",
@@ -14478,7 +14478,7 @@ window.OpenPharmacyQuestions = [
         "Succinate dehydrogenase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Cocaine causes contraction band necrosis by blocking the reuptake of norepinephrine, resulting in excessive vasoconstriction of coronary vessels, leading to ischemia and infarction of hea tissue. Under these pathological conditions, myocardial cells switch to anaerobic metabolism and therefore glycolysis becomes the sole source of ATP substrate-level phosphorylations by phosphoglycerate kinase and pyruvate kinase. Phosphofructokinase-1 (PFK-1) is the rate-limiting enzyme of glycolysis, and its activity would therefore be increased. Phosphoenolpyruvate carboxykinase is a regulatory enzyme in gluconeogenesis, which is induced by coisol, epinephrine, and glucagon. It functions in the hepatic sy…",
     "rationales": {},
     "paper": "paper-1",
@@ -14523,8 +14523,8 @@ window.OpenPharmacyQuestions = [
         "Combined immunodeficeincy"
       ]
     ],
-    "answer": "A",
-    "explanation": "A combined T cell and B cell immunodeficiency that is a rare autosomal recessive metabolic disorder that has material basis in mutation in the PNP gene and characterized mainly by decreased T-cell function. Ref-Sathyanarayana 4/e",
+    "answer": "B",
+    "explanation": "Source answer key: B. Cellular immunodeficeincy. A combined T cell and B cell immunodeficiency that is a rare autosomal recessive metabolic disorder that has material basis in mutation in the PNP gene and characterized mainly by decreased T-cell function. Ref-Sathyanarayana 4/e",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -14613,8 +14613,8 @@ window.OpenPharmacyQuestions = [
         "Filtration of solutes by kidney"
       ]
     ],
-    "answer": "D",
-    "explanation": "Nephelometry measures the interaction of antibodies and antigens in solution, detecting immune complex formation by monitoring changes in the scattering of an incident light. Ref: Imboden J.B. (2007). Chapter 3. Laboratory Diagnosis. In J.B. Imboden, D.B. Hellmann, J.H. Stone (Eds), CURRENT Rheumatology Diagnosis & Treatment, 2e.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Light attenuated in intensity by scattering. Nephelometry measures the interaction of antibodies and antigens in solution, detecting immune complex formation by monitoring changes in the scattering of an incident light. Ref: Imboden J.B. (2007). Chapter 3. Laboratory Diagnosis. In J.B. Imboden, D.B. Hellmann, J.H. Stone (Eds), CURRENT Rheumatology Diagnosis & Treatment, 2e.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -14701,8 +14701,8 @@ window.OpenPharmacyQuestions = [
         "Only cholesterol"
       ]
     ],
-    "answer": "B",
-    "explanation": "The triacylglycerol, cholesterol ester and phospholipid molecules along with apoproteins B48, and apo-A are incorporated into chylomicrons. Four major groups of lipoproteins: Chylomicrons, derived from intestinal absorption of triacylglycerol and other lipids. Very low density lipoproteins (VLDL, or pre--lipoproteins), derived from the liver for the expo of triacylglycerol. Low-density lipoproteins (LDL, or -lipoproteins), representing a final stage in the catabolism of VLDL. High-density lipoproteins (HDL, or -lipoproteins), involved in cholesterol transpo and also in VLDL and chylomicron metabolism. Triacylglycerol is the predominant lipid in chylomicrons and VLDL, whereas cholesterol and…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Triglyceride + cholesterol + phospholipid. The triacylglycerol, cholesterol ester and phospholipid molecules along with apoproteins B48, and apo-A are incorporated into chylomicrons. Four major groups of lipoproteins: Chylomicrons, derived from intestinal absorption of triacylglycerol and other lipids. Very low density lipoproteins (VLDL, or pre--lipoproteins), derived from the liver for the expo of triacylglycerol. Low-density lipoproteins (LDL, or -lipoproteins), representing a final stage in the catabolism of VLDL. High-density lipoproteins (HDL, or -lipoproteins), involved in cholesterol transpo and also in VLDL and chylomicron metabolism. Triacylglycerol is the predominant lipid in chylomicrons and VLDL, whereas cholesterol and…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -14746,7 +14746,7 @@ window.OpenPharmacyQuestions = [
         "Mitochondria"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Microtubules are polymers of tubulin that form pa of the cytoskeleton and provide structure and shape to cells",
     "rationales": {},
     "paper": "paper-1",
@@ -14832,7 +14832,7 @@ window.OpenPharmacyQuestions = [
         "Sucrase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The above clinical features on the initiation of fruit juice suggests a disorder of fructose metabolism. Hereditary fructose intolerance (HFI) is due to deficiency of the enzyme Aldolase B. Individuals affected with HFI are asymptomatic until they ingest fructose or sucrose (usually in the form of fruit, fruit juice or sweetened cereal). Symptoms include : Hepatomegaly Jaundice Vomiting Lethargy Convulsions Hypoglycemia Urine reducing sugar (Benedict's test) and tests for ketoses (Rapid Furfural and Seliwanoff's test) are positive. Treatment is removal of fructose and sucrose from the diet. Reference: Lippincott's Illustrated biochemisty 6th Edition Pg 138",
     "rationales": {},
     "paper": "paper-1",
@@ -14878,7 +14878,7 @@ window.OpenPharmacyQuestions = [
         "APO-100 & APO-E"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "APO B 100Ref: Harper's Biochemistry, 30th ed. pg. 254* The low-density-lipoprotein (LDL) receptor is a cell- surface protein that plays an important part in the metabolism of cholesterol by mediating the uptake of LDL from plasma into cells.* Although LDL particles bind to the LDL receptor through their apolipoprotein B (apo B) and apolipoprotein E (apo E) moieties, other apo E-containing particles, like chylomicron remnants, are not dependent on the LDL receptor for uptake into cells.* ApoB100 levels are associated with coronary heart disease, and are even a better predictor of it than is LDL level. A simple way of explaining this observation is to use the idea that ApoB-100 reflects lipopr…",
     "rationales": {},
     "paper": "paper-1",
@@ -14923,7 +14923,7 @@ window.OpenPharmacyQuestions = [
         "Replication of DNA"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Removal of Introns : The primary transcripts are very long ;they have molecular weights more than 10 power of 7.Molecular weight of mature mRNA is about 1-2 x 10 power of 6.This means large poion of hnRNA are cleaved off. The primary transcript contains coding regions (exons)interspersed with non-coding regions (introns). These intron sequences are cleaved and the exons are spliced (combined together ) to orm the mature mRNA molecule.This processing is done in the nucleus.Splicing is an energy requiring process. REF :DM VASUDEVAN TEXTBOOK ;7th EDITION ; Page no :591.",
     "rationales": {},
     "paper": "paper-1",
@@ -15056,7 +15056,7 @@ window.OpenPharmacyQuestions = [
         "Benedicts"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Women in the question stem with altered sensorium and dehydration is suffering from ketoacidosis. Absence of sugar exclude the diagnosis of diabetic ketoacidosis. So ketosis could be due to starvation which can be detected by Rotheras test. During starvation acetylCoA takes alternate fate to form ketone bodies. Ref: Textbook of Biochemistry By DM Vasudevan, 3rd Edition, Pages 131, 440 ; Textbook of Medical Biochemistry By Chatterjee, 4th Edition, Pages 677- 679",
     "rationales": {},
     "paper": "paper-1",
@@ -15146,8 +15146,8 @@ window.OpenPharmacyQuestions = [
         "Folic acid"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Nicotinic acid.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Ascorbic acid. Source answer key: Nicotinic acid.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -15191,8 +15191,8 @@ window.OpenPharmacyQuestions = [
         "Alanine"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Cystine.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Tyrosine. Source answer key: Cystine.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -15236,8 +15236,8 @@ window.OpenPharmacyQuestions = [
         "Interchromatin granule clusters"
       ]
     ],
-    "answer": "D",
-    "explanation": "Even if you don't know about all the options and you just know about P body you can answer this question. The P body is a cytoplasmic organelle involved in mRNA metabolism. Here is where miRNA-mRNA complexes are temporarily stored. They can either undergo degradation or mRNA can be released back for translation. Nucleolus is the pa of nucleus and is the site of rRNA formation. Cajal bodies are regions within the nucleus that are enriched in proteins and RNAs involved in mRNA processing. They are the main sites for the assembly of small nuclear ribonucleoproteins (snRNPs). Nuclear speckles, also known as interchromatin granule clusters, are nuclear domains enriched in pre-mRNA splicing factor…",
+    "answer": "A",
+    "explanation": "Source answer key: A. P-bodies. Even if you don't know about all the options and you just know about P body you can answer this question. The P body is a cytoplasmic organelle involved in mRNA metabolism. Here is where miRNA-mRNA complexes are temporarily stored. They can either undergo degradation or mRNA can be released back for translation. Nucleolus is the pa of nucleus and is the site of rRNA formation. Cajal bodies are regions within the nucleus that are enriched in proteins and RNAs involved in mRNA processing. They are the main sites for the assembly of small nuclear ribonucleoproteins (snRNPs). Nuclear speckles, also known as interchromatin granule clusters, are nuclear domains enriched in pre-mRNA splicing factor…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -15327,7 +15327,7 @@ window.OpenPharmacyQuestions = [
         "mRNA"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "A non-coding RNA (ncRNA) is a functional RNA molecule that is transcribed from DNA but not translated into proteins. Epigenetic related ncRNAs include miRNA, siRNA, piRNA, and lncRNA. In general, ncRNAs function to regulate gene expression at the transcriptional and post-transcriptional level.",
     "rationales": {},
     "paper": "paper-1",
@@ -15417,7 +15417,7 @@ window.OpenPharmacyQuestions = [
         "niacin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "THFA is the carrier of One Carbon groups The folic acid is first reduced to 7,8-dihydrofolic acid and fuher reduced to 5,6,7,8-tetrahydrofolic acid (THFA) . Both reactions are catalyzed by NADPH dependent folate reductase. The THFA is the carrier of one-carbon groups. One carbon compound is an organic molecule that contains only a single carbon atom. The following groups are one carbon compounds: Formyl (-CHO) Formimino (-CH=NH) Methenyl (-CH=) Methylene (-CH2-) Hydroxymethyl (-CH2OH) Methyl (-CH3). One carbon groups bind to THF through N5 are Formyl, Formimino or methyl N10 are Formyl Both N5 and N10 are Methylene and Metheny Ref: DM Vasudevan - Textbook of Biochemistry, 8th edition, page n…",
     "rationales": {},
     "paper": "paper-1",
@@ -15463,8 +15463,8 @@ window.OpenPharmacyQuestions = [
         "Biotin"
       ]
     ],
-    "answer": "A",
-    "explanation": "Some amino acids (isoleucine, tryptophan, phenylalanine, and tyrosine) are both glucogenic and ketogenic because their degradation pathway forms multiple products.a. Amino acids that are converted to pyruvate (see Figure I).(1). The amino acids that are synthesized from the intermediates of glycolysis (serine, glycine, cysteine, and alanine) are degraded to form pyruvate.(a). Serine is converted to 2-phosphoglycerate, an intermediate of glycolysis, or directly to pyruvate and NH4+ by serine dehydratase, an enzyme that requires PLP.(b). Glycine, in a reversal of the reaction utilized for its synthesis, reacts with methylene-FH4 to form serine.1. Glycine also reacts with FH4 and NAD+ to produc…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Niacin. Some amino acids (isoleucine, tryptophan, phenylalanine, and tyrosine) are both glucogenic and ketogenic because their degradation pathway forms multiple products.a. Amino acids that are converted to pyruvate (see Figure I).(1). The amino acids that are synthesized from the intermediates of glycolysis (serine, glycine, cysteine, and alanine) are degraded to form pyruvate.(a). Serine is converted to 2-phosphoglycerate, an intermediate of glycolysis, or directly to pyruvate and NH4+ by serine dehydratase, an enzyme that requires PLP.(b). Glycine, in a reversal of the reaction utilized for its synthesis, reacts with methylene-FH4 to form serine.1. Glycine also reacts with FH4 and NAD+ to produc…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "biochemistry",
@@ -15958,7 +15958,7 @@ window.OpenPharmacyQuestions = [
         "FADH"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans : B (NAD+) & C (NADPH) In chronic alcoholism rate limiting component for alcohol metabolism is NAD* & NADPHOxidation of ethanol by alcohol dehydrogenaseQ & NADQ leads to excess production of NADHSome metabolism of ethanol takes place via a cytochrome P450 dependent microsomal ethanol oxidising systme (MEOS) Q involving NADPH & O2:, This system increase in activity in chronic alcoholism & may account for the increased metabolic clearnce in this condition.Ethanol + NADPH + H+ O2 MEOS Acetaldehyde",
     "rationales": {},
     "paper": "paper-1",
@@ -16046,8 +16046,8 @@ window.OpenPharmacyQuestions = [
         "Requiras pH meter for reading result"
       ]
     ],
-    "answer": "A",
-    "explanation": "*Phenol red dye test measures the production of tears without topical anesthesia, as the dye changes its color to red on contact with tears. It doesn't require pH meter for reading the result. Ref: Ophthalmology Yanoff and Duker 4th/e p.277",
+    "answer": "B",
+    "explanation": "Source answer key: B. Volume of tears isn't measured as it changes color on contact with tears. *Phenol red dye test measures the production of tears without topical anesthesia, as the dye changes its color to red on contact with tears. It doesn't require pH meter for reading the result. Ref: Ophthalmology Yanoff and Duker 4th/e p.277",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16134,8 +16134,8 @@ window.OpenPharmacyQuestions = [
         "Simpson"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Preistly.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Moon. Source answer key: Preistly.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16177,7 +16177,7 @@ window.OpenPharmacyQuestions = [
         "NADH"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Disulfiram is an aldehyde dehydrogenase inhibitor that can be used for de-addiction of chronic alcoholics. Due to inhibition of aldehyde dehydrogenase, there is accumulation of acetaldehyde that leads to several distressing symptoms (which strengthens the resolution of a person to quit alcohol).",
     "rationales": {},
     "paper": "paper-1",
@@ -16265,8 +16265,8 @@ window.OpenPharmacyQuestions = [
         "SSRIs"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: B-blocker.",
+    "answer": "B",
+    "explanation": "Source answer key: B. BZD. Source answer key: B-blocker.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16310,8 +16310,8 @@ window.OpenPharmacyQuestions = [
         "Mepivacaine"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Mepivacaine.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Procaine. Source answer key: Mepivacaine.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16355,7 +16355,7 @@ window.OpenPharmacyQuestions = [
         "Menetrier disease"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Autoimmune gastritis refers to chronic, diffuse inflammatory disease of the stomach that is restricted to the body and fundus and is associated with other autoimmune phenomena. This disorder typically features diffuse atrophic gastritis, antibodies to parietal cells and the intrinsic factor, and increased serum gastrin due to G-cell hyperplasia. Immunologic destruction of parietal cells and antibody targeting of intrinsic factor interfere with intestinal absorption of vitamin B12 . As a result, all lineages of bone marrow precursors show asynchronous maturation between the nucleus and cytoplasm (megaloblastic cells), and the peripheral blood displays megaloblastic anemia. Megaloblastic anemi…",
     "rationales": {},
     "paper": "paper-1",
@@ -16400,8 +16400,8 @@ window.OpenPharmacyQuestions = [
         "RBC"
       ]
     ],
-    "answer": "C",
-    "explanation": "In the fasting state, glucose must be spared for use by the central nervous system (which is largely dependent on glucose) and the red blood cells (which are wholly reliant on glucose). Therefore, tissues that can use fuels other than glucose do so; muscle and liver oxidize fatty acids and the liver synthesizes ketone bodies from fatty acids to expo to muscle and other tissues.Ref: Harper&;s Biochemistry; 30th edition; chapter 14; overview of Metabolism & the Provision of Metabolic Fuels",
+    "answer": "D",
+    "explanation": "Source answer key: D. RBC. In the fasting state, glucose must be spared for use by the central nervous system (which is largely dependent on glucose) and the red blood cells (which are wholly reliant on glucose). Therefore, tissues that can use fuels other than glucose do so; muscle and liver oxidize fatty acids and the liver synthesizes ketone bodies from fatty acids to expo to muscle and other tissues.Ref: Harper&;s Biochemistry; 30th edition; chapter 14; overview of Metabolism & the Provision of Metabolic Fuels",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16445,8 +16445,8 @@ window.OpenPharmacyQuestions = [
         "Wilsons disease"
       ]
     ],
-    "answer": "B",
-    "explanation": "The lung specimen reveals diffusive panacinar emphysema. The liver biopsy shows PAS positive diastase resistant deposits. Both the above clues point towards option C. - Option A hemochromatosis would show pearls stain on liver biopsy. - Cystic fibrosis would show bronchiectasis.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Alpha 1 antitrypsin deficiency. The lung specimen reveals diffusive panacinar emphysema. The liver biopsy shows PAS positive diastase resistant deposits. Both the above clues point towards option C. -  hemochromatosis would show pearls stain on liver biopsy. - Cystic fibrosis would show bronchiectasis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16535,7 +16535,7 @@ window.OpenPharmacyQuestions = [
         "Acetyl-CoA"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The court-ordered medication is disulfiram. Disulfiram inhibits ALDH, which greatly reduces the amount of acetaldehyde that is converted to acetate. This causes an accumulation of acetaldehyde, which is the substance responsible for the symptoms of a \"hangover,\" including nausea and vomiting. Alcohol dehydrogenase reduces ethanol to acetaldehyde. Acetyl-CoA synthetase converts acetate to acetyl-CoA.",
     "rationales": {},
     "paper": "paper-1",
@@ -16625,7 +16625,7 @@ window.OpenPharmacyQuestions = [
         "1% Ammonia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Among the given options only ethyl alcohol is used.",
     "rationales": {},
     "paper": "paper-1",
@@ -16670,7 +16670,7 @@ window.OpenPharmacyQuestions = [
         "Rods only"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Methyl alcohol is oxidized by alcohol dehydrogenase into formic acid and formaldehyde. Formic acid by inhibiting cytochrome oxidase is toxic to neurons especially retinal ganglion cells. In methanol poisoning vision loss begins 12 hours or more after ingestion and progress to complete blindness with unreactive pupils and optic disc hyperemia.",
     "rationales": {},
     "paper": "paper-1",
@@ -16715,7 +16715,7 @@ window.OpenPharmacyQuestions = [
         "Rhinorrhea"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The most common withdrawal syndrome is a hangover on the next morning. Mild tremors, nausea, vomiting, weakness, irritability, insomnia and anxiety are the other common withdrawal symptoms. Sometimes the withdrawal syndrome may be more severe, characterised by one of the following three disturbances: delirium tremens, alcoholic seizures and alcoholic hallucinosis. Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 37",
     "rationales": {},
     "paper": "paper-1",
@@ -16760,8 +16760,8 @@ window.OpenPharmacyQuestions = [
         "FSH"
       ]
     ],
-    "answer": "A",
-    "explanation": "Three general classes of hormone exist : ?1) Proteins and polypentideMost of hormones in the body are polypeptides and proteins. In general, polypeptides with 100 or more aminoacids are called proteins, and those with fewer than 100 amino acids are referred to as peptides.Proteins and peptide hormones are synthesized on the rough ER. They are usually synthesized first as larger proteins (precursors) that are not biologically active (preprohormone) and cleaved in the ER to form smaller prohormones. These are then transferred to the Golgi apparatus for packing into secretory vesicles. In this process, enzymes in the vesicles cleave the prohormones to produce smaller, biologically active hormon…",
+    "answer": "B",
+    "explanation": "Source answer key: B. T4. Three general classes of hormone exist : ?1) Proteins and polypentideMost of hormones in the body are polypeptides and proteins. In general, polypeptides with 100 or more aminoacids are called proteins, and those with fewer than 100 amino acids are referred to as peptides.Proteins and peptide hormones are synthesized on the rough ER. They are usually synthesized first as larger proteins (precursors) that are not biologically active (preprohormone) and cleaved in the ER to form smaller prohormones. These are then transferred to the Golgi apparatus for packing into secretory vesicles. In this process, enzymes in the vesicles cleave the prohormones to produce smaller, biologically active hormon…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16852,8 +16852,8 @@ window.OpenPharmacyQuestions = [
         "bc"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: ac.",
+    "answer": "B",
+    "explanation": "Source answer key: B. cd. Source answer key: ac.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16897,8 +16897,8 @@ window.OpenPharmacyQuestions = [
         "510 gm/week"
       ]
     ],
-    "answer": "D",
-    "explanation": "210 gm of alcohol for men and 140 gm of alcohol in women per week is considered safe limit for drinking, if liver damage is to be avoided. Also know: % of alcohol in different beverages Rum - 50 to 60% Whisky, gin, brandy - 40 to 45% Po, sherry - 20% Wine - 10 to 15% Beer - 4 to 8% Ref: Textbook of Forensic Medicine and Toxicology by Narayan Reddy, Edition 21, Page - 490",
+    "answer": "A",
+    "explanation": "Source answer key: A. 210 gm/week. 210 gm of alcohol for men and 140 gm of alcohol in women per week is considered safe limit for drinking, if liver damage is to be avoided. Also know: % of alcohol in different beverages Rum - 50 to 60% Whisky, gin, brandy - 40 to 45% Po, sherry - 20% Wine - 10 to 15% Beer - 4 to 8% Ref: Textbook of Forensic Medicine and Toxicology by Narayan Reddy, Edition 21, Page - 490",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -16987,7 +16987,7 @@ window.OpenPharmacyQuestions = [
         "NADPH/NADP"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ethanol + NAD - acetaldehyde + NADH + H So there is increase ratio of NADH / NAD due to increase NADH (1) Beat oxidation will not occur (2) Fatty acid synthesis will increase in liver and lead to fatty liver (3) Oxaloacetate + NADH + H - MALATE (4) Pyruvate +NADH + H - MALATE Due to excess NADH, oxaloacetate is unavailable for TCA CYCLE and acetyl COA will increase and forms fats in body Pyruvate and oxaloacetate, the predominant substrates for gluconeogenesis, are made unavailable by alcohol intoxication and that lead to hypoglycemia in body",
     "rationales": {},
     "paper": "paper-1",
@@ -17032,8 +17032,8 @@ window.OpenPharmacyQuestions = [
         "Sildenafil"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Hydrochlorothiazide.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Sildenafil. Source answer key: Hydrochlorothiazide.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -17075,7 +17075,7 @@ window.OpenPharmacyQuestions = [
         "Acamprosate"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "NALTREXONE is an OPIOID ANTAGONIST given at a dosage of 50-150mg, should not be used in LIVER DYSFUNCTION ACAMPROSATE is an GABA AGONIST given at a dosage of 666MG TDS, should not be used in KIDNEY DYSFUNCTION Ref.Kaplon and Sadock, synopsis of psychiatry, 11 th edition, pg no.626",
     "rationales": {},
     "paper": "paper-1",
@@ -17120,8 +17120,8 @@ window.OpenPharmacyQuestions = [
         "Tolazamide"
       ]
     ],
-    "answer": "D",
-    "explanation": "Chlorpropamide is a first generation sulphonylurea. It causes cholestatic jaundice, intolerance to alcohol in predisposed subjects(flushing and a disulfiram like reaction). Disulfiram like reaction seen with: chlorpropomide, tolbutamide, metronidazole, gresiofulvin, cefoperazone, cefomandole etc (REF.Essential of medical pharmacology K D TRIPATHI 6 Edition, Page No - 267)",
+    "answer": "A",
+    "explanation": "Source answer key: A. Chlorprompamide. Chlorpropamide is a first generation sulphonylurea. It causes cholestatic jaundice, intolerance to alcohol in predisposed subjects(flushing and a disulfiram like reaction). Disulfiram like reaction seen with: chlorpropomide, tolbutamide, metronidazole, gresiofulvin, cefoperazone, cefomandole etc (REF.Essential of medical pharmacology K D TRIPATHI 6 Edition, Page No - 267)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -17166,8 +17166,8 @@ window.OpenPharmacyQuestions = [
         "Blood"
       ]
     ],
-    "answer": "D",
-    "explanation": "A Harper, 26th ed, p. 183 & 25th ed, p. 243, Fig (24.6)",
+    "answer": "A",
+    "explanation": "Source answer key: A. Liver. A Harper, 26th ed, p. 183 & 25th ed, p. 243, Fig (24.6)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -17297,7 +17297,7 @@ window.OpenPharmacyQuestions = [
         "300 mg/dL"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "(B) 200 mg/dLLevelLikely impairment20-30 mg/dLSlowed motor performance and decreased thinking ability30-80 mg/dLIncreases in motor and cognitive problems80-200 mg/dLIncreases in incoordination and judgment errsMobilityDeterioration in cognition200-300 mg/dLNystagmus, marked slurring of speech, and alcoholic blackouts> 300 mg/dLImpaired vital signs and possible deathPharmacologic toleranceApproximately 150 mg/dLOne does not show significant levels of impairment in motor and mental performanceIn that range, most people without tolerance also experience nausea and vomitingOne drinkIs likely to raise the blood alcohol level by approximately 15 to 20 mg/dL for an average70 kg person who has avera…",
     "rationales": {},
     "paper": "paper-1",
@@ -17342,7 +17342,7 @@ window.OpenPharmacyQuestions = [
         "Lungs"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ketone bodiesThey are three different water-soluble biochemicals that are produced as by-products when fatty acids are broken down for energy in the liver.Two of the three are used as a source of energy in the hea and brain while the third (acetone) is a waste product excreted from the body.In the brain, they are a vital source of energy during fasting.The three endogenous ketone bodies are- Acetone,Acetoacetic acid, and- Beta-hydroxybutyric acid",
     "rationales": {},
     "paper": "paper-1",
@@ -17387,7 +17387,7 @@ window.OpenPharmacyQuestions = [
         "Mania"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Depressive pseudodementia- depression in the elderly people may mimic dementia clinically. Identification of depression is very important as it is far more easily treatable than dementia. (Ref: a sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no.23)",
     "rationales": {},
     "paper": "paper-1",
@@ -17430,7 +17430,7 @@ window.OpenPharmacyQuestions = [
         "Disulfiram"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Benzodiazepines are the drug of choice in alcohol withdrawal. If the question asks to choose a specific benzodiazepine, the best choice would be chlordiazepoxide.",
     "rationales": {},
     "paper": "paper-1",
@@ -17475,8 +17475,8 @@ window.OpenPharmacyQuestions = [
         "1 % Ammonia"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Calcium gluconate.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Ethyl alcohol. Source answer key: Calcium gluconate.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -17565,8 +17565,8 @@ window.OpenPharmacyQuestions = [
         "Intrauterine growth retardation"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Low intelligence.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Large proportionate body. Source answer key: Low intelligence.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -17655,7 +17655,7 @@ window.OpenPharmacyQuestions = [
         "15 ml in 100ml of blood"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "(A) 30 ml In 100 ml of blood> I.P.C. Sec. 185 Driving by a drunken person or by a person under the influence of drugs. - Whoever, while driving, or at- tempting to drive, a motor vehicle -(a) has, in his blood, alcohol exceeding 30 mg Per 100 ml. of blood detected in a test by a breath analyser, or(b) is under the influence of a drug to such an extent as to be incapable of exercising proper control over the vehicle.> shall be punishable for the first offence with imprisonment for a term which may extend to six months, or with fine which may extend to two thousand rupees, or with both; and for a second or subsequent offence, if committed within three years of the commission of the previous si…",
     "rationales": {},
     "paper": "paper-1",
@@ -17700,8 +17700,8 @@ window.OpenPharmacyQuestions = [
         "decrease Ach availability"
       ]
     ],
-    "answer": "B",
-    "explanation": "Low levels of Ach are associated with the symptoms of Alzheimer disease. Tacrine, donepezil, rivastigmine, and galantamine are acetylcholinesterase inhibitors (i.e., they block the breakdown of Ach, increasing its availability). These agents can thus be effective in slowing down the progression of the illness. They do not restore the function the patient has already lost.",
+    "answer": "C",
+    "explanation": "Source answer key: C. increase Ach availability. Low levels of Ach are associated with the symptoms of Alzheimer disease. Tacrine, donepezil, rivastigmine, and galantamine are acetylcholinesterase inhibitors (i.e., they block the breakdown of Ach, increasing its availability). These agents can thus be effective in slowing down the progression of the illness. They do not restore the function the patient has already lost.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -17745,7 +17745,7 @@ window.OpenPharmacyQuestions = [
         "Bronchial carcinoid"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "A bronchial carcinoid is an example of an amine precursor uptake and decarboxylation (APUD) tumor or neuroendocrine tumor. This name is applied to ceain cells of the endocrine organs (e.g., anterior pituitary, pancreatic islets, C-cells in the thyroid, adrenal medulla, paraganglia) as well as single cells in various tissues (e.g., Kulchitsky's cells in the bronchial epithelium, argentaffin cells in the gut). APUD tumors are thought to have a common derivation from neural crest and neuroectoderm, thus the appellation, neuroendocrine tumors. However, there are some APUD tumors of endodermal origin. These tumors have dense core neurosecretory granules present on electron microscopy. Tumors invo…",
     "rationales": {},
     "paper": "paper-1",
@@ -17835,8 +17835,8 @@ window.OpenPharmacyQuestions = [
         "Mepivacaine"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Mepivacaine.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Procaine. Source answer key: Mepivacaine.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -17880,7 +17880,7 @@ window.OpenPharmacyQuestions = [
         "Riboflavin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans: B (Thiamine) Ref: Synopsis of Psychiatry. Kaplan & Sadock, 10th editionExplanation:See 2010 Psychiatry question explanation.",
     "rationales": {},
     "paper": "paper-1",
@@ -17925,7 +17925,7 @@ window.OpenPharmacyQuestions = [
         "E.coli"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Rideal - walker test / phenol coefficient test - abilty to sterilize the suspension of S.typhi.",
     "rationales": {},
     "paper": "paper-1",
@@ -18015,7 +18015,7 @@ window.OpenPharmacyQuestions = [
         "16-Nov"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ether Day,\" Friday 16 October 1846 marks the first successful demonstration of the inhalation of ether vapour as a means of overcoming pain of surgery by the dentist William Thomas Green Moon Ref ganong's review of medical physiology 25e 561",
     "rationales": {},
     "paper": "paper-1",
@@ -18105,7 +18105,7 @@ window.OpenPharmacyQuestions = [
         "Chylomicrons"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Cholesteryl ester is tranfered from HDL to VLDL and chylomicrons in exchange with triglyceride by the cholesteryl ester transfer protein (CETP).",
     "rationales": {},
     "paper": "paper-1",
@@ -18150,7 +18150,7 @@ window.OpenPharmacyQuestions = [
         "Lungs"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Acetoacetate is the primary ketone body while beta-hydroxybutyrate and acetone are secondary ketone bodies. They are synthesised exclusively by the liver mitochondria.Ref : DM Vasudevan - Textbook of Biochemistry 6th Edition pg no: 143",
     "rationales": {},
     "paper": "paper-1",
@@ -18195,7 +18195,7 @@ window.OpenPharmacyQuestions = [
         "Congestive cardiac failure"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "1st image shows the classical Pembeon sign. 2nd image shows a mass in the right mediastinum-s/o CA lung causing compression of SVC. The SVC receives venous drainage from the head, neck, upper limb, and thorax. Located in the upper mediastinum, this thin-walled vessel is susceptible to pressure from external sources. The most common cause of such external compression is malignancy, usually from a right-side bronchogenic carcinoma. Presents with dyspnea, hoarseness and Horner syndrome. The development of SVC syndrome is often an emergency because the trachea may be obstructed, leading to respiratory compromise.",
     "rationales": {},
     "paper": "paper-1",
@@ -18285,8 +18285,8 @@ window.OpenPharmacyQuestions = [
         "High dose of vitamin B12"
       ]
     ],
-    "answer": "C",
-    "explanation": "Treatment for methyl alcohol poisoning includes : (i) Gastric lavage, (ii) Sodium bicarbonate, (iii) Ethanol (ethyl alcohol), (iv) Fomepizole (4 methylpyrazole), (v) Folic acid or folinic acid , and (vi) In severe cases hemodialysis.",
+    "answer": "D",
+    "explanation": "Source answer key: D. High dose of vitamin B12. Treatment for methyl alcohol poisoning includes : (i) Gastric lavage, (ii) Sodium bicarbonate, (iii) Ethanol (ethyl alcohol), (iv) Fomepizole (4 methylpyrazole), (v) Folic acid or folinic acid , and (vi) In severe cases hemodialysis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -18330,8 +18330,8 @@ window.OpenPharmacyQuestions = [
         "Two weeks postpaum"
       ]
     ],
-    "answer": "B",
-    "explanation": "Maternal moality in Hea disease complicatin Pregnancy Maternal moality is lowest with rheumatic hea lesions and acyanotic group of hea diseases ie <1% With the elevation of pulmonary vascular resistance especially with cyanotic hea diseases the moality may be raised to 50%( Eisenmengers syndrome) Most of the deaths occur due to cardiac failure and maximum deaths occurs following bih. Management Of Cardiac Failure: The principle if management is same as in the non-pregnant women. A cardiologist should be involved Propped up position O2 Adminstration Monitoring with ECG and pulse oximetry Diuretic: Frusemide (40-80mg) IV - Anticipatory aggresive diuresis is needed to avoid pulmonary congestion…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Soon following delivery. Maternal moality in Hea disease complicatin Pregnancy Maternal moality is lowest with rheumatic hea lesions and acyanotic group of hea diseases ie <1% With the elevation of pulmonary vascular resistance especially with cyanotic hea diseases the moality may be raised to 50%( Eisenmengers syndrome) Most of the deaths occur due to cardiac failure and maximum deaths occurs following bih. Management Of Cardiac Failure: The principle if management is same as in the non-pregnant women. A cardiologist should be involved Propped up position O2 Adminstration Monitoring with ECG and pulse oximetry Diuretic: Frusemide (40-80mg) IV - Anticipatory aggresive diuresis is needed to avoid pulmonary congestion…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -18418,7 +18418,7 @@ window.OpenPharmacyQuestions = [
         "chlordiazepoxide"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Chlordiazepoxide Because it is long-acting and has relatively low abuse potential, chlordiazepoxide is the antianxiety agent most commonly used to treat the anxiety and agitation associated with the initial stages of alcohol withdrawal.",
     "rationales": {},
     "paper": "paper-1",
@@ -18463,7 +18463,7 @@ window.OpenPharmacyQuestions = [
         "86 IPC"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Sec. 85 IPC: Nothing is an offence which is done by a person who at the time of doing it, by reason of intoxication, is incapable of knowing the nature of the act, or what he is doing is either wrong or contrary to law; provided that thing which intoxicated him was administered to him without his knowledge or against his will.21 Sec. 86 IPC: Voluntary drunkenness is not an excuse for commission of crime. Sec. 510 IPC: Misconduct by a drunken person in public is punishable with imprisonment upto 24 h.",
     "rationales": {},
     "paper": "paper-1",
@@ -18508,8 +18508,8 @@ window.OpenPharmacyQuestions = [
         "SGOT/SGPT >2"
       ]
     ],
-    "answer": "C",
-    "explanation": "Most common chronic liver disease in India is Alcoholic liver disease An SGOT: SGPT ratio>2:1 is suggestive while a ratio >3:1 is highly suggestive of alcoholic liver disease. The AST in alcoholic liver disease is rarely>300 U/L and the SGPT is often normal. A low level of SGPT in the serum is due to an alcohol induced deficiency of pyridoxal phosphate.",
+    "answer": "D",
+    "explanation": "Source answer key: D. SGOT/SGPT >2. Most common chronic liver disease in India is Alcoholic liver disease An SGOT: SGPT ratio>2:1 is suggestive while a ratio >3:1 is highly suggestive of alcoholic liver disease. The AST in alcoholic liver disease is rarely>300 U/L and the SGPT is often normal. A low level of SGPT in the serum is due to an alcohol induced deficiency of pyridoxal phosphate.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -18553,7 +18553,7 @@ window.OpenPharmacyQuestions = [
         "Mepivacaine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Procaine is an ester linked local anaesthetic. Bupivacaine, Lignocaine and Mepivacaine are amide linked local anesthetics. Other ester linked anesthetics are cocaine, chloroprocaine, tetracine and benzocaine. Ref: Essentials of Medical Pharmacology By K D Tripathi, 5th Edition, Page 320.",
     "rationales": {},
     "paper": "paper-1",
@@ -18598,7 +18598,7 @@ window.OpenPharmacyQuestions = [
         "25 and 18 units/week"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. 21 and 14 units/week",
     "rationales": {},
     "paper": "paper-1",
@@ -18643,7 +18643,7 @@ window.OpenPharmacyQuestions = [
         "Nucleus"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ketogenesis Acetoacetate is the primary ketone body while beta-hydroxybutyrate and acetone are secondary ketone bodies. They are synthesised exclusivelyby the liver mitochondria.Ref: DM Vasudevan - Textbook of Biochemistry, 6th edition, page no: 143",
     "rationales": {},
     "paper": "paper-1",
@@ -18688,7 +18688,7 @@ window.OpenPharmacyQuestions = [
         "Prilocaine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Local Anaesthetics are divided in two group Aminoamide and Aminoesters Aminoester - sho acting - cocaine , procaine and chloroprocaine long acting - Benzocaine and Tetracaine Aminoamide - intermediate acting - lignocaine , prilocaine ,mepivacaine long acting - Bupivacaine , Ropivacaine , Dibucaine Aminoester Local Anesthetics: They are unstable in solution and they are metabolized by plasma cholinesterase CNS lacks esterase enzymes and so intrathecally injected local anesthetics are metabolized only after diffusion to the blood. More incidence of allergic reactions. Aminoamide Local Anesthetics: They are stable in solution and undergo enzymatic degradation in the liver. Allergic reactions ar…",
     "rationales": {},
     "paper": "paper-1",
@@ -18733,7 +18733,7 @@ window.OpenPharmacyQuestions = [
         "> 300 mg/dL"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Acute Alcohol Intoxication: Blood Alcohol concentration Symptoms 20 - 30 mg / dL Decreased concentration decreased motor performance 30 - 80 mg/dL Signs of intoxication appears, worsening of motor symptoms and thinking ability. 80 - 200 mg /dL Incordination 200 - 300 mg / dL Alcohol blackout (Anterograde Amnesia) > 300 mg / dL Coma & Death.",
     "rationales": {},
     "paper": "paper-1",
@@ -18778,8 +18778,8 @@ window.OpenPharmacyQuestions = [
         "9 cal"
       ]
     ],
-    "answer": "B",
-    "explanation": "Alcohol supplies about 7cal/gm of energy. Energy yield of macro-nutrients (Proximate principles): Nutrient Energy yield Carbohydrates 4 cal per gram (17 KJ) Proteins 4 cal per gram (17 KJ) Fats 9 cal per gram (37 KJ)",
+    "answer": "C",
+    "explanation": "Source answer key: C. 7 cal. Alcohol supplies about 7cal/gm of energy. Energy yield of macro-nutrients (Proximate principles): Nutrient Energy yield Carbohydrates 4 cal per gram (17 KJ) Proteins 4 cal per gram (17 KJ) Fats 9 cal per gram (37 KJ)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -18823,7 +18823,7 @@ window.OpenPharmacyQuestions = [
         "Glycerol 3- phosphate"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "In most cases, ketonemia is due to increased production of ketone bodies by the liver rather than to a deficiency in their utilization by extrahepatic tissues. While acetoacetate and d(−)-3-hydroxybutyrate are readily oxidized by extrahepatic tissues, acetone is difficult to oxidize in vivo and to a large extent is volatilized in the lungs. A clear understanding of the biochemical basis and pathophysiology of DKA is essential for its efﬁcient treatment. The cardinal biochemical features are: Hyperketonaemia (≥ 3.0 mmol/L) or ketonuria (more than 2+ on standard urine sticks) Hyperglycaemia (blood glucose ≥ 11 mmol/L, (approximately 200 mg/dL)) Metabolic acidosis (venous bicarbonate < 15 mmol/…",
     "rationales": {},
     "paper": "paper-1",
@@ -18911,8 +18911,8 @@ window.OpenPharmacyQuestions = [
         "Decreased lipoprotein"
       ]
     ],
-    "answer": "A",
-    "explanation": "Dyslipidemia is an abnormal amount of lipids (e.g. triglycerides, cholesterol and/or fat phospholipids) in the blood. In developed countries, most dyslipidemias are hyperlipidemias; that is, an elevation of lipids in the blood. This is often due to diet and lifestyle. Prolonged elevation of insulin levels can also lead to dyslipidemia. Likewise, increased levels of O-GlcNAc transferase (OGT) may cause dyslipidemia. The most common conditions that were felt to be contributing to dyslipidemia were excessive alcohol intake (10 percent) and uncontrolled diabetes mellitus (8 percent). Hyperlipidemia in association with insulin resistance is common in patients with type 2 diabetes mellitus Dyslipi…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Increased HDL. Dyslipidemia is an abnormal amount of lipids (e.g. triglycerides, cholesterol and/or fat phospholipids) in the blood. In developed countries, most dyslipidemias are hyperlipidemias; that is, an elevation of lipids in the blood. This is often due to diet and lifestyle. Prolonged elevation of insulin levels can also lead to dyslipidemia. Likewise, increased levels of O-GlcNAc transferase (OGT) may cause dyslipidemia. The most common conditions that were felt to be contributing to dyslipidemia were excessive alcohol intake (10 percent) and uncontrolled diabetes mellitus (8 percent). Hyperlipidemia in association with insulin resistance is common in patients with type 2 diabetes mellitus Dyslipi…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -18956,8 +18956,8 @@ window.OpenPharmacyQuestions = [
         "Bleeding PR"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Tenesmus.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Bleeding PR. Source answer key: Tenesmus.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -19044,8 +19044,8 @@ window.OpenPharmacyQuestions = [
         "wernickes encephalopathy"
       ]
     ],
-    "answer": "B",
-    "explanation": "withdrawl symptoms are present due to alcohol withdrawl based on the time duration between the last drink and the presentation of symtoms withdrawls symptoms can be classified into many types it may be mild symptoms like tremore to seizure to life threatening symptoms like delirium tremens ref.Kaplon and Sadock, synopsis of Psychiatry, 11 th edition, pg no.625",
+    "answer": "C",
+    "explanation": "Source answer key: C. Rum fits. withdrawl symptoms are present due to alcohol withdrawl based on the time duration between the last drink and the presentation of symtoms withdrawls symptoms can be classified into many types it may be mild symptoms like tremore to seizure to life threatening symptoms like delirium tremens ref.Kaplon and Sadock, synopsis of Psychiatry, 11 th edition, pg no.625",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -19089,8 +19089,8 @@ window.OpenPharmacyQuestions = [
         "Purity of a disinfectant"
       ]
     ],
-    "answer": "D",
-    "explanation": "On exposure to air, the colorless crystals of phenol become pinkish and on longer exposure, the color deepens to dark blue. Pure phenol is not an effective disinfectant. It is used as an effective disinfectant. Ref: 25th edition, Park's Textbook of Preventive and Social Medicine, Page no. 140",
+    "answer": "A",
+    "explanation": "Source answer key: A. Efficacy of a disinfectant. On exposure to air, the colorless crystals of phenol become pinkish and on longer exposure, the color deepens to dark blue. Pure phenol is not an effective disinfectant. It is used as an effective disinfectant. Ref: 25th edition, Park's Textbook of Preventive and Social Medicine, Page no. 140",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -19134,8 +19134,8 @@ window.OpenPharmacyQuestions = [
         "Working"
       ]
     ],
-    "answer": "B",
-    "explanation": "Declarative memory provides for the rapid learning of facts (semantic memory) and events (episodic memory). Ex. Facts, events. Non declarative memory includes skills & habits, priming, simple classical conditioning, non associative learning. Reference: Kaplan & Sadock's synopsis of psychiatry, 11th edition, page 117.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Sementic. Declarative memory provides for the rapid learning of facts (semantic memory) and events (episodic memory). Ex. Facts, events. Non declarative memory includes skills & habits, priming, simple classical conditioning, non associative learning. Reference: Kaplan & Sadock's synopsis of psychiatry, 11th edition, page 117.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -19177,7 +19177,7 @@ window.OpenPharmacyQuestions = [
         "Oxaloacetate"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Acetaldehyde is formed from alcohol and not intermediate of TCA cycle. Whereas, Succinate,fumarate and oxaloacetate all are intermediate of TCA",
     "rationales": {},
     "paper": "paper-1",
@@ -19222,7 +19222,7 @@ window.OpenPharmacyQuestions = [
         "Naltrexone"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Drugs decreasing alcohol craving are; None: Naltrexone Of: Ondansetron The: Topiramate Above: Acamprosate",
     "rationales": {},
     "paper": "paper-1",
@@ -19267,7 +19267,7 @@ window.OpenPharmacyQuestions = [
         "Liver phosphorylase kinase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Type Ia GSD-Von Gierke’s Disease: Most common Glycogen Storage Disorder (GSD) in childhood. Autosomal recessive. Glucose 6-phosphatase is deficient. The biochemical hallmarks are: Hypoglycemia Lactic acidosis Hyperlipidemia Hyperuricemia Clinical Presentation: Most commonly present at 3–4 months of age with: Doll like facies with fat cheeks Relatively thin extremities Short stature, protuberant abdomen Massive hepatomegaly Kidneys are also enlarged No splenomegaly Plasma may be milky due to associated hypertriglyceridemia. Key Concept: Glucose 6-phosphatase is deficient in Von Gierke's disease. It is the most common glycogen storage disorder in childhood. Reference- Harper’s illustrated bioc…",
     "rationales": {},
     "paper": "paper-1",
@@ -19312,7 +19312,7 @@ window.OpenPharmacyQuestions = [
         "Lack of insight"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "ANSWER: (D) Lack of insightREF: Kaplan 9th ed p. 334Presenting symptoms of organic mental illnesses:Visual or auditory hallucinationComplex delusionsSoft neurological signsLoss of consciousnessMisidentificationHistory of head injuryConcurrent medical/neurological historyLack of insight is never seen in organic mental disease",
     "rationales": {},
     "paper": "paper-1",
@@ -19355,7 +19355,7 @@ window.OpenPharmacyQuestions = [
         "CreutzFeldt Jakob disease"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Impoant possibly reversible conditions are: Substance and medication related Anticholinergics, anti-hypeensives, sedative hypnotics Psychiatric disorders Depression Metabolic and endocrinal disorders Hypothyroidism, Vitamin B12 deficiency, Hepatic and Renal failure Neurosurgical conditions Normal pressure Hydrocephalus, Brain tumor, Subdural hematoma Neuroinfections Herpes encephalitis Miscellaneous Significant sensory deficits",
     "rationales": {},
     "paper": "paper-1",
@@ -19398,8 +19398,8 @@ window.OpenPharmacyQuestions = [
         "Sustained elevation in GGT and ALP"
       ]
     ],
-    "answer": "C",
-    "explanation": "Sustained elevation in GGT ALP is seen with phenytoin, alcohol, warfarin and rifampicin is seen due to induction of hepatic CYP enzymes and this phenomenon is often referred to microsomal enzyme induction. Ref : Schiff's diseases of liver, Edition -11 , Page - 715.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Sustained elevation in GGT and ALP. Sustained elevation in GGT ALP is seen with phenytoin, alcohol, warfarin and rifampicin is seen due to induction of hepatic CYP enzymes and this phenomenon is often referred to microsomal enzyme induction. Ref : Schiff's diseases of liver, Edition -11 , Page - 715.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -19443,7 +19443,7 @@ window.OpenPharmacyQuestions = [
         "Chronic calcifying pancreatitis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Acute pancreatitis is defined as an inflammatory condition of the exocrine pancreas that results from injury to acinar cells. The disease presents with a spectrum of signs and symptoms. Severe forms are characterized by the sudden onset of abdominal pain, often accompanied by signs of shock (hypotension, tachypnea, and tachycardia). The release of amylase and lipase from the injured pancreas into the serum provides a sensitive marker for monitoring injury to acinar cells. Left pleural effusion is a common finding in patients with acute pancreatitis due to local irritation below the diaphragm. The other choices do not feature increases in serum amylase and lipase.Diagnosis: Pancreatitis, acut…",
     "rationales": {},
     "paper": "paper-1",
@@ -19488,7 +19488,7 @@ window.OpenPharmacyQuestions = [
         "Withdrawal syndrome"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Alcohol-related psychosis is a secondary psychosis, with predominant hallucinations occurring in many alcohol-related conditions including intoxication.",
     "rationales": {},
     "paper": "paper-1",
@@ -19578,8 +19578,8 @@ window.OpenPharmacyQuestions = [
         "Series of changes leads to pyruvate"
       ]
     ],
-    "answer": "B",
-    "explanation": "(C) Acetoacetate to ... # Ketone bodies (Acetoacetate and 3-Hydroxybutyrate) serve as a fuel for extrahepatic tissues> Liver forms ketone bodies but cannot utilize it.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Acetoacetate to acetoacetyl CoA. (C) Acetoacetate to ... # Ketone bodies (Acetoacetate and 3-Hydroxybutyrate) serve as a fuel for extrahepatic tissues> Liver forms ketone bodies but cannot utilize it.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -19623,8 +19623,8 @@ window.OpenPharmacyQuestions = [
         "mature platelets"
       ]
     ],
-    "answer": "D",
-    "explanation": "Alcohol is directly toxic to dividing and maturing cells, but may also affect neutrophil function. The hematologic effects of alcohol may be direct or indirect, via diet, infection, liver disease, and GI disease. The resulting hematologic abnormalities may be profound.",
+    "answer": "A",
+    "explanation": "Source answer key: A. developing erythrocytes and myelocytes. Alcohol is directly toxic to dividing and maturing cells, but may also affect neutrophil function. The hematologic effects of alcohol may be direct or indirect, via diet, infection, liver disease, and GI disease. The resulting hematologic abnormalities may be profound.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -19668,7 +19668,7 @@ window.OpenPharmacyQuestions = [
         "Red blood cells"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The brain begins to use ketone bodies when levels start to rise after 3 to 5 days of fasting. Normally, the brain will use only glucose as a fuel (most fatty acids cannot cross the blood-brain barrier to be metabolized by the brain), but when ketone bodies are elevated in the blood, they can enter the brain and be used for energy.",
     "rationales": {},
     "paper": "paper-1",
@@ -19713,7 +19713,7 @@ window.OpenPharmacyQuestions = [
         "Forbe's disease"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Most common glycogen storage disease presenting with hypoglycemia and normal glycogen structure is Von Gierke disease, Von Gierke disease is due to deficiency of glucose-6-phosphatase. affects only liver Clinical features: severe hypoglycemia ketosis massive hepatomegaly enlarged kidneys hyperiglyceridemia lactic acidosis hyperuricemia Spleen not enlarged",
     "rationales": {},
     "paper": "paper-1",
@@ -19758,7 +19758,7 @@ window.OpenPharmacyQuestions = [
         "Phobia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Trichotillomania(compulsive hair pulling) is characterised by noticeable hair loss caused by person's persistent and recurrent failure to resist an impulse to pull out hair. there is an intense urge to pull out hair without mounting tension before the act and a sense of relief afterwards. there is no pre-existant skin lesion or inflammation, and hair pulling is not secondary to delusion or hallucination. (Ref: a sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no.119)",
     "rationales": {},
     "paper": "paper-1",
@@ -19801,8 +19801,8 @@ window.OpenPharmacyQuestions = [
         "Acamprosate"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Acamprosate.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Diazepam. Source answer key: Acamprosate.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -19889,7 +19889,7 @@ window.OpenPharmacyQuestions = [
         "Niacin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The most common withdrawal syndrome with alcohol is a hangover on the next morning.In patients suffering from (or likely to suffer from) delirium tremens, peripheral neuropathy, WernickeKorsakoff syndrome, and/or with other signs of vitamin B deficiency (especially thiamine and nicotinic acid), a preparation of vitamin B containing 100 mg of thiamine (vitamin B1) should be administered parenterally, twice everyday for 3-5 days. This should be followed by oral administration of vitamin B1 for at least 6 months. Reference: A Sho Textbook of Psychiatry by Niraj Ahuja page no. 37, 40.",
     "rationales": {},
     "paper": "paper-1",
@@ -19934,7 +19934,7 @@ window.OpenPharmacyQuestions = [
         "Flooding"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Aversive stimulus (noxious stimulus) is given in both Aversion therapy and punishment. The difference is :- Aversive therapy is a classical conditioning Aversive (noxious) stimulus is paired with pleasant stimulus (undesired behavior), i.e. noxious stimulus is given along with undesired behavior. Punishment is an operant conditioning Aversive (noxious) stimulus is given after an undesired behavior.",
     "rationales": {},
     "paper": "paper-1",
@@ -19979,8 +19979,8 @@ window.OpenPharmacyQuestions = [
         "RBCs"
       ]
     ],
-    "answer": "A",
-    "explanation": "Liver can't utilise ketone bodies. Brain can't utilise fatty acids. RBCs can't utilise fatty acids and ketone bodies.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Muscle. Liver can't utilise ketone bodies. Brain can't utilise fatty acids. RBCs can't utilise fatty acids and ketone bodies.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -20069,8 +20069,8 @@ window.OpenPharmacyQuestions = [
         "Deterioration in personal habits, hygiene, dress, grooming, speech patterns, and fluency of expression"
       ]
     ],
-    "answer": "C",
-    "explanation": "When an adolescent shows evidence of declining school performance or truancy, a change for the worse in personal habits and grooming, exaggerated mood swings, change in friends to an older and unacceptable group, and frequent hostile reactions in relationships with others, the possibility that he or she is abusing drugs or alcohol, or both, should be considered strongly. Dependence on drugs is a progressive disorder; therefore, prompt identification and intervention are required if serious complications are to be avoided. Routine health assessment of adolescents should include inquiry about the use of cigarettes, alcohol, and other drugs, and about school performance and family and peer rela…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Deterioration in personal habits, hygiene, dress, grooming, speech patterns, and fluency of expression. When an adolescent shows evidence of declining school performance or truancy, a change for the worse in personal habits and grooming, exaggerated mood swings, change in friends to an older and unacceptable group, and frequent hostile reactions in relationships with others, the possibility that he or she is abusing drugs or alcohol, or both, should be considered strongly. Dependence on drugs is a progressive disorder; therefore, prompt identification and intervention are required if serious complications are to be avoided. Routine health assessment of adolescents should include inquiry about the use of cigarettes, alcohol, and other drugs, and about school performance and family and peer rela…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -20114,7 +20114,7 @@ window.OpenPharmacyQuestions = [
         "Sediment"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Concentration techniques include:Sedimentation techniquesFormol-ether concentration techniqueFormol detergent concentration techniqueFloatation techniquesSodium chloride floatation techniquesZinc sulphate floatation techniqueSugar floatation techniqueFormol-ether concentration technique is overall best sedimentation technique. It is rapid and gives good results. The figure shown in reference mentioned clearly shows sediment-containing parasites.",
     "rationales": {},
     "paper": "paper-1",
@@ -20247,7 +20247,7 @@ window.OpenPharmacyQuestions = [
         "Menetrier disease"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Type A/ Autoimmune gastritis: -Site : Fundus & body of stomach - Damage : Parietal cells resulting in: Achlorhydria - |G-cell stimulation - |Gastrin levels -| Neuroendocrine tumor Intrinsic factor deficiency - Malabsorption of vitamin B12 - Megaloblastic anemia /Pernicious anemia",
     "rationales": {},
     "paper": "paper-1",
@@ -20292,7 +20292,7 @@ window.OpenPharmacyQuestions = [
         "Valine"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans: d (Valine) (Ref: Vasudevan, 4th ed, p. 321; 5th ed, p. 16,202; Harper, 23th ed, p. 28Aromatic amino acids are:Phenyl alanineTrypophanTyrosineHistidine",
     "rationales": {},
     "paper": "paper-1",
@@ -20335,8 +20335,8 @@ window.OpenPharmacyQuestions = [
         "High does of vitamin B12"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Ethyl alcohol.",
+    "answer": "D",
+    "explanation": "Source answer key: D. High does of vitamin B12. Source answer key: Ethyl alcohol.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -20425,8 +20425,8 @@ window.OpenPharmacyQuestions = [
         "Drug 'X' will be more suitable to be used as a miotic"
       ]
     ],
-    "answer": "C",
-    "explanation": "Drug X is physostigmine and Drug Y is neostigmine. Physostigmine:- It is rapidly absorbed from g.i.t. and parenteral sites. Applied to the eye, it penetrates cornea freely. It crosses blood-brain barrier and is disposed after hydrolysis by ChE. Neostigmine and congeners:- These are poorly absorbed orally; oral dose is 20-30 times higher than parenteral dose. They do not effectively penetrate cornea or cross blood-brain barrier. They are paially hydrolysed and paially excreted unchanged in urine. Ref:- kd tripathi; pg num:-107,108",
+    "answer": "D",
+    "explanation": "Source answer key: D. Drug 'X' will be more suitable to be used as a miotic. Drug X is physostigmine and Drug Y is neostigmine. Physostigmine:- It is rapidly absorbed from g.i.t. and parenteral sites. Applied to the eye, it penetrates cornea freely. It crosses blood-brain barrier and is disposed after hydrolysis by ChE. Neostigmine and congeners:- These are poorly absorbed orally; oral dose is 20-30 times higher than parenteral dose. They do not effectively penetrate cornea or cross blood-brain barrier. They are paially hydrolysed and paially excreted unchanged in urine. Ref:- kd tripathi; pg num:-107,108",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -20515,8 +20515,8 @@ window.OpenPharmacyQuestions = [
         "Acute paranoia"
       ]
     ],
-    "answer": "A",
-    "explanation": "History of Medical disorder (pneumonia) Followed by disturbances in consciousness (altered sensorium), disorientation (failure to recognize doctor and staff and thinking that he is in jail) and Hallucinations (scorpions attacking) is suggestive of delirium.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Acute delirium. History of Medical disorder (pneumonia) Followed by disturbances in consciousness (altered sensorium), disorientation (failure to recognize doctor and staff and thinking that he is in jail) and Hallucinations (scorpions attacking) is suggestive of delirium.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -20558,8 +20558,8 @@ window.OpenPharmacyQuestions = [
         "b"
       ]
     ],
-    "answer": "A",
-    "explanation": "Wernicke - Korsakoff syndrome (WKS) is due to deficiency of thiamine which can be precipitated by chronic alcoholism (most common), malnutrition (marasmus) due to prolonged starvation, hyperemesis gravidarum, HIV - AIDS, bariatric surgery, hemodialysis for CRF, prolonged intravenous hyperalimentation, and malignancies (gastric carcinoma). Note - It is chronic alcohol abuse that causes WKS (not alcohol withdrawal) :- option b.",
+    "answer": "B",
+    "explanation": "Source answer key: B. ac. Wernicke - Korsakoff syndrome (WKS) is due to deficiency of thiamine which can be precipitated by chronic alcoholism (most common), malnutrition (marasmus) due to prolonged starvation, hyperemesis gravidarum, HIV - AIDS, bariatric surgery, hemodialysis for CRF, prolonged intravenous hyperalimentation, and malignancies (gastric carcinoma). Note - It is chronic alcohol abuse that causes WKS (not alcohol withdrawal) :- option b.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -20648,8 +20648,8 @@ window.OpenPharmacyQuestions = [
         "Atrial fibrillation"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Atrial flutter.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Atrial fibrillation. Source answer key: Atrial flutter.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "organic chemistry",
@@ -21171,11 +21171,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "HCl E. HF Answer: E HF Which of the following molecular hydrocarbons has the lowest boiling point temperature? A. CH3CH2CH2CH2CH3 B. CH3CH2CH2CH3 C. CH3CH2CH3 D. CH3CH3 E. All of these molecular hydro…"
+        "HCl"
+      ],
+      [
+        "E",
+        "HF"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: HCl E. HF Answer: E HF Which of the following molecular hydrocarbons has the lowest boiling point temperature? A. CH3CH2CH2CH2CH3 B. CH3CH2CH2CH3 C. CH3CH2CH3 D. CH3CH3 E. All of these molecular hydro….",
+    "answer": "E",
+    "explanation": "Source answer key: E. HF. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21217,11 +21221,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "(CH3)2CHCH2C(CH3)3 E. (CH3)3CC(CH3)3 Answer: E (CH3)3CC(CH3)3 Which of the following molecules has the hydrogen bonding intermolecular force? I. NH3 II. NF3 III. CH3OCH3 IV. HCl V. CH3CH2OH A. I, IV,…"
+        "(CH3)2CHCH2C(CH3)3"
+      ],
+      [
+        "E",
+        "(CH3)3CC(CH3)3"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: (CH3)2CHCH2C(CH3)3 E. (CH3)3CC(CH3)3 Answer: E (CH3)3CC(CH3)3 Which of the following molecules has the hydrogen bonding intermolecular force? I. NH3 II. NF3 III. CH3OCH3 IV. HCl V. CH3CH2OH A. I, IV,….",
+    "answer": "E",
+    "explanation": "Source answer key: E. (CH3)3CC(CH3)3. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21266,7 +21274,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Source answer key: Covalent bond.",
+    "explanation": "Source answer key: A. Covalent bond. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21310,8 +21318,8 @@ window.OpenPharmacyQuestions = [
         "CH3CH2CH2CH2CH3"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: CH4.",
+    "answer": "D",
+    "explanation": "Source answer key: D. CH3CH2CH2CH2CH3. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21355,8 +21363,8 @@ window.OpenPharmacyQuestions = [
         "CH3F"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: CH3F.",
+    "answer": "A",
+    "explanation": "Source answer key: A. NH3. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21399,7 +21407,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Source answer key: CCl4.",
+    "explanation": "Source answer key: A. CCl4. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21441,8 +21449,8 @@ window.OpenPharmacyQuestions = [
         "H2S"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: CH4.",
+    "answer": "C",
+    "explanation": "Source answer key: C. NH3. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21483,11 +21491,19 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "hydrogen bonding and dipole-dipole forces E. dipole-dipole forces only F. hydrogen bonding only"
+        "hydrogen bonding and dipole-dipole forces"
+      ],
+      [
+        "E",
+        "dipole-dipole forces only"
+      ],
+      [
+        "F",
+        "hydrogen bonding only"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: hydrogen bonding, dipole-dipole force, and dispersion forces.",
+    "answer": "B",
+    "explanation": "Source answer key: B. dipole-dipole forces and dispersion forces. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21531,8 +21547,8 @@ window.OpenPharmacyQuestions = [
         "Ion-dipole forces"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Dipole-dipole forces.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Dispersion forces. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21577,7 +21593,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Source answer key: The intermolecular force that all atoms have because of fluctuations in the electron density of all atoms and molecules..",
+    "explanation": "Source answer key: A. The intermolecular force that all atoms have because of fluctuations in the electron density of all atoms and molecules.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21621,8 +21637,8 @@ window.OpenPharmacyQuestions = [
         "All of these compounds can hydrogen bond"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: CH4.",
+    "answer": "B",
+    "explanation": "Source answer key: B. NH3. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21661,11 +21677,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "linear molecules with one polar bond and the other bond is not polar. E. None of the molecules above are polar."
+        "linear molecules with one polar bond and the other bond is not polar."
+      ],
+      [
+        "E",
+        "None of the molecules above are polar."
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: trigonal bipyramidal molecules (five identical polar bonds).",
+    "answer": "D",
+    "explanation": "Source answer key: D. linear molecules with one polar bond and the other bond is not polar.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21704,11 +21724,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "London forces and H-bonding E. None of these"
+        "London forces and H-bonding"
+      ],
+      [
+        "E",
+        "None of these"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: London forces and H-bonding E. None of these.",
+    "answer": "C",
+    "explanation": "Source answer key: C. London forces and dipole-dipole interactions. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21747,11 +21771,11 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "All of the above Answer: All of the above Which of the following could be done to cause liquid water to become gaseous water? A. The water could be cooled down. B. The pressure of the system could be…"
+        "All of the above"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Capillary action.",
+    "answer": "D",
+    "explanation": "Source answer key: D. All of the above. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21792,11 +21816,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "water has a large capillary action. E. water tends to cover the greatest possible area of the glass."
+        "water has a large capillary action."
+      ],
+      [
+        "E",
+        "water tends to cover the greatest possible area of the glass."
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: cohesive forces are stronger than the adhesive forces..",
+    "answer": "A",
+    "explanation": "Source answer key: A. adhesive forces are stronger than the cohesive forces.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21835,11 +21863,11 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "All of the above Answer: All of the above The property of liquids that has a tendency to minimize their surface area results in what phenomenon? A. Surface tension B. Vaporization C. Hydrogen bonding…"
+        "All of the above"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Surface tension.",
+    "answer": "D",
+    "explanation": "Source answer key: D. All of the above. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21880,11 +21908,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "High boiling point E. Hydrogen bonding"
+        "High boiling point"
+      ],
+      [
+        "E",
+        "Hydrogen bonding"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Low temperature.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Spherical molecular shape. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21923,11 +21955,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "adding heat and raising pressure e. Once the liquid phase is at the freezing point temperature it will convert to the solid phase without adding or removing of heat nor increasing or decreasing pressu…"
+        "adding heat and raising pressure"
+      ],
+      [
+        "E",
+        "Once the liquid phase is at the freezing point temperature it will convert to the solid phase without adding or removing of heat nor increasing or decreasing pressure."
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: adding heat and lowering pressure.",
+    "answer": "C",
+    "explanation": "Source answer key: C. removing heat and raising pressure. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -21966,11 +22002,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Condensation e. sublimation"
+        "Condensation"
+      ],
+      [
+        "E",
+        "sublimation"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Boiling.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Deposition. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22009,11 +22049,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Melting e. freezing"
+        "Melting"
+      ],
+      [
+        "E",
+        "freezing"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Deposition.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Melting. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22055,8 +22099,8 @@ window.OpenPharmacyQuestions = [
         "its vapor pressure equals zero."
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: its vapor pressure equals zero..",
+    "answer": "B",
+    "explanation": "Source answer key: B. the vapor pressure of the liquid equals the surrounding air pressure. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22098,8 +22142,8 @@ window.OpenPharmacyQuestions = [
         "The substance no longer requires energy to convert molecules from the liquid form to the vapor form."
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: The vapor pressure is equal to zero..",
+    "answer": "A",
+    "explanation": "Source answer key: A. The vapor pressure of the substance is the same as the external pressure.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22144,7 +22188,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: ΔHvaporization = -ΔHcondensaion.",
+    "explanation": "Source answer key: B. ΔHvaporization = -ΔHcondensaion. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22189,7 +22233,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: Sublimation.",
+    "explanation": "Source answer key: B. Sublimation. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22231,8 +22275,8 @@ window.OpenPharmacyQuestions = [
         "It is a state where all molecules of a substance are in the liquid form because it is below the boiling point."
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: It is a state where molecules no longer vaporize and no longer condense..",
+    "answer": "A",
+    "explanation": "Source answer key: A. It is a state where the rate of vaporization equals the rate of condensation.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22271,11 +22315,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "C2H6 < Ne < CH3OH < NaCl E. Ne < C2H6 < CH3OH < NaCl Answer E Ne < C2H6 < CH3OH < NaCl In which of the following processes is the kinetic energy decreasing? A. Sublimation B. Vaporizing C. Deposition…"
+        "C2H6 < Ne < CH3OH < NaCl"
+      ],
+      [
+        "E",
+        "Ne < C2H6 < CH3OH < NaCl"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Ne < CH3OH < C2H6 < NaCl.",
+    "answer": "E",
+    "explanation": "Source answer key: E. Ne < C2H6 < CH3OH < NaCl. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22319,8 +22367,8 @@ window.OpenPharmacyQuestions = [
         "D"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: C.",
+    "answer": "B",
+    "explanation": "Source answer key: B. B. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22362,8 +22410,8 @@ window.OpenPharmacyQuestions = [
         "D"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: B.",
+    "answer": "C",
+    "explanation": "Source answer key: C. C. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22405,8 +22453,8 @@ window.OpenPharmacyQuestions = [
         "D"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: C.",
+    "answer": "D",
+    "explanation": "Source answer key: D. D. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22445,11 +22493,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "at the peak of Mt. Everest (tallest mountain in the world). E. in the \"mile high\" city of Denver"
+        "at the peak of Mt. Everest (tallest mountain in the world)."
+      ],
+      [
+        "E",
+        "in the \"mile high\" city of Denver"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: in New Mexico where the pressure is about 710 Torr.",
+    "answer": "D",
+    "explanation": "Source answer key: D. at the peak of Mt. Everest (tallest mountain in the world).. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22488,11 +22540,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Glass (Quartz: SiO2) E. Frozen water (Solid H2O)"
+        "Glass (Quartz: SiO2)"
+      ],
+      [
+        "E",
+        "Frozen water (Solid H2O)"
       ]
     ],
     "answer": "D",
-    "explanation": "Source answer key: Glass (Quartz: SiO2) E. Frozen water (Solid H2O).",
+    "explanation": "Source answer key: D. Glass (Quartz: SiO2). See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22531,11 +22587,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Steel E. Ice Answer: E ice Which of the following is a good electrical and thermal conductor? A. Water B. Wood C. Plastic D. Copper E. rubber"
+        "Steel"
+      ],
+      [
+        "E",
+        "Ice"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Steel E. Ice Answer: E ice Which of the following is a good electrical and thermal conductor? A. Water B. Wood C. Plastic D. Copper E. rubber.",
+    "answer": "E",
+    "explanation": "Source answer key: E. Ice. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22574,11 +22634,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Glass E. Silicone"
+        "Glass"
+      ],
+      [
+        "E",
+        "Silicone"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Glass E. Silicone.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Nickel. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22617,11 +22681,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Metallic E. All 4 types of solids are"
+        "Metallic"
+      ],
+      [
+        "E",
+        "All 4 types of solids are"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Covalent network.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Metallic. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22663,8 +22731,8 @@ window.OpenPharmacyQuestions = [
         "metallic"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: metallic.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Ionic. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22705,11 +22773,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "hard, high melting, a poor electrical conductor. E. soft, high melting, a poor electrical conductor."
+        "hard, high melting, a poor electrical conductor."
+      ],
+      [
+        "E",
+        "soft, high melting, a poor electrical conductor."
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: soft, low melting, a poor electrical conductor..",
+    "answer": "D",
+    "explanation": "Source answer key: D. hard, high melting, a poor electrical conductor.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22748,11 +22820,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "C6H12O6(s) + 6O2(g) → 6CO2(g) + 6H2O(l) E. C(s) + H2O(g) → CO(g) + H2(g)"
+        "C6H12O6(s) + 6O2(g) → 6CO2(g) + 6H2O(l)"
+      ],
+      [
+        "E",
+        "C(s) + H2O(g) → CO(g) + H2(g)"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 2H2O(liq) → 2H2(g) + O2(g).",
+    "answer": "C",
+    "explanation": "Source answer key: C. 2NO2(g) → N2O4(g). See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22791,11 +22867,11 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "2 NO (g) → N2(g) + O2(g) Answer A CH3OH (l) → CH3OH (g) Which element is expected to have the highest standard molar entropy? A. Xe B. Kr C. Ar D. He"
+        "2 NO (g) → N2(g) + O2(g)"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Ag+(aq) + Cl-(aq) → AgCl (s).",
+    "answer": "A",
+    "explanation": "Source answer key: A. CH3OH (l) → CH3OH (g). See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22837,8 +22913,8 @@ window.OpenPharmacyQuestions = [
         "Is always decreasing"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Remains constant.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Is always increasing. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22880,8 +22956,8 @@ window.OpenPharmacyQuestions = [
         "lowering energy (enthalpy) and decreasing entropy."
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: increasing energy (enthalpy) and decreasing entropy..",
+    "answer": "B",
+    "explanation": "Source answer key: B. lowering energy (enthalpy) and increasing entropy.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22922,11 +22998,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "K > 1 E. None of these options are correct Answer D K>1 For a particular chemical reaction ∆H = -6.2 kJ and ∆S = –20 J/K. Under what temperature conditions is the reaction spontaneous? A. When T< -310…"
+        "K > 1"
+      ],
+      [
+        "E",
+        "None of these options are correct"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: K = 0.",
+    "answer": "D",
+    "explanation": "Source answer key: D. K > 1. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -22965,11 +23045,23 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "IV E. V F. I and III G. III and V Answer: G III and V Consider the following reaction: N2H4(liq) + 2H2O2(liq) ↔ N2(g) + 4H2O(g) If ∆Ho = –530 kJ at 298 Kelvin, then A. the reaction will only be sponta…"
+        "IV"
+      ],
+      [
+        "E",
+        "V"
+      ],
+      [
+        "F",
+        "I and III"
+      ],
+      [
+        "G",
+        "III and V"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: II.",
+    "answer": "G",
+    "explanation": "Source answer key: G. III and V. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23011,8 +23103,8 @@ window.OpenPharmacyQuestions = [
         "It would be spontaneous at all temperatures."
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: It would be spontaneous only at low temperatures..",
+    "answer": "A",
+    "explanation": "Source answer key: A. It would never be spontaneous. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23055,7 +23147,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "A",
-    "explanation": "Source answer key: 214.2 kJ.",
+    "explanation": "Source answer key: A. 214.2 kJ. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23094,11 +23186,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Catalyst E. All of the above Answer: E All of the above Which of the following statements best describes the condition(s) needed for reactants to form products? A. The reactant particles must have eno…"
+        "Catalyst"
+      ],
+      [
+        "E",
+        "All of the above"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Type of chemical bonds in the reactant molecules.",
+    "answer": "E",
+    "explanation": "Source answer key: E. All of the above. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23137,11 +23233,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "The reactant particles are moving around at approximately the same speed they would have at lower temperatures. E. There is a greater proportion of reactant particles with enough energy in their colli…"
+        "The reactant particles are moving around at approximately the same speed they would have at lower temperatures."
+      ],
+      [
+        "E",
+        "There is a greater proportion of reactant particles with enough energy in their collisions to overcome the energy of activation, and they are colliding with each other more frequently."
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: The reactant particles are colliding with each other more frequently..",
+    "answer": "E",
+    "explanation": "Source answer key: E. There is a greater proportion of reactant particles with enough energy in their collisions to overcome the energy of activation, and they are colliding with each other more frequently.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23180,11 +23280,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "3 E. 4"
+        "3"
+      ],
+      [
+        "E",
+        "4"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 2.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 3. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23226,8 +23330,8 @@ window.OpenPharmacyQuestions = [
         "Fourth order"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Fourth order.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Second order. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23266,11 +23370,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Fifth order E. Sixth order Answer: E sixth order What will the rate be for the reaction described by the rate law rate = k[A]3 when concentration of A is 2.0 M and the rate constant is {k} M-2s-1? Exp…"
+        "Fifth order"
+      ],
+      [
+        "E",
+        "Sixth order"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Third order.",
+    "answer": "E",
+    "explanation": "Source answer key: E. Sixth order. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23309,11 +23417,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Rate = k[A][B]3[C]0 E. Rate = k[A][B]2[C]0 Answer: E AB2C0 The rate expression for a particular reaction is Rate = k[A]3[B] . If the initial concentration of each reactant (A, B and C) is increased fr…"
+        "Rate = k[A][B]3[C]0"
+      ],
+      [
+        "E",
+        "Rate = k[A][B]2[C]0"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Rate = k[A]2[B]2[C]0.",
+    "answer": "E",
+    "explanation": "Source answer key: E. Rate = k[A][B]2[C]0. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23352,11 +23464,19 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "+0.060 M/s E. +0.120 M/s F. +0.240 M/s Answer: F +0.240 M/s In the reaction (A → 2B) the rate of the reaction increased by a factor of 64 when the concentration of reactant A was increased by a factor…"
+        "+0.060 M/s"
+      ],
+      [
+        "E",
+        "+0.120 M/s"
+      ],
+      [
+        "F",
+        "+0.240 M/s"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: +0.060 M/s E. +0.120 M/s F. +0.240 M/s Answer: F +0.240 M/s In the reaction (A → 2B) the rate of the reaction increased by a factor of 64 when the concentration of reactant A was increased by a factor….",
+    "answer": "F",
+    "explanation": "Source answer key: F. +0.240 M/s. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23398,8 +23518,8 @@ window.OpenPharmacyQuestions = [
         "Third"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Third.",
+    "answer": "B",
+    "explanation": "Source answer key: B. First. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23441,8 +23561,8 @@ window.OpenPharmacyQuestions = [
         "Each step has a rate constant of a similar value."
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Each step has a rate constant of a similar value..",
+    "answer": "C",
+    "explanation": "Source answer key: C. Step 3. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23484,8 +23604,8 @@ window.OpenPharmacyQuestions = [
         "They are all rate determining steps"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Step 3.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Step 2. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23524,11 +23644,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Four step reaction mechanism for an overall exothermic reaction. E. Four step reaction mechanism for an overall endothermic reaction."
+        "Four step reaction mechanism for an overall exothermic reaction."
+      ],
+      [
+        "E",
+        "Four step reaction mechanism for an overall endothermic reaction."
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Three step reaction mechanism for an overall endothermic reaction.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Three step reaction mechanism for an overall exothermic reaction. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23567,11 +23691,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Both Cl and CCl3 are intermediates E. Cl and CHCl3 are intermediates"
+        "Both Cl and CCl3 are intermediates"
+      ],
+      [
+        "E",
+        "Cl and CHCl3 are intermediates"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: CCl3 is an intermediate.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Both Cl and CCl3 are intermediates. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23610,11 +23738,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "The last step, Step 3, is always the rate determining step E. There is no rate determining step"
+        "The last step, Step 3, is always the rate determining step"
+      ],
+      [
+        "E",
+        "There is no rate determining step"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: The last step, Step 3, is always the rate determining step E. There is no rate determining step.",
+    "answer": "C",
+    "explanation": "Source answer key: C. The second step, Step 2, is the rate determining step. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23653,11 +23785,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "2 intermediates and 3 transition states E. 3 intermediates and 3 transition states"
+        "2 intermediates and 3 transition states"
+      ],
+      [
+        "E",
+        "3 intermediates and 3 transition states"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: no intermediates and 2 transition states.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 2 intermediates and 3 transition states. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23696,11 +23832,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "D E. E"
+        "D"
+      ],
+      [
+        "E",
+        "E"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: D E. E.",
+    "answer": "B",
+    "explanation": "Source answer key: B. B. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23739,11 +23879,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "the activation energy of the reverse reaction is decreased. E. All of the above are true. Answer: E all of the above The mechanism for the catalyzed exothermic decomposition of H2O2 (hydrogen peroxide…"
+        "the activation energy of the reverse reaction is decreased."
+      ],
+      [
+        "E",
+        "All of the above are true."
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: the energy barrier for the forward reaction is decreased.",
+    "answer": "E",
+    "explanation": "Source answer key: E. All of the above are true.. See the CHEM 1212 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -23785,7 +23929,7 @@ window.OpenPharmacyQuestions = [
         "Inability for the orientation of sounds"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "(C) Deficiency in interpretation of sounds # Lesion of auditory cortex leads to loss of recognition of total patterns with loss of analysis of properties of sound and sound localisation.> Thus lesion of auditory cortex leads to defect in interpretation of sounds.",
     "rationales": {},
     "paper": "paper-1",
@@ -23828,7 +23972,7 @@ window.OpenPharmacyQuestions = [
         "Appropriate technology"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Norms under Appropriate technology: Technology that is scientifically sound. adaptable to local needs. acceptable to those who apply it and those for whom it is used. can be maintained using the locally available resources. - Shakir's tape used to measure mid-arm circumference of child accept all the above norms.",
     "rationales": {},
     "paper": "paper-1",
@@ -23871,7 +24015,7 @@ window.OpenPharmacyQuestions = [
         "Pulmonary edema"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Because of the ease with which carbon dioxide diffuses across the alveolar membranes, the PaCO2 is a highly reliable indicator of alveolar ventilation. In this postoperative patient with respiratory acidosis and hypoxemia, the hypercarbia is diagnostic of alveolar hypoventilation. Acute hypoxemia can occur with pulmonary embolism, pulmonary edema, and significant atelectasis, but in all those situations the CO2 partial pressures should be normal or reduced as the patient hyperventilates to improve oxygenation. The absorption of gas from the peritoneal cavity may affect transiently the PaCO2 , but should have no effect on oxygenation.",
     "rationales": {},
     "paper": "paper-1",
@@ -24006,8 +24150,8 @@ window.OpenPharmacyQuestions = [
         "HCO3-"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Na+.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Cl-. Source answer key: Na+.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24049,7 +24193,7 @@ window.OpenPharmacyQuestions = [
         "Histidine"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Remember that a buffer is most effective when its pKa is within the pH range of the surrounding medium. Histidine is the only amino acid with good buffering capacity at physiologic pH. The imidazole side chain of histidine has a pKa around 6.0 and can reversibly donate and accept protons at physiologic pH. Arginine and lysine are basic amino acids with pKa's of 12.5 and 10.5, respectively; at physiologic pH both will behave as bases and accept protons. Aspaic acid and glutamic acid are acidic amino acids with pKa's of approximately 4; at physiologic pH they will behave as acids and donate protons. Ref: Rodwell V.W. (2011). Chapter 30. Conversion of Amino Acids to Specialized Products. In D.A…",
     "rationales": {},
     "paper": "paper-1",
@@ -24094,7 +24238,7 @@ window.OpenPharmacyQuestions = [
         "Endocrine tumors"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Clinical causes of osmotic diarrhea that causes an osmolar gap greater than 50 includes lactase deficiency, sorbitol foods, saline cathaics and antacids. Osmotic diarrhea occur when water soluble molecules are poorly absorbed, remain in the intestinal lumen and retain water in the intestine. It usually follows ingestion of osmotically active substances. In this, Stool volume is less than 1 litre /day Diarrhea stops with fasting Stool has an osmolar gap (normal stool osmolar gap is less than 50) Ref: Mayo Clinic Internal Medicine Review, Eighth Edition edited by M. Habermann Thomas, page 262.",
     "rationales": {},
     "paper": "paper-1",
@@ -24139,8 +24283,8 @@ window.OpenPharmacyQuestions = [
         "Close observation only"
       ]
     ],
-    "answer": "B",
-    "explanation": "This patient is in a diabetic ketoacidotic coma. The goals in treating such a patient are to increase the rate of glucose utilization by insulin-dependent tissues, to reverse ketonemia and acidosis, and to replenish fluid imbalances. Oral hypoglycemic agents are commonly prescribed for the maintenance of NIDDM patients and would not be appropriate in an acute setting. Treatment with bicarbonate would result in only a transient elevation of pH. Since this is a life-threatening condition, monitoring the patient without treatment is unacceptable. Ref: D'Alessio D. (2011). Chapter 43. Endocrine Pancreas and Pharmacotherapy of Diabetes Mellitus and Hypoglycemia. In B.C. Knollmann (Ed), Goodman &…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Administration of insulin. This patient is in a diabetic ketoacidotic coma. The goals in treating such a patient are to increase the rate of glucose utilization by insulin-dependent tissues, to reverse ketonemia and acidosis, and to replenish fluid imbalances. Oral hypoglycemic agents are commonly prescribed for the maintenance of NIDDM patients and would not be appropriate in an acute setting. Treatment with bicarbonate would result in only a transient elevation of pH. Since this is a life-threatening condition, monitoring the patient without treatment is unacceptable. Ref: D'Alessio D. (2011). Chapter 43. Endocrine Pancreas and Pharmacotherapy of Diabetes Mellitus and Hypoglycemia. In B.C. Knollmann (Ed), Goodman &…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24182,7 +24326,7 @@ window.OpenPharmacyQuestions = [
         "Aldyhyde carboxylase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Aldehyde dehydrogenaseRef KDT 6th ed. / 386EthanolAlcohol Dehydrogenase-------------------Acetaldehyde Aldehyde Dehydrogenase---------------------Acetate* Disulfiram is an anti-craving agent for alcoholics. It has been used as an aversion technique in alcoholics.* Disulfiram acts by inhibiting aldehyde dehydrogenase. If a person still takes alcohol while on disulfiram treatment, alcohol is metabolized as usual, but acetaldehyde accumulates.* This accumulation of acetaldehyde gives some distressing symptoms like flushing, burning sensation, throbbing headache, perspiration, dizziness, vomiting, confusion and circulatory collapse.* Therefore, it is recommended only for those alcoholics who are…",
     "rationales": {},
     "paper": "paper-1",
@@ -24225,7 +24369,7 @@ window.OpenPharmacyQuestions = [
         "Methotrexate is a weak acid"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Methotrexate is a weak acid and is reabsorbed in acidic urinary pH. Higher plasma concentration may result in toxicity. Therefore, to decrease the reabsorption through renal tubules, high urinary pH must be maintained.",
     "rationales": {},
     "paper": "paper-1",
@@ -24270,7 +24414,7 @@ window.OpenPharmacyQuestions = [
         "11"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans-A i.e., 4.5 Physiological chanses in vaeina durine pres nancy:o The vaginal walls become hypertrophied, edematous and more vascular.o Increased blood supply to venous plexus surrounding the was Us gives bluish colouration of the mucosa jacquemier's sign).o The length of the anterior vaginal wall is increased.o The secretion of vagina becomes copious, thin and curdy white, due to marked exfoliated cells and bacteria,o The pH becomes acidic (3.5 - 6) due to more conversion of glycogen into lactic acid by lactobacillus acidophilus consequent on high estrogen level The acidic pH prevents multiplication of pathogenic organisms,o There is predominance of navicular cells in cluster and plenty'…",
     "rationales": {},
     "paper": "paper-1",
@@ -24313,7 +24457,7 @@ window.OpenPharmacyQuestions = [
         "Carbamazepine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Phenytoin follows nonlinear (or zero-order) kinetics at therapeutic concentrations, because the rate of metabolism is close to the maximum capacity of the enzymes involved Ref-KDT 6/e p31",
     "rationales": {},
     "paper": "paper-1",
@@ -24356,8 +24500,8 @@ window.OpenPharmacyQuestions = [
         "Less drug interaction"
       ]
     ],
-    "answer": "D",
-    "explanation": "* High plasma protein binding (PPB) of a drug decreases its distribution into tissue and thus lower the volume of distribution. * As only free drug can be metabolized or excreted, high PPB usually increases the duration of action. * With higher PPB, there is more chance of getting displaced by other drugs leading to more drug interactions. * Drugs with high plasma protein binding have lesser glomerular filteration as proteins cannot be filtered across the glomerulus.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Decreased glomerular filtration. * High plasma protein binding (PPB) of a drug decreases its distribution into tissue and thus lower the volume of distribution. * As only free drug can be metabolized or excreted, high PPB usually increases the duration of action. * With higher PPB, there is more chance of getting displaced by other drugs leading to more drug interactions. * Drugs with high plasma protein binding have lesser glomerular filteration as proteins cannot be filtered across the glomerulus.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24442,7 +24586,7 @@ window.OpenPharmacyQuestions = [
         "Valine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Histidine plays a key role in making hemoglobin an excellent buffer in red blood cells.",
     "rationales": {},
     "paper": "paper-1",
@@ -24487,7 +24631,7 @@ window.OpenPharmacyQuestions = [
         "Glycine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "As histidine titrates in the physiological pH range it remains stable.",
     "rationales": {},
     "paper": "paper-1",
@@ -24573,8 +24717,8 @@ window.OpenPharmacyQuestions = [
         "3-Jan"
       ]
     ],
-    "answer": "D",
-    "explanation": "The healthy vagina of a woman of child-bearing age is acidic, with a pH normally ranging between 3.8 and 4.5. This is due to the degradation of glycogen to the lactic acid by enzymes secreted by the Doderlein's bacillus. This is a normal commensal of the vagina. The acidity retards the growth of many strains of dangerous microbes.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 4-4.5. The healthy vagina of a woman of child-bearing age is acidic, with a pH normally ranging between 3.8 and 4.5. This is due to the degradation of glycogen to the lactic acid by enzymes secreted by the Doderlein's bacillus. This is a normal commensal of the vagina. The acidity retards the growth of many strains of dangerous microbes.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24616,8 +24760,8 @@ window.OpenPharmacyQuestions = [
         "3.1"
       ]
     ],
-    "answer": "B",
-    "explanation": "Buffers consist of solutions of acid-base conjugate pairs, such as acetic acid and acetate.a. Near its pK, a buffer maintains the pH of a solution, resisting changes due to addition of acids or bases. For a weak acid, the pK is often designated as pKa .b. At the pKa , and are equal, and the buffer has its maximal capacity.The pH and pK are related as follows: pH=pK+log(/). Thus, when the concentrations of a weak acid and its conjugate base are equal, the pH equals the pK. The pK is defined as the pH at which =",
+    "answer": "C",
+    "explanation": "Source answer key: C. 3.5. Buffers consist of solutions of acid-base conjugate pairs, such as acetic acid and acetate.a. Near its pK, a buffer maintains the pH of a solution, resisting changes due to addition of acids or bases. For a weak acid, the pK is often designated as pKa .b. At the pKa , and are equal, and the buffer has its maximal capacity.The pH and pK are related as follows: pH=pK+log(/). Thus, when the concentrations of a weak acid and its conjugate base are equal, the pH equals the pK. The pK is defined as the pH at which =",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24661,7 +24805,7 @@ window.OpenPharmacyQuestions = [
         "CNS ischemic response"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Baroreceptor system opposes either increases or decreases in aerial pressure, it is called a pressure buffer system, and the nerves from the baroreceptors are called buffer nerves.Ref: Guyton and Hall textbook of medical physiology 13th edition. Page: 221",
     "rationales": {},
     "paper": "paper-1",
@@ -24706,8 +24850,8 @@ window.OpenPharmacyQuestions = [
         "Compensatory metabolic alkalosis"
       ]
     ],
-    "answer": "B",
-    "explanation": "As a compensatory mechanism, metabolic acidosis leads to alveolar hyperventilation with a fall in PaCO2. Normally, PaCO2 falls by 1-1.3 mm Hg for every 1-mEq/L fall in serum HCO3- concentration, a compensatory response that can occur fairly quickly Ref Davidson 23rd edition pg 345",
+    "answer": "C",
+    "explanation": "Source answer key: C. Compensatory metabolic acidosis. As a compensatory mechanism, metabolic acidosis leads to alveolar hyperventilation with a fall in PaCO2. Normally, PaCO2 falls by 1-1.3 mm Hg for every 1-mEq/L fall in serum HCO3- concentration, a compensatory response that can occur fairly quickly Ref Davidson 23rd edition pg 345",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24749,8 +24893,8 @@ window.OpenPharmacyQuestions = [
         "N/3 saline + 5% dextrose"
       ]
     ],
-    "answer": "D",
-    "explanation": "* Hyponatremic dehydration is treated by correction of intravascular volume with isotonic fluid (NS or LR). * An overly rapid (>12 mEq/L over the first 24 hr) or overcorrection of serum sodium concentration (>135 mEq/L) is associated with an increased risk of central pontine myelinolysis.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Normal saline. * Hyponatremic dehydration is treated by correction of intravascular volume with isotonic fluid (NS or LR). * An overly rapid (>12 mEq/L over the first 24 hr) or overcorrection of serum sodium concentration (>135 mEq/L) is associated with an increased risk of central pontine myelinolysis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24792,8 +24936,8 @@ window.OpenPharmacyQuestions = [
         "7"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 7.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 4.5. Source answer key: 7.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -24835,7 +24979,7 @@ window.OpenPharmacyQuestions = [
         "Carboxypeptidase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Pepsin is an enzyme that breaks down proteins into smaller peptides (that is, a protease). It is produced in the stomach and is one of the main digestive enzymes in the digestive systems of humans and many other animals, where it helps digest the proteins in food. Pepsin exhibits maximal activity at pH 2.0 and is inactive at pH 6.5 and above, however, pepsin is not fully denatured or irreversibly inactivated. Therefore, pepsin in the solution of up to pH 8.0 can be reactivated upon re-acidification. Lowering pH does not denature many proteins. Unfolding, yes; denaturation, no. Hydrogen bonds play an important role in stabilizing pepsin. Lowering pH does not necessarily break the hydrogen bond…",
     "rationales": {},
     "paper": "paper-1",
@@ -24964,7 +25108,7 @@ window.OpenPharmacyQuestions = [
         "16 drops/min"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Dose to be given = 10 mcg/min As, one ampoule (5 ml) is mixed with normal saline to make 500 ml volume, Means 500 ml of solution contains = 5*5 = 25 mg NTG = 25000 mcg NTG 25mg -----500ml 1mg----500/25 10mcg -10*10 -3-----0.2ml So, we need to infuse 0.2 ml/min of the solution As, 1 ml = 60 drops So, 0.2 ml = 60/1 * 0.2 = 12 drops So, we need to infuse 12 drops/min",
     "rationales": {},
     "paper": "paper-1",
@@ -25050,7 +25194,7 @@ window.OpenPharmacyQuestions = [
         "Valine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "At physiological pH basic aminoacid (positive charged a.a) will move slowest towards anode (positively charged electrode).Basic amino acids are: Arginine (Most basic), Lysine and Histidine (Weakly basic)",
     "rationales": {},
     "paper": "paper-1",
@@ -25267,7 +25411,7 @@ window.OpenPharmacyQuestions = [
         "420.4 mm Hg"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Alveolar air equation: Using the alveolar air equation - PAO2 = - Data: Fraction of O2 in the inspired air = 80% Barometric pressure = 760 mm Hg (sea level) Water vapor pressure = 47 mm Hg Respiratory quotient = 0.8 Hence, Alveolar PO2 = - = 570.4 - 50 = 520.4 mm Hg Aerial PO2 is given = 100 mm Hg Hence, (A - a) DO2 = 520.4 - 100 = 420.4 mm Hg",
     "rationales": {},
     "paper": "paper-1",
@@ -25310,8 +25454,8 @@ window.OpenPharmacyQuestions = [
         "Metabolic alkalosis"
       ]
     ],
-    "answer": "D",
-    "explanation": "pH < 7.35 is acidosis ; pH >7.45 is alkalosisPrimary change in HCO3- is termed as metabolic (normal range: 22-30 meq/l)If there is acidosis and HCO3- decreased, the problem is a metabolic oneIf in acidosis HCO3- is increased or normal, the problem is compensatory metabolicPrimary change in CO2 is termed as respiratory (normal range: 35-45 mmHg)If in acidosis CO2 is raised, the problem is respiratoryIf in acidosis CO2 is decreased or normal, the problem is compensatory respiratorypH is low, HCO3- is high, Pa CO2 is high.Ref: Harrison's 18/e p363, 17/e p384, 2061",
+    "answer": "A",
+    "explanation": "Source answer key: A. Respiratory acidosis. pH < 7.35 is acidosis ; pH >7.45 is alkalosisPrimary change in HCO3- is termed as metabolic (normal range: 22-30 meq/l)If there is acidosis and HCO3- decreased, the problem is a metabolic oneIf in acidosis HCO3- is increased or normal, the problem is compensatory metabolicPrimary change in CO2 is termed as respiratory (normal range: 35-45 mmHg)If in acidosis CO2 is raised, the problem is respiratoryIf in acidosis CO2 is decreased or normal, the problem is compensatory respiratorypH is low, HCO3- is high, Pa CO2 is high.Ref: Harrison's 18/e p363, 17/e p384, 2061",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -25353,7 +25497,7 @@ window.OpenPharmacyQuestions = [
         "Volunteer program"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Health systems are made up of: * \"Horizontal system\" of general services, providing prevention and care for prevailing health problems. \"Veical programmes\" for specific health conditions .",
     "rationales": {},
     "paper": "paper-1",
@@ -25396,7 +25540,7 @@ window.OpenPharmacyQuestions = [
         "2 pKa"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Buffering capacity of a buffer is most effective when the concentrations of salt and acid are equal or when pH = pKa. The effective range of a buffer is 1 pH unit higher or lower than pKa. pKa refers to the pH at which the concentration of the acid equals that of the base. Phosphate buffer is effective at a wide range because it has three pKa values. Ref: Vasudevan, Biochemistry, 3rd Edition, Page 320",
     "rationales": {},
     "paper": "paper-1",
@@ -25527,8 +25671,8 @@ window.OpenPharmacyQuestions = [
         "Plasma proteins"
       ]
     ],
-    "answer": "B",
-    "explanation": "Aerobic metabolism produces 13,000 to 24,000 mmol CO2 per day. This yields close to that amount of H+ ions produced per day the reaction: CO2 + H2O - H2CO3 - H+ + HCO3-At the tissues, CO2 diffuses into the red blood cells, where the enzyme carbonic anhydrase accelerates the above reaction.The H+ produced is buffered mainly by a large amount of hemoglobin in the red blood cells.Bicarbonate is not an effective buffer of volatile acid (from CO2).",
+    "answer": "C",
+    "explanation": "Source answer key: C. Red blood cell hemoglobin. Aerobic metabolism produces 13,000 to 24,000 mmol CO2 per day. This yields close to that amount of H+ ions produced per day the reaction: CO2 + H2O - H2CO3 - H+ + HCO3-At the tissues, CO2 diffuses into the red blood cells, where the enzyme carbonic anhydrase accelerates the above reaction.The H+ produced is buffered mainly by a large amount of hemoglobin in the red blood cells.Bicarbonate is not an effective buffer of volatile acid (from CO2).",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -25572,8 +25716,8 @@ window.OpenPharmacyQuestions = [
         "Bacterial infection in the pleural space"
       ]
     ],
-    "answer": "B",
-    "explanation": "Clinical conditions associated with either an increase in hydrostatic pressure (such as congestive heart failure) or a decrease in oncotic pressure (such as nephrotic syndrome) are associated with transudative pleural effusions. This patient's pleural fluid is exudative by all three of the Light criteria: pleural fluid/serum protein ratio is greater than 0.5, pleural fluid LDH/serum LDH ratio is greater than 0.6, and pleural fluid LDH is greater than two-thirds the upper limits of the normal serum LDH. The most likely explanation for an exudative pleural effusion in the setting of an acute pneumonia is a parapneumonic effusion. Parapneumonic effusions occur in about 40% of patients with bact…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Increased permeability of visceral pleural membrane capillaries. Clinical conditions associated with either an increase in hydrostatic pressure (such as congestive heart failure) or a decrease in oncotic pressure (such as nephrotic syndrome) are associated with transudative pleural effusions. This patient's pleural fluid is exudative by all three of the Light criteria: pleural fluid/serum protein ratio is greater than 0.5, pleural fluid LDH/serum LDH ratio is greater than 0.6, and pleural fluid LDH is greater than two-thirds the upper limits of the normal serum LDH. The most likely explanation for an exudative pleural effusion in the setting of an acute pneumonia is a parapneumonic effusion. Parapneumonic effusions occur in about 40% of patients with bact…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -25615,8 +25759,8 @@ window.OpenPharmacyQuestions = [
         "Compensatory metabolic alkalosis"
       ]
     ],
-    "answer": "B",
-    "explanation": "First step Determine whether it is acidosis or alkalosis Increase in pH suggests alkalosis Second step Look at CO2 or HCO3- to determine the cause Decreased PCO2 suggests respiratory alkalosis Respiratory alkalosis Respiratory alkalosis occurs because CO2 is blown off in excess equation shifts to left and H+ conc. decrease which leads to alkalosis. Now the kidneys compensate for this alkalosis by excreting more HCOO3-. This shifts the equation to right thus H+ conc. decreases.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Compensatory metabolic acidosis. First step Determine whether it is acidosis or alkalosis Increase in pH suggests alkalosis Second step Look at CO2 or HCO3- to determine the cause Decreased PCO2 suggests respiratory alkalosis Respiratory alkalosis Respiratory alkalosis occurs because CO2 is blown off in excess equation shifts to left and H+ conc. decrease which leads to alkalosis. Now the kidneys compensate for this alkalosis by excreting more HCOO3-. This shifts the equation to right thus H+ conc. decreases.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -25658,7 +25802,7 @@ window.OpenPharmacyQuestions = [
         "2 atm."
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "According to the Van't Hoff equation, an ideal solution containing 1 mole of dissolved particles per liter of solvent at 0deg C will have an osmotic pressure of 22.4 atm Ref guyton and hall textbook of medical physiology 12/e pg159",
     "rationales": {},
     "paper": "paper-1",
@@ -25746,8 +25890,8 @@ window.OpenPharmacyQuestions = [
         "7.2"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 7.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 7.2. Source answer key: 7.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "physical chemistry",
@@ -25789,7 +25933,7 @@ window.OpenPharmacyQuestions = [
         "Rifampicin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Enzyme Inducers G Griseofulvin P Phenytoin R Rifampicin S Smoking Cell Carbamazepine Phone Phenobarbitone Rifampicin induces the following cytochrome enzymes: CYP3A4 CYP1A2 CYP2C9 CYP2C19",
     "rationales": {},
     "paper": "paper-1",
@@ -26270,8 +26414,8 @@ window.OpenPharmacyQuestions = [
         "A sugar cube"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: A glass of water.",
+    "answer": "C",
+    "explanation": "Source answer key: C. A bowl of Halloween candy. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26313,8 +26457,8 @@ window.OpenPharmacyQuestions = [
         "A sugar cube"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: A bowl of Halloween candy.",
+    "answer": "A",
+    "explanation": "Source answer key: A. A glass of lemonade. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26356,8 +26500,8 @@ window.OpenPharmacyQuestions = [
         "A piece of construction paper is yellow."
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Nitroglycerin explodes easily..",
+    "answer": "D",
+    "explanation": "Source answer key: D. A piece of construction paper is yellow.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26399,8 +26543,8 @@ window.OpenPharmacyQuestions = [
         "Water boils at 100.0 °C."
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Water boils at 100.0 °C..",
+    "answer": "A",
+    "explanation": "Source answer key: A. Gasoline is flammable.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26442,8 +26586,8 @@ window.OpenPharmacyQuestions = [
         "Stomach acid digesting a piece of food."
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: A nail rusting as it gets rained on over time..",
+    "answer": "B",
+    "explanation": "Source answer key: B. Dissolving sugar and lemon juice into water to make lemonade.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26485,8 +26629,8 @@ window.OpenPharmacyQuestions = [
         "Sugar being dissolved into a cup of coffee"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: A seed being grinded into powder using a mortar and pestle.",
+    "answer": "C",
+    "explanation": "Source answer key: C. A plant producing sugar from water and carbon dioxide. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26529,7 +26673,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Source answer key: A container of water contains 2 liters of water..",
+    "explanation": "Source answer key: C. A container of water contains 2 liters of water.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26571,8 +26715,8 @@ window.OpenPharmacyQuestions = [
         "A water sample weighs 0.55 pounds."
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: A water sample has a mass of 250 grams..",
+    "answer": "B",
+    "explanation": "Source answer key: B. A water sample has a temperature of 25.0°C.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26614,8 +26758,8 @@ window.OpenPharmacyQuestions = [
         "seconds"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Meters.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Yards. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26657,8 +26801,8 @@ window.OpenPharmacyQuestions = [
         "Liters"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Miles.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Meters. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26700,8 +26844,8 @@ window.OpenPharmacyQuestions = [
         "Ounces"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Pounds.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Kilograms. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26743,8 +26887,8 @@ window.OpenPharmacyQuestions = [
         "Newtons"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Joules.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Kelvin. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26786,8 +26930,8 @@ window.OpenPharmacyQuestions = [
         "4.630 x 105"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 4.630 x 104.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 4.630 x 10-4. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26826,11 +26970,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "8.405 x 106 e. 8.405000 x 106"
+        "8.405 x 106"
+      ],
+      [
+        "E",
+        "8.405000 x 106"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 8.405 x 104.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 8.405 x 106. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26869,11 +27017,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "4.2 x 103 e. 4.2 x 102"
+        "4.2 x 103"
+      ],
+      [
+        "E",
+        "4.2 x 102"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 4.2 x 103 e. 4.2 x 102.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 4.0200 x 103. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26915,8 +27067,8 @@ window.OpenPharmacyQuestions = [
         "1.076 x 10-3"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 1.76 x 10-2.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 1.076 x 10-3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26955,11 +27107,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "3.7g, 5.4 g, 4.8 g, 5.9 g, 6.8 g e. 11.8 g, 10.7 g, 11.4 g, 10.1 g, 12.5 g"
+        "3.7g, 5.4 g, 4.8 g, 5.9 g, 6.8 g"
+      ],
+      [
+        "E",
+        "11.8 g, 10.7 g, 11.4 g, 10.1 g, 12.5 g"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 3.7g, 5.4 g, 4.8 g, 5.9 g, 6.8 g e. 11.8 g, 10.7 g, 11.4 g, 10.1 g, 12.5 g.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 9.4 g, 9.5g, 9.5 g, 9.6 g, 9.5 g. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -26998,11 +27154,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "3.7g, 5.4 g, 4.8 g, 5.9 g, 6.8 g e. 11.8 g, 10.7 g, 11.4 g, 10.1 g, 12.5 g"
+        "3.7g, 5.4 g, 4.8 g, 5.9 g, 6.8 g"
+      ],
+      [
+        "E",
+        "11.8 g, 10.7 g, 11.4 g, 10.1 g, 12.5 g"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 9.4 g, 9.5g, 9.5 g, 9.6 g, 9.5 g.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 10.7 g, 9.3 g, 10.5 g, 9.1 g, 10.3 g. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27041,11 +27201,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "5 e. 6"
+        "5"
+      ],
+      [
+        "E",
+        "6"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 2.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 4. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27087,8 +27251,8 @@ window.OpenPharmacyQuestions = [
         "5"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 4.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 5. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27130,8 +27294,8 @@ window.OpenPharmacyQuestions = [
         "5"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 5.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27170,11 +27334,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "1.52 g/mL e. 1.517 g/mL"
+        "1.52 g/mL"
+      ],
+      [
+        "E",
+        "1.517 g/mL"
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: 1.5 g/mL.",
+    "explanation": "Source answer key: B. 1.5 g/mL. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27213,11 +27381,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "1.75 g/mL e. 1.748 g/mL"
+        "1.75 g/mL"
+      ],
+      [
+        "E",
+        "1.748 g/mL"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 1.7 g/mL.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 1.75 g/mL. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27256,11 +27428,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "23.30 g/mol e. 23.31 g/mol Answer: E Which is the correct answer with the correct number of significant figures for the following problem: 24.2 cm + 2.13 cm + 135.1 cm a. 160 cm b. 161 cm c. 161.4 cm…"
+        "23.30 g/mol"
+      ],
+      [
+        "E",
+        "23.31 g/mol"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 23.30 g/mol e. 23.31 g/mol Answer: E Which is the correct answer with the correct number of significant figures for the following problem: 24.2 cm + 2.13 cm + 135.1 cm a. 160 cm b. 161 cm c. 161.4 cm….",
+    "answer": "E",
+    "explanation": "Source answer key: E. 23.31 g/mol. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27303,7 +27479,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Source answer key: 79 mL.",
+    "explanation": "Source answer key: C. 79 mL. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27345,8 +27521,8 @@ window.OpenPharmacyQuestions = [
         "67.6 m"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 68 m.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 70 m. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27388,8 +27564,8 @@ window.OpenPharmacyQuestions = [
         "They must be made of only one type of atom."
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: They must have the exact same mass..",
+    "answer": "B",
+    "explanation": "Source answer key: B. They must have the same ratio of atoms.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27428,11 +27604,19 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Sample X and Y e. Sample X and Z f. Sample Y and Z"
+        "Sample X and Y"
+      ],
+      [
+        "E",
+        "Sample X and Z"
+      ],
+      [
+        "F",
+        "Sample Y and Z"
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: Sample W and Y.",
+    "explanation": "Source answer key: B. Sample W and Y. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27474,8 +27658,8 @@ window.OpenPharmacyQuestions = [
         "Positron"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Neutron.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Electron. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27517,8 +27701,8 @@ window.OpenPharmacyQuestions = [
         "The proton and neutron are of similar mass."
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: The electron moves at a speed close to that of the speed of light..",
+    "answer": "B",
+    "explanation": "Source answer key: B. The electron has a charge of 1.6 x 10-19 C.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27560,8 +27744,8 @@ window.OpenPharmacyQuestions = [
         "Neutrons have a significantly larger mass than protons."
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Protons have a positive charge while neutrons have a negative charge..",
+    "answer": "A",
+    "explanation": "Source answer key: A. Protons have a positive charge while neutrons do not have a charge.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27600,11 +27784,19 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "It is negatively charged and is located outside the nucleus. e. It is positively charged and is located in the nucleus. f. It is positively charged and is located outside the nucleus Answer: E Which i…"
+        "It is negatively charged and is located outside the nucleus."
+      ],
+      [
+        "E",
+        "It is positively charged and is located in the nucleus."
+      ],
+      [
+        "F",
+        "It is positively charged and is located outside the nucleus"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: It does not have a charge and is located in the nucleus..",
+    "answer": "E",
+    "explanation": "Source answer key: E. It is positively charged and is located in the nucleus.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27645,11 +27837,19 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "It is negatively charged and is located outside the nucleus. E. It is positively charged and is located in the nucleus. F. It is positively charged and is located outside the nucleus"
+        "It is negatively charged and is located outside the nucleus."
+      ],
+      [
+        "E",
+        "It is positively charged and is located in the nucleus."
+      ],
+      [
+        "F",
+        "It is positively charged and is located outside the nucleus"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: It does not have a charge and is located in the nucleus..",
+    "answer": "D",
+    "explanation": "Source answer key: D. It is negatively charged and is located outside the nucleus.. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27690,11 +27890,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Fe+ e. Fe2+ Answer: E What is the mass number of an atom/ion that has {X} neutrons, {Y} protons, and {Z} electrons? Answer: {X}+{Y} What is the charge of an atom/ion that has {x} neutrons, {y} protons…"
+        "Fe+"
+      ],
+      [
+        "E",
+        "Fe2+"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Fe+ e. Fe2+ Answer: E What is the mass number of an atom/ion that has {X} neutrons, {Y} protons, and {Z} electrons? Answer: {X}+{Y} What is the charge of an atom/ion that has {x} neutrons, {y} protons….",
+    "answer": "E",
+    "explanation": "Source answer key: E. Fe2+. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27733,11 +27937,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "6.02 x 1023 mols e. 1.20 x 1024 mols"
+        "6.02 x 1023 mols"
+      ],
+      [
+        "E",
+        "1.20 x 1024 mols"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 6.02 x 1023 mols e. 1.20 x 1024 mols.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 0.500 mols. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27776,11 +27984,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Fluorine e. Boron"
+        "Fluorine"
+      ],
+      [
+        "E",
+        "Boron"
       ]
     ],
     "answer": "A",
-    "explanation": "Source answer key: Nitrogen.",
+    "explanation": "Source answer key: A. Nitrogen. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27822,8 +28034,8 @@ window.OpenPharmacyQuestions = [
         "3.3 x 1027"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 3.3 x 1027.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 3.1 x 10-19. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27865,8 +28077,8 @@ window.OpenPharmacyQuestions = [
         "Blue, 460 nm"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Yellow, 590 nm.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Blue, 460 nm. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27908,8 +28120,8 @@ window.OpenPharmacyQuestions = [
         "Blue, 460 nm"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Blue, 460 nm.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Red, 650 nm. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27951,8 +28163,8 @@ window.OpenPharmacyQuestions = [
         "184.0"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 3.062 x 10-28.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 184.0. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -27994,8 +28206,8 @@ window.OpenPharmacyQuestions = [
         "n = 5 -> n = 1"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: n = 5 -> n = 1.",
+    "answer": "A",
+    "explanation": "Source answer key: A. n = 2 -> n = 1. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28037,8 +28249,8 @@ window.OpenPharmacyQuestions = [
         "n = 6 -> n = 2"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: n = 3 -> n = 2.",
+    "answer": "D",
+    "explanation": "Source answer key: D. n = 6 -> n = 2. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28080,8 +28292,8 @@ window.OpenPharmacyQuestions = [
         "121.6 nm"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 121.6 nm.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 97.2 nm. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28124,7 +28336,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: 434.0 nm.",
+    "explanation": "Source answer key: B. 434.0 nm. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28166,8 +28378,8 @@ window.OpenPharmacyQuestions = [
         "656.5 nm"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 434.0 nm.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 656.5 nm. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28209,8 +28421,8 @@ window.OpenPharmacyQuestions = [
         "2, 2, 1, ½"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 2, 2, 1, ½.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 2, 1, 1, ½. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28253,7 +28465,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Source answer key: 3, 3, 1, ½.",
+    "explanation": "Source answer key: C. 3, 3, 1, ½. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28295,8 +28507,8 @@ window.OpenPharmacyQuestions = [
         "n =0 and l =2"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: n =2 and l =2.",
+    "answer": "A",
+    "explanation": "Source answer key: A. n =2 and l =0. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28340,8 +28552,8 @@ window.OpenPharmacyQuestions = [
         "n =4 and l =3"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: n =4 and l =0.",
+    "answer": "C",
+    "explanation": "Source answer key: C. n =4 and l =2. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28385,8 +28597,8 @@ window.OpenPharmacyQuestions = [
         "n =4 and l =3"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: n =4 and l =2.",
+    "answer": "D",
+    "explanation": "Source answer key: D. n =4 and l =3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28430,8 +28642,8 @@ window.OpenPharmacyQuestions = [
         "[Ar]3d6"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: [Ar]3d6.",
+    "answer": "B",
+    "explanation": "Source answer key: B. [Ar]4s13d5. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28476,7 +28688,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: [Ar]4s13d10.",
+    "explanation": "Source answer key: B. [Ar]4s13d10. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28517,11 +28729,11 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "[Ar]3d6 Answer D [Ar]3d6 Select the correct ground state electron configuration for Cr3+. A. [Ar]3d3 B. [Ar]4s13d2 C. [Ar]4s23d1 D. [Ar]4s13d5"
+        "[Ar]3d6"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: [Ar]4s13d5.",
+    "answer": "D",
+    "explanation": "Source answer key: D. [Ar]3d6. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28565,8 +28777,8 @@ window.OpenPharmacyQuestions = [
         "[He]2s22p43s2"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: [He]2s22p4.",
+    "answer": "C",
+    "explanation": "Source answer key: C. [He]2s22p6. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28607,11 +28819,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "K E. Rb"
+        "K"
+      ],
+      [
+        "E",
+        "Rb"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Na.",
+    "answer": "A",
+    "explanation": "Source answer key: A. H. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28650,11 +28866,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "S E. He"
+        "S"
+      ],
+      [
+        "E",
+        "He"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: O.",
+    "answer": "D",
+    "explanation": "Source answer key: D. S. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28696,8 +28916,8 @@ window.OpenPharmacyQuestions = [
         "Ca2+"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Ca2+.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Ca. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28739,8 +28959,8 @@ window.OpenPharmacyQuestions = [
         "Ca2+"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Ca.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Mg2+. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28779,11 +28999,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "K-(g) → K(g) + e- E. K+(g) → K2+(g) + e-"
+        "K-(g) → K(g) + e-"
+      ],
+      [
+        "E",
+        "K+(g) → K2+(g) + e-"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: K+(g) + e- → K(g).",
+    "answer": "A",
+    "explanation": "Source answer key: A. K(g) → K+(g) + e-. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28822,11 +29046,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "K-(g) → K(g) + e- E. K+(g) → K2+(g) + e- Answer: E K+(g) → K2+(g) + e- Which of the following atoms has the largest FIRST ionization energy? A. O B. S C. Cl D. Br E. Ne Answer: E Ne Which of the follo…"
+        "K-(g) → K(g) + e-"
+      ],
+      [
+        "E",
+        "K+(g) → K2+(g) + e-"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: K(g) → K+(g) + e-.",
+    "answer": "E",
+    "explanation": "Source answer key: E. K+(g) → K2+(g) + e-. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28865,11 +29093,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Si E. P"
+        "Si"
+      ],
+      [
+        "E",
+        "P"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Al.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Na. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28911,8 +29143,8 @@ window.OpenPharmacyQuestions = [
         "Smallest, smallest"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Largest, largest.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Largest, smallest. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28951,11 +29183,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Cl(g) + e- → Cl-(g) E. Cl-(g) → Cl(g) + e-"
+        "Cl(g) + e- → Cl-(g)"
+      ],
+      [
+        "E",
+        "Cl-(g) → Cl(g) + e-"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Cl+(g) + e- → Cl(g).",
+    "answer": "D",
+    "explanation": "Source answer key: D. Cl(g) + e- → Cl-(g). See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -28997,8 +29233,8 @@ window.OpenPharmacyQuestions = [
         "Chalcogens"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Chalcogens.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Halogens. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29039,11 +29275,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Transition metal E. Chalcogen"
+        "Transition metal"
+      ],
+      [
+        "E",
+        "Chalcogen"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Halogen.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Alkali metal. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29085,8 +29325,8 @@ window.OpenPharmacyQuestions = [
         "Alkali metal, smallest"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Alkaline earth metal, largest.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Alkali metal, smallest. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29128,8 +29368,8 @@ window.OpenPharmacyQuestions = [
         "Na3O"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: NaO.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Na2O. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29168,11 +29408,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Al3O2 E. Al2O3 Answer: E Al2O3 What is the formula of the compound formed by the following ions, Ca2+ and PO43-? A. CaPO4 B. Ca2PO4 C. Ca(PO4)3 D. Ca3(PO4)2 E. Ca2(PO4)3"
+        "Al3O2"
+      ],
+      [
+        "E",
+        "Al2O3"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Al3O.",
+    "answer": "E",
+    "explanation": "Source answer key: E. Al2O3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29211,11 +29455,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "7. 6 E. 6, 7 Answer; D 7, 6 Select the correct ground state electron configuration for Fe2+. E. [Ar]4s23d6 F. [Ar]4s23d4 G. [Ar]4s13d5 H. [Ar]3d6 Answer D [Ar]3d6 Select the correct ground state elect…"
+        "7. 6"
+      ],
+      [
+        "E",
+        "6, 7"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 2, 7.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 7. 6. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29254,11 +29502,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "-3 E. -2"
+        "-3"
+      ],
+      [
+        "E",
+        "-2"
       ]
     ],
     "answer": "C",
-    "explanation": "Source answer key: +3.",
+    "explanation": "Source answer key: C. +3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29300,8 +29552,8 @@ window.OpenPharmacyQuestions = [
         "N"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: O.",
+    "answer": "A",
+    "explanation": "Source answer key: A. F. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29343,8 +29595,8 @@ window.OpenPharmacyQuestions = [
         "Ozone (O3)"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Sodium oxide (Na2O).",
+    "answer": "B",
+    "explanation": "Source answer key: B. Sodium peroxide (Na2O2). See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29389,7 +29641,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: O-H.",
+    "explanation": "Source answer key: B. O-H. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29431,8 +29683,8 @@ window.OpenPharmacyQuestions = [
         "Copper (II) sulfite"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Copper (II) sulfate.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Copper (I) sulfate. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29474,8 +29726,8 @@ window.OpenPharmacyQuestions = [
         "Copper (II) sulfite"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Copper (I) sulfate.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Copper (II) sulfate. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29514,11 +29766,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Ca2(SO4)3.2H2O E. Ca3(SO4)2.2H2O"
+        "Ca2(SO4)3.2H2O"
+      ],
+      [
+        "E",
+        "Ca3(SO4)2.2H2O"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Ca2SO4.2H2O.",
+    "answer": "A",
+    "explanation": "Source answer key: A. CaSO4.2H2O. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29557,11 +29813,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "MX3 E. M3X"
+        "MX3"
+      ],
+      [
+        "E",
+        "M3X"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: MX2.",
+    "answer": "C",
+    "explanation": "Source answer key: C. MX. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29602,11 +29862,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Ca2(PO4)3 E. Ca3(PO4)2 Answer: E Ca3(PO4)2 What is the correct chemical formula for calcium acetate? A. CaC2H3O2 B. Ca(C2H3O2)2 C. Ca2C2H3O2 D. Ca3(C2H3O2)2"
+        "Ca2(PO4)3"
+      ],
+      [
+        "E",
+        "Ca3(PO4)2"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Ca(PO4)2.",
+    "answer": "E",
+    "explanation": "Source answer key: E. Ca3(PO4)2. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29649,7 +29913,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: 2 lone pairs of electrons and a triple bond.",
+    "explanation": "Source answer key: B. 2 lone pairs of electrons and a triple bond. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29692,7 +29956,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: 3.",
+    "explanation": "Source answer key: B. 3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29737,8 +30001,8 @@ window.OpenPharmacyQuestions = [
         "Both SF4 and XeF4"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: SF4.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Both SF4 and XeF4. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29780,8 +30044,8 @@ window.OpenPharmacyQuestions = [
         "+3"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 0.",
+    "answer": "C",
+    "explanation": "Source answer key: C. +1. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29820,11 +30084,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "+1 E. +2"
+        "+1"
+      ],
+      [
+        "E",
+        "+2"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 0.",
+    "answer": "B",
+    "explanation": "Source answer key: B. -1. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29863,11 +30131,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "+1 E. +2"
+        "+1"
+      ],
+      [
+        "E",
+        "+2"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: -1.",
+    "answer": "A",
+    "explanation": "Source answer key: A. -2. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29906,11 +30178,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "-1, +1 E. +1, -1"
+        "-1, +1"
+      ],
+      [
+        "E",
+        "+1, -1"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 0,0.",
+    "answer": "D",
+    "explanation": "Source answer key: D. -1, +1. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29949,11 +30225,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "-1, +1 E. +1, -1"
+        "-1, +1"
+      ],
+      [
+        "E",
+        "+1, -1"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: -1, +1 E. +1, -1.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 0, 0. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -29995,8 +30275,8 @@ window.OpenPharmacyQuestions = [
         "Both SF4 and XeF4"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: CH4.",
+    "answer": "B",
+    "explanation": "Source answer key: B. SF4. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30038,8 +30318,8 @@ window.OpenPharmacyQuestions = [
         "ClF3"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: PF3.",
+    "answer": "C",
+    "explanation": "Source answer key: C. BF3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30081,8 +30361,8 @@ window.OpenPharmacyQuestions = [
         "SF4"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: NH3.",
+    "answer": "B",
+    "explanation": "Source answer key: B. CH4. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30121,11 +30401,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "SO3 E. CH4"
+        "SO3"
+      ],
+      [
+        "E",
+        "CH4"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: NH3.",
+    "answer": "D",
+    "explanation": "Source answer key: D. SO3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30167,8 +30451,8 @@ window.OpenPharmacyQuestions = [
         "SF4"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: SF4.",
+    "answer": "C",
+    "explanation": "Source answer key: C. CH4. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30207,11 +30491,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Tetrahedral E. Trigonal bipyramidal"
+        "Tetrahedral"
+      ],
+      [
+        "E",
+        "Trigonal bipyramidal"
       ]
     ],
     "answer": "C",
-    "explanation": "Source answer key: Trigonal pyramidal.",
+    "explanation": "Source answer key: C. Trigonal pyramidal. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30250,11 +30538,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Tetrahedral E. Trigonal bipyramidal"
+        "Tetrahedral"
+      ],
+      [
+        "E",
+        "Trigonal bipyramidal"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Trigonal pyramidal.",
+    "answer": "B",
+    "explanation": "Source answer key: B. T-shaped. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30293,11 +30585,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Tetrahedral E. Trigonal bipyramidal"
+        "Tetrahedral"
+      ],
+      [
+        "E",
+        "Trigonal bipyramidal"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: T-shaped.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Trigonal planar. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30336,11 +30632,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Tetrahedral E. Trigonal bipyramidal"
+        "Tetrahedral"
+      ],
+      [
+        "E",
+        "Trigonal bipyramidal"
       ]
     ],
     "answer": "A",
-    "explanation": "Source answer key: Seesaw.",
+    "explanation": "Source answer key: A. Seesaw. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30379,11 +30679,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Trigonal bipyramidal E. Square planar Answer: E square planar What is the molecular geometry of the nitrogen atom in the following molecule? A. Trigonal planar B. Trigonal pyramidal C. Bent D. Tetrahe…"
+        "Trigonal bipyramidal"
+      ],
+      [
+        "E",
+        "Square planar"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Octahedral.",
+    "answer": "E",
+    "explanation": "Source answer key: E. Square planar. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30422,11 +30726,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Tetrahedral E. t-shaped"
+        "Tetrahedral"
+      ],
+      [
+        "E",
+        "t-shaped"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Bent.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Tetrahedral. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30465,11 +30773,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "Trigonal pyramidal E. Trigonal planar Answer: E trigonal planar How many pi-bonds are there in the following molecule? Answer: 3 Chapter 5 Advanced theories of bonding Section 5.2 Hybrid atomic orbita…"
+        "Trigonal pyramidal"
+      ],
+      [
+        "E",
+        "Trigonal planar"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Trigonal pyramidal E. Trigonal planar Answer: E trigonal planar How many pi-bonds are there in the following molecule? Answer: 3 Chapter 5 Advanced theories of bonding Section 5.2 Hybrid atomic orbita….",
+    "answer": "E",
+    "explanation": "Source answer key: E. Trigonal planar. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30508,11 +30820,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "sp3d E. sp3d2"
+        "sp3d"
+      ],
+      [
+        "E",
+        "sp3d2"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: sp3.",
+    "answer": "B",
+    "explanation": "Source answer key: B. sp2. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30551,11 +30867,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "sp2, sp2 E. sp3, sp"
+        "sp2, sp2"
+      ],
+      [
+        "E",
+        "sp3, sp"
       ]
     ],
     "answer": "B",
-    "explanation": "Source answer key: sp3, sp2.",
+    "explanation": "Source answer key: B. sp3, sp2. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30594,11 +30914,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "sp3d E. sp3d2"
+        "sp3d"
+      ],
+      [
+        "E",
+        "sp3d2"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: sp2.",
+    "answer": "D",
+    "explanation": "Source answer key: D. sp3d. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30637,11 +30961,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "sp3d E. sp3d2"
+        "sp3d"
+      ],
+      [
+        "E",
+        "sp3d2"
       ]
     ],
     "answer": "D",
-    "explanation": "Source answer key: sp3d E. sp3d2.",
+    "explanation": "Source answer key: D. sp3d. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30680,11 +31008,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "sp3d E. sp3d2"
+        "sp3d"
+      ],
+      [
+        "E",
+        "sp3d2"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: sp3d E. sp3d2.",
+    "answer": "C",
+    "explanation": "Source answer key: C. sp3. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30727,7 +31059,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Source answer key: C2H6 (Ethane).",
+    "explanation": "Source answer key: C. C2H6 (Ethane). See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30770,7 +31102,7 @@ window.OpenPharmacyQuestions = [
       ]
     ],
     "answer": "C",
-    "explanation": "Source answer key: F2.",
+    "explanation": "Source answer key: C. F2. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30809,11 +31141,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "sp3d E. sp3d2"
+        "sp3d"
+      ],
+      [
+        "E",
+        "sp3d2"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: sp3.",
+    "answer": "A",
+    "explanation": "Source answer key: A. sp. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -30852,11 +31188,15 @@ window.OpenPharmacyQuestions = [
       ],
       [
         "D",
-        "sp3d E. sp3d2"
+        "sp3d"
+      ],
+      [
+        "E",
+        "sp3d2"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: sp.",
+    "answer": "B",
+    "explanation": "Source answer key: B. sp2. See the CHEM 1211 OpenALG source PDF.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "inorganic chemistry",
@@ -31576,7 +31916,7 @@ window.OpenPharmacyQuestions = [
         "Clostridium septicum"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Nagler's reaction - when Clostridium perfringens is grown in media containing 6 % agar, 5% Fildes peptic digest of sheep blood and 20% human serum, with antitoxin spread on one half of plate, colonies in the other half without antitoxin will be surrounded by a zone of opacity. No opacity around the colonies on the half of plate with antitoxin, this is due to the specific neutralization of the alpha-toxin. This specific lecithinase effect, known as the Nagler's reaction. Reference: Textbook of Microbiology; Anathanarayan and paniker's; 10th edition; Page no: 263",
     "rationales": {},
     "paper": "paper-1",
@@ -31619,8 +31959,8 @@ window.OpenPharmacyQuestions = [
         "Gastrointestinal tract"
       ]
     ],
-    "answer": "B",
-    "explanation": "Aspergillus species are widely distributed on decaying plants, producing chains of conidia. Aspergillus species unlike Candida species do not form the pa of normal flora of humans. They are ubiquitous in the environment; hence transmission of infection is mostly exogenous. Aspergillus transmission occurs by inhalation of airborne conidia. Risk Factors for invasive aspergillosis are: Glucocoicoid use (the most important risk factor) Profound neutropenia or Neutrophil dysfunction Underlying pneumonia or COPD, tuberculosis or sarcoidosis Antitumor necrosis factor therapy.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Lungs. Aspergillus species are widely distributed on decaying plants, producing chains of conidia. Aspergillus species unlike Candida species do not form the pa of normal flora of humans. They are ubiquitous in the environment; hence transmission of infection is mostly exogenous. Aspergillus transmission occurs by inhalation of airborne conidia. Risk Factors for invasive aspergillosis are: Glucocoicoid use (the most important risk factor) Profound neutropenia or Neutrophil dysfunction Underlying pneumonia or COPD, tuberculosis or sarcoidosis Antitumor necrosis factor therapy.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -31662,7 +32002,7 @@ window.OpenPharmacyQuestions = [
         "Pseudomonas"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans: a (Salmonella typhimurium) Ref: Ananathanarayan,7th ed, p. 303Of the above given, S. typhimurium causes food poisoningSalmonella gastroenteritisS. typhimurium is the most common cause of food poisoning due to salmonella species.Incubation period--6-24 hrsFood poisoning is never caused by S. typhi. Source of transmission: poultry, meat, milk and milk products.C/F-nausea, vomiting, diarrhoea, abdominal cramps, fever.Blood culture is usually negativeNoteS. aureus is the most common cause of food poisoning in the westIP and clinical features of various bacteria causing food poisoiningIncubation period Organism responsible 1- hrs S. aureus-nausea, vomiting, diarrheaB. cereus-nausea, vomiting…",
     "rationales": {},
     "paper": "paper-1",
@@ -31753,7 +32093,7 @@ window.OpenPharmacyQuestions = [
         "PET scan"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "ANSWER: (C) CSF examinationREF: Harrison 17th ed chapter 376The diagnosis of bacterial meningitis is made by examination of the CSF. The need to obtain neuroimaging studies (CT or MRI) prior to LP requires clinical judgment.A broad-range PCR can detect small numbers of viable and nonviable organisms in CSF and is expected to be useful for making a diagnosis of bacterial meningitis in patients who have been pretreated with oral or parenteral antibiotics and in whom Gram's stain and CSF culture are negative",
     "rationales": {},
     "paper": "paper-1",
@@ -31799,7 +32139,7 @@ window.OpenPharmacyQuestions = [
         "Pseudomonas aeruginosa"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The history and findings are consistent with a lobar pneumonia. The most common etiologic agent of lobar pneumonia is Streptococcus pneumoniae. ESSENTIALS OF DIAGNOSIS Productive cough, fever, rigors, dyspnea, early pleuritic chest pain Consolidating lobar pneumonia on chest radiograph Lancet-shaped gram-positive diplococci on Gram stain of sputum Ref: Papadakis MA, McPhee SJ, \"Pneumonia, Pneumococcal.\" Quick Medical Diagnosis & Treatment",
     "rationales": {},
     "paper": "paper-1",
@@ -31933,8 +32273,8 @@ window.OpenPharmacyQuestions = [
         "Microimmunofluorescence test"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Paul Bunnell test.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Microscopic agglutination test. Source answer key: Paul Bunnell test.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -31976,8 +32316,8 @@ window.OpenPharmacyQuestions = [
         "Granuloma venereum"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Chanchroid.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Granuloma venereum. Source answer key: Chanchroid.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32019,7 +32359,7 @@ window.OpenPharmacyQuestions = [
         "Single umbilical artery"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "All the above mentioned are ultrasound findings associated with increased risk of aneuploidy although the highest association is seen with cystic hygroma Nuchal translucency and cystic hygroma are both measured in the first trimesterTrisomy 21 is the most common aneuploidy associated with increased NT and cystic hygroma While monosomy X presents as second-trimester hygroma.",
     "rationales": {},
     "paper": "paper-1",
@@ -32062,7 +32402,7 @@ window.OpenPharmacyQuestions = [
         "Cellulitis"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans. is. a. Ecthyma gangrenosum",
     "rationales": {},
     "paper": "paper-1",
@@ -32150,7 +32490,7 @@ window.OpenPharmacyQuestions = [
         "Reverse T3"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "THYROID HORMONE SYNTHESIS AND SECRETIONThyroid hormones are synthesized in the colloid, near the apical cell membrane of the follicular cells. Catalyzed by the enzyme thyroidal peroxidase, iodide in the thyroid cell is oxidized to iodine.The iodine enters the colloid and is rapidly bound at the 3 position to tyrosine molecules attached to thyroglobulin, forming monoiodotyrosine (MIT).MIT is next iodinated at the 5 position, forming diiodotyrosine (DIT).Two DIT molecules then condense in an oxidative process (\"coupling reaction\") to form one thyroxine (T4) molecule.Some T3 is probably formed within the thyroid gland by condensation of MIT with DIT. A small amount of reverse T3 (rT3) is also f…",
     "rationales": {},
     "paper": "paper-1",
@@ -32193,8 +32533,8 @@ window.OpenPharmacyQuestions = [
         "Histoplasma, candida"
       ]
     ],
-    "answer": "D",
-    "explanation": "Cryptococcus is a yeast, candida is a yeast-like fungus. Both are reproduced by budding Histoplasma is a dimorphic fungus Mucor and Rhizopus are produced by asexual means sporangiospores Reference: Textbook of Microbiology; Baveja; 4th edition",
+    "answer": "A",
+    "explanation": "Source answer key: A. Cryptococcus, candida. Cryptococcus is a yeast, candida is a yeast-like fungus. Both are reproduced by budding Histoplasma is a dimorphic fungus Mucor and Rhizopus are produced by asexual means sporangiospores Reference: Textbook of Microbiology; Baveja; 4th edition",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32329,8 +32669,8 @@ window.OpenPharmacyQuestions = [
         "E.coli"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: E. histolytica.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Nageleria. Source answer key: E. histolytica.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32372,8 +32712,8 @@ window.OpenPharmacyQuestions = [
         "Femur lateral condyle"
       ]
     ],
-    "answer": "B",
-    "explanation": "Types of Osteochondritis and Nomenclature Traction apophysitis (chronic strain injuries) Tibial Tuberosity Osgood-Schlatter Calcaneum Sever The lower pole of patella Sinding-Larsen&;s",
+    "answer": "C",
+    "explanation": "Source answer key: C. Tibial tubercle. Types of Osteochondritis and Nomenclature Traction apophysitis (chronic strain injuries) Tibial Tuberosity Osgood-Schlatter Calcaneum Sever The lower pole of patella Sinding-Larsen&;s",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32503,8 +32843,8 @@ window.OpenPharmacyQuestions = [
         "Parvo Virus"
       ]
     ],
-    "answer": "D",
-    "explanation": "Mad cow disease or bovine spongiform encephalopathy i.e. Caused by “prions” “PRIONS” are unconventional transmissible agents, proteinaceous in nature.” Diseases caused by prions are Kuru Creutzfeldt Jakob Disease. Gerstmann Straussler Scheinker Syndrome Fatal Familial Insomnia. Scrapie Of Sheep Transmissible Encephalopathy of Mink. Bovine Spongiform Encephalopathy (Mad Cow Disease)",
+    "answer": "A",
+    "explanation": "Source answer key: A. C J virus. Mad cow disease or bovine spongiform encephalopathy i.e. Caused by “prions” “PRIONS” are unconventional transmissible agents, proteinaceous in nature.” Diseases caused by prions are Kuru Creutzfeldt Jakob Disease. Gerstmann Straussler Scheinker Syndrome Fatal Familial Insomnia. Scrapie Of Sheep Transmissible Encephalopathy of Mink. Bovine Spongiform Encephalopathy (Mad Cow Disease)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32546,8 +32886,8 @@ window.OpenPharmacyQuestions = [
         "Coagulase negative staphylococcus"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Pneumococcus.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Pseudomonas. Source answer key: Pneumococcus.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32589,8 +32929,8 @@ window.OpenPharmacyQuestions = [
         "Culture and sensitivity"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Culture and sensitivity.",
+    "answer": "A",
+    "explanation": "Source answer key: A. FTA-ABS. Source answer key: Culture and sensitivity.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32634,7 +32974,7 @@ window.OpenPharmacyQuestions = [
         "Papillary dilatation"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The most frequent acute medical emergency associated with LSD use is a panic episode (the \"bad trip\"), which may persist up to 24 h.A trip is a period of intoxication from a hallucinogenic drug, such as lysergic acid (LSD) or magic mushrooms (psilocybin). It is called a trip because perceptions of the world change so dramatically, it can feel as if a trip to a strange, new land is taken. Unpleasant experience of hallucinogen intoxication is known as a bad trip.Harrison 19e pg: Cocaine and Other Commonly Abused Drugs",
     "rationales": {},
     "paper": "paper-1",
@@ -32677,7 +33017,7 @@ window.OpenPharmacyQuestions = [
         "E. oligarthus"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is 4b' i.e., E. multilocularis o The chief character of E. multilocularis cyst is its tendency to proliferate, thereby resembling a neoplasm.Hydatid disease of liver is caused byo Echinococcus granulosuso Echinococcus multiloculariso Echinococcus vogeli- Unilocular cystic lesions- Multi locular alveolar hydatid cyst- Polycystic hydatid disease.",
     "rationales": {},
     "paper": "paper-1",
@@ -32720,8 +33060,8 @@ window.OpenPharmacyQuestions = [
         "Acute on chronic hepatitis"
       ]
     ],
-    "answer": "A",
-    "explanation": "HBs Ag is the first marker appear in the blood after infection. Anti HBc is the earliest antibody seen in blood. HBeAg indicates infectivity REF:MICROBIOLOGY ANANTHA NARAYANAN NINTH EDITION PAGE.546&547",
+    "answer": "B",
+    "explanation": "Source answer key: B. Acute hepatitis B with high infectivity. HBs Ag is the first marker appear in the blood after infection. Anti HBc is the earliest antibody seen in blood. HBeAg indicates infectivity REF:MICROBIOLOGY ANANTHA NARAYANAN NINTH EDITION PAGE.546&547",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32765,7 +33105,7 @@ window.OpenPharmacyQuestions = [
         "RPR"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "This is a case of neurosyphilis. A positive nontreponemal CSF serologic test result (CSF VDRL) establishes the diagnosis of neurosyphilis (and an increased cell count in response to the spirochete documents the presence of active disease). In VDRL test, the inactivated serum is mixed with cardiolipin antigen on a special slide & rotated for 4 minutes. Cardiolipin remains as uniform crystals in normal serum but it forms visible clumps on combining with regain antibody. The reaction is read under low power microscope. By testing serial dilutions, the antibody titre can be estimated. The results are repoed as reactive, weak by reactive / not reactive. The VDRL test can be used for testing CSF a…",
     "rationales": {},
     "paper": "paper-1",
@@ -32810,7 +33150,7 @@ window.OpenPharmacyQuestions = [
         "Vertical transmission"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Conjugation Bacterial conjugation is the transfer of genetic material between bacteria through direct cell to cell contact or through a bridge- like the connection between two cells. Conjugation is a process whereby a donor (male) bacterium makes physical contact with a recipient (female) bacterium. Donor status is determined by the presence of plasmid. This plasmid codes for specialized fimbria (sex pilus) and for self-transfer. Sex pilus (conjugation tube) helps in transfer of genetic material from male bacterium to female bacterium. The plasmid is known as transfer factor (sex factor or fertility factor). The plasmid may be R factory which codes for transferrable multiple drug resistance.…",
     "rationales": {},
     "paper": "paper-1",
@@ -32902,8 +33242,8 @@ window.OpenPharmacyQuestions = [
         "Skirrow's medium"
       ]
     ],
-    "answer": "B",
-    "explanation": "Culture media for leptospira is EMJH media, Korthof's, Stuart's and fletcher's media.",
+    "answer": "C",
+    "explanation": "Source answer key: C. EMJH Medium. Culture media for leptospira is EMJH media, Korthof's, Stuart's and fletcher's media.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32945,8 +33285,8 @@ window.OpenPharmacyQuestions = [
         "Pig"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Man.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Cow. Source answer key: Man.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -32988,8 +33328,8 @@ window.OpenPharmacyQuestions = [
         "Salt milk agar"
       ]
     ],
-    "answer": "B",
-    "explanation": "Antibiotic sensitivity testing Antibiotic sensitivity testing is carried out to determine appropriate antibiotic to be used for a paicular strain isolated from clinical specimens. Antibiotic testing can be carried out by two broad methods a) Disc diffusion tests b) Dilution tests REF : ananthanarayana 10th ed",
+    "answer": "C",
+    "explanation": "Source answer key: C. Mueller-Hinton agar. Antibiotic sensitivity testing Antibiotic sensitivity testing is carried out to determine appropriate antibiotic to be used for a paicular strain isolated from clinical specimens. Antibiotic testing can be carried out by two broad methods a) Disc diffusion tests b) Dilution tests REF : ananthanarayana 10th ed",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33033,7 +33373,7 @@ window.OpenPharmacyQuestions = [
         "Calcofluor white"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Cutaneous anthrax generally occurs on exposed surfaces of the arms or hands. A pruritic papule develops 1-7 days after entry of the organisms and rapidly changes into a necrotic ulcer. The lesion is called a malignant pustule. The anthrax bacillus is Gram positive and nonacid fast. The spores do not stain by ordinary methods. When blood films containing anthrax bacilli are stained with polychrome methylene blue for a few seconds and are examined under microscope, an amorphous purplish material is noticed around the bacilli. This represents the capsular material and is characteristic of the anthrax bacillus. This is called \"McFadyean's reaction\" and is employed for the presumptive diagnosis o…",
     "rationales": {},
     "paper": "paper-1",
@@ -33078,8 +33418,8 @@ window.OpenPharmacyQuestions = [
         "20-25 days"
       ]
     ],
-    "answer": "B",
-    "explanation": "Generation time of bacteria refers to the doubling time. Mycobacterium leprae is the slowest growing human bacterial pathogen, it has a doubling time of 14 days. It grows best at 30 degree C, at a temperature lower than body temperature, therefore it grows preferentially in the skin and superficial nerves. Mycobacterium leprae is transmitted by prolonged contact with patients with lepromatous leprosy, who discharge M. leprae in large numbers in nasal secretions and from skin lesions. 2 forms of leprosy are: Tuberculoid and Lepromatous. In tuberculoid type: CMI response to the organism limits its growth, very few acid-fast bacilli are seen, and granulomas containing giant cells form. In lepro…",
+    "answer": "C",
+    "explanation": "Source answer key: C. 12-14 days. Generation time of bacteria refers to the doubling time. Mycobacterium leprae is the slowest growing human bacterial pathogen, it has a doubling time of 14 days. It grows best at 30 degree C, at a temperature lower than body temperature, therefore it grows preferentially in the skin and superficial nerves. Mycobacterium leprae is transmitted by prolonged contact with patients with lepromatous leprosy, who discharge M. leprae in large numbers in nasal secretions and from skin lesions. 2 forms of leprosy are: Tuberculoid and Lepromatous. In tuberculoid type: CMI response to the organism limits its growth, very few acid-fast bacilli are seen, and granulomas containing giant cells form. In lepro…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33123,7 +33463,7 @@ window.OpenPharmacyQuestions = [
         "Staphylococcus aureus"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Viridans streptococci Commensals in the mouth and upper respiratory tract. Cause transient bacteremia following tooth extraction or other dental procedures; -MC cause of subacute endocarditis: Streptococcus Viridans - MC Streptococcal species in Viridans group causing endocarditis: S. sanguis mc cause of Native valve endocarditis : S. aureus",
     "rationales": {},
     "paper": "paper-1",
@@ -33169,7 +33509,7 @@ window.OpenPharmacyQuestions = [
         "Anerobes"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Causative agents of UTI:Uncomplicated UTIComplicated UTI*E.coli *Klebsiella*Proteus species*Enterobacter*Staphylococcus saprophyticus*Enterococci *Chlamydia , Neisseria *Ureaplasma, Mycoplasma . Adenovirus *E.coli *Klebsiella*Proteus species*Serratia marcescens*Pseudomonas *Enterococci Staphylococci Ref:Harrison's infectious disease 2nd edition, p296",
     "rationales": {},
     "paper": "paper-1",
@@ -33304,8 +33644,8 @@ window.OpenPharmacyQuestions = [
         "Enriched medium"
       ]
     ],
-    "answer": "C",
-    "explanation": "Enriched media The media containing ingredients which enhance their growth-promoting qualities E.g. Blood agar, Chocolate agar and Loeffler medium. The usual media employed for cultivation of the diphtheria bacillus are Loeffler's serum slope and tellurite blood agar. Diphtheria bacilli grow on Loeffler's serum slope very rapidly and colonies can be seen in 6-8 hours, long before the other bacteria grow. Best Selective media for Corynebaterium is Potassium tellurite agar.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Enriched medium. Enriched media The media containing ingredients which enhance their growth-promoting qualities E.g. Blood agar, Chocolate agar and Loeffler medium. The usual media employed for cultivation of the diphtheria bacillus are Loeffler's serum slope and tellurite blood agar. Diphtheria bacilli grow on Loeffler's serum slope very rapidly and colonies can be seen in 6-8 hours, long before the other bacteria grow. Best Selective media for Corynebaterium is Potassium tellurite agar.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33349,8 +33689,8 @@ window.OpenPharmacyQuestions = [
         "Parenchyma of the organ"
       ]
     ],
-    "answer": "A",
-    "explanation": "Hydatid cyst is caused by Echinococcus granulosus. It has a thick opaque white outer cuticle / laminated layer and an inner thin germinal layer containing nucleated cells. The germinal layer is the site of asexual reproduction. It also secretes the hydatid fluid which fills the cavity. The fluid is clear, colourless / pale yellow with a pH of 6.7 containing salts and protein. It is a good antigen which sensitises the host. The fluid was used as the antigen for Casoni's intradermal test and other diagnostic serological tests. From the germinal layer, small knob like excrescences / gemmules protrude into the lumen of the cyst. These enlarge and become vacuolated and filled with fluid. These ar…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Germinal epithelium. Hydatid cyst is caused by Echinococcus granulosus. It has a thick opaque white outer cuticle / laminated layer and an inner thin germinal layer containing nucleated cells. The germinal layer is the site of asexual reproduction. It also secretes the hydatid fluid which fills the cavity. The fluid is clear, colourless / pale yellow with a pH of 6.7 containing salts and protein. It is a good antigen which sensitises the host. The fluid was used as the antigen for Casoni's intradermal test and other diagnostic serological tests. From the germinal layer, small knob like excrescences / gemmules protrude into the lumen of the cyst. These enlarge and become vacuolated and filled with fluid. These ar…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33394,8 +33734,8 @@ window.OpenPharmacyQuestions = [
         "P. Ovale"
       ]
     ],
-    "answer": "B",
-    "explanation": "It would appear that quaan malaria causes an immune complex nephritis in some individuals that, once established, is sustained by mechanisms not yet fully explained but which may involve an autoimmune process. Evidence to suppo an immunologic pathogenesis of the renal lesions is provided by the presence of immunoglobulin, complement (C3) and quaan malarial antigen in biopsy specimens studied by immunofluorescence microscopy",
+    "answer": "C",
+    "explanation": "Source answer key: C. P. malariae. It would appear that quaan malaria causes an immune complex nephritis in some individuals that, once established, is sustained by mechanisms not yet fully explained but which may involve an autoimmune process. Evidence to suppo an immunologic pathogenesis of the renal lesions is provided by the presence of immunoglobulin, complement (C3) and quaan malarial antigen in biopsy specimens studied by immunofluorescence microscopy",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33439,8 +33779,8 @@ window.OpenPharmacyQuestions = [
         "Foxes"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Foxes.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Man. Source answer key: Foxes.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33482,8 +33822,8 @@ window.OpenPharmacyQuestions = [
         "Herpes virus"
       ]
     ],
-    "answer": "D",
-    "explanation": "adeno virus cause epidemic keratoconjuctivitis REF:<\\p> MICROBIOLOGY ANANTHA NARAYANAN NINTH EDITION PAGE.482",
+    "answer": "A",
+    "explanation": "Source answer key: A. Adenovirus. adeno virus cause epidemic keratoconjuctivitis REF:<\\p> MICROBIOLOGY ANANTHA NARAYANAN NINTH EDITION PAGE.482",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33527,8 +33867,8 @@ window.OpenPharmacyQuestions = [
         "Cats"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Monkey.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Rat. Source answer key: Monkey.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33570,7 +33910,7 @@ window.OpenPharmacyQuestions = [
         "A kennel worker"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "A lifeguard in swimming poolCutaneous larva migrans (CLM) is a clinical syndrome consisting of an erythematous migrating linear or serpiginous cutaneous track;It is also called as creeping eruptionsIndividuals at greatest risk include travelers, children, swimmers in lakes, and laborers whose activities bring their skin in contact with contaminated soilLarva migrans:* It is caused by nematodes that usually cause infection to animals* When they accidentally enters humans - it cannot complete the cycle and hence gets arrested in the body causing larva migrans* It is of two types:# Cutaneous larva migrans# Visceral larva migransComparison between Cutaneous and visceral larva migransCutaneous la…",
     "rationales": {},
     "paper": "paper-1",
@@ -33615,7 +33955,7 @@ window.OpenPharmacyQuestions = [
         "BCG"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Rotavirus vaccination - there is a potentially high risk of intussusception with the first dose when this vaccine is given to infants aged more than 12weeks. Ref: Park&;s textbook of preventive and social medicine; 23rd edition.",
     "rationales": {},
     "paper": "paper-1",
@@ -33660,8 +34000,8 @@ window.OpenPharmacyQuestions = [
         "Corynebacterium"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Corynebacterium.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Pneumococcus. Source answer key: Corynebacterium.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33705,7 +34045,7 @@ window.OpenPharmacyQuestions = [
         "An autoimmune reaction"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Mad Cow Disease is related to both scrapie in sheep and bovine spongiform encephalopathy virus. The fear in Great Britain is the potential for acquiring Creutzfeldt-Jakob disease, which is a slowly progressive neurodegenerative disease. Theoretically, such acquisition could be through ingestion of beef from infected cows. A prion consists of protein material without nucleic acid. While related to a virus, a prion is a proteinaceous infectious particle that replicates within cells.",
     "rationales": {},
     "paper": "paper-1",
@@ -33750,7 +34090,7 @@ window.OpenPharmacyQuestions = [
         "Immobility factor"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "C.tetani produces two distinct toxins- a hemolysin(tetanolysin), and neurotoxin(tetanospasmin). Tetanospasmin: This is the toxin responsible for tetanus. This toxin acts pre-synaptically. The abolition of spinal inhibition causes an uncontrolled spread of impulses initiated anywhere in the central nervous system. This results in muscle rigidity and spasms. Tetanolysin: it is not relevant in the pathogenesis of tetanus. Ref: Textbook of microbiology; Ananthanarayan and paniker's; 10th Edition; Pg: 265",
     "rationales": {},
     "paper": "paper-1",
@@ -33795,8 +34135,8 @@ window.OpenPharmacyQuestions = [
         "Picorna virus"
       ]
     ],
-    "answer": "C",
-    "explanation": "Epidemic hemorrhagic conjunctivitis is caused by Coxsackie Virus A24 or Enterovirus 70 (members of the Family Picornaviridae). HSV (Herpes Simplex Virus)- causes oral herpes and genital herpes. HZV (Herpes Zoster Virus) -causes Shingles. HIV -cause AIDS.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Picorna virus. Epidemic hemorrhagic conjunctivitis is caused by Coxsackie Virus A24 or Enterovirus 70 (members of the Family Picornaviridae). HSV (Herpes Simplex Virus)- causes oral herpes and genital herpes. HZV (Herpes Zoster Virus) -causes Shingles. HIV -cause AIDS.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33840,8 +34180,8 @@ window.OpenPharmacyQuestions = [
         "Ureaplasma"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Ureaplasma.",
+    "answer": "A",
+    "explanation": "Source answer key: A. H. pylori. Source answer key: Ureaplasma.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -33971,8 +34311,8 @@ window.OpenPharmacyQuestions = [
         "Rickettsia typhi"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Francisella.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Coxiella burnetii. Source answer key: Francisella.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34014,8 +34354,8 @@ window.OpenPharmacyQuestions = [
         "Wasserman test"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Wasserman test.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Wide test. Source answer key: Wasserman test.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34100,7 +34440,7 @@ window.OpenPharmacyQuestions = [
         "Rodococcus"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Spores may be seen in unstained preparations as Refractile bodies. The forespore stains intensely but once the spores envelope is laid down the spores does not stain readly. Spores appear as unstained areas in Gram-stained preparations but being more acid fast than the vegetative cells they can be stained by a modification of the Diehl -Nelson technique. Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 21",
     "rationales": {},
     "paper": "paper-1",
@@ -34145,8 +34485,8 @@ window.OpenPharmacyQuestions = [
         "Klebsiella"
       ]
     ],
-    "answer": "A",
-    "explanation": "Serratia grows in sputum after collection and makes sputum red (pigment production) This condition is pseudohemoptysis.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Serratia marcescens. Serratia grows in sputum after collection and makes sputum red (pigment production) This condition is pseudohemoptysis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34233,8 +34573,8 @@ window.OpenPharmacyQuestions = [
         "Needles"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Instruments.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Culture media. Source answer key: Instruments.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34321,7 +34661,7 @@ window.OpenPharmacyQuestions = [
         "Ileocecal"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Most common extra pulmonary involvement: lymph nodes > pleura> ileocecal - GI TB most common site- ileocecal",
     "rationales": {},
     "paper": "paper-1",
@@ -34452,8 +34792,8 @@ window.OpenPharmacyQuestions = [
         "Relapsing fever"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Plague.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Chaga's disease. Source answer key: Plague.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34495,7 +34835,7 @@ window.OpenPharmacyQuestions = [
         "Relapsing fever"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "option-1- Life Cycle of Plasmodium: Malaria is caused by Plasmodium species. Definitive host: Female Anopheles mosquitoes Intermediate host: Man. option- 2-Tuberculosis is caused by Mycobacterium tuberculosis and doesn't have secondary host. option-3- In Filariasis (W. bancrofti): man is definitive host. option-4- Borrelia causes Relapsing fever and there is no secondary host.",
     "rationales": {},
     "paper": "paper-1",
@@ -34541,7 +34881,7 @@ window.OpenPharmacyQuestions = [
         "HIV PCR"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ref: PubMed* This is a possible suspicion of HIV infection.* p24 antigen is a viral protein that makes up most of the viral core.* Serum concentrations of p24 antigen are high in the first few weeks after infection; tests sensitive to p24 antigen are therefore useful for diagnosing very early infection when antibody levels are still low.",
     "rationales": {},
     "paper": "paper-1",
@@ -34586,7 +34926,7 @@ window.OpenPharmacyQuestions = [
         "Alcaligenes faecalis"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Mono - trichous - V.cholerae Ampitrichous - Alcaligenes faecalis Lophotrichous - Spirillum minus Peritricous - E.coli, proteus, Listeria",
     "rationales": {},
     "paper": "paper-1",
@@ -34631,7 +34971,7 @@ window.OpenPharmacyQuestions = [
         "Cholera"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Shigella dysenteriae type 1 causes toxemia due to the production of exotoxin.the complication includes polyneuritis, ahritis, conjunctivitis, parotitis and hemolytic uremic syndrome. Ref: Textbook of microbiology; Ananthanarayan and paniker's;10th edition; Pg:293",
     "rationales": {},
     "paper": "paper-1",
@@ -34674,8 +35014,8 @@ window.OpenPharmacyQuestions = [
         "H. Dimunata"
       ]
     ],
-    "answer": "B",
-    "explanation": "In most cases the disease tends to remain low grade and chronic producing only minor symptoms of abdominal distress,intermittent diarrhea and liver pain or tenderness.C.sinensis has been linked to bile duct carcinoma.It is mostly observed in areas where chlonorchiasis is endemic (refer pgno:126 baveja 3 rd edition)",
+    "answer": "C",
+    "explanation": "Source answer key: C. Clonorchis sinensis. In most cases the disease tends to remain low grade and chronic producing only minor symptoms of abdominal distress,intermittent diarrhea and liver pain or tenderness.C.sinensis has been linked to bile duct carcinoma.It is mostly observed in areas where chlonorchiasis is endemic (refer pgno:126 baveja 3 rd edition)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34717,8 +35057,8 @@ window.OpenPharmacyQuestions = [
         "Pseudomonas aeruginosa"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Pseudomonas aeruginosa.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Staphylococci. Source answer key: Pseudomonas aeruginosa.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34808,8 +35148,8 @@ window.OpenPharmacyQuestions = [
         "Conjugation"
       ]
     ],
-    "answer": "C",
-    "explanation": "Option a, b, c, d * There are three mechanisms of horizontal gene transfer in bacteria:- 1.Transformation 2. Transduction 3. Conjugation (Most common mechanism), It was discovered first by Lederberg and Tatum. * Conjugation plays an important role in the transfer of plasmids coding for antibacterial drug resistance and bacteriocin production . * R factor (or the resistance factor) is a plasmid which has two components. o Resistance transfer factor (F) is the plasmid responsible for conjugational transfer(similar to F factor) o Resistance determinant (r): Codes for resistance to one drug. An R factor can have several r determinants.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Conjugation. , b, c, d * There are three mechanisms of horizontal gene transfer in bacteria:- 1.Transformation 2. Transduction 3. Conjugation (Most common mechanism), It was discovered first by Lederberg and Tatum. * Conjugation plays an important role in the transfer of plasmids coding for antibacterial drug resistance and bacteriocin production . * R factor (or the resistance factor) is a plasmid which has two components. o Resistance transfer factor (F) is the plasmid responsible for conjugational transfer(similar to F factor) o Resistance determinant (r): Codes for resistance to one drug. An R factor can have several r determinants.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -34942,7 +35282,7 @@ window.OpenPharmacyQuestions = [
         "HIV"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "EBV REF: Textbook of Microbiology & Immunology by Parija 2009 Page 504 Heterophil antibodies, which is an antibody against EBV cross reacts with red blood cells of different animal species. This can be used as a rapid screening test for mononucleosis (Monospot test and Paul Bunnell tests) The Paul-Bunnell test uses sheep erythrocytes; the Monospot test, horse red cells.blood cells. In infectious mononucleosis, IgM heterophil antibodies are usually detectable for the first 3 months of infection.",
     "rationales": {},
     "paper": "paper-1",
@@ -34987,8 +35327,8 @@ window.OpenPharmacyQuestions = [
         "Clonorchis sinensis"
       ]
     ],
-    "answer": "A",
-    "explanation": "large or giant intestinal fluke Largest trematode infecting humans Pig serves as reservoir of infection (refer pgno:127 baveja 3 rd edition)",
+    "answer": "B",
+    "explanation": "Source answer key: B. F. Buski. large or giant intestinal fluke Largest trematode infecting humans Pig serves as reservoir of infection (refer pgno:127 baveja 3 rd edition)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -35032,8 +35372,8 @@ window.OpenPharmacyQuestions = [
         "Gastrointestinal tract"
       ]
     ],
-    "answer": "B",
-    "explanation": "Aspergillosis is caused by the inhalation of Aspergillus conidia or mycelial fragments which are present in the decaying matter, soil or air, resulting in aspergillus asthma, bronchopulmonary aspergillosis and aspergilloma. Ref: Textbook of Microbiology, Ananthanarayan and Paniker; 9th edition",
+    "answer": "C",
+    "explanation": "Source answer key: C. Lungs. Aspergillosis is caused by the inhalation of Aspergillus conidia or mycelial fragments which are present in the decaying matter, soil or air, resulting in aspergillus asthma, bronchopulmonary aspergillosis and aspergilloma. Ref: Textbook of Microbiology, Ananthanarayan and Paniker; 9th edition",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -35077,7 +35417,7 @@ window.OpenPharmacyQuestions = [
         "Quartan malaria"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "P. malariae which attacks mainly senescent (old) RBC’s: Agent of Quartan malaria P. ovale and P. vivax: attack younger RBCs and reticulocytes: Agent of benign tertian malaria P. falciparum: attacks RBC of all ages: Agent of malignant tertian malaria.",
     "rationales": {},
     "paper": "paper-1",
@@ -35165,7 +35505,7 @@ window.OpenPharmacyQuestions = [
         "Cold agglutinin test"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "HETEROPHILE REACTION :- Similar antigens on dissimilar organisms are called heterophile antigens Closely related antigens can occur on a wide variety of organisms. Antibodies reacting with such antigens are called heterophile antibodies. Serologic tests employing such antigens are called heterophile tests. Frie's test is used in the diagnosis of LGV. Antigen made from sterile pus aspirated from previously unruptured LGV abscesses, produces a reaction in patients with lymphogranuloma inguinale when injected intradermally.",
     "rationales": {},
     "paper": "paper-1",
@@ -35210,7 +35550,7 @@ window.OpenPharmacyQuestions = [
         "250 mm/day"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Speed of rabies virus progress in axon is 250 mm/day.",
     "rationales": {},
     "paper": "paper-1",
@@ -35255,7 +35595,7 @@ window.OpenPharmacyQuestions = [
         "Duodenum"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The adult worms live in the small intestine of infected persons mostly in the jejunum,less often in the duodenum, and infrequently in the ileum Ref : panikers textbook of Medical parasitology 8th edition page 187",
     "rationales": {},
     "paper": "paper-1",
@@ -35300,7 +35640,7 @@ window.OpenPharmacyQuestions = [
         "Bile solubility"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Streptococci are catalase negative and beta hemolytic. Group A beta hemolytic streptococci can be differentiated from other beta hemolytic streptococci by bacitracin sensitivity. Streptococcus pyogenes is bacitracin sensitive whereas streptococcus agalactiae is bacitracin resistant. Both are beta hemolytic. Ref: Textbook of Microbiology, Ananthanarayan and Paniker, 7th Edition, Chapter 23, Page 203-205.",
     "rationales": {},
     "paper": "paper-1",
@@ -35346,7 +35686,7 @@ window.OpenPharmacyQuestions = [
         "5%"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "For solid agar - 1-2% For Semisolid agar - 0.5% For solid agar to inhibit proteus swarming - 6%",
     "rationales": {},
     "paper": "paper-1",
@@ -35434,7 +35774,7 @@ window.OpenPharmacyQuestions = [
         "Rickettsia australis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Boutonneuse fever (also called, fievre boutonneuse, Kenya tick typhus, Indian tick typhus, Marseilles fever, African tick-bite fever, or Astrakhan fever) is a fever as a result of a Rickettsial infection caused by the bacterium Rickettsia conorii Transmitted by the dog tick - Rhipicephalus sanguineus.",
     "rationales": {},
     "paper": "paper-1",
@@ -35479,7 +35819,7 @@ window.OpenPharmacyQuestions = [
         "HDV"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "HAV Ref. Harrison 19/e, p 2006, 18/e, p 2539 HAV is a nonenveloped ss RNA virus of picorna family For details see answer no 12 of chapter 27.",
     "rationales": {},
     "paper": "paper-1",
@@ -35569,7 +35909,7 @@ window.OpenPharmacyQuestions = [
         "Pl ovale"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The features are consistent with the diagnosis of Pl vivax .yellow brown pigment-vivax Dark brown pigment-falciparum Ref: D.R. Arora. Medical parasitology 4th ed pg. 77",
     "rationales": {},
     "paper": "paper-1",
@@ -35614,7 +35954,7 @@ window.OpenPharmacyQuestions = [
         "Roundworm"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans: (c) TapewormRef: K.D. Chatterjee, 13th edition, Page 212-222Nematodes based on mode of infection:Mode of InfectionOrganismsIngestionEggsEnterobius , Ascaris , Irichuris (EAT)Larva within intermediate hostDrancunculus medinensisEncysted larva in muscleTrichinella spiralisPenetration of skinStrongyloides, Ancylostoma ,Necator (SAN)Blood sucking insectsFilariaInhalation of dust containing eggsAscaris, Enterobius",
     "rationales": {},
     "paper": "paper-1",
@@ -35657,8 +35997,8 @@ window.OpenPharmacyQuestions = [
         "Serine"
       ]
     ],
-    "answer": "B",
-    "explanation": "Phosphorylation occurs at the hydroxyl groups of serine, threonine, and tyrosine. A protein kinase is a kinase enzyme that modifies other proteins by chemically adding phosphate groups to them (phosphorylation). Phosphorylation usually results in a functional change of the target protein (substrate) by changing enzyme activity, cellular location, or association with other proteins. The chemical activity of a kinase involves transferring a phosphate group from a nucleoside triphosphate (usually ATP) and covalently attaching it to one of three amino acids that have a free hydroxyl group.Most kinases act on both serine and threonine, others act on tyrosine, and a number (dual specificity kinase…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Asparagine. Phosphorylation occurs at the hydroxyl groups of serine, threonine, and tyrosine. A protein kinase is a kinase enzyme that modifies other proteins by chemically adding phosphate groups to them (phosphorylation). Phosphorylation usually results in a functional change of the target protein (substrate) by changing enzyme activity, cellular location, or association with other proteins. The chemical activity of a kinase involves transferring a phosphate group from a nucleoside triphosphate (usually ATP) and covalently attaching it to one of three amino acids that have a free hydroxyl group.Most kinases act on both serine and threonine, others act on tyrosine, and a number (dual specificity kinase…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -35700,8 +36040,8 @@ window.OpenPharmacyQuestions = [
         "Lymphnode biopsy"
       ]
     ],
-    "answer": "D",
-    "explanation": "Laboratory diagnosis of HIV infection Laboratory diagnosis is made by: A. Antibody detection It is the most common method used for diagnosis of HIV infection. ELISA is the most sensitive test and therefore is the screening test of choice. Western blot is the most specific (Confirmatory) test and therefore is the’gold standard’ for diagnosis. Antibodies test usually nucleic acid or antigen. B. Detection of HIV nucleic acid or antigen P24 antigen detection by ELISA can be done 16 days after infection (earlier than antibody detection). Nucleic acid detection tests are the earliest to become positive (12 days after infection), Most commonly used test is reverse transcriptase PCR, (RT-PCR), other…",
+    "answer": "A",
+    "explanation": "Source answer key: A. P 24 antigen assay. Laboratory diagnosis of HIV infection Laboratory diagnosis is made by: A. Antibody detection It is the most common method used for diagnosis of HIV infection. ELISA is the most sensitive test and therefore is the screening test of choice. Western blot is the most specific (Confirmatory) test and therefore is the’gold standard’ for diagnosis. Antibodies test usually nucleic acid or antigen. B. Detection of HIV nucleic acid or antigen P24 antigen detection by ELISA can be done 16 days after infection (earlier than antibody detection). Nucleic acid detection tests are the earliest to become positive (12 days after infection), Most commonly used test is reverse transcriptase PCR, (RT-PCR), other…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -35745,8 +36085,8 @@ window.OpenPharmacyQuestions = [
         "Esch.Coli"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Pseudomonas.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Esch.Coli. Source answer key: Pseudomonas.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -35790,7 +36130,7 @@ window.OpenPharmacyQuestions = [
         "Blastomycosis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Sporotrichosis: Dimorphic fungi Causes subcutaneous infections.",
     "rationales": {},
     "paper": "paper-1",
@@ -35833,8 +36173,8 @@ window.OpenPharmacyQuestions = [
         "Boiling"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: U.V. rays.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Gamma rays. Source answer key: U.V. rays.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -35919,8 +36259,8 @@ window.OpenPharmacyQuestions = [
         "Insect bites to the legs"
       ]
     ],
-    "answer": "A",
-    "explanation": "Red tender nodules on her shin could be erythema nodosum; Erythema nodosum is a type of panniculitis, i.e. an inflammatory disorder affecting subcutaneous fat.Oral contraceptives which this newly married woman would take is likely hereOther causes are Neutrophilic dermatoses (Behcet's disease, Sweet's syndrome), iodides, bromides, sulfonamides, Sarcoidosis, Ulcerative colitis(also Crohn&;s), Streptococcus, Pregnancy, and Malignancy",
+    "answer": "B",
+    "explanation": "Source answer key: B. Any new medications she may have staed. Red tender nodules on her shin could be erythema nodosum; Erythema nodosum is a type of panniculitis, i.e. an inflammatory disorder affecting subcutaneous fat.Oral contraceptives which this newly married woman would take is likely hereOther causes are Neutrophilic dermatoses (Behcet's disease, Sweet's syndrome), iodides, bromides, sulfonamides, Sarcoidosis, Ulcerative colitis(also Crohn&;s), Streptococcus, Pregnancy, and Malignancy",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -35962,8 +36302,8 @@ window.OpenPharmacyQuestions = [
         "Impetigo"
       ]
     ],
-    "answer": "B",
-    "explanation": "Infections caused by methicillin-sensitive S aureus, high-magnitude bacteremia (defined as >4 positive blood cultures ), and endocarditis. The most important test is a blood culture used to identify bacteria in the bloodstream. REFERENCE: www.mayoclinic.org",
+    "answer": "C",
+    "explanation": "Source answer key: C. Infective endocarditis. Infections caused by methicillin-sensitive S aureus, high-magnitude bacteremia (defined as >4 positive blood cultures ), and endocarditis. The most important test is a blood culture used to identify bacteria in the bloodstream. REFERENCE: www.mayoclinic.org",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -36007,7 +36347,7 @@ window.OpenPharmacyQuestions = [
         "Carbolic acid"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Mechanism of toxicity:Mercury reacts with sulfhydryl (SH) groups, resulting in enzyme inhibition and pathologic alteration of cellular membranes.Clinical presentation:Severe chemical pneumonitis and noncardiogenic pulmonary edema.Acute gingivostomatitis may also occur.Chronic intoxication:Classic triad Tremor Gingivostomatitis. Metallic tasteFrequent blushing (\"erethism\")Pain in the extremities, often accompanied by pinkish discoloration and desquamation (\"pink disease\")",
     "rationales": {},
     "paper": "paper-1",
@@ -36050,8 +36390,8 @@ window.OpenPharmacyQuestions = [
         "Brucella"
       ]
     ],
-    "answer": "D",
-    "explanation": "B anthracis has a tendency to form very long chains of rods and in culture it is nonmotile and nonhemolytic. Colonies are characterized by a rough, uneven surface with multiple curled extensions at the edge resembling a \"Medusa head.\" B anthracis has a D-glutamic acid polypeptide capsule of a single antigenic type that has antiphagocytic propeies. B anthracis endospores are extremely hardy and have been shown to survive in the environment for decades. On gelatin stab culture a characteristic inveed fir tree appearance is seen, with slow liquefaction commencing from top. Ref: Ray C.G., Ryan K.J. (2010). Chapter 26. Corynebacterium, Listeria, andBacillus. In C.G. Ray, K.J. Ryan (Eds), Sherris…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Bacillus anthracis. B anthracis has a tendency to form very long chains of rods and in culture it is nonmotile and nonhemolytic. Colonies are characterized by a rough, uneven surface with multiple curled extensions at the edge resembling a \"Medusa head.\" B anthracis has a D-glutamic acid polypeptide capsule of a single antigenic type that has antiphagocytic propeies. B anthracis endospores are extremely hardy and have been shown to survive in the environment for decades. On gelatin stab culture a characteristic inveed fir tree appearance is seen, with slow liquefaction commencing from top. Ref: Ray C.G., Ryan K.J. (2010). Chapter 26. Corynebacterium, Listeria, andBacillus. In C.G. Ray, K.J. Ryan (Eds), Sherris…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "microbiology",
@@ -36627,7 +36967,7 @@ window.OpenPharmacyQuestions = [
         "Congenital cystic adenomatoid malformation"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Congenital cystic adenomatoid malformation(Ref: Robbins 9th/pg 670; 8th/pg 679)Congenital cystic adenomatoid malformation (CCAM): Hamartomatous Q or dysplastic lung tissue, usually confined to one lobe.",
     "rationales": {},
     "paper": "paper-1",
@@ -36670,7 +37010,7 @@ window.OpenPharmacyQuestions = [
         "Conformational change with activation of phospholipid surface"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Disruption of the endothelium exposes subendothelial Von willebrand factor (VWF) and collagen, which promotes platelet adherence and activation. Deficiency of Von willebrand factor (VWF) causes ↓ Platelet adhesion (↑ BT) ↓ Intrinsic pathway activity (↑ aPTT)",
     "rationales": {},
     "paper": "paper-1",
@@ -36715,7 +37055,7 @@ window.OpenPharmacyQuestions = [
         "Plaque"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans: A (Fatty streaks) Ref: Robbins Pathologic Basis of Disease, 8th edition.Explanation:Fatty streaks are the earliest lesions in atherosclerosis \" Ref: RobbinsMorphology of AtherosclerosisFatty StreaksThese are the earliest lesions in atherosclerosis.They are composed of lipid-filled foamy macrophages.Beginning as multiple minute flat yellow spots, they eventually coalesce into elongated streaks 1 cm or more in length.These lesions are not significantly raised and do not cause any flow disturbanceAortas of infants less than 1 year old can exhibit fatty streaks, and such lesions are seen in virtually all children older than 10 years, regardless of geography, race, sex, or environment.The re…",
     "rationales": {},
     "paper": "paper-1",
@@ -36803,8 +37143,8 @@ window.OpenPharmacyQuestions = [
         "Infantile hyperostosis"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Osteogenesis imperfecta.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Infantile hyperostosis. Source answer key: Osteogenesis imperfecta.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -36846,7 +37186,7 @@ window.OpenPharmacyQuestions = [
         "Bronchiectasis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ref:Robbins Basic Pathology (9th Edition),page no.478,479 Sarcoidosis Although sarcoidosis is considered here as an example of a restrictive lung disease, it is important to note that sarcoidosis is a multisystem disease of unknown etiology characterized by noncaseating granulomas in many tissues and organs. MORPHOLOGY The diagnostic histopathologic feature of sarcoidosis is the noncaseating epithelioid granuloma, irrespective of the organ involved. This is a discrete, compact collection of epithelioid cells rimmed by an outer zone of largely CD4+ T cells. The epithelioid cells are derived from macrophages and are characterized by abundant eosinophilic cytoplasm and vesicular nuclei. It is not…",
     "rationales": {},
     "paper": "paper-1",
@@ -36889,7 +37229,7 @@ window.OpenPharmacyQuestions = [
         "Bloom syndrome"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "“MAGIC syndrome” (Mouth and Genital ulcers with Inﬂamed Cartilage) has been proposed to describe patients with clinical features of both relapsing polychondritis and Behcet disease.",
     "rationales": {},
     "paper": "paper-1",
@@ -36932,7 +37272,7 @@ window.OpenPharmacyQuestions = [
         "Ras"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "(B) PTENo\"Phosphatase and Tensin'' homolog (PTEN) - protein in humans encoded by the PTEN gene. Gene mutations promotes development of cancers.[?]Cowden's disease/Multiple Hamartoma Syndrome:-Part of PTEN hamartoma tumor syndrome-An autosomal dominant syndrome-Trichilemmomas - Numerous tumors of hair follicles in face-Multiple hamartomatous polyps in GI tract, Lipomas, Granulomas-Very high risk of breast, Follicular endometrail carcinoma & thyroid carcinomaoTreatment: Bilateral mastectomies recommended-Contraindicated are mammography & other radiation exposure of breast tissue.-Mean age at presentation <10 years-Very high risk of breast, follicular carcinoma of thyroid & Endometrial carcinom…",
     "rationales": {},
     "paper": "paper-1",
@@ -36977,7 +37317,7 @@ window.OpenPharmacyQuestions = [
         "Glutamine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Mutation in factor V (called the Leiden mutation, after the city in the Netherlands where it was discovered) causes recurrent DVTs. The mutation results in a glutamine to arginine substitution at position 506 that renders factor V resistant to cleavage by protein C. As a result, an important antithrombotic counter-regulatory pathway is lost Ref: Robbins 8th edition Chapter 4.",
     "rationales": {},
     "paper": "paper-1",
@@ -37020,7 +37360,7 @@ window.OpenPharmacyQuestions = [
         "Chronic gastritis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Gastritis is a nonspecific term that describes any inflammation of the gastric mucosa. Acute gastritis refers to the clinical situation of gastric mucosal erosions (not mucosal ulcers). Acute gastritis is also known as hemorrhagic gastritis or acute erosive gastritis. Acute gastritis is associated with the use of nonsteroidal anti-inflammatory drugs, such as aspirin, ibuprofen, and coicosteroids, and also with alcohol, chemotherapy, ischemia, shock, and even severe stress. Two types of stress ulcers are Curling's ulcers, seen in patients with severe burns, and Cushing's ulcers, seen in patients with intracranial lesions. Grossly acute gastritis appears as multiple, scattered, punctate (less…",
     "rationales": {},
     "paper": "paper-1",
@@ -37065,8 +37405,8 @@ window.OpenPharmacyQuestions = [
         "Bladder cancer"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Bladder cancer.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Angiosarcoma of liver. Source answer key: Bladder cancer.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37110,8 +37450,8 @@ window.OpenPharmacyQuestions = [
         "Medullary sponge kidney"
       ]
     ],
-    "answer": "A",
-    "explanation": "Infantile and Iuvenile forms are associated with congenital Hepatic fibrosis.",
+    "answer": "B",
+    "explanation": "Source answer key: B. ARPKD. Infantile and Iuvenile forms are associated with congenital Hepatic fibrosis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37153,7 +37493,7 @@ window.OpenPharmacyQuestions = [
         "Hyperplasia"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Dysplasia is reversible Anaplasia is irreversible",
     "rationales": {},
     "paper": "paper-1",
@@ -37196,7 +37536,7 @@ window.OpenPharmacyQuestions = [
         "Delta globulins"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Light chain globulins(Ref: R 9th/pg 598-602)Excretion of light chains in the urine has been referred to as Bence Jones proteinuria.Light chains includes k and l (kappa and lambda)",
     "rationales": {},
     "paper": "paper-1",
@@ -37239,7 +37579,7 @@ window.OpenPharmacyQuestions = [
         "Neutrophilia"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Circulating levels of leukocytes and their precursors may occasionally reach very high levels (>50,000 WBC/mL). These extreme elevations are sometimes called leukemoid reactions because they are similar to the white cell counts observed in leukemia, from which they must be distinguished. The leukocytosis occurs initially because of accelerated release of granulocytes from the bone marrow (caused by cytokines, including TNF and IL-1) There is a rise in the number of both mature and immature neutrophils in the blood, referred to as a shift to the left. In contrast to bacterial infections, viral infections (including infectious mononucleosis) are characterized by lymphocytosis Parasitic infesta…",
     "rationales": {},
     "paper": "paper-1",
@@ -37284,7 +37624,7 @@ window.OpenPharmacyQuestions = [
         "Anti-Golgi"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "All forms of scleroderma are thought to have a strong autoimmune component, and glucocoicoids and azathioprine are used to suppress the inflammatory complications of scleroderma. (Other drugs that can be used in therapy include penicillamine, which inhibits collagen cross-linking, NSAIDS for pain, and ACE inhibitors to protect the kidney if hypeension or renal damage occurs). The anti-centromere antibody is quite specific for CREST syndrome (96% of cases), and is only seen in a minority of patients with diffuse scleroderma (mainly those with Raynaud's phenomenon) and rarely in systemic lupus erythematosus and mixed connective tissue disease.Also know:Anti-DNA topoisomerase I , also called an…",
     "rationales": {},
     "paper": "paper-1",
@@ -37327,7 +37667,7 @@ window.OpenPharmacyQuestions = [
         "Calcitonin-related peptide"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Symptoms not caused by either local or metastatic effects of tumors are called paraneoplastic syndromes. Bronchogenic carcinomas are associated with the development of many different types of paraneoplastic syndromes. These syndromes are usually associated with the secretion of ceain substances by the tumor cells. For example, ectopic secretion of ACTH may produce Cushing's syndrome, while ectopic secretion of antidiuretic hormone (syndrome of inappropriate ADH secretion) may produce hyponatremia. Hypocalcemia may result from the production of calcitonin, while hypercalcemia may result from the production of parathyroid hormone-related peptide (PTHrP), which is a normal substance produced lo…",
     "rationales": {},
     "paper": "paper-1",
@@ -37460,8 +37800,8 @@ window.OpenPharmacyQuestions = [
         "Lobar pneumonia"
       ]
     ],
-    "answer": "C",
-    "explanation": "• ‘Bacterial invasion of the lung parenchyma causes the alveoli to be filled with an inflammatory exudate, thus causing consolidation (“solidification”) of the pulmonary tissue’…..Robbins definition of pneumonia",
+    "answer": "D",
+    "explanation": "Source answer key: D. Lobar pneumonia. • ‘Bacterial invasion of the lung parenchyma causes the alveoli to be filled with an inflammatory exudate, thus causing consolidation (“solidification”) of the pulmonary tissue’…..Robbins definition of pneumonia",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37503,7 +37843,7 @@ window.OpenPharmacyQuestions = [
         "Mixed iron and folic deficiency anemia produce microcytic"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Answer: (C) Thalassemia minor anemia may present with normal RBC diameter (265-68-Hrshmohon 7th) (630= Rabbins- basis disease)Red blood cell distribution width (RDW or RCDW) is a measure of the variation of red blood cell (RBC) volume that is reported as part of a standard complete blood count. Usually red blood cells are a standard size of about 6-8 pm in diameter. Certain disorders, however, cause a significant variation in cell size. Higher RDW values indicate greater variation in size. Normal reference range in human red blood cells is 11.5-14.5%. If anemia is observed, RDW test results are often used together with mean corpuscular volume (MCV) results to determine the possible causes of…",
     "rationales": {},
     "paper": "paper-1",
@@ -37548,7 +37888,7 @@ window.OpenPharmacyQuestions = [
         "Nuclear membrane"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "i.e. (Mitochondria) : (301-Harsh Mohan 6th ) (625-Robbins & Cotran-Pathologic basis of disease 8th)Ringed sideroblasts is characteristic of sideroblastic anemia /Myelodysplastic SyndromeRinged sideroblast in which haem synthesis is disturbed as occurs in sideroblastic anaemiasRinged sideroblasts containing numerous large granules, often forming a complete or partial ring around the nucleus. These ringed arrangement of these granules is due to presence of iron laden mitochondria around the nucleus",
     "rationales": {},
     "paper": "paper-1",
@@ -37636,8 +37976,8 @@ window.OpenPharmacyQuestions = [
         "Cytoplasm of the striated muscle cells"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Cytoplasm of the striated muscle cells.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Stromal connective tissue. Source answer key: Cytoplasm of the striated muscle cells.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37681,8 +38021,8 @@ window.OpenPharmacyQuestions = [
         "Congenital"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Trauma.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Atherosclerosis. Source answer key: Trauma.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37724,8 +38064,8 @@ window.OpenPharmacyQuestions = [
         "Mutation of c 1p gene"
       ]
     ],
-    "answer": "D",
-    "explanation": "Robbins basic pathology 10th edition page no 290. Wilms tumor or nephroblastoma is the most common primary tumor of the kidney in children. On microscopic examination, Wilms tumors are characterized by recognizable attempts to recapitulate different stages of nephrogenesis. The pattern of anaplastic cells within the primary tumor has important implications for prognosis.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Histopathology. Robbins basic pathology 10th edition page no 290. Wilms tumor or nephroblastoma is the most common primary tumor of the kidney in children. On microscopic examination, Wilms tumors are characterized by recognizable attempts to recapitulate different stages of nephrogenesis. The pattern of anaplastic cells within the primary tumor has important implications for prognosis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37767,7 +38107,7 @@ window.OpenPharmacyQuestions = [
         "Ewings tumor"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Retinoblastoma and osteosarcoma both can occur due to mutation in common gene i.e RB gene. Hence both have strongest association.",
     "rationales": {},
     "paper": "paper-1",
@@ -37855,8 +38195,8 @@ window.OpenPharmacyQuestions = [
         "Hypovolemic"
       ]
     ],
-    "answer": "B",
-    "explanation": "Includes anaphylactic shock, septic shock and spinal cord injury (neurogenic shock). Inadequate organ perfusion is associated with vascular dilatation and hypotension, low systemic vascular resistance, inadequate afterload and a resulting abnormally high cardiac output. In anaphylaxis, vasodilatation is due to excess histamine release. Neurogenic shock is caused by traumatic or pharmacological blockage of the sympathetic nervous system, producing dilatation of resistance arterioles and capacitance veins, leading to relative hypovolemia and hypotension. In neurogenic shock, because of loss of vascular tone, JVP will fall.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Distributive. Includes anaphylactic shock, septic shock and spinal cord injury (neurogenic shock). Inadequate organ perfusion is associated with vascular dilatation and hypotension, low systemic vascular resistance, inadequate afterload and a resulting abnormally high cardiac output. In anaphylaxis, vasodilatation is due to excess histamine release. Neurogenic shock is caused by traumatic or pharmacological blockage of the sympathetic nervous system, producing dilatation of resistance arterioles and capacitance veins, leading to relative hypovolemia and hypotension. In neurogenic shock, because of loss of vascular tone, JVP will fall.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37900,8 +38240,8 @@ window.OpenPharmacyQuestions = [
         "Thrombocytosis"
       ]
     ],
-    "answer": "D",
-    "explanation": "Dry tap is usually defined as a \"failure to obtain bone marrow on attempted marrow aspiration\". The diagnosis and management of many haematological diseases depends on examination of the bone marrow, which involves two separate specimens i.e. a cytologic and a histologic preparation.Bone marrow examination refers to the pathologic analysis of samples of bone marrow obtained by bone marrow biopsy (often called a trephine biopsy) and bone marrow aspiration. Bone marrow examination is used in the diagnosis of a number of conditions, including leukemia, multiple myeloma, lymphoma, anemia, and pancytopenia. The bone marrow produces the cellular elements of the blood, including platelets, red bloo…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Dry tap (hypocellular). Dry tap is usually defined as a \"failure to obtain bone marrow on attempted marrow aspiration\". The diagnosis and management of many haematological diseases depends on examination of the bone marrow, which involves two separate specimens i.e. a cytologic and a histologic preparation.Bone marrow examination refers to the pathologic analysis of samples of bone marrow obtained by bone marrow biopsy (often called a trephine biopsy) and bone marrow aspiration. Bone marrow examination is used in the diagnosis of a number of conditions, including leukemia, multiple myeloma, lymphoma, anemia, and pancytopenia. The bone marrow produces the cellular elements of the blood, including platelets, red bloo…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -37946,7 +38286,7 @@ window.OpenPharmacyQuestions = [
         "Tay-Sachs disease"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Tay-Sachs disease is a lethal, autosomal recessive disorder caused by an inborn deficiency of hexosaminidase A, which permits the accumulation of ganglioside GM1 in CNS neurons. The disease is fatal in infancy and early childhood. Retinal involvement increases macular transparency and is responsible for a cherry-red spot in the macula. On histologic examination, lipid droplets are seen in the cytoplasm of distended nerve cells of the CNS and peripheral nervous system. Electron microscopy reveals the lipid within lysosomes in the form of whorled \"myelin figures.\" Swollen neurons that exhibit marked vacuolization of the perikaryon and contain lysosomes filled with lipid can also occur in other…",
     "rationales": {},
     "paper": "paper-1",
@@ -37989,7 +38329,7 @@ window.OpenPharmacyQuestions = [
         "Macrovesicular fatty change"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Serum IgA increased in - Alcoholic cirrhosis Serum IgM increased in -Primary biliary cirrhosis (Ref: Clin Exp Immunol.2009 Oct; 158(1): 115-124, Liver.1984 Jun;4(3): 214-8)",
     "rationales": {},
     "paper": "paper-1",
@@ -38032,7 +38372,7 @@ window.OpenPharmacyQuestions = [
         "Bronchogenic cyst"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ref: Bailey and Love, 26th edition, P 868Most common anterior mediastinum tumor is thymoma. Choice B is seen in posterior mediastinum. Choice C and D are found in middle mediastinum.",
     "rationales": {},
     "paper": "paper-1",
@@ -38075,8 +38415,8 @@ window.OpenPharmacyQuestions = [
         "Has associations with amelogenesis imperfecta"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Is a sex-linked disorder of bones that develop in cartilage.",
+    "answer": "B",
+    "explanation": "Source answer key: B. manifests with blue sclera which are pathognomonic of this disease. Source answer key: Is a sex-linked disorder of bones that develop in cartilage.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -38118,8 +38458,8 @@ window.OpenPharmacyQuestions = [
         "Blood chemistry"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Blood studies.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Biopsy. Source answer key: Blood studies.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -38163,7 +38503,7 @@ window.OpenPharmacyQuestions = [
         "Wegner's granulomatosis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Type I RPGN is anti - GBM mediated and it is seen in Goodpasture's syndrome.",
     "rationales": {},
     "paper": "paper-1",
@@ -38206,8 +38546,8 @@ window.OpenPharmacyQuestions = [
         "Sipple's syndrome"
       ]
     ],
-    "answer": "B",
-    "explanation": "MEN III, also known as MEN IIb, is characterized by medullary thyroid carcinoma, pheochromocytoma, and mucosal neuromas.Wermer's syndrome is also called MEN type I . It is characterized by pancreatic (insulinoma), pituitary, and parathyroid involvement.Sipple's syndrome, or MEN type II , is similar to MEN III, but it has parathyroid involvement (tumor or adenoma) as opposed to neuromas. Ref: Wyatt C., Butterwoh IV J.F., Moos P.J., Mackey D.C., Brown T.G. (2008). Chapter 18. Endocrine Pathology. In C. Wyatt, J.F. Butterwoh IV, P.J. Moos, D.C. Mackey, T.G. Brown (Eds), Pathology: The Big Picture.",
+    "answer": "C",
+    "explanation": "Source answer key: C. MEN type III. MEN III, also known as MEN IIb, is characterized by medullary thyroid carcinoma, pheochromocytoma, and mucosal neuromas.Wermer's syndrome is also called MEN type I . It is characterized by pancreatic (insulinoma), pituitary, and parathyroid involvement.Sipple's syndrome, or MEN type II , is similar to MEN III, but it has parathyroid involvement (tumor or adenoma) as opposed to neuromas. Ref: Wyatt C., Butterwoh IV J.F., Moos P.J., Mackey D.C., Brown T.G. (2008). Chapter 18. Endocrine Pathology. In C. Wyatt, J.F. Butterwoh IV, P.J. Moos, D.C. Mackey, T.G. Brown (Eds), Pathology: The Big Picture.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -38337,8 +38677,8 @@ window.OpenPharmacyQuestions = [
         "Hepatocellular carcinoma"
       ]
     ],
-    "answer": "B",
-    "explanation": "The most common neoplasm associated with hypercalcemia is squamous cell carcinoma. Other tumors often associated with paraneoplastic hypercalcemia are carcinomas of the lung, kidney, breast and ovary. Paraneoplastic hypercalcemia is caused by parathyroid hormone-related protein (PTHRP) secreted by these tumours. PTHRP increases bone resorp-tion and renal calcium uptake, while inhibiting renal phosphate transpo, effects that raise serum calcium levels.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Squamous cell carcinoma of lung. The most common neoplasm associated with hypercalcemia is squamous cell carcinoma. Other tumors often associated with paraneoplastic hypercalcemia are carcinomas of the lung, kidney, breast and ovary. Paraneoplastic hypercalcemia is caused by parathyroid hormone-related protein (PTHRP) secreted by these tumours. PTHRP increases bone resorp-tion and renal calcium uptake, while inhibiting renal phosphate transpo, effects that raise serum calcium levels.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -38427,7 +38767,7 @@ window.OpenPharmacyQuestions = [
         "Brain"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "LungsRef: Robbin's pathology 9th ed. /529-30* In left ventricular failure, the pooling of blood in lungs will result and will lead to development of pulmonary edema which causes hypoxia and findings of dysnea, orthopnea, pink frothy sputum and death. Hence lungs are immediately affected following LVF.* Subsequently due to low BP the kidneys shall be affected and in severe LVF brain perfusion shall also be affected.",
     "rationales": {},
     "paper": "paper-1",
@@ -38470,8 +38810,8 @@ window.OpenPharmacyQuestions = [
         "Scleroderma"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Multiple supernumerary teeth.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Multiple intestinal polyps. Source answer key: Multiple supernumerary teeth.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -38558,7 +38898,7 @@ window.OpenPharmacyQuestions = [
         "Grading refers to the extent of necrosis andinflammations"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": ". Grading refers to the extent of necrosis andinflammations",
     "rationales": {},
     "paper": "paper-1",
@@ -38646,8 +38986,8 @@ window.OpenPharmacyQuestions = [
         "Accumulation of fibrin"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ref:Textbook of pathology (Harsh mohan)6th edition,page no. 469 GREY HEPATISATION: LATE CONSOLIDATION This phase lasts for 4 to 8 days Grossly, the affected lobe is firm and heavy. The cut surface is dry, granular and grey in appearance with liverlike consistency .The change in colour from red to grey begins at the hilum and spreads towards the periphery. Fibrinous pleurisy is prominent. Histologically, the following changes are present i)The fibrin strands are dense and more numerous. ii)The cellular exudate of neutrophils is reduced due to disintegration of many inflammatory cells as evidenced by their pyknotic nuclei. The red cells are also fewer. The macrophages begin to appear in the ex…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Accumulation of fibrin. Ref:Textbook of pathology (Harsh mohan)6th edition,page no. 469 GREY HEPATISATION: LATE CONSOLIDATION This phase lasts for 4 to 8 days Grossly, the affected lobe is firm and heavy. The cut surface is dry, granular and grey in appearance with liverlike consistency .The change in colour from red to grey begins at the hilum and spreads towards the periphery. Fibrinous pleurisy is prominent. Histologically, the following changes are present i)The fibrin strands are dense and more numerous. ii)The cellular exudate of neutrophils is reduced due to disintegration of many inflammatory cells as evidenced by their pyknotic nuclei. The red cells are also fewer. The macrophages begin to appear in the ex…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -38732,8 +39072,8 @@ window.OpenPharmacyQuestions = [
         "CML"
       ]
     ],
-    "answer": "D",
-    "explanation": "Hodgkin&;s lymphoma is characterised by the presence of neoplastic giant cells called Reed Sternberg cells.These cells release factors that induce the accumulation of reactive lymphocytes, macrophages, and granulocytes, which typically make up greater than 90% of tumour cellularity. RS cells are derived from the germinal centre or post germinal centre B cells. Reference : Robbins and Cotran Pathologic basis of disease.South Asia Edition volume 1.page no. 607",
+    "answer": "A",
+    "explanation": "Source answer key: A. Hodkin's disease. Hodgkin&;s lymphoma is characterised by the presence of neoplastic giant cells called Reed Sternberg cells.These cells release factors that induce the accumulation of reactive lymphocytes, macrophages, and granulocytes, which typically make up greater than 90% of tumour cellularity. RS cells are derived from the germinal centre or post germinal centre B cells. Reference : Robbins and Cotran Pathologic basis of disease.South Asia Edition volume 1.page no. 607",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -38778,8 +39118,8 @@ window.OpenPharmacyQuestions = [
         "Intact cell membrane"
       ]
     ],
-    "answer": "B",
-    "explanation": "Irreversible injury is associated morphologically with:- Mitochondrial swelling Plasma membrane damage which forms myelin figures Lysosomal swelling. Large, flocculent, amorphous densities develop in the mitochondrial matrix",
+    "answer": "C",
+    "explanation": "Source answer key: C. Flocculent densities in the mitochondria. Irreversible injury is associated morphologically with:- Mitochondrial swelling Plasma membrane damage which forms myelin figures Lysosomal swelling. Large, flocculent, amorphous densities develop in the mitochondrial matrix",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -38823,7 +39163,7 @@ window.OpenPharmacyQuestions = [
         "Septicemia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Cardiac failure is the most common cause of death in primary or AL amyloidosis. Cardiac involvement is seen in 40% of patients with AL amyloidosis. Amyloid involvement of myocardium, intramural coronary aeries and conduction system may cause congestive hea failure, ischemic syndrome and rythm disturbances. Diagnosis of amyloidosis should be considered in patients with unexplained nephropathy, cardiomyopathy (diastolic dysfunction), neuropathy, enteropathy, or pathognomonic soft tissue findings of macroglossia or periorbital ecchymoses. Pathologic diagnosis of amyloid fibrils can be made by congo red staining of aspirated abdominal fat or of an involved organ biopsy specimen.",
     "rationales": {},
     "paper": "paper-1",
@@ -38868,7 +39208,7 @@ window.OpenPharmacyQuestions = [
         "Metabolism of drugs"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Production of vitamin KRef: Robbin's pathology 9th ed. Z821* Vitamin K is produced by the bacteria of gut and is used by liver for gamma carboxylation of factor 2/7/9/10.# Liver produces albumin which falls in liver cirrhosis producing ascites/edema.# Ammonia is combined with carbon dioxide to produce urea which in turn is excreted by the liver.# The cytochrome P450 is responsible for metabolism of drugs.",
     "rationales": {},
     "paper": "paper-1",
@@ -38956,7 +39296,7 @@ window.OpenPharmacyQuestions = [
         "Loss of sensation"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Cachexia is a common finding in advanced cancers, and weight loss without dieting in an adult is a \"red flag\" for malignancy. The exact cause for this is unknown, but increases in circulating factors such as tumor necrosis factor (TNF) may play a role. Cardiac murmurs may occur in the development of nonbacterial thrombotic endocarditis, a feature of a hypercoagulable state that may occur with advanced malignancies. Icterus is most likely to occur when there is obstruction of the biliary tract by a mass (e.g., as in pancreatic cancer), but metastases are unlikely to cause such an obstruction. Neurologic abnormalities may occur in local tumor growth impinging on nerves, but dull constant pain…",
     "rationales": {},
     "paper": "paper-1",
@@ -39001,7 +39341,7 @@ window.OpenPharmacyQuestions = [
         "Septicemia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "ANSWER: (B) Cardiac failureREF: Harrison's Internal Medicine 17th edition chapter 324. AmyloidosisThe kidneys are the most frequently affected organ (80%), Renal amyloidosis is usually manifested by proteinuria, which is often in the nephrotic range and associated with significant hyportalbuminemia and edema or anasarca; rarely, tubular rather than glomerular deposition of amyloid can produce azotemia without significant proteinuria. Cardiac symptoms are the second most common presentation (40%), but cardiac dysfunction is associated with death in 75% of patients.",
     "rationales": {},
     "paper": "paper-1",
@@ -39046,7 +39386,7 @@ window.OpenPharmacyQuestions = [
         "Kawasaki"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Aoic dissection occurs when blood splays apa the laminar planes of the media to form a blood-filled channel within the aoic wall.Aoic dissection occurs mainly in two age groups: (1)men aged 40 to 60 with antecedent hypeension (more than 90% of cases); and (2) younger patients with connective tissue abnormalities that affect the aoa.Robbins Basic pathology, 9th edition, pg no.346",
     "rationales": {},
     "paper": "paper-1",
@@ -39089,8 +39429,8 @@ window.OpenPharmacyQuestions = [
         "No nucleus with organelles"
       ]
     ],
-    "answer": "B",
-    "explanation": "In H&E-stained tissue sections, the nuclei of apoptotic cells show various stages of chromatin condensation and aggregation and, ultimately, karyorrhexis; at the molecular level, this is reflected in fragmentation of DNA into nucleosome-sized pieces. The cells rapidly shrink, form cytoplasmic buds, and fragment into apoptotic bodies composed of membrane-bound vesicles of cytosol and organelles.( Robbins Basic Pathology, 9th edition, page 18 )",
+    "answer": "C",
+    "explanation": "Source answer key: C. Cell membrane bound with organelles. In H&E-stained tissue sections, the nuclei of apoptotic cells show various stages of chromatin condensation and aggregation and, ultimately, karyorrhexis; at the molecular level, this is reflected in fragmentation of DNA into nucleosome-sized pieces. The cells rapidly shrink, form cytoplasmic buds, and fragment into apoptotic bodies composed of membrane-bound vesicles of cytosol and organelles.( Robbins Basic Pathology, 9th edition, page 18 )",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39132,8 +39472,8 @@ window.OpenPharmacyQuestions = [
         "Perrectal prostaglandins"
       ]
     ],
-    "answer": "A",
-    "explanation": "WHO recommendations for prevention of PPH by active management of third stage of labour Components of Active Management of the Third Stage of Labour (WHO)Administration of uterotonic soon after bih of baby.Delayed cord clamping and cutting.Controlled cord traction for delivery of the placenta (Brandt Andrew&;sMethod).Uterine massage.Uterotonic Agents Used in AMTSLInjectable oxytocin is the first line agent as it is effective after 2-3 minutes and has minimal side effects. Recommended dose by WHO is 10 units IM.Injectable methylergometrine (methergine) 0.2 mg IM/IV delivery of anterior shoulder or immediately after DELIVERY OF BABY.Syntometrine or Oxymatrine (ERGOMETRINE 0.5 MG +OXYTOCIN 5 UN…",
+    "answer": "B",
+    "explanation": "Source answer key: B. IM oxytocin. WHO recommendations for prevention of PPH by active management of third stage of labour Components of Active Management of the Third Stage of Labour (WHO)Administration of uterotonic soon after bih of baby.Delayed cord clamping and cutting.Controlled cord traction for delivery of the placenta (Brandt Andrew&;sMethod).Uterine massage.Uterotonic Agents Used in AMTSLInjectable oxytocin is the first line agent as it is effective after 2-3 minutes and has minimal side effects. Recommended dose by WHO is 10 units IM.Injectable methylergometrine (methergine) 0.2 mg IM/IV delivery of anterior shoulder or immediately after DELIVERY OF BABY.Syntometrine or Oxymatrine (ERGOMETRINE 0.5 MG +OXYTOCIN 5 UN…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39175,8 +39515,8 @@ window.OpenPharmacyQuestions = [
         "Follicular lymphoma"
       ]
     ],
-    "answer": "B",
-    "explanation": "DLBCL - Most common lymphoma in adults Follicular lymphoma - Most common indolent lymphoma in adults Chronic lymphocytic leukemia - Most common leukemia in adults",
+    "answer": "C",
+    "explanation": "Source answer key: C. Diffuse large B-cell lymphoma (DLBCL). DLBCL - Most common lymphoma in adults Follicular lymphoma - Most common indolent lymphoma in adults Chronic lymphocytic leukemia - Most common leukemia in adults",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39220,8 +39560,8 @@ window.OpenPharmacyQuestions = [
         "Thrombocytes"
       ]
     ],
-    "answer": "D",
-    "explanation": "Birbeck granules are rod Shaped/Tennis-racket shaped cytoplasmic organelles with a central linear density and a striated appearance. They are diagnostic microscopic feature in Langerhans cell histiocytosis (Histiocytosis X)",
+    "answer": "A",
+    "explanation": "Source answer key: A. Langerhans cells. Birbeck granules are rod Shaped/Tennis-racket shaped cytoplasmic organelles with a central linear density and a striated appearance. They are diagnostic microscopic feature in Langerhans cell histiocytosis (Histiocytosis X)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39263,7 +39603,7 @@ window.OpenPharmacyQuestions = [
         "Chlordiazepoxide"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Features of Buspirone Non-benzodiazepine anxiolytic agentDoes not produce significant sedation or cognitive/functional impairmentDoes not interact with BZD receptor or modify GABAergic transmissionDoes not produce tolerance or physical dependence Does not suppress BZD or barbiturate withdrawal syndrome Has no muscle relaxant or anticonvulsant activity (Refer: KD Tripathi's Essentials of Medical Pharmacology, 7th edition, pg no: 466-467)",
     "rationales": {},
     "paper": "paper-1",
@@ -39306,8 +39646,8 @@ window.OpenPharmacyQuestions = [
         "Pancreas"
       ]
     ],
-    "answer": "D",
-    "explanation": "Krukenberg tumor is a distinctive bilateral tumor metastatic to the ovaries by the transcoelomic spread. The tumor is generally secondary to a gastric carcinoma but other primary sites where mucinous carcinomas occur (e.g. colon, appendix, and breast) may also produce Krukenberg tumor in the ovary. Rarely, a tumor having the pattern of Krukenberg tumor is primary in the ovary.Grossly, Krukenberg tumor forms rounded or kidney-shaped firm large masses in both ovaries. Microscopically, it is characterized by the presence of mucus-filled signet ring cells which may lie singly or in clusters. It is accompanied by a sarcoma-like cellular proliferation of ovarian stroma HARSH MOHAN Textbook of path…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Stomach. Krukenberg tumor is a distinctive bilateral tumor metastatic to the ovaries by the transcoelomic spread. The tumor is generally secondary to a gastric carcinoma but other primary sites where mucinous carcinomas occur (e.g. colon, appendix, and breast) may also produce Krukenberg tumor in the ovary. Rarely, a tumor having the pattern of Krukenberg tumor is primary in the ovary.Grossly, Krukenberg tumor forms rounded or kidney-shaped firm large masses in both ovaries. Microscopically, it is characterized by the presence of mucus-filled signet ring cells which may lie singly or in clusters. It is accompanied by a sarcoma-like cellular proliferation of ovarian stroma HARSH MOHAN Textbook of path…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39351,8 +39691,8 @@ window.OpenPharmacyQuestions = [
         "Type IV collagen"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans. is `b' i.e., Type H Collegen type Tissue distributionUbiquitous in hard & soft tissuesII & IX Cailage, interveebral disc, vitreousIn Hollow organs & soft tissuesIV Basement membraneV Blood vesselsVI Ubiquitous in microfibrilsVII Dermoepidemal junctionIX Cailage & VitrousNote : Amongst these type I, II, III, V & IX are fibrillary Interstitial collegen, all others are nonfibrillary collegen.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Type II collagen. Ans. is `b' i.e., Type H Collegen type Tissue distributionUbiquitous in hard & soft tissuesII & IX Cailage, interveebral disc, vitreousIn Hollow organs & soft tissuesIV Basement membraneV Blood vesselsVI Ubiquitous in microfibrilsVII Dermoepidemal junctionIX Cailage & VitrousNote : Amongst these type I, II, III, V & IX are fibrillary Interstitial collegen, all others are nonfibrillary collegen.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39394,7 +39734,7 @@ window.OpenPharmacyQuestions = [
         "Ribavirin"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Cidofovir Gold standard treatment for respiratory papillomatosis is Laser MLS/ Powered MLS (using microdebrider). Cidofovir is a recent drug which is used intralesionally or topically. Its active metabolite, cidofovir diphosphate, inhibits viral replication by selectively inhibiting viral DNA polymerase.",
     "rationales": {},
     "paper": "paper-1",
@@ -39484,7 +39824,7 @@ window.OpenPharmacyQuestions = [
         "M5"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Answer is option 2 M3 DIC is common, especially in M3, with prolonged prothrombin time, low levels of fibrinogen and fibrin degradation products (FDPs) present. myeloid luekemia.",
     "rationales": {},
     "paper": "paper-1",
@@ -39527,7 +39867,7 @@ window.OpenPharmacyQuestions = [
         "G2 phase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Cell cycle Correct sequence: G0-G1-S-G2-M Most important checkpoint: G1-S Cellular content doubled in: S phase Cyclins D,E,A,B appears sequentially Cyclin D - first to increase in cell cycle Cyclin D - controls G1-S transition P16 (CDKN2A), P53& RB - Induce cell cycle arrest at G1-S Cyclin B - controls G2-M transition Fixed time is required for: S & M phase Most radio-resistant phase: S Most radio-sensitive phase: M",
     "rationales": {},
     "paper": "paper-1",
@@ -39613,7 +39953,7 @@ window.OpenPharmacyQuestions = [
         "Collecting duct"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Renal cell carcinoma *Renal cancers are mostly sporadic, except for a 4% cases which appear familial *Familial renal cancers are due to mutation of VHL and MET genes*98% of all renal cancers (sporadic and familial) are due to VHL mutation encoded in chr3p*Most common cause of familial papillary renal cell carcinoma (rare disease) is MET protooncogene*Most common risk factor for all renal cancers- Tobacco*Most common type of renal cell carcinoma is clear cell carcinoma , which is followed by papillary carcinoma, chromophobe carcinoma and collecting duct carcinoma*Most common type of renal cancer in patients who develop dialysis associated cystic disease - Papillary carcinoma*VHL is a tumour s…",
     "rationales": {},
     "paper": "paper-1",
@@ -39658,7 +39998,7 @@ window.OpenPharmacyQuestions = [
         "Nodular regenerative hyperplasia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Most common benign neoplasm is cavernous hemangioma Most common hepatic neoplasm is metastasis Most common primary malignant tumor is Hepatocellular carcinoma.",
     "rationales": {},
     "paper": "paper-1",
@@ -39703,7 +40043,7 @@ window.OpenPharmacyQuestions = [
         "TNF alpha"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Cytokines Proinflammatory Anti-inflammatory o Major:- IL-1, o IL-4, IL-10, IL-13 TNF-alpha, IL-6 o Other:- IL-2, IL-4, IL-5, IL-6, IL-8, IL-11, IL-12, IL-15, IL-21, IL-23, IFN- gamma, GM-CSF o Here, you can consider IL-4 as pro-inflammatory cytokine ( as more than one options can be correct in PGIchandigarh).",
     "rationales": {},
     "paper": "paper-1",
@@ -39746,8 +40086,8 @@ window.OpenPharmacyQuestions = [
         "Viral etiology"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: It is unilateral in nature.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Ulcers relationship seen on the anterior faucial pillars. Source answer key: It is unilateral in nature.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -39789,7 +40129,7 @@ window.OpenPharmacyQuestions = [
         "Giant cells"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Pyogenic granulomas) are pedunculated masses usually found on the gingiva of children, young adults, and pregnant women. These lesions are richly vascular and typically are ulcerated, which gives them a red to purple color. In some cases, growth can be rapid and raise fear of a malignant neoplasm. However, histologic examination demonstrates a dense proliferation of immature vessels similar to that seen in granulation tissue. Pyogenic granulomas can regress, mature into dense fibrous masses, or develop into a peripheral ossifying fibroma. Complete surgical excision is definitive treatment. (Robbins basic pathology,9th edition,pg no.553)",
     "rationales": {},
     "paper": "paper-1",
@@ -39834,7 +40174,7 @@ window.OpenPharmacyQuestions = [
         "Sucrose hemolysis test"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The metabisulfite test is used to detect the presence of hemoglobin S, but it does not differentiate the heterozygous sickle cell trait from the homozygous sickle cell disease. The test is based on the fact that erythrocytes with a large propoion of hemoglobin S sickle in solutions of low oxygen content. Metabisulfite is a reducing substance that enhances the process of deoxygenation. The osmotic fragility test is a diagnostic test for hereditary spherocytosis. Spherocytes lyse at a higher concentration of salt than do normal cells, thus causing an increased osmotic fragility. The direct antiglobulin test (DAT), or Coombs' test, is used to differentiate autoimmune hemolytic anemia (AIHA) due…",
     "rationales": {},
     "paper": "paper-1",
@@ -39879,7 +40219,7 @@ window.OpenPharmacyQuestions = [
         "Lung abscesses"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "(Asthma) (726- Robbins 7th) (485- 492- HM 5,h) (492- Basic pathology 8th)* Bronchial Asthma - Histologically the mucous plugs contain whorls of shed epithelium. Which give rise to the well known Curschmann spirals*, Numerous eosinophils and charcot Leyden crystals* are present* The other characteristic histologic findings of asthma collectively called \"airway remodeling\"* REID INDEX is the ratio between thickness of the submucosal mucous glands (i.e, hypertrophy and hyper plasia) in the cartilage containg large airway to that of the total bronchial wall seen in chronic bronchitis**",
     "rationales": {},
     "paper": "paper-1",
@@ -39922,7 +40262,7 @@ window.OpenPharmacyQuestions = [
         "X-linked dominant"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Gaucher disease results from mutation in the gene that encodes glucocerebrosidase. There are three autosomal recessive variants of Gaucher disease resulting from distinct allelic mutations. Common to all is variably deficient activity of a glucocerebrosidase that normally cleaves the glucose residue from ceramide. This deficit leads to an accumulation of glucocerebroside, an intermediate in glycolipid metabolism, in the mononuclear phagocytic cells and their transformation into so-called Gaucher cells. (Robbins Basic Pathology,9th edition,pg no. 231)",
     "rationales": {},
     "paper": "paper-1",
@@ -40057,8 +40397,8 @@ window.OpenPharmacyQuestions = [
         "Streptococcus pneumoniae"
       ]
     ],
-    "answer": "C",
-    "explanation": "Most cases of lobar pneumonia are caused by S. pneumoniae (reclassification of the pneumococcus). Streptococcal or pneumococcal pneumonia involves one or more lobes and is often seen in alcoholics or debilitated persons.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Streptococcus pneumoniae. Most cases of lobar pneumonia are caused by S. pneumoniae (reclassification of the pneumococcus). Streptococcal or pneumococcal pneumonia involves one or more lobes and is often seen in alcoholics or debilitated persons.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40100,7 +40440,7 @@ window.OpenPharmacyQuestions = [
         "Transferrin"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Bilirubin metabolism Bilirubin is the end product of heme degradation. The heme is derived from - Senescent erythrocytes by the mononuclear phagocytic system in the spleen, liver and bone marrow (major source). Turnover of hemoproteins (e.g. cytochrome p.450). Heme is oxidized to biliverdin by heme oxygenase. Biliverdin is then reduced to bilirubin by biliverdin reductase. Bilirubin is transported to the liver in bound form with albumin. There is the carrier-mediated uptake of bilirubin in the liver. This bilirubin is conjugated with glucuronic acid by UDP glucuronosyl transferase (UGT1A1) to from conjugated bilirubin (bilirubin glucuronides). Conjugated bilirubin is excreted into bile. Most…",
     "rationales": {},
     "paper": "paper-1",
@@ -40146,8 +40486,8 @@ window.OpenPharmacyQuestions = [
         "Vomiting"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Congestive hea failure.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Vomiting. Source answer key: Congestive hea failure.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40234,8 +40574,8 @@ window.OpenPharmacyQuestions = [
         "Thalassemia"
       ]
     ],
-    "answer": "B",
-    "explanation": "Paroxysmal noctural hemoglobunuria (PNH) is the only hemolytic anemia caused by an acquired intrinsic defect in the cell membrane. It is associated with intravascular hemolysis. Rest all conditions causes extravascular heamolysis.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Paroxysmal nocturnal hemoglobinuria. Paroxysmal noctural hemoglobunuria (PNH) is the only hemolytic anemia caused by an acquired intrinsic defect in the cell membrane. It is associated with intravascular hemolysis. Rest all conditions causes extravascular heamolysis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40279,7 +40619,7 @@ window.OpenPharmacyQuestions = [
         "Hemorrhagic Corpus Leuteum"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Absence of oocytes in the ovaries (streak ovaries)(Ref: Robbins 9th/pg 166-167; 8th/pg 165-166)In this question, the patient is presenting with primary amenorrhea and raised FSH, along with short stature(Given Height =58 inches, which is less than 5th percentile of expected at 16 years age). All these features are suggestive of Turner Syndrome.Infertility Q due to rudimentary uterus and streak ovaries is an important feature Q, as ovaries are reduced to atrophic fibrous strands without ova and follicles in Turner syndrome",
     "rationales": {},
     "paper": "paper-1",
@@ -40322,8 +40662,8 @@ window.OpenPharmacyQuestions = [
         "Hepa s B"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Hepa s B.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Simian virus 40. Source answer key: Hepa s B.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40367,8 +40707,8 @@ window.OpenPharmacyQuestions = [
         "Antibodies in serum"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Antigen in serum.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Antibodies in RBC surface. Source answer key: Antigen in serum.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40410,7 +40750,7 @@ window.OpenPharmacyQuestions = [
         "Vit. D"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Vit A is teratogenic and can cause craniofacial CVS and CNS defects.",
     "rationales": {},
     "paper": "paper-1",
@@ -40453,8 +40793,8 @@ window.OpenPharmacyQuestions = [
         "Chest exam with auscultation"
       ]
     ],
-    "answer": "B",
-    "explanation": "The priority nursing action for a patient arriving at the ED in distress is always assessment of vital signs. This indicates the extent of physical compromise and provides a baseline by which to plan further assessment and treatment. A thorough medical history, including onset of symptoms, will be necessary and it is likely that an electrocardiogram will be performed as well, but these are not the first priority. Similarly, chest exam with auscultation may offer useful information after vital signs are assessed.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Careful assessment of vital signs. The priority nursing action for a patient arriving at the ED in distress is always assessment of vital signs. This indicates the extent of physical compromise and provides a baseline by which to plan further assessment and treatment. A thorough medical history, including onset of symptoms, will be necessary and it is likely that an electrocardiogram will be performed as well, but these are not the first priority. Similarly, chest exam with auscultation may offer useful information after vital signs are assessed.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40496,8 +40836,8 @@ window.OpenPharmacyQuestions = [
         "Salmonella"
       ]
     ],
-    "answer": "B",
-    "explanation": "Hairy cell leukaemia is seen in patients susceptibility to infections with mycobacterium avium intracellulare. Nontuberculous mycobacteria, also known as environmental mycobacteria, atypical mycobacteria and mycobacteria other than tuberculosis, are mycobacteria which do not cause tuberculosis or leprosy. NTM do cause pulmonary diseases that resemble tuberculosis Reference: textbook of Pathology 6th edition Author Harsha Mohan page number 378.",
+    "answer": "C",
+    "explanation": "Source answer key: C. HTLV2. Hairy cell leukaemia is seen in patients susceptibility to infections with mycobacterium avium intracellulare. Nontuberculous mycobacteria, also known as environmental mycobacteria, atypical mycobacteria and mycobacteria other than tuberculosis, are mycobacteria which do not cause tuberculosis or leprosy. NTM do cause pulmonary diseases that resemble tuberculosis Reference: textbook of Pathology 6th edition Author Harsha Mohan page number 378.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40541,7 +40881,7 @@ window.OpenPharmacyQuestions = [
         "Inhibition of tyrosine kinase activity"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Metastasis is a complex series of steps in which cancer cells leave the original tumor site and migrate to other pas of the body the bloodstream or the lymphatic system. One of the critical events required for metastasis is the growth of a new network of blood vessels, called tumor angiogenesis.",
     "rationales": {},
     "paper": "paper-1",
@@ -40586,7 +40926,7 @@ window.OpenPharmacyQuestions = [
         "Rapidly non progressive glomerulonephritis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The most common histological picture of Rapidly progressive glomerulonephritis is the presence of crescents in most of glomeruli. Crescents are formed by proliferation of parietal cells and by migration of monocytes and macrophages in the Bowman's space. The prognosis can be roughly related to the number of crescents. Ref: Robbins Pathologic Basis of Disease, 6th Edition, Page 951",
     "rationales": {},
     "paper": "paper-1",
@@ -40629,8 +40969,8 @@ window.OpenPharmacyQuestions = [
         "Non thrombotic endocarditis"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Non thrombotic endocarditis.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Libman-Sacks endocarditis. Source answer key: Non thrombotic endocarditis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40672,7 +41012,7 @@ window.OpenPharmacyQuestions = [
         "Neutrophilia"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Flow cytometry is an extremely useful investigational tool that allows simultaneous multiparametric analysis of the physical characteristics defining WBC types using the principles of light scattering, excitation, and fluorochrome emission. As such, it can allow for the rapid identification and quantification of populations of WBC in any given patient sample based on the characteristic immunophenotype of the population subset.Also know:Flow cytometry can be a vital investigational tool for the hospitalist. It can be used in the initial workup of a new leukocytosis to identify a malignant versus a benign reactive cause. Flow cytometry also has direct uses in nonmalignant hematologic condition…",
     "rationales": {},
     "paper": "paper-1",
@@ -40805,8 +41145,8 @@ window.OpenPharmacyQuestions = [
         "BD"
       ]
     ],
-    "answer": "C",
-    "explanation": "In Trypanosoma cruzi infection& dermatomyositis uniform dilatation of oesophagus is seen Esophageal dilatation is a therapeutic endoscopic procedure that enlarges the lumen of the esophagus. ...Complications of esophageal dilatation include the following: Odynophagia, or painful swallowing. Hematemesis, or bloody vomit. Esophageal perforation. Mediastinitis.",
+    "answer": "D",
+    "explanation": "Source answer key: D. BD. In Trypanosoma cruzi infection& dermatomyositis uniform dilatation of oesophagus is seen Esophageal dilatation is a therapeutic endoscopic procedure that enlarges the lumen of the esophagus. ...Complications of esophageal dilatation include the following: Odynophagia, or painful swallowing. Hematemesis, or bloody vomit. Esophageal perforation. Mediastinitis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40848,8 +41188,8 @@ window.OpenPharmacyQuestions = [
         "TGF beta"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: TNF alpha.",
+    "answer": "C",
+    "explanation": "Source answer key: C. c-myc. Source answer key: TNF alpha.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -40891,7 +41231,7 @@ window.OpenPharmacyQuestions = [
         "Mercury"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Lead(Ref: Wintrobe's 12th/pg837)Sideroblastic anemia is seen in:*. Alcoholism*. Lead poisoning*. Drugs (isoniazid, pyrazinamide, chloramphenicol)*. Copper deficiency (zinc ingestion, copper chelation, nutritional, malabsorption)*. Hypothermia",
     "rationales": {},
     "paper": "paper-1",
@@ -40936,7 +41276,7 @@ window.OpenPharmacyQuestions = [
         "Loop of Henle"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "PCT(Ref: Robbins 9th/pg 928; 8th/pg 938)Nephrotoxic AKI*Caused by Gentamicin, radiographic contrast agents, heavy metals (eg mercury), organic solvents (eg CCl4 ).*Extensive necrosis along mainly proximal convoluted tubule (PCT) & ascending limb of Henle's loop.*On histologic examination, non-specific tubular necrosis, with some distinctive features:Mercuric chlorideSeverly injured cells contain large acidophilic inclusions, become totally necrotic, & may undergo calcification.Carbon tetrachlorideAccumulation of neutral lipids (fatty change), followed by necrosis.Ethylene glycolMarked ballooning & hydropic or vacuolar degeneration of proximal convoluted tubules. Ca oxalate crystals are often…",
     "rationales": {},
     "paper": "paper-1",
@@ -40981,7 +41321,7 @@ window.OpenPharmacyQuestions = [
         "Association"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Malformation(Ref: Robbins 9th/pg 452)Malformation refers to primary structural defect of an organ due to intrinsically abnormal developmental process (multifactorial); Eg Anencephaly, Congenital heart defects",
     "rationales": {},
     "paper": "paper-1",
@@ -41069,7 +41409,7 @@ window.OpenPharmacyQuestions = [
         "Cells which are not able to express MHC"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": ". Cells which are not able to express MHC 1",
     "rationales": {},
     "paper": "paper-1",
@@ -41157,8 +41497,8 @@ window.OpenPharmacyQuestions = [
         "Neutropenia"
       ]
     ],
-    "answer": "A",
-    "explanation": "Stills disease is a variant of rheumatoid commonly occurring in adults in 20's and 30's. Patients characteristics clinical features are: High spiking fever often up to 40°C. Sore throat Evanescent salmon coloured non pruritic rash, seen on chest & abdomen Lymphadenopathy Pericardial effusion Wrist joint involvement Chances are that you might confuse it with Felty's syndrome so I am giving the important features of both these conditions together",
+    "answer": "B",
+    "explanation": "Source answer key: B. Rashes. Stills disease is a variant of rheumatoid commonly occurring in adults in 20's and 30's. Patients characteristics clinical features are: High spiking fever often up to 40°C. Sore throat Evanescent salmon coloured non pruritic rash, seen on chest & abdomen Lymphadenopathy Pericardial effusion Wrist joint involvement Chances are that you might confuse it with Felty's syndrome so I am giving the important features of both these conditions together",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -41200,8 +41540,8 @@ window.OpenPharmacyQuestions = [
         "Conservative surgery"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Irradiation of the Lesion.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Conservative surgery. Source answer key: Irradiation of the Lesion.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "pathology",
@@ -41732,7 +42072,7 @@ window.OpenPharmacyQuestions = [
         "Effector"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "An antigen is any substance that causes an immune system to produce antibodies against it. Antigens are usually peptides, polysaccharides or lipids. In general, molecules other than peptides (saccharides and lipids) qualify as antigens but not as immunogens since they cannot elicit an immune response on their own. Ref: Ananthanarayan & Panikers textbook of microbiology 9th edition pg:88",
     "rationales": {},
     "paper": "paper-1",
@@ -41777,8 +42117,8 @@ window.OpenPharmacyQuestions = [
         "Yellow fever live"
       ]
     ],
-    "answer": "B",
-    "explanation": "Hlnl live (Intranasal route)",
+    "answer": "C",
+    "explanation": "Source answer key: C. H1n1 live. Hlnl live (Intranasal route)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -41865,7 +42205,7 @@ window.OpenPharmacyQuestions = [
         "1"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The Ty21a vaccine is licensed for use in individuals > 5 years. A three dose regimen is recommended. Vaccine is administered on alternate days: 0n days 1, 3 and 5. Ref: Park 21st edition, page 215.",
     "rationales": {},
     "paper": "paper-1",
@@ -41908,7 +42248,7 @@ window.OpenPharmacyQuestions = [
         "20 S"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans : b 8S Ref: Ananthanarayanan 8th editionSvedberg unit - a sedimentation constant of 1 x 1013sec. Sedimentation unit is studied by ultracentrifugation - for diversity of antibody moleculeIgG -7IgA -7IgM -19Ig D -7IgE -8",
     "rationales": {},
     "paper": "paper-1",
@@ -41953,8 +42293,8 @@ window.OpenPharmacyQuestions = [
         "CD 10"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: CD 20.",
+    "answer": "C",
+    "explanation": "Source answer key: C. CD 134. Source answer key: CD 20.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -41996,7 +42336,7 @@ window.OpenPharmacyQuestions = [
         "Moraten"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Widely used live attenuated mumps vaccine include the jeryl Lynn, RIT 4385, Leningrad-3, L-Zagreb and Urable strains. The current mumps strain (jeryl Lynn) has the lowest associated incidence of post-vaccine aseptic meningitis.",
     "rationales": {},
     "paper": "paper-1",
@@ -42039,8 +42379,8 @@ window.OpenPharmacyQuestions = [
         "Prostatic needle biopsy"
       ]
     ],
-    "answer": "B",
-    "explanation": "Prostatic Intraepithelial Neoplasia ( PIN) is a precancerous condition; not detected by rectal examination, TRUS , or MRI; does not cause rise in PSA level . It is usually identified after TURP for BPH with final histology or by prostatic biopsy.Reference: page1048 SRB&;s manual of surgery 5th edition",
+    "answer": "C",
+    "explanation": "Source answer key: C. Prostatic intraepithelial neoplasm. Prostatic Intraepithelial Neoplasia ( PIN) is a precancerous condition; not detected by rectal examination, TRUS , or MRI; does not cause rise in PSA level . It is usually identified after TURP for BPH with final histology or by prostatic biopsy.Reference: page1048 SRB&;s manual of surgery 5th edition",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42084,7 +42424,7 @@ window.OpenPharmacyQuestions = [
         "Sjogren syndrome"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Felty syndrome consists of chronic RA, splenomegaly, and neutropenia. The increased frequency of infections is due to both decreased number and function of neutrophils.",
     "rationales": {},
     "paper": "paper-1",
@@ -42127,8 +42467,8 @@ window.OpenPharmacyQuestions = [
         "poor prognosis"
       ]
     ],
-    "answer": "D",
-    "explanation": "The antibody can be demonstrated in 80-90% of patients, usually late in convalescence, and indicates relative or absolute immunity. In contrast, HBsAg occurs very early and disappears in < 6 months. Persistence of HBsAg indicates chronic infection. The pattern in this patient is also seen postvaccination, and perhaps as a consequence of remote infection.",
+    "answer": "A",
+    "explanation": "Source answer key: A. previous hepatitis B infection. The antibody can be demonstrated in 80-90% of patients, usually late in convalescence, and indicates relative or absolute immunity. In contrast, HBsAg occurs very early and disappears in < 6 months. Persistence of HBsAg indicates chronic infection. The pattern in this patient is also seen postvaccination, and perhaps as a consequence of remote infection.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42173,8 +42513,8 @@ window.OpenPharmacyQuestions = [
         "Acute Myeloid Leukemia"
       ]
     ],
-    "answer": "D",
-    "explanation": "Rituximab is a monoclonal antibody against CD20. It is used for treatment of: Non-Hodgkin lymphoma Chronic lymphoid leukemia Rheumatoid ahritis SLE Auto-immune hemolytic anemia Idiopathic thrombocytopenic purpura",
+    "answer": "A",
+    "explanation": "Source answer key: A. Non-Hodgkin's lymphoma. Rituximab is a monoclonal antibody against CD20. It is used for treatment of: Non-Hodgkin lymphoma Chronic lymphoid leukemia Rheumatoid ahritis SLE Auto-immune hemolytic anemia Idiopathic thrombocytopenic purpura",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42218,8 +42558,8 @@ window.OpenPharmacyQuestions = [
         "bc"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: a.",
+    "answer": "C",
+    "explanation": "Source answer key: C. ab. Source answer key: a.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42261,7 +42601,7 @@ window.OpenPharmacyQuestions = [
         "IgD"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "IgA Antibody:- IgA is the second most abundant antibody (2nd highest for DHS). It is of two types: Serum IgA: Predominantly in monomeric form. Secretory IgA (SIgA): It is dimeric (valency four); Secretory IgA is responsible for Mucosal /local immunity. IgA also exist in two subclasses/isotypes: IgA1 is mainly found in serum. IgA2 predominates in secretions. IgA (Secretory IgA) is selectively concentrated in secretions and on mucous surfaces forming an antibody paste and is believed to play, an important role in local immunity against respiratory and intestinal pathogens. It protects the mucous membranes against microbial pathogens. It serves an important effector function at mucous membrane surf…",
     "rationales": {},
     "paper": "paper-1",
@@ -42306,7 +42646,7 @@ window.OpenPharmacyQuestions = [
         "IgM"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The Prausnitz-Kustner test (PK test, Prausnitz-Kustner reaction) is an immunologic test formerly used by physicians to determine if a patient has an allergic reaction to a specific antigen i.e, IgE Ref: Ananthanarayan & Parkers textbook of microbiology 9th edition pg:98",
     "rationales": {},
     "paper": "paper-1",
@@ -42351,7 +42691,7 @@ window.OpenPharmacyQuestions = [
         "IgG1"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Deficiency of IgG2 results in recurrent sinopulmonary infections with encapsulated organisms. Deficiency of IgG1 - Bacterial infections (Diptheria, tetanus) Deficiency of IgG3 - Viral infections Deficiency of IgG4 - Parasitic infections IgG is the only maternal immunoglobulin that is normally transpoed across the placenta and provides natural passive immunity to the newborn. Maximum placental transfer - IgG1 Minimum placental transfer - IgG2 Reference: Ananthanarayan and Paniker&;s Textbook of Microbiology Tenth edition",
     "rationales": {},
     "paper": "paper-1",
@@ -42396,8 +42736,8 @@ window.OpenPharmacyQuestions = [
         "Intestinal lymphoma"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: PAN.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Drug induced Lupus. Source answer key: PAN.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42439,8 +42779,8 @@ window.OpenPharmacyQuestions = [
         "Having a shorter survival"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Having prominent lymphadenopathy.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Having a shorter survival. Source answer key: Having prominent lymphadenopathy.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42482,8 +42822,8 @@ window.OpenPharmacyQuestions = [
         "Anti IgG antibody"
       ]
     ],
-    "answer": "D",
-    "explanation": "to establish diagnosis of rheumatoid ahritis are * Clinical criteria * ESR and CRP * Ultrasound or MRI * Rheumatoid factor and anti-citrullinated peptide antibodies DAVIDSON&;S 22nd EDITION;PAGE NO 1100",
+    "answer": "A",
+    "explanation": "Source answer key: A. Anti-ccp antibody. to establish diagnosis of rheumatoid ahritis are * Clinical criteria * ESR and CRP * Ultrasound or MRI * Rheumatoid factor and anti-citrullinated peptide antibodies DAVIDSON&;S 22nd EDITION;PAGE NO 1100",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42525,8 +42865,8 @@ window.OpenPharmacyQuestions = [
         "CD45RO"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ref Harrison 17/e p2021 CD45 (lymphocyte common antigen) is a receptor-linked protein tyrosine phosphatase that is expressed on all leucocytes, and which plays a crucial role in the function of these cells. ... These CD45-associated molecules may play an important role in regulatingCD45 tyrosine phosphatase activity and function. Present on memory T cells",
+    "answer": "D",
+    "explanation": "Source answer key: D. CD45RO. Ref Harrison 17/e p2021 CD45 (lymphocyte common antigen) is a receptor-linked protein tyrosine phosphatase that is expressed on all leucocytes, and which plays a crucial role in the function of these cells. ... These CD45-associated molecules may play an important role in regulatingCD45 tyrosine phosphatase activity and function. Present on memory T cells",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42570,7 +42910,7 @@ window.OpenPharmacyQuestions = [
         "Tvac"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Gardasil(Ref: Shaw's Textbook of Gynecology 16th Ed; Page No 495)Gardasil is the vaccine of choice in this situation.Other options:Biovac: It is freeze-dried live attenuated vaccine indicated for the prevention of Hepatitis A in persons of age 1 year or older.Rabivac: It is monovalent inactivated rabies vaccine for cats and dogs.Tvac: It is tetanus vaccine.HPV vaccinesHPV vaccines have been developed from the inactivated capsid coat of the virus.HPV vaccines were earlier of two types. During its Feb 2015, meeting Advisory Committee on Immunization Practises (ACIP) recommended 9-valent HPV vaccine (9V HVP) as one of the three vaccines for preventive HPV.CharacteristicBivalent (2V HPV)Quadriva…",
     "rationales": {},
     "paper": "paper-1",
@@ -42658,8 +42998,8 @@ window.OpenPharmacyQuestions = [
         "Sodium ions"
       ]
     ],
-    "answer": "D",
-    "explanation": "The rapid plasma reagin (RPR) test is a macroscopic, nontreponemal flocculation card test used to screen for syphilis. RPR antigen is prepared from a modified VDR antigen suspension containing choline chloride to eliminate the need to heat inactivate serum, ethylenediaminetetraacetic acid (EDTA) to enhance the stability of the suspension, and finely divided charcoal particles as a visualizing agent. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno : 374",
+    "answer": "A",
+    "explanation": "Source answer key: A. Carbon particles. The rapid plasma reagin (RPR) test is a macroscopic, nontreponemal flocculation card test used to screen for syphilis. RPR antigen is prepared from a modified VDR antigen suspension containing choline chloride to eliminate the need to heat inactivate serum, ethylenediaminetetraacetic acid (EDTA) to enhance the stability of the suspension, and finely divided charcoal particles as a visualizing agent. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno : 374",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42703,7 +43043,7 @@ window.OpenPharmacyQuestions = [
         "Prostaglandins"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "T cell receptor for antigen: The TCR is the recognition molecule for T cells. The TCR is a transmembrane heterodimeric protein containing two disulfide-linked chains. It is composed of two different classes of TCR called: alpha-beta (a and b) and gamma-delta (g and d). The majority of the T cells contain the ab TCR phenotype. However, a smaller percentage of T cells express the g d TCR. The ab T cells are subdivided by their surface markers: CD4 or CD8. They recognize peptide antigens presented by MHC molecules on the surfaces of APC's (antigen-presenting cells) The g d T cells are primarily located in the epithelial linings of the reproductive and GI tracts.(aiims nov. 2020). Theyrecognize…",
     "rationales": {},
     "paper": "paper-1",
@@ -42791,8 +43131,8 @@ window.OpenPharmacyQuestions = [
         "FTA-ABS"
       ]
     ],
-    "answer": "B",
-    "explanation": "Weil- Felix reaction for the diagnosis of typhus fever. - The Agglutination reaction is when a paiculate antigen is mixed with its antibody in the presence of electrolytes at a suitable temperature and pH, the particles are clumped or agglutinated. Reference : Anathanarayan & paniker's 9th edition, pg no: 108,109 <\\p>",
+    "answer": "C",
+    "explanation": "Source answer key: C. Weil-felix test. Weil- Felix reaction for the diagnosis of typhus fever. - The Agglutination reaction is when a paiculate antigen is mixed with its antibody in the presence of electrolytes at a suitable temperature and pH, the particles are clumped or agglutinated. Reference : Anathanarayan & paniker's 9th edition, pg no: 108,109 <\\p>",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42836,8 +43176,8 @@ window.OpenPharmacyQuestions = [
         "Inactivated polio"
       ]
     ],
-    "answer": "D",
-    "explanation": "Recurrent severe infection is an indication for clinical evaluation of immune status. Live vaccines, including BCG attenuated from M. tuberculosis, should not be used in the evaluation of a patient's immune competence because patients with severe immunodeficiencies may develop an overwhelming infection (disseminated disease) from the vaccine. For the same reason, oral (Sabin) polio vaccine is not advisable for use in such persons. The other vaccines listed are acellular and should be safe to use in this clinical scenario described.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Bacillus Calmette-Guerin (BCG). Recurrent severe infection is an indication for clinical evaluation of immune status. Live vaccines, including BCG attenuated from M. tuberculosis, should not be used in the evaluation of a patient's immune competence because patients with severe immunodeficiencies may develop an overwhelming infection (disseminated disease) from the vaccine. For the same reason, oral (Sabin) polio vaccine is not advisable for use in such persons. The other vaccines listed are acellular and should be safe to use in this clinical scenario described.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -42881,7 +43221,7 @@ window.OpenPharmacyQuestions = [
         "IgC"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "(IgE) (161-AN 7th) (202-206-CP)Types of hypersensitivity reactions and their featuresType of reactionClinical syndromeMediatorsType I: IgE1. Anaphylaxis2. Atopy P. K. reactionIgE, histamine and other pharmacological agentsType II: Cytolytic and CytotoxicAntibody-mediated damage- thrombocytopenia-agranulocytosis, hemolytic anemiaIgG: IgM, CType III: Immune complex1. Arthrus reaction2. Serum sickness3. Glomerulonephritis, rheumatic fever and rheumatoid arthritisIgG: IgM C Leucocytes.Type IV: Delayed hypersensitivity1. Tuberculin test - Lepromin test, Frei-test, Histoplasmin and toxoplasmin tests viral infections such as herpes simplex and mumps2. Contact dermatitis - drugs, metal (Nickle, chro…",
     "rationales": {},
     "paper": "paper-1",
@@ -42927,7 +43267,7 @@ window.OpenPharmacyQuestions = [
         "Antibodies"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans: A (RNA) Ref: Ananthanarayan R, Paniker CKJ. Textbook of Microbiology. 8th Edition. Hyderabad: Universities Press; 2009. Pg. 69Explanation:Southern blotting:The highly sensitive technique for identifying DNA fragments by DNA-DNA hybridisation is called Southern blotting, after EM Southern who devised it. This technique has very wide applications in DNA analysis.Northern blotting:An analogous procedure for the analysis of RNA has been called northern blotting (as opposed to Southern blotting). Here the RNA mixture is separated by gel electrophoresis, blotted and identified using labelled DNA or RNA probes.Western blotting:A similar technique for the identification of proteins (antigens) i…",
     "rationales": {},
     "paper": "paper-1",
@@ -42972,8 +43312,8 @@ window.OpenPharmacyQuestions = [
         "IgA"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: IgA.",
+    "answer": "A",
+    "explanation": "Source answer key: A. IgG. Source answer key: IgA.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43015,7 +43355,7 @@ window.OpenPharmacyQuestions = [
         "Varicella"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Rabies Vaccine that grows in embryonated eggs: Influenza Yellow fever (17 D strain) Rabies (Flury strain) Mumps Varicella vaccine growns in chick embryo fibroblast culture. Rubella - RA 27/3 vaccine produced in human diploid fibroblast. No eggs culture vaccine of measles are produced. All are tissue culture vaccine, either chick embryo or human diploid cell line.",
     "rationales": {},
     "paper": "paper-1",
@@ -43060,8 +43400,8 @@ window.OpenPharmacyQuestions = [
         "No treatment is required"
       ]
     ],
-    "answer": "B",
-    "explanation": "Non immunized contacts should receive prophylactic penicillin or erythromycin. They should also be given 1000 to 2000 units of antitoxin and actively immunized against diphtheria. Ref: Park 21st edition, page 151.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Penicillin, diphtheria antitoxin and DPT vaccine. Non immunized contacts should receive prophylactic penicillin or erythromycin. They should also be given 1000 to 2000 units of antitoxin and actively immunized against diphtheria. Ref: Park 21st edition, page 151.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43103,7 +43443,7 @@ window.OpenPharmacyQuestions = [
         "40 IU/kg"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Management guidelines for rabies apa from vaccination Anti Rabies Serum Horse Rabies serum: 40 IU/Kg on Day 0 (50% in wound, 50% I'M) Human Rabies Immunoglobulin : 20 IU/Kg (Maximum in wound, rest IM gluteal) (Concentration 150 IU/ml) Serum sickness with Horse serum : 15-45% Person under Antirabic Treatment should avoid Alcohol (during and 1 month after treatment) Undue physical and mental strain and late nights Coicosteroids and other immunosuppressive agents Intramuscular injections of cell culture and purified Duck Embryo Vaccines : Deltoid (Not in Buttocks) Rabies Vaccine dosages Intramusculae dose of Rabies Vaccine for post exposure prophylaxis: 1ml Intradermal dose of Rabies Vaccine fo…",
     "rationales": {},
     "paper": "paper-1",
@@ -43191,7 +43531,7 @@ window.OpenPharmacyQuestions = [
         "The tendon of the epicranial muscles (occipitofrontails)."
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "A layer containing blood vessels * A mnemonic device for remembering the order in which the soft tissues overlie the cranium is SCALP: Skin, Connective tissue, Aponeurosis, Loose connective tissue, and Periosteum. * The scalp proper is composed of the outer three layers, of which the connective tissue contains one of the richest cutaneous blood supplies of the body. * The occipitofrontal muscle complex inses into the epicranial aponeurosis, which forms the intermediate tendon of this digastric muscle. This structure, along with the underlying layer of loose connective tissue, accounts for the high degree of mobility of the scalp over the pericranium. * If the aponeurosis is lacerated transve…",
     "rationales": {},
     "paper": "paper-1",
@@ -43234,8 +43574,8 @@ window.OpenPharmacyQuestions = [
         "Rabies"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Oral polio.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Tetanus. Source answer key: Oral polio.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43277,8 +43617,8 @@ window.OpenPharmacyQuestions = [
         "Measles"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Tuberculosis.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Tetanus. Source answer key: Tuberculosis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43320,7 +43660,7 @@ window.OpenPharmacyQuestions = [
         "Reiter's ahritis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ahritis mutilans (A feature of psoriatic ahritis) This is a deforming erosive ahritis targeting the fingers and toes; it occurs in 5% of cases of PsA. Prominent cailage and bone destruction results in marked instability. The encasing skin appears invaginated and 'telescoped' ('main en lorgnette') and the finger can be pulled back to its original length. Ref Davidsons 23e p1033",
     "rationales": {},
     "paper": "paper-1",
@@ -43363,7 +43703,7 @@ window.OpenPharmacyQuestions = [
         "Arthus reaction"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Granulomatous reaction(Ref: Robbins 9th/pg 208-211; 8th/pg 205-208; Illustrated Dictionary of Immunology by M.P.Arora - Page 501)Granulomatous reaction is an example of type IV hypersensitivitySerum sickness & Arthus reactions are examples of type III hypersensitivityShwartzman reaction is a non-immunologic phenomenon in which endotoxin (lipopolysaccharide) induces local & systemic reactions; It can either be local or systemic type;",
     "rationales": {},
     "paper": "paper-1",
@@ -43409,7 +43749,7 @@ window.OpenPharmacyQuestions = [
         "Yellow fever"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Polysaccharide vaccines are: Typhim-Vi Pneumococcal vaccine Meningococcal vaccine Hib.",
     "rationales": {},
     "paper": "paper-1",
@@ -43452,8 +43792,8 @@ window.OpenPharmacyQuestions = [
         "TT"
       ]
     ],
-    "answer": "A",
-    "explanation": "Among the vaccines, polio is the most sensitive to heat, requiring storage at minus 20 degree Celsius. Vaccines which must be stored in the vaccine compartments are polio and measles. The cold chain is a system of storage and transpo of vaccines at low temperature from the manufacturer to the actual vaccination site (refer pgno:109 park 23 rd edition)",
+    "answer": "B",
+    "explanation": "Source answer key: B. OPV. Among the vaccines, polio is the most sensitive to heat, requiring storage at minus 20 degree Celsius. Vaccines which must be stored in the vaccine compartments are polio and measles. The cold chain is a system of storage and transpo of vaccines at low temperature from the manufacturer to the actual vaccination site (refer pgno:109 park 23 rd edition)",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43495,7 +43835,7 @@ window.OpenPharmacyQuestions = [
         "Mixed Connective Tissue Disorder"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Serum antinuclear antibodies (ANAs) are found in nearly all individuals with active SLE. Antibodies to native double-stranded DNA (dsDNA) are relatively specific for the diagnosis of SLE. Anti-SSA or anti-SSB antibodies are seen in Sjogren's syndrome. Topoisomerase I antibodies (also known as Scl-70), Anticentromere antibodies, Fibrillarin antibodies and antibodies to ribonucleoprotein (RNP) are present in scleroderma. Anti-U1-RNP antibodies, and antibodies against U1-70 kd small nuclear ribonucleoprotein (snRNP) are characteristic of mixed connective tissue disorder (MCTD).",
     "rationales": {},
     "paper": "paper-1",
@@ -43540,7 +43880,7 @@ window.OpenPharmacyQuestions = [
         "Povidone iodine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Cerium nitrate boosts cell - mediated immunity and forms sterile eschar in burns.",
     "rationales": {},
     "paper": "paper-1",
@@ -43583,8 +43923,8 @@ window.OpenPharmacyQuestions = [
         "18 months"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 18 months.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 9 months. Source answer key: 18 months.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43626,8 +43966,8 @@ window.OpenPharmacyQuestions = [
         "IgD"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: IgG.",
+    "answer": "C",
+    "explanation": "Source answer key: C. IgM. Source answer key: IgG.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43671,8 +44011,8 @@ window.OpenPharmacyQuestions = [
         "Whether the vaccine needs to be mixed with normal saline"
       ]
     ],
-    "answer": "A",
-    "explanation": "Shake test: - Test done to check cold damage to Vaccine due to freezing. - Once the vaccine is frozen, it tends to form flakes which gradually settle to the bottom, after the l is shaken. - Thus, sedimentation occurs faster in a vaccine l which has been frozen as compared to control l. - These ls should be discarded irrespective of their expiry date. - Used for DPT, DT, TT or Hepatitis B",
+    "answer": "B",
+    "explanation": "Source answer key: B. Whether vaccine had been frozen at some point of time in the cold chain. Shake test: - Test done to check cold damage to Vaccine due to freezing. - Once the vaccine is frozen, it tends to form flakes which gradually settle to the bottom, after the l is shaken. - Thus, sedimentation occurs faster in a vaccine l which has been frozen as compared to control l. - These ls should be discarded irrespective of their expiry date. - Used for DPT, DT, TT or Hepatitis B",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43714,7 +44054,7 @@ window.OpenPharmacyQuestions = [
         "Protein B"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "C5, C6, C7, C8 and C9 are the factors present in common terminal pathway. The classic activation pathway, mannose-binding lectin activation pathway and alternative activation pathway converge on the final common terminal pathway. The cleavage of C3 by each pathway (classic activation pathway, mannose-binding lectin activation pathway and alternative activation pathway) causes activation of C5, C6, C7, C8 and C9 in the terminal pathway, resulting in the formation of membrane attack complex (MAC) that gets attached to the target cells or bacteria and lyses them. Ref: Harrisons Principles of Internal Medicine, 16th Edition, Page 1913 & 1916.",
     "rationales": {},
     "paper": "paper-1",
@@ -43760,8 +44100,8 @@ window.OpenPharmacyQuestions = [
         "Gout"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Rheumatoid ahritis.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Systemic lupus ehematosus. Source answer key: Rheumatoid ahritis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43803,8 +44143,8 @@ window.OpenPharmacyQuestions = [
         "bcd"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: bc.",
+    "answer": "C",
+    "explanation": "Source answer key: C. abc. Source answer key: bc.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -43892,7 +44232,7 @@ window.OpenPharmacyQuestions = [
         "Serotype Y"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Serotype BRef: Harrison 19th ed. /1002* There are currently three vaccines available in the USA to prevent meningococcal disease, all quadrivalent in nature, targeting serogroups A, C, W-135, and Y.* Meningococcal polysaccharide or conjugate vaccines provide no protection against serogroup B disease and MenB vaccines provide no protection against serogroup A, C, W or Y disease. For protection against all 5 serogroups of meningococcus it is necessary to receive both vaccines.* Only recently vaccine targeting serogroup B has also been created and is protein based.TRADE NAMETYPE OF VACCINESEROGROUPS INCLUDEDYEAR LICENSEDAPPROVED AGESMenomunePolysaqccharideA, C, W, Y19812 year and olderMenactraC…",
     "rationales": {},
     "paper": "paper-1",
@@ -43980,8 +44320,8 @@ window.OpenPharmacyQuestions = [
         "Methotrexate"
       ]
     ],
-    "answer": "B",
-    "explanation": "It is a recombinant IL-2 used for the treatment of renal cell carcinoma and malignant melanoma.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Aldesleukin. It is a recombinant IL-2 used for the treatment of renal cell carcinoma and malignant melanoma.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -44113,7 +44453,7 @@ window.OpenPharmacyQuestions = [
         "Anthrax bacillus"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Maximum work has been done with BCG+ heat killed M. leprae (will be the best answer). In the choices given Cat 2 killed ICRC bacillus is used for Immunoprophylaxis of leprosy. Ref: Park, 20th Edition, Page 286.",
     "rationales": {},
     "paper": "paper-1",
@@ -44156,7 +44496,7 @@ window.OpenPharmacyQuestions = [
         "Langerhans cells"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Lymphocytes include natural killer cells (NK cells) (which function in cell-mediated, cytotoxic innate immunity), T cells (for cell-mediated, cytotoxic adaptive immunity), and B cells (for humoral, antibody-driven adaptive immunity). Reff: Ananthanarayanan & panikers textbook of microbiology 9th edition pg:132",
     "rationales": {},
     "paper": "paper-1",
@@ -44246,7 +44586,7 @@ window.OpenPharmacyQuestions = [
         "IL-6"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Canakinumab and Anakinra are IL-1 inhibitors used in the treatment of gout.",
     "rationales": {},
     "paper": "paper-1",
@@ -44291,8 +44631,8 @@ window.OpenPharmacyQuestions = [
         "Scleroderma"
       ]
     ],
-    "answer": "A",
-    "explanation": "REF:HARRISONS PRINCIPLE&;S OF INTERNAL MEDICINE 18TH EDITION",
+    "answer": "B",
+    "explanation": "Source answer key: B. Ankylosing spondylitis. REF:HARRISONS PRINCIPLE&;S OF INTERNAL MEDICINE 18TH EDITION",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -44336,8 +44676,8 @@ window.OpenPharmacyQuestions = [
         "bc"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: ac.",
+    "answer": "B",
+    "explanation": "Source answer key: B. ab. Source answer key: ac.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -44379,7 +44719,7 @@ window.OpenPharmacyQuestions = [
         "IgG"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "In its secretory form, IgA is the main immunoglobulin found in mucous secretions, including tears, saliva, sweat, colostrum, and secretions from the genitourinary tract, gastrointestinal tract, prostate, and respiratory epithelium. It is also found in small amounts in the blood Ref: Ananthanarayan & Parker's textbook of microbiology 9th edition pg:97",
     "rationales": {},
     "paper": "paper-1",
@@ -44422,7 +44762,7 @@ window.OpenPharmacyQuestions = [
         "IL-6"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Macrophages release IL-1 which stimulates the T-helper cells. The T-cells in response proliferate and release IL-2 which in turn stimulates still further T-cell proliferation and B cell proliferation and differentiation into plasma cells. Thus Macrophages release→IL-1* T-helper cells release→ IL-2*",
     "rationales": {},
     "paper": "paper-1",
@@ -44467,7 +44807,7 @@ window.OpenPharmacyQuestions = [
         "Uicarial vasculitis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Perivascular neutrophils, leukocytoclasis and fibrinoid degeneration involving the small dermal blood vessels with subsequent hemorrhage in a skin biopsy of a patient with HSP. Skin biopsy showing positive immunofluorescence of the small blood vessels for IgA. Henoch-Schonlein purpura (HSP) Acute immunoglobulin A (IgA)-mediated Generalized vasculitis involving the small vessels of the skin, the gastrointestinal (GI) tract, the kidneys, the joints, and, rarely, the lungs and the central nervous system (CNS). It is the most frequent vasculitis in childhood, the incidence decreasing with age. Subsequently, symptoms develop, of which the following are the most common: Rash, especially involving…",
     "rationales": {},
     "paper": "paper-1",
@@ -44512,8 +44852,8 @@ window.OpenPharmacyQuestions = [
         "Intestinal lymphoma"
       ]
     ],
-    "answer": "B",
-    "explanation": "Celiac sprue is due to hypersensitivity to gluten, a protein found in wheat products. The disease is associated with HLA-DQ2 and HLA-DQ8. Laboratory testing shows the presence of anti-gliadin, anti-tissue transglutaminase, and anti-endomysial antibodies in patients. Clinical presentation of celiac sprue include, bloating, chronic diarrhea, and malabsorption. Extraintestinal manifestations are common. Dermatitis herpetiformis, a pruritic papular and vesicular rash on the extensor surface of the forearms, elbows, back, and buttocks is classic. Ref: Wyatt C., Kemp W.L., Moos P.J., Burns D.K., Brown T.G. (2008). Chapter 14. Gastrointestinal Pathology. In C. Wyatt, W.L. Kemp, P.J. Moos, D.K. Burn…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Celiac disease. Celiac sprue is due to hypersensitivity to gluten, a protein found in wheat products. The disease is associated with HLA-DQ2 and HLA-DQ8. Laboratory testing shows the presence of anti-gliadin, anti-tissue transglutaminase, and anti-endomysial antibodies in patients. Clinical presentation of celiac sprue include, bloating, chronic diarrhea, and malabsorption. Extraintestinal manifestations are common. Dermatitis herpetiformis, a pruritic papular and vesicular rash on the extensor surface of the forearms, elbows, back, and buttocks is classic. Ref: Wyatt C., Kemp W.L., Moos P.J., Burns D.K., Brown T.G. (2008). Chapter 14. Gastrointestinal Pathology. In C. Wyatt, W.L. Kemp, P.J. Moos, D.K. Burn…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -44558,7 +44898,7 @@ window.OpenPharmacyQuestions = [
         "Lymphoma"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Lymphoma is well known to develop specifically in the late stage of Sjogren syndrome. Common manifestations include: Persistent parotid gland enlargement Purpura Leukopenia Cryoglobulinemia Low C4 complement levels. - Most of the lymphomas are extranodal, marginal zone B cell, and low grade. Low-grade lymphomas may be detected incidentally during a labial biopsy. - Moality is higher in patients with concurrent B symptoms (fevers, night sweats, and weight loss), a lymph node mass >7 cm, and a high or intermediate histologic grade.",
     "rationales": {},
     "paper": "paper-1",
@@ -44648,7 +44988,7 @@ window.OpenPharmacyQuestions = [
         "Dermatitis herpetiformis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "IgG deposits along basement membrane occurs only in bullous pemphigoid, amongst the given options.",
     "rationales": {},
     "paper": "paper-1",
@@ -44736,7 +45076,7 @@ window.OpenPharmacyQuestions = [
         "Ocralizumab"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Drug Mechanism of action Uses Pembrolizumab Monoclonal antibody against PD 1 * Multiple myeloma * Non small cell lung cancer * Head and neck cancer * Any cancer containing mismatch repair Trastuzumab Monoclonal antibody against her-2/neu Breast cancer, gastroesophageal junction cancer Rituximab Monoclonal antibody against CD20 Non hodgkin's lymphoma(NHL), chronic lymphocytic leukemia(CLL) Ocrelizumab Monoclonal antibody against CD20 Primary progressive multiple sclerosis(PPMS)",
     "rationales": {},
     "paper": "paper-1",
@@ -44781,8 +45121,8 @@ window.OpenPharmacyQuestions = [
         "PPD-RT-23"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: PPD-RT-23.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Danish-1331. Source answer key: PPD-RT-23.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -44824,7 +45164,7 @@ window.OpenPharmacyQuestions = [
         "Pemphigus foliaceous."
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Paraneoplastic pemphigus is a severe variant of pemphigus, associated with an underlying neoplasm - most frequently non Hodgkin's lymphoma, chronic lymphocytic leukemia, thymoma, and castleman disease. Tumor antigens are hypothesized to evoke an immune response that leads to the development of an autoimmune response to intercellular adhesins (plakins). This autoantibody response leads to blistering in mucosa and other epithelia.",
     "rationales": {},
     "paper": "paper-1",
@@ -44912,8 +45252,8 @@ window.OpenPharmacyQuestions = [
         "Interleukin-5 receptor"
       ]
     ],
-    "answer": "D",
-    "explanation": "Monoclonal antibody against IL-6 : Tocilizumab Monoclonal antibody against IL-6 receptor : Sarilumab Both are approved for Rheumatoid arthritis.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Interleukin-6. Monoclonal antibody against IL-6 : Tocilizumab Monoclonal antibody against IL-6 receptor : Sarilumab Both are approved for Rheumatoid arthritis.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -44957,8 +45297,8 @@ window.OpenPharmacyQuestions = [
         "Decreased size of germinal centres of lymph nodes"
       ]
     ],
-    "answer": "D",
-    "explanation": "Decreased size of paracoical areas of lymph nodes is expected as this child has DiGeorge Syndrome. DiGeorge Syndrome: Deficient CMI is seen due to aplasia of thymus and hence deficiency of T cells. This leads to paracoical areas of lymph nodes and periaeriolar sheaths of the spleen being reduced in size. B cells are usually not affected. Clinical Features of DiGeorge Syndrome - DiGeorge syndrome is a cellular immunodeficiency disorder caused by the deletion of a small segment of chromosome 22 (22q11) leading to a developmental defect involving the endodermal derivatives of the third and fourth pharyngeal pouches. (Thymus and parathyroid glands) The clinical features can be remembered with the…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Decreased size of periaeriolar lymphoid sheath of spleen. Decreased size of paracoical areas of lymph nodes is expected as this child has DiGeorge Syndrome. DiGeorge Syndrome: Deficient CMI is seen due to aplasia of thymus and hence deficiency of T cells. This leads to paracoical areas of lymph nodes and periaeriolar sheaths of the spleen being reduced in size. B cells are usually not affected. Clinical Features of DiGeorge Syndrome - DiGeorge syndrome is a cellular immunodeficiency disorder caused by the deletion of a small segment of chromosome 22 (22q11) leading to a developmental defect involving the endodermal derivatives of the third and fourth pharyngeal pouches. (Thymus and parathyroid glands) The clinical features can be remembered with the…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45045,8 +45385,8 @@ window.OpenPharmacyQuestions = [
         "Requires previous antigen exposure for activation"
       ]
     ],
-    "answer": "B",
-    "explanation": "Natural Killer CellsThe function of NK cells is to destroy irreversibly stressed and abnormal cells, such as virus-infected cells and tumor cells. NK cells make up approximately 5% to 10% of peripheral blood lymphocytes. They do not express TCRs or Ig.NK cells are endowed with the ability to kill a variety of virus-infected cells and tumor cells, without prior exposure to or activation by these microbes or tumors.Two cell surface molecules, CD16 and CD56, are commonly used to identify NK cells. CD16 is an Fc receptor for IgG, and it confers on NK cells the ability to lyse IgG-coated target cells. This phenomenon is known as antibody-dependent cell-mediated cytotoxicity (ADCC). The function o…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Display cytotoxic effect on tumor cell. Natural Killer CellsThe function of NK cells is to destroy irreversibly stressed and abnormal cells, such as virus-infected cells and tumor cells. NK cells make up approximately 5% to 10% of peripheral blood lymphocytes. They do not express TCRs or Ig.NK cells are endowed with the ability to kill a variety of virus-infected cells and tumor cells, without prior exposure to or activation by these microbes or tumors.Two cell surface molecules, CD16 and CD56, are commonly used to identify NK cells. CD16 is an Fc receptor for IgG, and it confers on NK cells the ability to lyse IgG-coated target cells. This phenomenon is known as antibody-dependent cell-mediated cytotoxicity (ADCC). The function o…",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45091,8 +45431,8 @@ window.OpenPharmacyQuestions = [
         "Dengue"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Dengue.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Yellow fever. Source answer key: Dengue.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45134,7 +45474,7 @@ window.OpenPharmacyQuestions = [
         "Nitrates"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "One of the main causes of death is hypeensive renal crisis, characterised by rapidly developing malignant hypeension and renal failure. Hypeensive renal crisis is much more likely to occur in DCSS than in LCSS, and in patients with topoisomerase 1 antibodies. Hypeension should be treated aggressively with ACE inhibitors, even if renal impairment is present. DAVIDSON&;S 22nd EDITION;PAGE NO 1113",
     "rationales": {},
     "paper": "paper-1",
@@ -45177,7 +45517,7 @@ window.OpenPharmacyQuestions = [
         "20%"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Immunoglobulins constitute 20 to 25% of total serum proteins. Based on physiochemical and antigenic differences, five classes of immunoglobulins have been recognized: IgG, IgA, IgM, IgD, and IgE.(Ref: Ananthanarayan 9th edition, p93)",
     "rationales": {},
     "paper": "paper-1",
@@ -45222,7 +45562,7 @@ window.OpenPharmacyQuestions = [
         "Double diffusion in two dimensions"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "*Various immunodiffusion test *Single diffusion in one dimension - Oudin procedure *Double diffusion in one dimension - Oakley fulthorpe procedure *Single diffusion in two dimensions - Radial immunodiffusion *Double diffusion in two dimensions - Ouchterlony procedure",
     "rationales": {},
     "paper": "paper-1",
@@ -45265,8 +45605,8 @@ window.OpenPharmacyQuestions = [
         "Type IV"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Type I.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Type II. Source answer key: Type I.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45311,7 +45651,7 @@ window.OpenPharmacyQuestions = [
         "Wiskott aldrich syndrome"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "From the above clinical history and examination, the most probable diagnosis is Hyper IgE syndrome (Job's syndrome). It is an autosomal dominant primary immunodeficiency disease caused by a mutation of STAT3 gene. Neutrophils do not generate an immune response, probably due to a defect in chemotaxis. Patients present with recurrent staphylococcal skin abscesses, recurrent lung infections (pneumatoceles), eczema, eosinophilia and high serum levels of lgE. Reference: Ananthanarayan and Paniker&;s Textbook of Microbiology Tenth edition",
     "rationales": {},
     "paper": "paper-1",
@@ -45357,8 +45697,8 @@ window.OpenPharmacyQuestions = [
         "46XY"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 23Y.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 46XX. Source answer key: 23Y.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45447,8 +45787,8 @@ window.OpenPharmacyQuestions = [
         "Actin-myosin complex of the muscle"
       ]
     ],
-    "answer": "A",
-    "explanation": "*myasthenia gravis is an autoimmune disease,most commonly caused by antibodies to acetylcholine receptors in the post junctional membrane of the neuromuscular junction ,which are found in around 80%of affected patients. Ref Harrison20th edition pg 2378",
+    "answer": "B",
+    "explanation": "Source answer key: B. Acetycholine receptors. *myasthenia gravis is an autoimmune disease,most commonly caused by antibodies to acetylcholine receptors in the post junctional membrane of the neuromuscular junction ,which are found in around 80%of affected patients. Ref Harrison20th edition pg 2378",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45492,7 +45832,7 @@ window.OpenPharmacyQuestions = [
         "BCG"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Recurrent severe infection is an indication for clinical evaluation of immune status. Live vaccines, including BCG attenuated from Mycobacterium tuberculosis, should not be used in the evaluation of a patient's immune competence because patients with severe immunodeficiencies may develop an overwhelming infection from the vaccine. For the same reason, oral (Sabin) polio vaccine is not advisable for use in such persons. Reference: Ananthanarayan and Paniker&;s Textbook of Microbiology Tenth edition",
     "rationales": {},
     "paper": "paper-1",
@@ -45538,8 +45878,8 @@ window.OpenPharmacyQuestions = [
         "Type 3"
       ]
     ],
-    "answer": "D",
-    "explanation": "HYPERSENSITIVITY REACTIONS",
+    "answer": "A",
+    "explanation": "Source answer key: A. Type 4. HYPERSENSITIVITY REACTIONS",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45584,8 +45924,8 @@ window.OpenPharmacyQuestions = [
         "acd"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: bcd.",
+    "answer": "C",
+    "explanation": "Source answer key: C. abe. Source answer key: bcd.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45627,7 +45967,7 @@ window.OpenPharmacyQuestions = [
         "CD 4"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "CD 3 is considered as lineage specific for Tcells.",
     "rationales": {},
     "paper": "paper-1",
@@ -45715,7 +46055,7 @@ window.OpenPharmacyQuestions = [
         "IgD"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ataxia telangiectasia (AT) Present in the first decade of life with progressive telangiectatic lesions associated with deficits in cerebellar function and nystagmus. There is a high incidence of recurrent pulmonary infections (bronchiectasisQ) and neoplasms of the lymphatic and reticuloendothelial system. It is caused due to defect in DNA repair genes Thymic hypoplasia with cellular and humoral (IgAQ and IgG2) immunodeficiencies, premature aging and endocrine disorders such as insulin resistance or type-I DM The most striking neuropathologic changes include loss of Purkinje, granule and basket cells in the cerebellar coex as well as of neurons in the deep cerebellar nuclei. A poorly develope…",
     "rationales": {},
     "paper": "paper-1",
@@ -45758,7 +46098,7 @@ window.OpenPharmacyQuestions = [
         "Killed vaccine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "<p> Newer vaccines for influenza are Split virus vaccine Neuraminidase specific vaccine Recombinant vaccine. Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:155. <\\p>",
     "rationales": {},
     "paper": "paper-1",
@@ -45804,7 +46144,7 @@ window.OpenPharmacyQuestions = [
         "IgE"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Major Functions of ImmunoglobulinsImmunoglobulinMajor FunctionsIgGMain antibody in the secondary response. Opsonizes bacteria, making them easier to phagocytose. Fixes complement, whichenhances bacterial killing. Neutralizes bacterial toxins and viruses. Crosses the placenta.IgASecretory IgA prevents attachment of bacteria and viruses to mucous membranes. Does not fix complement.IgMProduced in the primary response to an antigen. Fixes complement. Does not cross the placenta. Antigen receptor on the surfaceof B cells.IgDFound on the surfaces of B cells where it acts as a receptor for antigenIgEMediates immediate hypersensitivity by causing the release of mediators from mast cells and basophil…",
     "rationales": {},
     "paper": "paper-1",
@@ -45849,8 +46189,8 @@ window.OpenPharmacyQuestions = [
         "NK-cells"
       ]
     ],
-    "answer": "A",
-    "explanation": "Immunoglobulin (Ig),is a large, Y-shaped protein produced mainly by plasma cells that is used by the immune systema Ref: Ananthanarayan & Panikers textbook of microbiology 9th edition pg:94",
+    "answer": "B",
+    "explanation": "Source answer key: B. B-cells. Immunoglobulin (Ig),is a large, Y-shaped protein produced mainly by plasma cells that is used by the immune systema Ref: Ananthanarayan & Panikers textbook of microbiology 9th edition pg:94",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45892,8 +46232,8 @@ window.OpenPharmacyQuestions = [
         "Spleen and mucosa associated lymphoid tissue"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Spleen and mucosa associated lymphoid tissue.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Bone marrow and Thymus. Source answer key: Spleen and mucosa associated lymphoid tissue.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -45937,7 +46277,7 @@ window.OpenPharmacyQuestions = [
         "IgE"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "In immediate hypersensitivity (type I hypersensitivity)- the injury is caused by TH2 cells, IgE antibodies, and mast cells and other leukocytes. Mast cells release mediators that act on vessels and smooth muscle and pro-inflammatory cytokines that recruit inflammatory cells.",
     "rationales": {},
     "paper": "paper-1",
@@ -46028,7 +46368,7 @@ window.OpenPharmacyQuestions = [
         "Leucocyte adhesion defect type 2"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Chronic granulomatous disease is a rare, X-linked deficiency of NADPH oxidase activity which drastically impairs the ability of macrophages and neutrophils to destroy pathogens. Patients are especially vulnerable to mycobacteria, E coli, and staphylococcus since these organisms produces catalase to defend themselves against hydrogen peroxide attack by phagocytes.",
     "rationales": {},
     "paper": "paper-1",
@@ -46074,8 +46414,8 @@ window.OpenPharmacyQuestions = [
         "Ig E"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Ig A.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Ig G. Source answer key: Ig A.",
     "rationales": {},
     "paper": "paper-1",
     "examTopic": "immunology",
@@ -46117,7 +46457,7 @@ window.OpenPharmacyQuestions = [
         "Acyclovir"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Genital wa treatments that can be applied directly to your skin include: Imiquimod (Aldara, Zyclara). This cream appears to boost the immune system's ability to fight genital was. Avoid sexual contact while the cream is on your skin. It may weaken condoms and diaphragms and may irritate. One possible side effect is redness of the skin. Other side effects may include blisters, body aches or pain, cough, rashes, and fatigue. Podophyllin and podofilox (Condylox). Podophyllin is a plant-based resin that destroys genital wa tissue. Podofilox contains the same active compound but can be safely applied. Trichloroacetic acid (TCA). This chemical treatment burns off genital was. TCA must always be ap…",
     "rationales": {},
     "paper": "paper-1",
@@ -46160,7 +46500,7 @@ window.OpenPharmacyQuestions = [
         "Bombay blood group"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "→ Apart from A< B and O RBC of type O contains large amount of another antigen called H substance. → H substance is genetically different from ABO but is a precursor of A and B antigens. → An O group individual who inherits A or B genes but fails to inherit H gene from either parent is called Oh phenotype or Bombay blood group.",
     "rationales": {},
     "paper": "paper-1",
@@ -46205,7 +46545,7 @@ window.OpenPharmacyQuestions = [
         "450 mgm"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "300 mgmRef : D. C Dutta 8th ed.l 387, 721",
     "rationales": {},
     "paper": "paper-1",
@@ -46294,7 +46634,7 @@ window.OpenPharmacyQuestions = [
         "C5b"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "1. All the three complement activation pathways(classical , alternate , lectin) lead to activation of C3, resulting in the production of C3b. Hence, C3b is considered as the central molecule in the activation of the complement cascade. 2. The C3b has two important functions to perform First, it combines with other components of the complement system to produce C5 convease, the enzyme that leads to the production of membrane attack complex(MAC) Second, it opsonizes bacteria due to the presence of receptors for C3b on the surface of the phagocytes. Biological Effects of Complement C5a: C5a is a chemotactic molecule specifically recognized by polymorphonuclear leukocytes or phagocytic cells. This…",
     "rationales": {},
     "paper": "paper-1",
@@ -48345,8 +48685,8 @@ window.OpenPharmacyQuestions = [
         "Imidazoline receptors"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Bradykinin receptors.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Adenosine receptors. Source answer key: Bradykinin receptors.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -48433,7 +48773,7 @@ window.OpenPharmacyQuestions = [
         "Primidone"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ethosuximide and valproate are the drugs of choice for absence seizures and are more effective than lamotrigineReference: Katzung Pharmacology; 12th edition; Page no: 418",
     "rationales": {},
     "paper": "paper-2",
@@ -48476,7 +48816,7 @@ window.OpenPharmacyQuestions = [
         "Pirbuterol"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "terbutaline can be given as s.c (0.25mg) in asthma.",
     "rationales": {},
     "paper": "paper-2",
@@ -48519,8 +48859,8 @@ window.OpenPharmacyQuestions = [
         "Cloxacillin"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Dicloxacillin.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Piperacillin. Source answer key: Dicloxacillin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -48607,8 +48947,8 @@ window.OpenPharmacyQuestions = [
         "Neomycin"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Amikacin.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Neomycin. Source answer key: Amikacin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -48650,8 +48990,8 @@ window.OpenPharmacyQuestions = [
         "Reduces QT interval"
       ]
     ],
-    "answer": "B",
-    "explanation": "Torsades de pointes (polymorphic ventricular tachycardia) occurs when terfenadine is taken in higher doses or when hepatic metabolism is impaired by disease or by drugs which inhibit the cytochrome P450 responsible for metabolism of terfenadine. Drugs include erythromycin, clarithromycin, ketoconazole and itraconazole. Azithromycin and fluconazole that are excreted unchanged in the urine have not been associated with impaired metabolism of terfenadine. Terfenadine blocks the delayed rectifier potassium channels and prolongs cardiac repolarization and the QT interval.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Is given in higher doses. Torsades de pointes (polymorphic ventricular tachycardia) occurs when terfenadine is taken in higher doses or when hepatic metabolism is impaired by disease or by drugs which inhibit the cytochrome P450 responsible for metabolism of terfenadine. Drugs include erythromycin, clarithromycin, ketoconazole and itraconazole. Azithromycin and fluconazole that are excreted unchanged in the urine have not been associated with impaired metabolism of terfenadine. Terfenadine blocks the delayed rectifier potassium channels and prolongs cardiac repolarization and the QT interval.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -48693,8 +49033,8 @@ window.OpenPharmacyQuestions = [
         "Orciprenaline"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Albuterol.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Salmeterol. Source answer key: Albuterol.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -48736,7 +49076,7 @@ window.OpenPharmacyQuestions = [
         "Nicoumalone"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "(Warfarin) (601-KDT6th)* WARFARIN - It crosses placenta and is secreted in milk however quantity of active form is generally insufficient to affect the suckling infants* HEPARIN - does not cross BBB or placenta**- It is the anticoagulant of choice during pregnancy*** Bleeding due to overdose is the most serious complication of heparin therapy** other side effects are thrombocytopenia, * alopecia, * osteoporosis*, hypersensitivity reactions.",
     "rationales": {},
     "paper": "paper-2",
@@ -48825,7 +49165,7 @@ window.OpenPharmacyQuestions = [
         "Calcium carbonate and aluminium hydroxide"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is `c' i.e., Magnesium hydroxide and Aluminium hydroxide Magaldrate: Magaldrateis a common antaciddrug that is used for the treatment of duodenal and gastric ulcers, esophagitis from gastroesophageal reflux. Magaldrate is a hydroxymagnesium aluminate complex that is conveed rapidly in gastric acid to Mg(OH), and Al(OH)3, which are absorbed poorly and thus provide a sustained antacid effect.",
     "rationales": {},
     "paper": "paper-2",
@@ -48868,8 +49208,8 @@ window.OpenPharmacyQuestions = [
         "Gliclazide"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Gliclazide.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Metformin. Source answer key: Gliclazide.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -48911,7 +49251,7 @@ window.OpenPharmacyQuestions = [
         "Beta blockers"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The angiotensin-converting enzyme normally helps in conversion of angiotensin I to angiotensin II, which acts as a vasoconstrictor in case of hypovolemia. In addition to that, ACE also helps in the breakdown of bradykinin. When ACE inhibitors (captopril) are given, it inhibits ACE and in addition inhibits the breakdown of bradykinin also, which leads to accumulation of bradykinin level in the body. This increased level of bradykinin presents with a Dry cough, rashes, urticaria and angioedema.",
     "rationales": {},
     "paper": "paper-2",
@@ -48956,7 +49296,7 @@ window.OpenPharmacyQuestions = [
         "Diuretics"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Diuretics (thiazide, furosemide) by causing Na+ loss promote proximal tubular reabsorption of Na+ as well as Li+ --plasma levels of lithium rise. ref : KD Tripati 8th ed.",
     "rationales": {},
     "paper": "paper-2",
@@ -49001,8 +49341,8 @@ window.OpenPharmacyQuestions = [
         "Ethambutol"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Streptomycin.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Ethambutol. Source answer key: Streptomycin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49089,8 +49429,8 @@ window.OpenPharmacyQuestions = [
         "Truncal rigidity"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Cough suppression.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Anti-emesis. Source answer key: Cough suppression.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49177,8 +49517,8 @@ window.OpenPharmacyQuestions = [
         "20-May"
       ]
     ],
-    "answer": "C",
-    "explanation": "Theophylline is having a narrow margin of safety so therapeutic drug monitoring is essential If levels increase more than 20mg/L- side effects occurs ESSENTIAL OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PGNO.226",
+    "answer": "D",
+    "explanation": "Source answer key: D. 20-May. Theophylline is having a narrow margin of safety so therapeutic drug monitoring is essential If levels increase more than 20mg/L- side effects occurs ESSENTIAL OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PGNO.226",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49220,7 +49560,7 @@ window.OpenPharmacyQuestions = [
         "Hypokalemia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Inhibitors of renal epithelial Na+ channel Include Triamterene and amiloride. Triamterene:- It is incompletely absorbed orally, paly bound to plasma proteins, largely metabolized in liver to an active metabolite and excreted in urine. Plasma t 1/2 is 4 hours, effect of a single dose lasts 6-8 hours. Side effects:- consist of nausea, dizziness, muscle cramps and rise in blood urea. Impaired glucose tolerance and photosensitivity are repoed, but urate level is not increased. Ref:- kd tripathi; pg num:-590",
     "rationales": {},
     "paper": "paper-2",
@@ -49263,8 +49603,8 @@ window.OpenPharmacyQuestions = [
         "Cisplatin"
       ]
     ],
-    "answer": "D",
-    "explanation": "Flurouracil is used mainly for solid malignancies,i.e colon, rectum, pancreas, liver, urinary bladder, head, and neck. Genetic deficiency of dihydropyridine dehydrogenase(DPD) leads to Fluorouracil toxicity. Major toxicity is myelosuppression, mucositis, diarrhea, nausea, vomiting, peripheral neuropathy (hand-foot syndrome)also occurs. Other given drugs are anti-cancerous drugs without mucositis. ESSENTIALS OF MEDICAL PHARMACOLOGY-SEVENTH EDITION-K.D TRIPATHI Page; 864",
+    "answer": "A",
+    "explanation": "Source answer key: A. 5-Fluorouracil. Flurouracil is used mainly for solid malignancies,i.e colon, rectum, pancreas, liver, urinary bladder, head, and neck. Genetic deficiency of dihydropyridine dehydrogenase(DPD) leads to Fluorouracil toxicity. Major toxicity is myelosuppression, mucositis, diarrhea, nausea, vomiting, peripheral neuropathy (hand-foot syndrome)also occurs. Other given drugs are anti-cancerous drugs without mucositis. ESSENTIALS OF MEDICAL PHARMACOLOGY-SEVENTH EDITION-K.D TRIPATHI Page; 864",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49306,7 +49646,7 @@ window.OpenPharmacyQuestions = [
         "Radical curative"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "If a drug is active against the pre-erythrocytic stage of the malarial parasite it will be useful as a Causal prophylactic. Stage killed Clinical Use Pre-erythrocytic Causal Prophylaxis Erythrocytic Clinical cure Suppressive Prophylaxis Exo-erythrocytic Radical cure Gametocytic Prevention of transmission",
     "rationales": {},
     "paper": "paper-2",
@@ -49394,8 +49734,8 @@ window.OpenPharmacyQuestions = [
         "Spironolactone"
       ]
     ],
-    "answer": "C",
-    "explanation": "All of the medications listed as answer choices can be effectively used in the treatment of hypeension. Spironolactone is a \"potassium-sparing\" diuretic that exes its action primarily as a competitive inhibitor of aldosterone receptors in the distal nephron. One of the repoed side effects of spironolactone is gynecomastia. None of the other choices have gynecomastia as a side effect. Captopril is an angiotensin-conveing enzyme (ACE) inhibitor that causes a decrease in plasma angiotensin II concentration, resulting in decreased aldosterone secretion. Furosemide is a \"loop diuretic\" that acts by inhibiting the reabsorption of sodium and chloride ions in the loop of Henle as well as in the prox…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Spironolactone. All of the medications listed as hoices can be effectively used in the treatment of hypeension. Spironolactone is a \"potassium-sparing\" diuretic that exes its action primarily as a competitive inhibitor of aldosterone receptors in the distal nephron. One of the repoed side effects of spironolactone is gynecomastia. None of the other choices have gynecomastia as a side effect. Captopril is an angiotensin-conveing enzyme (ACE) inhibitor that causes a decrease in plasma angiotensin II concentration, resulting in decreased aldosterone secretion. Furosemide is a \"loop diuretic\" that acts by inhibiting the reabsorption of sodium and chloride ions in the loop of Henle as well as in the prox…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49569,8 +49909,8 @@ window.OpenPharmacyQuestions = [
         "Inhibit the efflux of sodium from neurons"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Block the release of neurotransmitters.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Block the influx of sodium into the cell. Source answer key: Block the release of neurotransmitters.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49614,8 +49954,8 @@ window.OpenPharmacyQuestions = [
         "It does not activate peripheral dopaminergic receptors"
       ]
     ],
-    "answer": "C",
-    "explanation": "Dopamine (DA):- It is a dopaminergic (D1 and D2) as well as adrenergic a and b1 (but not b2) agonist. Dobutamine:- A derivative of DA, but not a D1 or D2 receptor agonist. Though it acts on both a and b adrenergic receptors. Ref:- kd tripathi; pg num:-134",
+    "answer": "D",
+    "explanation": "Source answer key: D. It does not activate peripheral dopaminergic receptors. Dopamine (DA):- It is a dopaminergic (D1 and D2) as well as adrenergic a and b1 (but not b2) agonist. Dobutamine:- A derivative of DA, but not a D1 or D2 receptor agonist. Though it acts on both a and b adrenergic receptors. Ref:- kd tripathi; pg num:-134",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49659,8 +49999,8 @@ window.OpenPharmacyQuestions = [
         "Paracervical or ureteral nodes"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: External iliac node.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Paracervical or ureteral nodes. Source answer key: External iliac node.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49702,7 +50042,7 @@ window.OpenPharmacyQuestions = [
         "Warfarin"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Venous Thromboembolism- precipitating factor -estrogen in females PREVENTION OF Venous Thromboembolism AMONG HOSPITALIZED PATIENTS Condition Prophylaxis High risk non - ohopedic surgery Unfractionated heparin Low molecular weight heparin (LMWH) Cancer surgery(associated thromboembolism ) LMWH Major ohopedic surgery Warfarin LMWH Aspirin Factor Xa inhibitors (Apixaban) Dabigatran Medically ill patients during hospitalization Unfractionated heparin LMWH Medically ill patients after hospitalization Betrixaban",
     "rationales": {},
     "paper": "paper-2",
@@ -49745,7 +50085,7 @@ window.OpenPharmacyQuestions = [
         "Sodium nitroprusside"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans: a (Lisinopril) Ref: KDT, 6th ed, p. 484* Cough is a side effect of ACE-1.* Bradykinin and substance P seem to be responsible for the cough. Thromboxane antagonism, aspirin, and iron supplementation reduce cough induced by ACE inhibitors. Once ACE inhibitors are stopped, the cough disappears, usually within 4 days.Important points on ACE inhibitorsEnalapril, fosinopril, perindopril, and ramipril are prodrags.Captopril & lisinopril does not require hydrolysis to become active ACE inhibitorEnalapril is converted in the body into enalaprilat. Enalaprilat differs from captopril in that it is an analog of a tripeptide rather than a dipeptide.Adverse effects of ACE inhibitors are cough; hypote…",
     "rationales": {},
     "paper": "paper-2",
@@ -49788,8 +50128,8 @@ window.OpenPharmacyQuestions = [
         "Produces restlessness and anxiety"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Increases liver glycogenolysis.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Causes broachiolar constriction. Source answer key: Increases liver glycogenolysis.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49921,8 +50261,8 @@ window.OpenPharmacyQuestions = [
         "Inhibition of helicase"
       ]
     ],
-    "answer": "B",
-    "explanation": "MECHANISM OF FLUOROQUINOLONES (FQ) In gram negative bacteria, FQ inhibit DNA gyrase by binding to its A subunit and interfere with cutting and resealing function. In gram positive bacteria, FQ inhibit similar enzyme DNA topoisomerase IV.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Inhibition of DNA gyrase. MECHANISM OF FLUOROQUINOLONES (FQ) In gram negative bacteria, FQ inhibit DNA gyrase by binding to its A subunit and interfere with cutting and resealing function. In gram positive bacteria, FQ inhibit similar enzyme DNA topoisomerase IV.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -49964,8 +50304,8 @@ window.OpenPharmacyQuestions = [
         "Fexofenadine"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Astemizole.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Diphenhydramine. Source answer key: Astemizole.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50007,8 +50347,8 @@ window.OpenPharmacyQuestions = [
         "ace"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: acd.",
+    "answer": "B",
+    "explanation": "Source answer key: B. abd. Source answer key: acd.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50093,7 +50433,7 @@ window.OpenPharmacyQuestions = [
         "Diabetes mellitus"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Bilateral renal artery stenosisRef. Katzung's pharmacology 10th ed. Ch 11* ACEI inhibits the converting enzyme peptidyl dipeptidase that hydrolyzes angiotensin I to angiotensin II and (under the name plasma kininase) inactivates bradykinin, a potent vasodilator, which works at least in part by stimulating release of nitric oxide and prostacyclin.* Drugs under this class are: Captopril, Enalapril, Lisinopril, Benazepril, fosinopril, moexipril, perindopril, quinapril, ramipril, and trandolapril.* ACE inhibitors have a particularly useful role in treating patients with chronic kidney disease because they diminish proteinuria and stabilize renal function (even in the absence of lowering of blood…",
     "rationales": {},
     "paper": "paper-2",
@@ -50138,7 +50478,7 @@ window.OpenPharmacyQuestions = [
         "Flupenthixol"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Answer is option4, flupenthisol. The antidepressive and anxiolytic efficacy of flupenthixol has been investigated in numerous controlled and open trials involving patients with endogenous, reactive as well as senile depressions. When administered at a mean daily single or multiple dose of 1-2 mg, flupenthixol proved to be a very effective and well-tolerated antidepressant. As opposed to some of the currently available antidepressants, flupenthixol has a rapid onset of action which is often displayed within the first 2-3 days following its application. Ref:",
     "rationales": {},
     "paper": "paper-2",
@@ -50183,7 +50523,7 @@ window.OpenPharmacyQuestions = [
         "Prednisolone"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Refer Goodman Gilman 12/e p 123 To suppress fetal androgen production effectively band consequent virilization Dexamethasone must be initiated before 10 weeks of gestation To treat congenital adrenal hyperplasia is baby hydrocoisone is used.",
     "rationales": {},
     "paper": "paper-2",
@@ -50228,7 +50568,7 @@ window.OpenPharmacyQuestions = [
         "Meningitis"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "(Porphyria): (381 -- KDT 7th edition; 536- Goodman 12th7or variegate)Thiopentone can precipitate acut intermittent or variegate porphyria in susceptible individuals therefore contraindicated. The abnormal synthesis of protoporphyrin (important in hemoglobin production) results in excess porphobilinogen. Barbiturates induce amino levulinic acid synthase, an enzyme responsible for phosphobilinogen synthesis, This leads to excessive porphobilinogen levels and can precipitate acute porphyric crises, that are manifested by severe abdominal pain, nausea, vomiting, psychiatric disorders and neurologic abnormalities",
     "rationales": {},
     "paper": "paper-2",
@@ -50271,8 +50611,8 @@ window.OpenPharmacyQuestions = [
         "Pentazocine"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Buprenorphine.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Pentazocine. Source answer key: Buprenorphine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50316,8 +50656,8 @@ window.OpenPharmacyQuestions = [
         "Pyridoxine"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Pyridoxine.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Folic acid. Source answer key: Pyridoxine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50406,8 +50746,8 @@ window.OpenPharmacyQuestions = [
         "Thioguanine"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Mercaptopurine.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Ifosfamide. Source answer key: Mercaptopurine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50449,8 +50789,8 @@ window.OpenPharmacyQuestions = [
         "Regional anaesthesia"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Regional anaesthesia.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Digital block. Source answer key: Regional anaesthesia.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50492,8 +50832,8 @@ window.OpenPharmacyQuestions = [
         "Gastric Ulceration"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Haemorrhage.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Hepatic necrosis. Source answer key: Haemorrhage.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50535,8 +50875,8 @@ window.OpenPharmacyQuestions = [
         "Amlodipine"
       ]
     ],
-    "answer": "B",
-    "explanation": "CONTRAINDICATIONS / PRECAUTIONS Adrenal insufficiency, anuria, diabetes mellitus, hyperkalemia, renal disease, renal failure, renal impairment. ... Acid/base imbalance, metabolic acidosis, metabolic alkalosis, respiratory acidosis. ... Ascites, biliary cirrhosis, hepatic disease. ... Menstrual irregularity.",
+    "answer": "C",
+    "explanation": "Source answer key: C. ACE inhibitors. CONTRAINDICATIONS / PRECAUTIONS Adrenal insufficiency, anuria, diabetes mellitus, hyperkalemia, renal disease, renal failure, renal impairment. ... Acid/base imbalance, metabolic acidosis, metabolic alkalosis, respiratory acidosis. ... Ascites, biliary cirrhosis, hepatic disease. ... Menstrual irregularity.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50578,8 +50918,8 @@ window.OpenPharmacyQuestions = [
         "Doxazosin"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Prazosin.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Yohimbine. Source answer key: Prazosin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50712,7 +51052,7 @@ window.OpenPharmacyQuestions = [
         "Atorvastatin"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Rosuvastatin - most potent best bioavailability: fluvastatin most commonly prescribed- atorvastatin safe for children- pravastatin Ref: KD Tripathi 8th ed",
     "rationales": {},
     "paper": "paper-2",
@@ -50757,7 +51097,7 @@ window.OpenPharmacyQuestions = [
         "Dolazoline"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "ANSWER: (A) TamsulosinREF: KDT 7th ed p. 135, Goodman Gillman s 11th ed p. 173Tamsulosin:This unselective alpha! ./alpha blocker has been found to be as effective as terazocin for symptomatic control of BPHPrazosin: blocks all subtypes of alpha receptors equally, used for symptomatic control of BPH Terazosin: long acting, more popular for BPH due to single daily dose",
     "rationales": {},
     "paper": "paper-2",
@@ -50802,8 +51142,8 @@ window.OpenPharmacyQuestions = [
         "Statins"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Anion exchange resins.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Statins. Source answer key: Anion exchange resins.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50845,8 +51185,8 @@ window.OpenPharmacyQuestions = [
         "36 hours"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 16 hours.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 24 hours. Source answer key: 16 hours.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50933,8 +51273,8 @@ window.OpenPharmacyQuestions = [
         "Riboflavin"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Thiamine.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Pyridoxine. Source answer key: Thiamine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -50976,8 +51316,8 @@ window.OpenPharmacyQuestions = [
         "Atenolol"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Nifedipine.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Minoxidil. Source answer key: Nifedipine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51019,7 +51359,7 @@ window.OpenPharmacyQuestions = [
         "Change in BMR"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "One of the anticholinergic effects is dry skin due to absence of sweating due to blockade of m3 receptors on sweat glands Datura is nothing but atropine-anticholinergic drug Ref: KDT 6th ed pg 114-116",
     "rationales": {},
     "paper": "paper-2",
@@ -51064,8 +51404,8 @@ window.OpenPharmacyQuestions = [
         "GP6D deficiency causes decreased synthesis of NADPH"
       ]
     ],
-    "answer": "D",
-    "explanation": "ATP is not produced by NADPH. ATP is produced by reducing equivalents like NADH, FADH2. W When NADH and other reducing equivalents transfer their electrons through Electron transpo chain in the Mitochondrial inner membrane and generate proton motive force which brings about the ATP synthesis by the ATP synthase complex. Both nicotinamide adenine dinucleotide (NAD+) or nicotinamide adenine dinucleotide phosphate (NADP+) are co-factors of vitamin niacin used by dehydrogenases. However NAD-linked dehydrogenases catalyse oxido-reduction reactions in the oxidative pathways of metabolism, paicularly in glycolysis, in the citric acid cycle and in the respiratory chain of mitochondria.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Produce ATP. ATP is not produced by NADPH. ATP is produced by reducing equivalents like NADH, FADH2. W When NADH and other reducing equivalents transfer their electrons through Electron transpo chain in the Mitochondrial inner membrane and generate proton motive force which brings about the ATP synthesis by the ATP synthase complex. Both nicotinamide adenine dinucleotide (NAD+) or nicotinamide adenine dinucleotide phosphate (NADP+) are co-factors of vitamin niacin used by dehydrogenases. However NAD-linked dehydrogenases catalyse oxido-reduction reactions in the oxidative pathways of metabolism, paicularly in glycolysis, in the citric acid cycle and in the respiratory chain of mitochondria.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51109,7 +51449,7 @@ window.OpenPharmacyQuestions = [
         "90%"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Insulin Lente is 70% crystalline (ultra lente) and 30% amorphous (semi lente). It is an insulin - zinc suspension",
     "rationales": {},
     "paper": "paper-2",
@@ -51197,7 +51537,7 @@ window.OpenPharmacyQuestions = [
         "Griseofulvin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "IMIDAZOLES AND TRIAZOLES: These are presently the most extensively used antifungal drugs. Four irnidazoles are entirely topical, while ketoconazole is used both orally and topically. Two triazoles fluconazole and itraconazole have largely replaced ketoconazole for systemic mycosis because of greater efficacy, longer tlh, fewer side effects and drug interactions. The imidazoles and triazoles have broadspectrum antifungal activity covering dermatophytes, Candida, other fungi involved in deep mycosis (except mucor), Nocardia, some grampositive and anaerobic bacteria, e.g. Staph. aureus, Strep. faecal is, Bac. fragilis and Leishmania. The mechanism of action of irnidazoles and triazoles is the s…",
     "rationales": {},
     "paper": "paper-2",
@@ -51243,7 +51583,7 @@ window.OpenPharmacyQuestions = [
         "A branched-chain amino acid-enriched protein mixture"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The use of loop diuretics promotes kaliuresis and therefore may lead to hyperammonemia",
     "rationales": {},
     "paper": "paper-2",
@@ -51288,7 +51628,7 @@ window.OpenPharmacyQuestions = [
         "Bupropion"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Imipramine(Ref: CMDT 2010/966)Imipramine is efficacious however, Desmopressin is the first choice drug for nocturnal enuresis.",
     "rationales": {},
     "paper": "paper-2",
@@ -51374,8 +51714,8 @@ window.OpenPharmacyQuestions = [
         "Pharmacological block"
       ]
     ],
-    "answer": "C",
-    "explanation": "Refer Goodman and Gilman 12e 1777 Looking at the option one by one diabetic third nerve palsy: third Nerve Palsy due to any reason will result in mydriasis( because oculomotor people milk supplies constrictor pupillae). As only one nerve is destroyed and but the receptors remain intact , so it will respond to 1% pilocarpine anthers miosis will occur adie's tunic pupil: it manifests as the denervation super sensitivity. Normal people respond to 1% pilocarpine but does not contract with highly diluted solution may also result in constriction Uncal herniation : IT results in pressure on 3rd cranial nerve and presents as dilated pupil but it will respond to pilocarpine as the receptors are intac…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Pharmacological block. Refer Goodman and Gilman 12e 1777 Looking at the option one by one diabetic third nerve palsy: third Nerve Palsy due to any reason will result in mydriasis( because oculomotor people milk supplies constrictor pupillae). As only one nerve is destroyed and but the receptors remain intact , so it will respond to 1% pilocarpine anthers miosis will occur adie's tunic pupil: it manifests as the denervation super sensitivity. Normal people respond to 1% pilocarpine but does not contract with highly diluted solution may also result in constriction Uncal herniation : IT results in pressure on 3rd cranial nerve and presents as dilated pupil but it will respond to pilocarpine as the receptors are intac…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51462,8 +51802,8 @@ window.OpenPharmacyQuestions = [
         "Poorly plasma protein bound"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Poorly soluble.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Sequestered in tissues. Source answer key: Poorly soluble.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51507,8 +51847,8 @@ window.OpenPharmacyQuestions = [
         "Dorzolamide"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Dorzolamide.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Latanoprost. Source answer key: Dorzolamide.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51550,8 +51890,8 @@ window.OpenPharmacyQuestions = [
         "muscarinic antagonists"
       ]
     ],
-    "answer": "C",
-    "explanation": "ANTICHOLINERGIC DRUGS (Muscarinic receptor antagonists, Atropinic, Parasympatholytic) Smooth muscles:- All visceral smooth muscles that receive parasympathetic motor innervation are relaxed by atropine (M3 blockade). Tone and amplitude of contractions of stomach and intestine are reduced; the passage of chyme is slowed--constipation may occur, spasm may be relieved. Atropine has relaxant action on ureter and Urinary bladder; urinary retention can occur in older males with prostatic hypertrophy. However,this relaxant action can be beneficial for increasing bladder capacity and controlling detrusor hyperreflexia in neurogenic bladder/enuresis. Ref:- kd tripathi; pg num:-114,115",
+    "answer": "D",
+    "explanation": "Source answer key: D. muscarinic antagonists. ANTICHOLINERGIC DRUGS (Muscarinic receptor antagonists, Atropinic, Parasympatholytic) Smooth muscles:- All visceral smooth muscles that receive parasympathetic motor innervation are relaxed by atropine (M3 blockade). Tone and amplitude of contractions of stomach and intestine are reduced; the passage of chyme is slowed--constipation may occur, spasm may be relieved. Atropine has relaxant action on ureter and Urinary bladder; urinary retention can occur in older males with prostatic hypertrophy. However,this relaxant action can be beneficial for increasing bladder capacity and controlling detrusor hyperreflexia in neurogenic bladder/enuresis. Ref:- kd tripathi; pg num:-114,115",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51595,8 +51935,8 @@ window.OpenPharmacyQuestions = [
         "Once a week administration"
       ]
     ],
-    "answer": "D",
-    "explanation": "Amphotericin B (AMB): It is obtained from Streptomyces nodosus. Chemistry and mechanism of action The polyenes possess a macrocyclic ring, one side of which has several conjugated double bonds and is highly lipophilic, while the other side is hydrophilic with many OH groups. A polaraminosugar and a carboxylic acid group are present at one end in some. They are all insoluble in water and unstable in aqueous medium. The polyenes have high affinity for ergosterol present in fungal cell membrane: combine with it, get inseed into the membrane and several polyene molecules together orient themselves in such a way as to form a &;micropore&;. The hydrophilic side forms the interior of the pore throu…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Lesser nephrotoxicity. Amphotericin B (AMB): It is obtained from Streptomyces nodosus. Chemistry and mechanism of action The polyenes possess a macrocyclic ring, one side of which has several conjugated double bonds and is highly lipophilic, while the other side is hydrophilic with many OH groups. A polaraminosugar and a carboxylic acid group are present at one end in some. They are all insoluble in water and unstable in aqueous medium. The polyenes have high affinity for ergosterol present in fungal cell membrane: combine with it, get inseed into the membrane and several polyene molecules together orient themselves in such a way as to form a &;micropore&;. The hydrophilic side forms the interior of the pore throu…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51638,8 +51978,8 @@ window.OpenPharmacyQuestions = [
         "A 56 year old diabetic woman"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: A 41 year old woman with hyperkalemia.",
+    "answer": "D",
+    "explanation": "Source answer key: D. A 56 year old diabetic woman. Source answer key: A 41 year old woman with hyperkalemia.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51681,7 +52021,7 @@ window.OpenPharmacyQuestions = [
         "Exenatide"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Acarbose is alpha glucosidase inhibitor. It inhibits the breakdown of complex carbohydrates to simple carbohydrates and thus they decrease the absorption. Glipizide is second generation sulphonylurea which helps in secretion of insulin. Metformin is biguanide which decrease the synthesis of glucose. Exenatide is GLP-1 analogue which delay in gastric emptying, decrease appetite and augment glucose secretion.",
     "rationales": {},
     "paper": "paper-2",
@@ -51726,8 +52066,8 @@ window.OpenPharmacyQuestions = [
         "Perchlorate"
       ]
     ],
-    "answer": "A",
-    "explanation": "Propylthiouracil is the only thioamide which is least teratogenic and hence it is the drug of choice to hyperthyroidism in pregnancy and lactation.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Propylthiouraril. Propylthiouracil is the only thioamide which is least teratogenic and hence it is the drug of choice to hyperthyroidism in pregnancy and lactation.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -51943,7 +52283,7 @@ window.OpenPharmacyQuestions = [
         "Internalization of receptors"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Breakdown of GTP to GDP(Ref: KDT 8th/e p54)Alpha subunit of G protein contains GTPase activity and thus dissociates GTP to form GDP. This result in re-uniting a subunit with b and g subunit",
     "rationales": {},
     "paper": "paper-2",
@@ -51986,7 +52326,7 @@ window.OpenPharmacyQuestions = [
         "Prochlorperazine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "\"Acute muscle dystonia caused by antiemetic-antipsychotic drugs is promptly relieved by parenteral promethazine or hydroxyzine.\" This is based on the central anticholinergic action of the drugs. Promethazine is a first-generation anti-histaminic which has a maximum penetration of blood-brain barrier and maxi­mum anticholinergic activity.",
     "rationales": {},
     "paper": "paper-2",
@@ -52032,7 +52372,7 @@ window.OpenPharmacyQuestions = [
         "Bleomycin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "FLAGELLATED DERMATITIS: It is characterised by pruritic, erythematous, linear streaks that resemble whiplash marks, hence the name flagellated. Bleomycin is metabolized by an enzyme hydrolase. This enzyme is deficient in skin and lungs. Therefore, the major adverse effects of bleomycin is related to skin (flagellated dermatitis) and lungs (pulmonary fibrosis) OTHER CAUSES OF FLAGELLATED DERMATITIS: DRUGS: BLEOMYCIN, DOCETAXEL, BENDAMUSTINE RHEUMATOLOGICAL CAUSES: DERMATOMYOSITIS, ADULT ONSET STILL'S DISEASE TOXINS: SHIITAKE MUSHROOMS",
     "rationales": {},
     "paper": "paper-2",
@@ -52165,7 +52505,7 @@ window.OpenPharmacyQuestions = [
         "Oxprenolol"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "ANSWER: (D) OxprenololREF: KDT 6 th edition page 140Membrane stabilizing activity (in propanolol, oxprenolol, acebutolol). This activity is claimed to contribute to the antiarrhythmic action, but appears to be significant only at high doses",
     "rationales": {},
     "paper": "paper-2",
@@ -52339,8 +52679,8 @@ window.OpenPharmacyQuestions = [
         "Smooth muscle relaxation"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Smooth muscle relaxation.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Stimulation of lipolysis. Source answer key: Smooth muscle relaxation.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -52384,7 +52724,7 @@ window.OpenPharmacyQuestions = [
         "Thiabendazole"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "- Drug of choice for treatment of flukes (except liver fluke) and tapeworms (except dog tapeworm) is praziquantal. - Drug of choice for treatment of liver fluke is triclabendazole. - Drug of choice for dog tapeworm (Echinococcus) is albendazole - Drug of choice for all nematodes (see exceptions below) is albendazole - Drug of choice for treatment of filariasis is diethylcarbamezine. - Drug of choice for treatment of onchocerca and strongyloides is ivermectin.",
     "rationales": {},
     "paper": "paper-2",
@@ -52513,8 +52853,8 @@ window.OpenPharmacyQuestions = [
         "GABA"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: GABA.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 5–HT. Source answer key: GABA.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -52556,7 +52896,7 @@ window.OpenPharmacyQuestions = [
         "Thiopentone"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Etomidate It is another induction anaesthetic (0.2- 0.5 mg/kg) which has a briefer duration of action (4-8 min). than thiopentone; produces little cardiovascular and respiratory depression, but motor restlessness and rigidity is more prominent as are pain on injection or nausea and vomiting on recovery. It is a poor analgesic and has not found much favour ,except for patients with compromised cardiovascular status. Reference: Essentials of Medical Pharmacology Eighth Edition KD TRIPATHI page no 410",
     "rationales": {},
     "paper": "paper-2",
@@ -52602,7 +52942,7 @@ window.OpenPharmacyQuestions = [
         "Ondansetron"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Hyoscine(Ref: KDT 8th/e p132)Hyoscine is used for the prophylaxis of motion sickness whereas other drugs listed in the question are used for the treatment of vomiting.",
     "rationales": {},
     "paper": "paper-2",
@@ -52645,8 +52985,8 @@ window.OpenPharmacyQuestions = [
         "Relaxing ciliary muscle"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Contracting iris sphincter muscle.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Increasing aqueous humor outflow. Source answer key: Contracting iris sphincter muscle.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -52735,7 +53075,7 @@ window.OpenPharmacyQuestions = [
         "Cefotaxime"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans: a (Ceftriaxone) Ref: Tripathi, 6th ed, p. 706 10th ed, p. 735- Ceftriaxone has a long duration of action with half life of 8 hrs- Ceftazidime has half life of 1.5-1.8 hrs- Cefaperazone has half life of 2 hrs- Cefotaxime has half life of 1 hrFirst-generation cephalosporinsThird- generation cephalosporinsCefadroxil (PO)Cefotaxime (IV)Cephalexin (PO) Cephradine (PO)Ceftazidime (IV)Cefazolin (IV)Ceftriaxone (IV) Ceftizoxime (IV) Cefoperazone (PO)Second-generation cephalosporinsCefixime (PO)Cefoxitin (IV)Cefpodoxime proxetil (PO)Cefotetan (IV)Cefdinir (PO)Cefuroxime (TV)Ceftamet pivoxil (PO)Cefuroxime axetil (PO) Fourth-generation cephalosporins Cefepime (IV) Cefpirome (IV)Cephalosporins are…",
     "rationales": {},
     "paper": "paper-2",
@@ -52778,8 +53118,8 @@ window.OpenPharmacyQuestions = [
         "Metronidazole"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Ampicillin.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Metronidazole. Source answer key: Ampicillin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -52821,8 +53161,8 @@ window.OpenPharmacyQuestions = [
         "Levofloxacin"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Penicillin.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Cotrimoxazole. Source answer key: Penicillin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -52864,7 +53204,7 @@ window.OpenPharmacyQuestions = [
         "Nerve ending"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Pseudocholinesterase which metabolizes succinylcholine is synthesized by liver and is present in plasma. True cholinesterase which metabolizes acetylcholine is synthesized by muscle end plate. Ref: KD Tripathi 8th ed.",
     "rationales": {},
     "paper": "paper-2",
@@ -52950,7 +53290,7 @@ window.OpenPharmacyQuestions = [
         "Opioid anaesthetic"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Tacrolimus is also known as FK-506. It is an immunosuppressant macrolide antibiotic produced by Streptomyces tsukubaensis. Muromonab CD3 is also known as OKT3. It is a monoclonal antibody against CD3 cells.",
     "rationales": {},
     "paper": "paper-2",
@@ -52995,7 +53335,7 @@ window.OpenPharmacyQuestions = [
         "Basanta"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "covalent interaction means Irreversible inhibition of enzyme. Aspirin irreversibly acitylates the cox enzyme Refer kDT 6/e p185",
     "rationales": {},
     "paper": "paper-2",
@@ -53038,8 +53378,8 @@ window.OpenPharmacyQuestions = [
         "Nitroglycerin"
       ]
     ],
-    "answer": "D",
-    "explanation": "Refer katzung 11e 180-181 nitric oxide donors include Sodium nitroprusside organic nitrates nitrates Hydralazine Propofol Nebivolol",
+    "answer": "A",
+    "explanation": "Source answer key: A. Fenoldopam. Refer katzung 11e 180-181 nitric oxide donors include Sodium nitroprusside organic nitrates nitrates Hydralazine Propofol Nebivolol",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -53126,8 +53466,8 @@ window.OpenPharmacyQuestions = [
         "Ethionamide"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: INH.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Erythromycin estolate. Source answer key: INH.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacology",
@@ -56056,8 +56396,8 @@ window.OpenPharmacyQuestions = [
         "sale of seized narcotic substances"
       ]
     ],
-    "answer": "scribd-paper-2-040-option-0",
-    "explanation": "Best-evidence answer for this model-paper item: A. court fines imposed on traffickers. The source PDF has no answer key, so the answer is editorial.",
+    "answer": "scribd-paper-2-040-option-1",
+    "explanation": "Best-evidence answer: B. money earned from seized properties. Kenya Narcotic Drugs and Psychotropic Substances (Control) Act s.53(2) provides that the Fund is financed by sums allocated by Parliament, assigned/forfeited property, contributions, gifts, bequests, investments and related borrowings, not court fines imposed on traffickers. See https://new.kenyalaw.org/akn/ke/act/1994/4/eng@2022-12-31.",
     "rationales": {},
     "source": "Scribd PPB Stage Two Paper II model paper",
     "sourceUrl": "https://www.scribd.com/document/897815579/stagetwopapertwo",
@@ -60856,7 +61196,7 @@ window.OpenPharmacyQuestions = [
         "Hydrocyanic acid"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Hydrocyanic acid is also used as cattle poison. Cattle poisoning has been known to occur from eating linseed plant because of the natural development of a cyanogenic glycoside which may liberate hydrocyanic acid. Ref: Essentials of Forensic Medicine and Toxicology By Dr K S Narayan Reddy, 27th Edition, Pages 559-60",
     "rationales": {},
     "paper": "paper-2",
@@ -60901,8 +61241,8 @@ window.OpenPharmacyQuestions = [
         "Procainamide"
       ]
     ],
-    "answer": "D",
-    "explanation": "(IV Lignocaine): Ref: 463-KDT (514-KDT 6th)Treatment of digitalis induced ventricular arrhythmias* Lignocaine IV repeated as required is the drug of choice. It suppresses the excessive automaticity but does not accentuate A V block* Phenytoin is also useful but not preffered now (sudden death occurs)* Quinidine and procainamide are contraindicated.",
+    "answer": "A",
+    "explanation": "Source answer key: A. I.V. Lignocaine. (IV Lignocaine): Ref: 463-KDT (514-KDT 6th)Treatment of digitalis induced ventricular arrhythmias* Lignocaine IV repeated as required is the drug of choice. It suppresses the excessive automaticity but does not accentuate A V block* Phenytoin is also useful but not preffered now (sudden death occurs)* Quinidine and procainamide are contraindicated.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -60944,7 +61284,7 @@ window.OpenPharmacyQuestions = [
         "Atropine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Neostigmine, sold under the brand name Prostigmin among others, is a medication used to treat myasthenia gravis, Ogilvie syndrome, and urinary retention without the presence of a blockage. It is also used together with atropine to end the effects of neuromuscular blocking medication of the non-depolarizing type. Refer 7/105",
     "rationales": {},
     "paper": "paper-2",
@@ -60989,8 +61329,8 @@ window.OpenPharmacyQuestions = [
         "Beta 1 and 2"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Nicotinic.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Muscarinic. Source answer key: Nicotinic.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61118,7 +61458,7 @@ window.OpenPharmacyQuestions = [
         "ce"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "In malignant glaucoma there is misdirection of aqueous posteriorly into the vitreous. It is characterized by markedly raised IOP and shallow or absent anterior chamber. Treatment includes :- i) Medical :- Atropine (DOC), phenylephrine, osmotic agents, (β-blockers, α-agonists, carbonic anhydrase inhibitors; ii) YAG laser hyaloidotomy; iii) Surgery :- pars plana vitrectomy.",
     "rationales": {},
     "paper": "paper-2",
@@ -61161,8 +61501,8 @@ window.OpenPharmacyQuestions = [
         "Cl+ Channel opener"
       ]
     ],
-    "answer": "A",
-    "explanation": "Refer katzung 11e p 237 * Mechanism of action Like all other class I antiarrhythmic agents, quinidine primarily works by blocking the fast inward sodium current (INa). ... The effect of blocking the fast inward sodium current causes the phase 0 depolarization of the cardiac action potential to decrease (decreased Vmax).",
+    "answer": "B",
+    "explanation": "Source answer key: B. Kt Channel blocker. Refer katzung 11e p 237 * Mechanism of action Like all other class I antiarrhythmic agents, quinidine primarily works by blocking the fast inward sodium current (INa). ... The effect of blocking the fast inward sodium current causes the phase 0 depolarization of the cardiac action potential to decrease (decreased Vmax).",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61204,7 +61544,7 @@ window.OpenPharmacyQuestions = [
         "Increased A-V conduction"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "ANSWER: (C) BradycardiaREF: KDT 4th Ed p. 94EFFECTS OF ATROPINE:CNS* Stimulates medullary , vasomotor and respiratory center* Depresses vestibular excitation , hence anti motion sickness* Suppresses cholinergic activity in basal ganglia, hence decreases tremor.* High doses may cause cortical excitation , restlessness , disorientation and hallucinationsCVS* Tachycardia* Abbreviates A-V refractory period* Facilitates A-V conduction* No consistent effect on BPEYE* Mydriaisis* Abolition of light reflexes* Cycloplegia* Rise of IOTSmooth musdes* All visceral smooth muscles are relaxed* Constipation* Bronchodilation* Urinary retention* Urinary bladder and ureter relaxation* Effect on uterus is mini…",
     "rationales": {},
     "paper": "paper-2",
@@ -61247,7 +61587,7 @@ window.OpenPharmacyQuestions = [
         "Metronidazole"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "C i.e. Plasma cell balantitis of zoon",
     "rationales": {},
     "paper": "paper-2",
@@ -61290,7 +61630,7 @@ window.OpenPharmacyQuestions = [
         "Oil of orange"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "MANIPULATION Powder/liquid system: Powder/liquid ratio - 4:1 to 6:1 by weight. The bottles are shaken gently. Measured quantity of powder and liquid is dispensed onto a cool glass slab. The bulk of the powder is incorporated into the liquid and spatulated thoroughly in a circular motion with a stiff bladed stainless steel spatula. Zinc oxide eugenol exhibits pseudothickening. Although it appears to thicken early during spatulation, further vigorous spatulation or stropping loosens the mix. Smaller increments are then added, until the mix is complete. For temporary restorations, a thick putty-like consistency is recommended. Oil of orange is used to clean eugenol cement from instruments. Refe…",
     "rationales": {},
     "paper": "paper-2",
@@ -61333,8 +61673,8 @@ window.OpenPharmacyQuestions = [
         "Causes no constipation"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Addiction common.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Causes no constipation. Source answer key: Addiction common.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61376,8 +61716,8 @@ window.OpenPharmacyQuestions = [
         "Sweating"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Sweating.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Hypoglycemia. Source answer key: Sweating.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61419,7 +61759,7 @@ window.OpenPharmacyQuestions = [
         "Adenyl cyclase"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans: a (Na K ATPase) Ref: Tripathi, 6th ed, p. 499All cardiac glycosides are potent and highly selective inhibitors of the active transport of Na+ and K+ across cell membranes by their reversible binding to the alpha subunit of the. Na+, K+- ATPase the elimination 11 /2 for digoxin is 36 hours in patients with nonnal renal function. Digoxin is excreted by the kidney with a clearance rate that is proportional to the glomerular filtration rate. It is now recommended that digoxin be reserved for patients with heart failure who are in atrial fibrillation, or for patients in sinus rhythm who remain symptomatic despite maximal therapy with ACE inhibitors and beta adrenergic receptor antagonists. A…",
     "rationales": {},
     "paper": "paper-2",
@@ -61464,7 +61804,7 @@ window.OpenPharmacyQuestions = [
         "The hea"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Atropine is highly selective for muscarinic receptors. Its potency at nicotinic receptors is much lower, and actions at nonmuscarinic receptors are generally undetectable clinically.The effectiveness of antimuscarinic drugs varies with the tissue and with the source of agonist. In most tissues, antimuscarinic agents block exogenously administered cholinoceptor agonists more effectively than endogenously released acetylcholine.Tissues most sensitive to atropine are the salivary, bronchial, and sweat glands.Secretion of acid by the gastric parietal cells is the least sensitive. Katzung 13e pg: 122",
     "rationales": {},
     "paper": "paper-2",
@@ -61507,7 +61847,7 @@ window.OpenPharmacyQuestions = [
         "Normal in appearance"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Postmaturity syndrome is the description of a clinical syndrome in which fetus experiences placental insufficiency and resultant growth restrictions.The classical syndrome describes a neonate with wrinkled ,peeling skin coated with meconium,overgrown nails ,well developed palm and sole creases ,reduced subcutaneous fat and a wizened old man appearance (refer pgno:218 sheila textbooks of obstetrics 2 nd edition)",
     "rationales": {},
     "paper": "paper-2",
@@ -61593,8 +61933,8 @@ window.OpenPharmacyQuestions = [
         "Increasing the refractory period of AV node"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Increasing the refractory period of AV node.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Na+ K+ ATPase inhibition. Source answer key: Increasing the refractory period of AV node.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61636,7 +61976,7 @@ window.OpenPharmacyQuestions = [
         "250 mg/day"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Slow digitalization: Here maintenance dose of Digoxin (average 0.25 mg/day) is given from the beginning. Full response takes 5-7 days to develop, but the procedure is much safer. In case an adequate response is not seen after I week, increase the dose to 0.375 and then to 0.5 mg after another week.Rapid oral digitalization: Here Digoxin 0.5 - 1.0 mg stat dose given followed by 0.25 mg every 6 hours with careful monitoring and watch for toxicity till response occurs - generally takes 6-24 hours (total dose 0.75 - 1.5 mg). This is seldom practised now.Emergency digitalization: It is practised rarely now, only as a desperate measure in CHF or in atrial fibrillation. Digoxin 0.25 mg followed 0.1…",
     "rationales": {},
     "paper": "paper-2",
@@ -61679,8 +62019,8 @@ window.OpenPharmacyQuestions = [
         "60 hours"
       ]
     ],
-    "answer": "A",
-    "explanation": "Digoxin half-life is long -40 hrs It gets trapped in muscles and vd -volume of distribution is more elimination is difficult in cases of poisoning Ref: KD Tripathi 8th ed.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 40 hours. Digoxin half-life is long -40 hrs It gets trapped in muscles and vd -volume of distribution is more elimination is difficult in cases of poisoning Ref: KD Tripathi 8th ed.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61722,7 +62062,7 @@ window.OpenPharmacyQuestions = [
         "Phosphorus"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "PHOSPHORUS(P4) There are two varieties: (1) White or crystalline. (2) Red or amorphous Postmoem Appearances:- In acute poisoning, the body usually shows signs of jaundice. The gastric and intestinal contents may smell of garlic and be luminous. The mucous membranes of the stomach and intestine are yellowish or greyish-white in colour, and are softened, thickened, inflamed and corroded or destroyed in patches. Multiple smaller or larger haemorrhages are seen in the skin, subcutaneous tissues, muscles, and serosal and mucosal membranes of gastrointestinal and respiratory tract, under endocardium, pericardium, epicardium, peritoneum, in lungs, brain, leptomeninges and uterus. The liver becomes…",
     "rationales": {},
     "paper": "paper-2",
@@ -61765,8 +62105,8 @@ window.OpenPharmacyQuestions = [
         "Potassium"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Magnesium.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Potassium. Source answer key: Magnesium.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61808,7 +62148,7 @@ window.OpenPharmacyQuestions = [
         "Onychomycosis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Paronychia is inflammation around a finger or toenail. Paronychia is a nail disease that is an often tender bacterial or fungal infection of the hand or foot, where the nail and skin meet at the side or the base of a finger or toenail. The infection can sta suddenly (acute paronychia) or gradually (chronic paronychia) signs and symptoms: The skin typically presents as red, itchy, and hot, along with intense pain. Pus is usually present, along with gradual thickening and browning discoloration of the nail plate. Causes: *Acute paronychia is usually caused by bacteria. Paronychia is often treated with antibiotics, either topical or oral or both. Chronic paronychia is most often caused by a yea…",
     "rationales": {},
     "paper": "paper-2",
@@ -61851,8 +62191,8 @@ window.OpenPharmacyQuestions = [
         "Site and size"
       ]
     ],
-    "answer": "C",
-    "explanation": "The tumor in the picture is a carcinoid. This neoplasm derives from the neuroendocrine cells of the intestinal epithelium and often retains the capacity to produce hormonal substances, such as serotonin, gastrin, somatostatin, etc. The architectural arrangement is variable, although trabecular and insular patterns are the most common. Carcinoid tumors may be found throughout the intestinal canal, as well as in the bronchial tree and other organs. Location and size are the most important predictor of their metastatic potential. Carcinoids of the appendix and cecum (the most frequent) only rarely metastasize to the liver. Carcinoids of the stomach, ileum and colon have a high metastatic propensi…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Site and size. The tumor in the picture is a carcinoid. This neoplasm derives from the neuroendocrine cells of the intestinal epithelium and often retains the capacity to produce hormonal substances, such as serotonin, gastrin, somatostatin, etc. The architectural arrangement is variable, although trabecular and insular patterns are the most common. Carcinoid tumors may be found throughout the intestinal canal, as well as in the bronchial tree and other organs. Location and size are the most important predictor of their metastatic potential. Carcinoids of the appendix and cecum (the most frequent) only rarely metastasize to the liver. Carcinoids of the stomach, ileum and colon have a high metastatic propensi…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61937,8 +62277,8 @@ window.OpenPharmacyQuestions = [
         "Hyperkalemia"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: WPW syndrome.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Hyperkalemia. Source answer key: WPW syndrome.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -61980,8 +62320,8 @@ window.OpenPharmacyQuestions = [
         "Hypomagnesamia"
       ]
     ],
-    "answer": "D",
-    "explanation": "Refer kDT 7/e p 5116 Digoxin toxicity can induce literally every arrhythmia except for rapidly conducted atrial arrhythmias ( and ). The classic arrhythmias seen during digoxin toxicity include atrial tachycardia with a 2:1 conduction, bidirectional ventricular tachycardia and atrial fibrillation with a slow ventricular response.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Hyperkalemia. Refer kDT 7/e p 5116 Digoxin toxicity can induce literally every arrhythmia except for rapidly conducted atrial arrhythmias ( and ). The classic arrhythmias seen during digoxin toxicity include atrial tachycardia with a 2:1 conduction, bidirectional ventricular tachycardia and atrial fibrillation with a slow ventricular response.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62023,7 +62363,7 @@ window.OpenPharmacyQuestions = [
         "Chronic pancreatitis"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Digoxin is primarily excreted unchanged by the kidney, mainly by glomerular filtration. Rate of excretion is altered parallel to creatinine clearance. Its t½ is prolonged in elderly patients and in those with renal insufficiency: dose has to be reduced. Digoxin is a cumulative drug. When maintenance doses are given from the beginning, steady state levels and full therapeutic effect are attained after 4 x t½, i.e. 6-7 days. Reference: Essentials of Medical Pharmacology Eighth Edition KD TRIPATHI page no 560",
     "rationales": {},
     "paper": "paper-2",
@@ -62154,8 +62494,8 @@ window.OpenPharmacyQuestions = [
         "Buccal nerve"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Posterior superior alveolar nerve.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Lingual nerve. Source answer key: Posterior superior alveolar nerve.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62197,8 +62537,8 @@ window.OpenPharmacyQuestions = [
         "Glaucoma"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Organophosphate poisoning.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Glaucoma. Source answer key: Organophosphate poisoning.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62240,8 +62580,8 @@ window.OpenPharmacyQuestions = [
         "b,c,d,a"
       ]
     ],
-    "answer": "A",
-    "explanation": "a. Fentanyl group of opioids are most potent opioids. Among these most potent is Sufentanil (approx 1000 times more potent than morphine) . The sequence of potency from high to low in this group is Sufentanil > Fentanyl > Alfentanil. b. Pethidine is 10 times less potent than morphine",
+    "answer": "B",
+    "explanation": "Source answer key: B. b,a,c,d. a. Fentanyl group of opioids are most potent opioids. Among these most potent is Sufentanil (approx 1000 times more potent than morphine) . The sequence of potency from high to low in this group is Sufentanil > Fentanyl > Alfentanil. b. Pethidine is 10 times less potent than morphine",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62283,8 +62623,8 @@ window.OpenPharmacyQuestions = [
         "Healed macular edema"
       ]
     ],
-    "answer": "C",
-    "explanation": "Salt and pepper retinopathy: Fundoscopic examination reveals granular, pigmentary mottling in the macula and periphery, with punctuate hypopigmentation & hyperpigmentation Causes of Salt & Pepper retinopathy * Congenital Syphilllis * Rubella * Thioridazine *Birdshot chorioretinopathy * Stargardt (rarely)",
+    "answer": "D",
+    "explanation": "Source answer key: D. Healed macular edema. Salt and pepper retinopathy: Fundoscopic examination reveals granular, pigmentary mottling in the macula and periphery, with punctuate hypopigmentation & hyperpigmentation Causes of Salt & Pepper retinopathy * Congenital Syphilllis * Rubella * Thioridazine *Birdshot chorioretinopathy * Stargardt (rarely)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62326,8 +62666,8 @@ window.OpenPharmacyQuestions = [
         "MI"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ref-KDT 5/e p463 Digoxin is eliminated mainly excretion through kidney. Dose of big ox and therefore does not require adjustment in hepatic failure where as it has to be reduced in renal failure",
+    "answer": "A",
+    "explanation": "Source answer key: A. Hepatic disease. Ref-KDT 5/e p463 Digoxin is eliminated mainly excretion through kidney. Dose of big ox and therefore does not require adjustment in hepatic failure where as it has to be reduced in renal failure",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62369,8 +62709,8 @@ window.OpenPharmacyQuestions = [
         "ABCDE"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: DAECB.",
+    "answer": "D",
+    "explanation": "Source answer key: D. ABCDE. Source answer key: DAECB.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62455,8 +62795,8 @@ window.OpenPharmacyQuestions = [
         "Measles"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Toxoplasmosis.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Rubella. Source answer key: Toxoplasmosis.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62498,8 +62838,8 @@ window.OpenPharmacyQuestions = [
         "Increase blood supply to uveal tissue"
       ]
     ],
-    "answer": "C",
-    "explanation": "Pilocarpine and not atropine cause sphincter pupillae contraction Use of atropine in uveitis - Relieve spasm - Prevents formation of posterior synechiae - Reduce exudation - Inc blood supply to uvea Rx UVEITIS * DOC: Steroids * Immunosuppressant are used in case of non responding case/ steroid sparing effect is needed",
+    "answer": "D",
+    "explanation": "Source answer key: D. Increase blood supply to uveal tissue. Pilocarpine and not atropine cause sphincter pupillae contraction Use of atropine in uveitis - Relieve spasm - Prevents formation of posterior synechiae - Reduce exudation - Inc blood supply to uvea Rx UVEITIS * DOC: Steroids * Immunosuppressant are used in case of non responding case/ steroid sparing effect is needed",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62541,8 +62881,8 @@ window.OpenPharmacyQuestions = [
         "Cl- channel opening"
       ]
     ],
-    "answer": "A",
-    "explanation": "It is d-isomer quinidine is used as an antiarrhythmic drug. Quinidine blocks myocardial Na channels. Class 1a group of drugs- quinidine, procainamide, disopyramide Ib: Lidocaine, phenytoin Ic-encainide, flecainide Ref: KD tripathi 8th ed.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Na+ channel blockade. It is d-isomer quinidine is used as an antiarrhythmic drug. Quinidine blocks myocardial Na channels. Class 1a group of drugs- quinidine, procainamide, disopyramide Ib: Lidocaine, phenytoin Ic-encainide, flecainide Ref: KD tripathi 8th ed.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62584,7 +62924,7 @@ window.OpenPharmacyQuestions = [
         "Phenoxybenzamine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Nitroprusside is a mixed dilator and is highly effective agent against ergot induced vasospasm. It is also the drug of choice for most of the hypeensive emergencies.",
     "rationales": {},
     "paper": "paper-2",
@@ -62627,7 +62967,7 @@ window.OpenPharmacyQuestions = [
         "Podophyllin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Mayapple (May Apple) Toxic Principle : Podophyllin (purified form: podophyllotoxin) Clinical Features : Exposure of eyes causes irritation with conjunctivitis, keratitis, corneal ulceration, and iritis. Ingestion results in nausea, abdominal pain, vomiting,and diarrhoea. fever, tachypnoea, tachycardia, hypotension, ataxia, dizziness, lethargy, confusion, and altered sensorium. Treatment : No specific antidote is known. Emesis may be useful during the initial phases of toxicity. Hemodialysis is ineffective, but charcoal hemoperfusion has reversed acute symptoms within hours. Topically administered resin should be removed with petroleum jelly. If eye contact occurs, flush with copious amounts…",
     "rationales": {},
     "paper": "paper-2",
@@ -62670,8 +63010,8 @@ window.OpenPharmacyQuestions = [
         "Increased intracellular Na+ decreasing the activity of Ca++ pump in the sarcoplasmic reticulum"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Increased intracellular Na+ decreasing the activity of Ca++ pump in the sarcoplasmic reticulum.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Decreased activity of Na+/Ca++ exchanger causing decreased influx of sodium and decreased efflux of Ca++ in the sarcolemma. Source answer key: Increased intracellular Na+ decreasing the activity of Ca++ pump in the sarcoplasmic reticulum.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62713,7 +63053,7 @@ window.OpenPharmacyQuestions = [
         "Hypocalcemia"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Hypokalemia is usually observed with chronic toxicity or in patients taking diuretics; it reduces the rate of Na+/K+ ATPase pump turnover and exacerbates pump inhibition due to digitalis. Hyperkalemia is the usual electrolyte abnormality precipitated by digoxin toxicity, primarily in the acute setting Refer kDT 6/e p499",
     "rationales": {},
     "paper": "paper-2",
@@ -62756,8 +63096,8 @@ window.OpenPharmacyQuestions = [
         "Atropine"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Cardioversion.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Digoxin antibody. Source answer key: Cardioversion.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62799,8 +63139,8 @@ window.OpenPharmacyQuestions = [
         "Blockade of muscarinic auto receptor on vagal nerve ending"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ref-KDT 6/e p107 Atropine is a non-selective antagonist of M1, M2, and M3 muscarinic receptors. M2, cholinergic receptors are responsible for bradycardia and blockade of these receptors can result in tachycardia. Atropine initially acts on presynaptic M1, receptors (normally decrease the release of ACh) and result in greater release of ACh which is responsible for bradycardia. Later on, blockade of M2 receptors will lead to tachycardia.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Blockade of muscarinic auto receptor on vagal nerve ending. Ref-KDT 6/e p107 Atropine is a non-selective antagonist of M1, M2, and M3 muscarinic receptors. M2, cholinergic receptors are responsible for bradycardia and blockade of these receptors can result in tachycardia. Atropine initially acts on presynaptic M1, receptors (normally decrease the release of ACh) and result in greater release of ACh which is responsible for bradycardia. Later on, blockade of M2 receptors will lead to tachycardia.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -62885,7 +63225,7 @@ window.OpenPharmacyQuestions = [
         "Class IV"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "i.e. (class I): (510-17-KDT 6th) (367-68-MDT-l1)ANTIARRHYTHMIC DRUGSClass Ia Sodium channel blockers* Depress phase O depolarization* Slow conduction, prolong repolarization Drugs* Quinidine, Procainamide, Disopyramide, MoricizineClass Ib * Shorten repolarization Drugs* Lidocaine, MexiletineClass IC * Depress phase O repolarization, slow conduction* Propafenone is a week calcium channel blocker and b-blockers and prolongs action potential and refractionariness Drugs* Flecainide, PropafenoneClass II b-blockers* Slow AV conduction Drugs* Esmolol, Propanolol, MetoprololClass III * Prolong action potential* Prolong repolarization and ERP Drug* Amiodarone, Bretylium (also class II) Dofetilide, Ib…",
     "rationales": {},
     "paper": "paper-2",
@@ -62928,7 +63268,7 @@ window.OpenPharmacyQuestions = [
         "DD"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Organochlorine insecticides are chlorinated hydrocarbons and are divided into four types as: * DDT (dichlorodiphenyl-trichloroethane) and analogues * Benzene hexachloride group -- e.g. BHC, lindane * Cyclodines and related compounds -- e.g. endrin, aldrin,dieldrin, endosulfan, sobenzan * Toxaphene and related compounds -- e.g. toxaphene ENDRIN-plant penicillin,broad spectrum of activity against insect pests REF;THE SYNOPSIS OF FORENSIC MEDICINE:KS NARAYANA REDDY;28th EDITION;PAGE NO 294",
     "rationales": {},
     "paper": "paper-2",
@@ -62971,7 +63311,7 @@ window.OpenPharmacyQuestions = [
         "Nalbuphine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Methadone is a long acting opioid agonist that has equal potency to morphine. It can be used orally for opioid replacement and opioid rotation therapy. Due to longer half life, it produces mild withdrawal symptoms.",
     "rationales": {},
     "paper": "paper-2",
@@ -63057,7 +63397,7 @@ window.OpenPharmacyQuestions = [
         "50 mg"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "* Volume of distribution means how much amount of plasma is required to accommodate the whole drug, if the plasma concentration remains constant. Current plasma concentration is 0.5 mg/L means* 1 litre contains 0.5 mg of morphine So, Vd of 200 L means* 200 litre contain 0.5 x 200=100 mg So now total amount of morphine present in the body is 100 mg. This is the amount present in body after 2 half lives (half life is 3 hours and patient presented after 6 hours)* T1/2 = 3 hrsAfter 1 t1/2 drug remaining in body is 50 % of initial. After 2 t1/2 drug remaining in body is 25 % of initial If initial amount of morphine in body is x mg so, 100 = 25% of x S0, x = 400 mg So the drug present in body init…",
     "rationales": {},
     "paper": "paper-2",
@@ -63100,8 +63440,8 @@ window.OpenPharmacyQuestions = [
         "Glycerine"
       ]
     ],
-    "answer": "C",
-    "explanation": "Setting Time and Factors Affecting ZOE: The normal reactivity between zinc oxide and eugenol is very limited and must be accelerated in order for the material to have a practical clinical application. Acceleration of the set may be achieved by: Incorporating chemical accelerators in the mix (the most efficient and predictable way of controlling the setting time). Reducing the powder particle size, providing for accelerated reactivity. Increasing the powder: Liquid ratio (of limited effect in reducing the setting time). Increasing the percentage of rosin and fillers. Increasing the temperature and/or humidity. Adding water to the original mix or after mixing is complete and seated into the pr…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Glycerine. Setting Time and Factors Affecting ZOE: The normal reactivity between zinc oxide and eugenol is very limited and must be accelerated in order for the material to have a practical clinical application. Acceleration of the set may be achieved by: Incorporating chemical accelerators in the mix (the most efficient and predictable way of controlling the setting time). Reducing the powder particle size, providing for accelerated reactivity. Increasing the powder: Liquid ratio (of limited effect in reducing the setting time). Increasing the percentage of rosin and fillers. Increasing the temperature and/or humidity. Adding water to the original mix or after mixing is complete and seated into the pr…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63186,7 +63526,7 @@ window.OpenPharmacyQuestions = [
         "250 mg/day"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Slow digitalization : Here maintenance dose of Digoxin (average 0.25 mg/day) is given from the beginning. Full response takes 5-7 days to develop, but the procedure is much safer. In case adequate response is not seen after I week, increase the dose to 0.375 and then to 0.5 mg after another week. Rapid oral digitalization : Here Digoxin 0.5 – 1.0 mg stat dose given followed by 0.25 mg every 6 hours with careful monitoring and watch for toxicity till response occurs – generally takes 6-24 hours (total dose 0.75 – 1.5 mg). This is seldom practiced now. Emergency digitalization : It is practiced rarely now, only as a desperate measure in CHF or in atrial fibrillation. Digoxin 0.25 mg followed 0…",
     "rationales": {},
     "paper": "paper-2",
@@ -63229,8 +63569,8 @@ window.OpenPharmacyQuestions = [
         "Nerin"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Semicarpol.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Nerin. Source answer key: Semicarpol.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63272,8 +63612,8 @@ window.OpenPharmacyQuestions = [
         "0.06–0.08"
       ]
     ],
-    "answer": "B",
-    "explanation": "Premature and neonates --> 0.04 mg/kg 1 months to 1 year --> 0.08 mg/kg Between 1 to 3 years --> 0.06 mg/kg Above 3 years --> 0.04 mg/kg",
+    "answer": "C",
+    "explanation": "Source answer key: C. 0.04–0.06. Premature and neonates --> 0.04 mg/kg 1 months to 1 year --> 0.08 mg/kg Between 1 to 3 years --> 0.06 mg/kg Above 3 years --> 0.04 mg/kg",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63315,8 +63655,8 @@ window.OpenPharmacyQuestions = [
         "bd"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: c.",
+    "answer": "B",
+    "explanation": "Source answer key: B. ab. Source answer key: c.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63358,8 +63698,8 @@ window.OpenPharmacyQuestions = [
         "Mitral stenosis"
       ]
     ],
-    "answer": "B",
-    "explanation": "Digitalis- controlling VR (ventricular rate) in (AF +/- CHF). It can't cure/reve AF to sinus rhythm. It | VR by |ing no. of impulses that pass down the A-V node(AVN)+ bundle of His. | ERP of AVN by vagomimetic + antiadrenergic actions: | min. interval b/w consecutive impulses that can traverse conducting tissue. Long ERP of AVN - many atrial impulses (~500/min) falling in the RRP get extinguished by decremental conduction (concealed impulses)",
+    "answer": "C",
+    "explanation": "Source answer key: C. Atrial fibrillation. Digitalis- controlling VR (ventricular rate) in (AF +/- CHF). It can't cure/reve AF to sinus rhythm. It | VR by |ing no. of impulses that pass down the A-V node(AVN)+ bundle of His. | ERP of AVN by vagomimetic + antiadrenergic actions: | min. interval b/w consecutive impulses that can traverse conducting tissue. Long ERP of AVN - many atrial impulses (~500/min) falling in the RRP get extinguished by decremental conduction (concealed impulses)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63401,8 +63741,8 @@ window.OpenPharmacyQuestions = [
         "Miosis"
       ]
     ],
-    "answer": "C",
-    "explanation": "The miotic effect of morphine is caused by activation of the Edinger-Westphal nucleus of the third cranial nerve, which activates the parasympathetic outflow to the iris sphincter muscle, causing pupillary constriction. This effect can be antagonized by muscarinic antagonists such as atropine. Atropine has no effect on the other central nervous system or peripheral actions of opiates. Ref: KD Tripathi 8th ed.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Miosis. The miotic effect of morphine is caused by activation of the Edinger-Westphal nucleus of the third cranial nerve, which activates the parasympathetic outflow to the iris sphincter muscle, causing pupillary constriction. This effect can be antagonized by muscarinic antagonists such as atropine. Atropine has no effect on the other central nervous system or peripheral actions of opiates. Ref: KD Tripathi 8th ed.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63444,7 +63784,7 @@ window.OpenPharmacyQuestions = [
         "Pethidine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Codeine is less potent than morphine as an analgesic(60mg codeine=10 mg morphine). 100 mg pethidine= 10 mg morphine.Heroin is conveed to morphine in the body and has higher lipid solubility than morphine. Ref KD Tripathi 8th ed.",
     "rationales": {},
     "paper": "paper-2",
@@ -63487,7 +63827,7 @@ window.OpenPharmacyQuestions = [
         "Accelerator"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Chemical constituents and setting reaction The chemical constituents and setting reaction of impression paste is essentially similar to the zinc oxide eugenol cement. The gum rosin is an important constituent of both pastes and acts as a binder, giving the paste body and reducing the risk of separation of the other components. It also has the property of being thermoplastic so that the impression can be softened in hot water. This aids removal from the plaster model which is subsequently poured. The magnesium chloride and other metallic salts of acetic and hydrochloric acid act as accelerators, so that the material will set in a clinically acceptable time. As with zinc oxide eugenol cements,…",
     "rationales": {},
     "paper": "paper-2",
@@ -63530,7 +63870,7 @@ window.OpenPharmacyQuestions = [
         "Increase in basal metabolic rate"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ref:KD Tripathi pharmacology 7th edition (page.no: 115) Rise in body temperature by Atropine occurs at higher doses. It is due to both inhibition of sweating as well as stimulation of temperature regulating centre in the hypothalamus.",
     "rationales": {},
     "paper": "paper-2",
@@ -63573,7 +63913,7 @@ window.OpenPharmacyQuestions = [
         "0.175 + 0.7"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "0.175 x 0.7Amount of drug reaching in systemic circulation= drug dose given x bioavailability= 0.175 gm x 70/100= 0.175 gm x 0.7",
     "rationales": {},
     "paper": "paper-2",
@@ -63616,8 +63956,8 @@ window.OpenPharmacyQuestions = [
         "Pentazocine"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Nalorphine.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Naloxone. Source answer key: Nalorphine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63659,8 +63999,8 @@ window.OpenPharmacyQuestions = [
         "Fainting spells"
       ]
     ],
-    "answer": "D",
-    "explanation": "the first symptom of digoxin overdose is GI disturbance ie nausea and anorexia Ref Davidson 23rd edition pg 460",
+    "answer": "A",
+    "explanation": "Source answer key: A. GIT disturbance. the first symptom of digoxin overdose is GI disturbance ie nausea and anorexia Ref Davidson 23rd edition pg 460",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63702,8 +64042,8 @@ window.OpenPharmacyQuestions = [
         "Decrease in atrial fibrillation frequency but increase in ventricular rate"
       ]
     ],
-    "answer": "B",
-    "explanation": "Digitalis controls the ventricular rate in AF patients. The frequency of atrial fibrillation may actually increase. Ibutilide is approved for the conversion of AF to sinus rhythm.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Increase in atrial fibrillation frequency, but decrease in ventricular rate. Digitalis controls the ventricular rate in AF patients. The frequency of atrial fibrillation may actually increase. Ibutilide is approved for the conversion of AF to sinus rhythm.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63745,7 +64085,7 @@ window.OpenPharmacyQuestions = [
         "Prenatal rubella"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Differential diagnosis of salt and pepper appearance of fundus: Prenatal rubella Prenatal influenza Varicella Mumps Congenital syphilis Ref: Comprehensive Ophthalmology by AK Khurana, 4th edition, Page 495.",
     "rationales": {},
     "paper": "paper-2",
@@ -63788,7 +64128,7 @@ window.OpenPharmacyQuestions = [
         "Hemolysis"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Bacitracin sensitivity \"Sensitivity to bacitracin is employed as a convenient method for differentiating Str. pyogenes from other hemolytic streptococci.\" Pustule - A vesicle filled with leukocyte. MC cause is virus. MC bacterial cause is Strep. pyogenes. Remember: * Str pyogenes is the etiologic agent in most of the streptococcal skin infection. Vancomycin is the drug of choice. Optochin sensitivity and bile solubility is used to differentiate pneumococci from Strep. viridans group.",
     "rationales": {},
     "paper": "paper-2",
@@ -63917,8 +64257,8 @@ window.OpenPharmacyQuestions = [
         "Ingestion of iron"
       ]
     ],
-    "answer": "B",
-    "explanation": "The induction of emesis with syrup of ipecac is a very effective method of removing swallowed poisons. It has been used safely in children as young as 6 months of age. Ipecac should not be given to a patient who has ingested a corrosive poison, such as strong acid or alkali, because of the possibility of gastric perforation and fuher necrosis of the esophagus. When vomiting imposes a risk of aspiration, as in the case of an obtunded or comatose patient or in the case of impending seizures precipitated by the ingested drug, syrup of ipecac is contraindicated. Hydrocarbons such as mineral oil have a low viscosity and surface tension; the latter propey accounts for the spreading tendency of the…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Ingestion of alkali. The induction of emesis with syrup of ipecac is a very effective method of removing swallowed poisons. It has been used safely in children as young as 6 months of age. Ipecac should not be given to a patient who has ingested a corrosive poison, such as strong acid or alkali, because of the possibility of gastric perforation and fuher necrosis of the esophagus. When vomiting imposes a risk of aspiration, as in the case of an obtunded or comatose patient or in the case of impending seizures precipitated by the ingested drug, syrup of ipecac is contraindicated. Hydrocarbons such as mineral oil have a low viscosity and surface tension; the latter propey accounts for the spreading tendency of the…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -63960,8 +64300,8 @@ window.OpenPharmacyQuestions = [
         "dihydroergotoxine"
       ]
     ],
-    "answer": "D",
-    "explanation": "Methylergometrine (methergin) is administered during delivery of anterior to prevent postpaum hemorrhage Ref-KDT 6/e p322",
+    "answer": "A",
+    "explanation": "Source answer key: A. methyp ergometrine. Methylergometrine (methergin) is administered during delivery of anterior to prevent postpaum hemorrhage Ref-KDT 6/e p322",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -64005,7 +64345,7 @@ window.OpenPharmacyQuestions = [
         "More daily elimination"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is. b'i.e., More plasma half lifeIn comparison to digoxin,Digitoxin: More ; Oral absorption; plasma protein binding, onset & dvation; plasma t%, plasma concentration. Less: Daily elimination; daily maintenance dose.",
     "rationales": {},
     "paper": "paper-2",
@@ -64048,7 +64388,7 @@ window.OpenPharmacyQuestions = [
         "Hyoscine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Strychnine (kuchila) is a powerful alkaloid obtained from the seeds of strychnos nux vomica. The seeds contain two principal alkaloids; strychnine and brucine. The seeds also contain a glucoside, loganin. Strychnine is 10 to 20 times more poisonous than brucine. Ref: The Essentials of Forensic Medicine and Toxicology by KS Narayan Reddy, 27th edition, Page 545.",
     "rationales": {},
     "paper": "paper-2",
@@ -64093,8 +64433,8 @@ window.OpenPharmacyQuestions = [
         "ab"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: b.",
+    "answer": "D",
+    "explanation": "Source answer key: D. ab. Source answer key: b.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -64136,7 +64476,7 @@ window.OpenPharmacyQuestions = [
         "Argemone mexicana"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Plants and mushrooms containing anticholinergic alkaloids include Jimsonweed (Datura stramonium) Deadly nightshade (Atropa belladonna) Fly agaric (Amanita muscaria) The root of Atropa belladonna contains 82-97% of hyoscyamine, 3-15% atropine, and up to 2.5% scopolamine. Anticholinergic agents competitively antagonize the effects of acetylcholine at peripheral muscarinic and central receptors. Ref: Manning B.H. (2012). Chapter 13. Anticholinergics. In K.R. Olson (Ed), Poisoning & Drug Overdose, 6e.",
     "rationales": {},
     "paper": "paper-2",
@@ -64224,7 +64564,7 @@ window.OpenPharmacyQuestions = [
         "Oxalic acid"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The plant is Indian spinach, which contains oxalic acid(image given) oxalic acid --> stomach-->blood-->Hypocalcemia Treatment is IV calcium.",
     "rationales": {},
     "paper": "paper-2",
@@ -64267,8 +64607,8 @@ window.OpenPharmacyQuestions = [
         "Hypertrophic obstructive cardiomyopathy"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Congestive heart failure.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Hypertrophic obstructive cardiomyopathy. Source answer key: Congestive heart failure.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -64310,8 +64650,8 @@ window.OpenPharmacyQuestions = [
         "Quinidine"
       ]
     ],
-    "answer": "B",
-    "explanation": "DIGIBIND, Digoxin Immune Fab (Ovine), is a sterile lyophilized powder of binding fragments (Fab) derived from specific antidigoxin antibodies raised in sheep. Production of antibodies specific for digoxin involves conjugation of digoxin as a to human . Ref: KD Tripathi 8th ed",
+    "answer": "C",
+    "explanation": "Source answer key: C. FAB antibodies for digoxin. DIGIBIND, Digoxin Immune Fab (Ovine), is a sterile lyophilized powder of binding fragments (Fab) derived from specific antidigoxin antibodies raised in sheep. Production of antibodies specific for digoxin involves conjugation of digoxin as a to human . Ref: KD Tripathi 8th ed",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -64353,7 +64693,7 @@ window.OpenPharmacyQuestions = [
         "1/2 Normal saline"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "- The nurse will give quinine infusion through 5% dextrose. - Hypoglycaemia is the most important side effect which can be prevented by infusing quinine in 5% dextrose. Note: Adverse effects of quinine infusion: Hypoglycemia is also common, mostly in the treatment of severe malaria, and can be life threatening if not treated promptly with intravenous glucose. Hypotension is rarer but also serious and most often is associated with excessively rapid intravenous infusions of quinine or Quinidine. Quinine diluted preferably in 5% (w/v) glucose solution to counteract hypoglycemia. In the absence of glucose, physiological saline may be used. This method of administration minimizes the danger of seve…",
     "rationales": {},
     "paper": "paper-2",
@@ -64396,7 +64736,7 @@ window.OpenPharmacyQuestions = [
         "Excretion in bile"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Digoxin is primarily eliminated unchanged by glomerular filtration whereas digitoxin is eliminated by hepatic metabolism.",
     "rationales": {},
     "paper": "paper-2",
@@ -64439,7 +64779,7 @@ window.OpenPharmacyQuestions = [
         "A-V block"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "These are used as analgesic agents. Visceral, dull and constant pain is relieved more effectively than inflammatory pain. Opioids are however contraindicated in biliary colic. Morphine (i.v.) is useful in myocardial infarction as well as in pulmonary edema due to acute left ventricular failure.",
     "rationales": {},
     "paper": "paper-2",
@@ -64482,7 +64822,7 @@ window.OpenPharmacyQuestions = [
         "Prevent tachycardia"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "(B) (Reduce bronchial secretions) (268, 56 Arun Yadav 5th)ATROPINE- Use to teeat bradyarrhythmiasOther uses:1. As pre medication to decrease respiratory secretions2. In reversal along with neostigmine to prevent muscarinic effects3. Organosphosphorus PoisoningGOALS OF PREMEDICATIONS* To relieve anxiety* To produce haemodynamic stability* To induce sedation (good sleep) and reduce metabolic rate* To provide analgesia and amnesia* To decrease the chances of aspiration* To contral oral and respiratory secretions* To prevent postoperative nausea and vomiting* To control infections* Atropine is a bronchodilator and reduce air way resistance specially COPD and Asthma patients* Atropine prevent bra…",
     "rationales": {},
     "paper": "paper-2",
@@ -64568,8 +64908,8 @@ window.OpenPharmacyQuestions = [
         "bde"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: bde.",
+    "answer": "A",
+    "explanation": "Source answer key: A. bcd. Source answer key: bde.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -64611,7 +64951,7 @@ window.OpenPharmacyQuestions = [
         "Excretion in bile"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "PHARMACOKINETICS Presence of food in stomach delays absorption of digoxin. The volume of distribution of digoxin is large. It is concentrated in the hea, skeletal muscle, liver and kidney. Digoxin is primarily excreted unchanged by the kidney: mainly by glomerular filtration; rate of excretion is altered parallel to creatinine clearance. Its t 1/2 is prolonged in elderly patients and in those with renal insufficiency: dose has to be reduced. Ref:- kd tripathi; pg num:-515,516",
     "rationales": {},
     "paper": "paper-2",
@@ -64697,7 +65037,7 @@ window.OpenPharmacyQuestions = [
         "Hypomagnesemia"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans:A.)Hyperkalemia Digoxin toxicity Symptoms include vomiting, loss of appetite, confusion, blurred vision, changes in color perception, and decreased energy. Potential complications include an irregular heabeat, which can be either too fast or too slow. Toxicity may occur over a sho period of time following an overdose or gradually during long-term treatment. Risk factors include low potassium, low magnesium, and high calcium. The most common precipitating cause of digitalis intoxication is depletion of potassium stores, which occurs often in patients with hea failure as a result of diuretic therapy and secondary hyperaldosteronism. Digoxin toxicity increases in individuals who have kidney…",
     "rationales": {},
     "paper": "paper-2",
@@ -64740,8 +65080,8 @@ window.OpenPharmacyQuestions = [
         "More than 2.4 ng/ml"
       ]
     ],
-    "answer": "A",
-    "explanation": "Oral absorption of digoxin is 60-80 %Plasma half-life is about 40 hrsToxic concentration is >2ng/ml(Ref: Essentials of medical pharmacology, K.D Tripathi, 7th edition)",
+    "answer": "B",
+    "explanation": "Source answer key: B. 0.5-1.4 ng/ml. Oral absorption of digoxin is 60-80 %Plasma half-life is about 40 hrsToxic concentration is >2ng/ml(Ref: Essentials of medical pharmacology, K.D Tripathi, 7th edition)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -64826,8 +65166,8 @@ window.OpenPharmacyQuestions = [
         "Blockade of muscarinic autoreceptor on vagal nerve endings"
       ]
     ],
-    "answer": "C",
-    "explanation": "Atropine is a non-selective antagonist of M1, M2 and M3 muscarinic receptors. M2 cholinergic receptors are responsible for bradycardia and blockade of these receptors can result in tachycardia. Atropine initially acts on presynaptic M1 receptors (normally decrease the release of ACh) and result in greater release of ACh which is responsible for bradycardia. Later on, blockade of M2 receptors will lead to tachycardia.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Blockade of muscarinic autoreceptor on vagal nerve endings. Atropine is a non-selective antagonist of M1, M2 and M3 muscarinic receptors. M2 cholinergic receptors are responsible for bradycardia and blockade of these receptors can result in tachycardia. Atropine initially acts on presynaptic M1 receptors (normally decrease the release of ACh) and result in greater release of ACh which is responsible for bradycardia. Later on, blockade of M2 receptors will lead to tachycardia.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -64869,7 +65209,7 @@ window.OpenPharmacyQuestions = [
         "Pseudo hyperparathyroidism"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "ANSWER: (A) HyperparathyroidismREF: Essentials of aic Radiology: A Multimodality Approach - Page 276Subperiosteal bone resorption is pathognomic of hyperparathyroidism. In the skull areas of reduced radiopacity is intermingled with sclerotic radiopaque areas to give a characteristic \"salt and pepper appearance\"",
     "rationales": {},
     "paper": "paper-2",
@@ -64955,7 +65295,7 @@ window.OpenPharmacyQuestions = [
         "Carbaryl"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Insecticides are substances used to kill insects. They are contact poison, stomach poisons, fumigants. Contact poisons are fuher classified into natural and synthetic. Examples of natural contact poisons are pyrethrum, rotenone, derris, nicotine, mineral oils. Pyrethrins are derived from Chrysanthemum. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 843",
     "rationales": {},
     "paper": "paper-2",
@@ -64998,8 +65338,8 @@ window.OpenPharmacyQuestions = [
         "Seed capsule"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Root.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Bark. Source answer key: Root.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65041,7 +65381,7 @@ window.OpenPharmacyQuestions = [
         "Ethylmorphine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Noscapine (Narcotine):- An opium alkaloid of the benzoisoquinoline series. Mech of action:- It depresses cough but has no narcotic, analgesic or dependence inducing propeies. It is nearly equipotent antitussive as codeine, especially useful in spasmodic cough. side effects:- Headache and nausea avoided r contraindication:- It release histamine and produce bronchoconstriction in asthmatics. Ref:- kd tripathi; pg num:- 220",
     "rationales": {},
     "paper": "paper-2",
@@ -65087,8 +65427,8 @@ window.OpenPharmacyQuestions = [
         "Atrial flutter"
       ]
     ],
-    "answer": "B",
-    "explanation": "Atrial tachycardia (because of increase intracellular calcium levels) and AV nodal blockade (because of parasympathomimetic activity) is the most characteristic arrhythmia seen with Digoxin toxicity. But Ventricular bigeminy is the most common arrythmia seen with Digoxin toxicity.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Atrial tachycardia with AV nodal block. Atrial tachycardia (because of increase intracellular calcium levels) and AV nodal blockade (because of parasympathomimetic activity) is the most characteristic arrhythmia seen with Digoxin toxicity. But Ventricular bigeminy is the most common arrythmia seen with Digoxin toxicity.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65173,8 +65513,8 @@ window.OpenPharmacyQuestions = [
         "BCA"
       ]
     ],
-    "answer": "A",
-    "explanation": "The severity of the syndrome usually abates with time. Apart from the patients with CNS-Behcet's syndrome and major vessel disease, the life expectancy seems to be normal, and the only serious complication is blindness. Mucous membrane involvement may respond to topical glucocorticoids in the form of mouthwash or paste. In more serious cases, thalidomide (100 mg/d) is effective. Thrombophlebitis is treated with aspirin, 32 5 mg/d. Colchicine can be beneficial for the mucocutaneous manifestations of the syndrome. Uveitis and CNS-Behcet’s syndrome require systemic glucocorticoid therapy (prednisone, 1 mg/kgperdav) and azathioprine, 2-3 mg/kg per day. Interferon has proved to be very effective…",
+    "answer": "B",
+    "explanation": "Source answer key: B. BCD. The severity of the syndrome usually abates with time. Apart from the patients with CNS-Behcet's syndrome and major vessel disease, the life expectancy seems to be normal, and the only serious complication is blindness. Mucous membrane involvement may respond to topical glucocorticoids in the form of mouthwash or paste. In more serious cases, thalidomide (100 mg/d) is effective. Thrombophlebitis is treated with aspirin, 32 5 mg/d. Colchicine can be beneficial for the mucocutaneous manifestations of the syndrome. Uveitis and CNS-Behcet’s syndrome require systemic glucocorticoid therapy (prednisone, 1 mg/kgperdav) and azathioprine, 2-3 mg/kg per day. Interferon has proved to be very effective…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65216,8 +65556,8 @@ window.OpenPharmacyQuestions = [
         "Ragweed"
       ]
     ],
-    "answer": "B",
-    "explanation": "Pahenium dermatitis is caused by dry powder of leaves and flowers and hair-like structures (trichomes). Sesquiterpene lactones (SQLs) are the most important allergens responsible for ACD to pahenium. Ref Harrison20th edition pg 1234",
+    "answer": "C",
+    "explanation": "Source answer key: C. Pahenium grass. Pahenium dermatitis is caused by dry powder of leaves and flowers and hair-like structures (trichomes). Sesquiterpene lactones (SQLs) are the most important allergens responsible for ACD to pahenium. Ref Harrison20th edition pg 1234",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65262,7 +65602,7 @@ window.OpenPharmacyQuestions = [
         "4.8 days"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "* We want to decrease the plasma concentration of digoxin from 4 ng/ml to 1 ng/ml. * It will take two half lives (From 4 ng/ml to 2 ng/ml in one half life and from 2 ng/ml to 1 ng/ml in second half life). * Thus time required will be 2 x t 1/2 i.e. 2 x 1.6 = 3.2 days.",
     "rationales": {},
     "paper": "paper-2",
@@ -65305,8 +65645,8 @@ window.OpenPharmacyQuestions = [
         "Codeine"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Oxymorphine.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Diphenoxylate. Source answer key: Oxymorphine.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65348,7 +65688,7 @@ window.OpenPharmacyQuestions = [
         "Close angle glaucoma"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "C i.e. Iridocyclitis Steroid > Atropine is drug of choice for acute iridocyclitis (anterior uveitis).Q Atropine is contraindicated in glucomas where as pilocarpine is contraindicated in anterior uveitis. Q",
     "rationales": {},
     "paper": "paper-2",
@@ -65391,7 +65731,7 @@ window.OpenPharmacyQuestions = [
         "|ed Blood pressure"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "(Withdrawal symptoms due to any drug of addiction are usually same, barring minor differences- Chilliness/ sensation of cold, uneasiness, yawning, rhinorrhoea, lacrimation, goose-skin, tremors, dilated pupils, anorexia, tachypnoea, | sleep, fever, HT, cramps legs/abdomen, diarrhoea. A good way to remember s/s of withdrawal syndrome is that there is loss of fluids from all natural orifices.)",
     "rationales": {},
     "paper": "paper-2",
@@ -65436,8 +65776,8 @@ window.OpenPharmacyQuestions = [
         "Phosphorus."
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Aniline dye..",
+    "answer": "D",
+    "explanation": "Source answer key: D. Phosphorus.. Source answer key: Aniline dye..",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65479,8 +65819,8 @@ window.OpenPharmacyQuestions = [
         "2%"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 0.50%.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 1%. Source answer key: 0.50%.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65522,7 +65862,7 @@ window.OpenPharmacyQuestions = [
         "Iridocyclitis"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The picture shows datura from which atropine is obtained. It is used in iritis, iridocyclitis and digoxin induced bradycardia as it increases hea rate. Contraindicated in glaucoma as it produces mydriasis and decreased sweating-hyperpyrexiaRef: Goodman Gillman 12th ed pg 234",
     "rationales": {},
     "paper": "paper-2",
@@ -65565,8 +65905,8 @@ window.OpenPharmacyQuestions = [
         "Diastolic failure"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Cardiac tamponade.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Atrial fibrillation. Source answer key: Cardiac tamponade.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65608,8 +65948,8 @@ window.OpenPharmacyQuestions = [
         "Inhibits production of platelets"
       ]
     ],
-    "answer": "D",
-    "explanation": "Quinine - Anti-malarial drug - causes immune mediated thrombocytopenia",
+    "answer": "A",
+    "explanation": "Source answer key: A. Antibody mediated. Quinine - Anti-malarial drug - causes immune mediated thrombocytopenia",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65651,8 +65991,8 @@ window.OpenPharmacyQuestions = [
         "Chronic pancreatitis"
       ]
     ],
-    "answer": "D",
-    "explanation": "Refer kDT 7/e 497 Digoxin incompletely distributes across the placental barrier. Most of the digoxin is eliminated unchanged by the kidneys. ... Renal failure also decreases the clearance of digoxin, and may cause accumulation to toxic levels if dosage is not adapted thoroughly.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Renal insufficiency. Refer kDT 7/e 497 Digoxin incompletely distributes across the placental barrier. Most of the digoxin is eliminated unchanged by the kidneys. ... Renal failure also decreases the clearance of digoxin, and may cause accumulation to toxic levels if dosage is not adapted thoroughly.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65694,7 +66034,7 @@ window.OpenPharmacyQuestions = [
         "Liver biopsy"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The given clinical picture is suggestive of either of the following diagnosis: Neonatal hepatiits Extra hepatic biliary atresia \"Percutaneous liver biopsy is the most valuable procedure in the evaluation of neonatal hepatobiliary disease and provides the most reliable discriminatory evidence\". Biopsy findings of biliary atresia Bile ductular proliferation Portal or perilobular edema and fibrosis. Bile plug Intact basic hepatic lobular architecture. Biopsy findings of Neonatal hepatitis Severe, diffuse hepatocellular disease Focal hepatocellular necrosis. No alteration in bile ductules. Distortion of lobular architecture. Marked infiltration with inflammatory cells. Giant cells are seen in bo…",
     "rationales": {},
     "paper": "paper-2",
@@ -65737,8 +66077,8 @@ window.OpenPharmacyQuestions = [
         "Aluminum phosphide"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Carbolic acid.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Aluminum phosphide. Source answer key: Carbolic acid.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65780,7 +66120,7 @@ window.OpenPharmacyQuestions = [
         "Tenofovir"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Aristolochic acid causes Chinese herb nephropathy and Balkan nephropathy.",
     "rationales": {},
     "paper": "paper-2",
@@ -65823,8 +66163,8 @@ window.OpenPharmacyQuestions = [
         "No change"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ref: K.S.Narayan Reddy's Synopsis of Forensic Medicine and Toxicology, 29th edition, Chapter 29,page 324.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Miosis. Ref: K.S.Narayan Reddy's Synopsis of Forensic Medicine and Toxicology, 29th edition, Chapter 29,page 324.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65868,7 +66208,7 @@ window.OpenPharmacyQuestions = [
         "Atropine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "ANSWER: (B) NeostigmineREF: KDT 6th edition various chaptersSome alkaloids used as drugs are:Local anesthetic and stimulant cocaineThe psychedelic psilocinThe stimulant caffeine; nicotineThe analgesic morphineThe antibacterial berberineThe anticancer compound vincristineThe antihypertension agent reserpineThe cholinomimetic galatamineThe spasmolysis agent atropineThe vasodilator vincamineThe anti-arhythmia compound quinidineThe anti-asthma therapeutic ephedrineThe antimalarial drug quinineThe emetic emetine",
     "rationales": {},
     "paper": "paper-2",
@@ -65956,8 +66296,8 @@ window.OpenPharmacyQuestions = [
         "Hyperkalemia"
       ]
     ],
-    "answer": "C",
-    "explanation": "Ref:KDT 6/e p499 Digitalis compounds arecontraindicated in patients who are hypokalemic, or who have atrioventricular block or Wolff-Parkinson-White (WPW) syndrome. Impaired renal function leads to enhanced plasma levels of digoxinbecause digoxin is eliminated by the kidneys.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Hyperkalemia. Ref:KDT 6/e p499 Digitalis compounds arecontraindicated in patients who are hypokalemic, or who have atrioventricular block or Wolff-Parkinson-White (WPW) syndrome. Impaired renal function leads to enhanced plasma levels of digoxinbecause digoxin is eliminated by the kidneys.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -65999,8 +66339,8 @@ window.OpenPharmacyQuestions = [
         "A block of calcium channel"
       ]
     ],
-    "answer": "B",
-    "explanation": "Digitalis medicines strengthen the force of the heabeat by increasing the amount of calcium in the hea's cells. (Calcium stimulates the heabeat.) ... Digitalismedicines control irregular hea rhythms (called arrhythmias) by slowing the signals that sta in the sinoatrial (SA) node. Refer katzung 11e p 214",
+    "answer": "C",
+    "explanation": "Source answer key: C. An increase in systolic intracellular calcium levels. Digitalis medicines strengthen the force of the heabeat by increasing the amount of calcium in the hea's cells. (Calcium stimulates the heabeat.) ... Digitalismedicines control irregular hea rhythms (called arrhythmias) by slowing the signals that sta in the sinoatrial (SA) node. Refer katzung 11e p 214",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -66085,7 +66425,7 @@ window.OpenPharmacyQuestions = [
         "Hemlock"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Arsenic(Ref: Review of Forensic Medicine and toxicology; Gautum Biswas; 2nd edition; Pg- 490)Garlic odour: Arsenic and aluminium phosphide.Poisons and SmellOrganophosphorus compoundsKeroseneQ (due to the addition of AROMAX)Arsenic, Aluminium phosphide/seleniumGarlicQCannabisBurnt ropeQSmell of carrotHemlock (conium maculatum)AlcoholFruity (due to congeners)CyanideBitter almondQHydrogen sulphide/ Mercaptans/ disulfiram/ N-acetyl cysteineRotten eggQChloral hydrate/ParaldehydeAcrid pearQ/AromaticNaphthaleneMoth ballSalicylateMentholZinc phosphideFishyShoe PolishNitrobenzene",
     "rationales": {},
     "paper": "paper-2",
@@ -66128,8 +66468,8 @@ window.OpenPharmacyQuestions = [
         "Led Blood pressure"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Constricted pupil.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Rhinorhea. Source answer key: Constricted pupil.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -66173,7 +66513,7 @@ window.OpenPharmacyQuestions = [
         "Cadmium poisoning"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "In acute arsenic poisoning, there is usually a metallic taste in the mouth and some odour of garlic in the breath. Nausea, vomiting, abdominal pain, and watery diarrhea are common. Transverse white striae in the nails (Aldrich-Mees lines) may become apparent months after an acute intoxication. Ref: Kosnett M.J. (2012). Chapter 24. Arsenic. In K.R. Olson (Ed), Poisoning & Drug Overdose, 6e.",
     "rationales": {},
     "paper": "paper-2",
@@ -66216,8 +66556,8 @@ window.OpenPharmacyQuestions = [
         "Has no effect"
       ]
     ],
-    "answer": "B",
-    "explanation": "Temporary ZOE cements, including eugenol-free cement, are excellent for luting provisional acrylic crowns and fixed partial dentures. Temporary ZOE restorations are expected to last a few weeks at most. They seal the dentinal tubules surprisingly well against the ingress of oral fluids and have a sedative effect on the pulp. Hence, irritation caused by microleakage is minimized and these cements are suitable for temporary restorative treatment while the pulp heals or until a longer-lasting restoration can be fabricated and cemented. Reference: PHILLIPS’ SCIENCE OF DENTAL MATERIALS, 12th ed page no 331",
+    "answer": "C",
+    "explanation": "Source answer key: C. Is sedating. Temporary ZOE cements, including eugenol-free cement, are excellent for luting provisional acrylic crowns and fixed partial dentures. Temporary ZOE restorations are expected to last a few weeks at most. They seal the dentinal tubules surprisingly well against the ingress of oral fluids and have a sedative effect on the pulp. Hence, irritation caused by microleakage is minimized and these cements are suitable for temporary restorative treatment while the pulp heals or until a longer-lasting restoration can be fabricated and cemented. Reference: PHILLIPS’ SCIENCE OF DENTAL MATERIALS, 12th ed page no 331",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -66259,7 +66599,7 @@ window.OpenPharmacyQuestions = [
         "Benzodiazepine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ref:KD Tripathi pharmacology 7th edition (page.no: 114,115) Actions of Anticholinergic drugs are CNS stimulation and Delirium CVS: the prominent effect is tachycardia by abbretes refractory period of AV node and facilitates AV conduction Gland; decrease salivary, tracheobronchial and lacrimatory secretion Smooth muscle: decrease tone and contraction Eye; mydriasis by contraction of the longitudinal ciliary muscle Rise in body temperature (cause warm skin)",
     "rationales": {},
     "paper": "paper-2",
@@ -66302,8 +66642,8 @@ window.OpenPharmacyQuestions = [
         "Increase in basal metabolic rate"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Vasodilation.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Inhibition of sweating. Source answer key: Vasodilation.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -66345,7 +66685,7 @@ window.OpenPharmacyQuestions = [
         "Lignocaine"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "* Lignocaine is the drug of choice for Digoxin induced Ventricular Tachycardia. * Digoxin, a cardiac glycoside - used in treatment of hea failure and in control of ventricular rate in atrial fibrillation/flutter. * It has low margin of safety and high toxicity index. (Therapeutic Index: 1.5-3). * About 25% of patients on Digoxin therapy develop toxicity features. * Digoxin toxicity can induce almost any cardiac dysrrhythmia except rapidly conducted atrial arrhythmias like atrial flutter and atrial fibrillation. Mobitz type II AV block is also a rare phenomenon in digoxin toxicity. Second-degree AV block (Type 2) is usually caused by structural damage to the distal conduction system located i…",
     "rationales": {},
     "paper": "paper-2",
@@ -66390,8 +66730,8 @@ window.OpenPharmacyQuestions = [
         "Fab fragments of digitalis antibody"
       ]
     ],
-    "answer": "C",
-    "explanation": "The primary treatment of digoxin toxicity is digoxin immune fab, which is an antibody made up of anti-digoxin immunoglobulinfragments. This antidote has been shown to be highly effective in treating life-threatening signs of digoxin toxicity such as hyperkalemia, hemodynamic instability, and arrhythmias. Fab dose can be determined by two different methods. First method is based on the amount of digoxin ingested whereas the second method is based on the serum digoxin concentration and the weight of the person. Other treatment that may be used to treat life-threatening arrhythmias until Fab is acquired are magnesium, phenytoin, and lidocaine. Magnesium suppresses digoxin-induced ventricular ar…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Fab fragments of digitalis antibody. The primary treatment of digoxin toxicity is digoxin immune fab, which is an antibody made up of anti-digoxin immunoglobulinfragments. This antidote has been shown to be highly effective in treating life-threatening signs of digoxin toxicity such as hyperkalemia, hemodynamic instability, and arrhythmias. Fab dose can be determined by two different methods. First method is based on the amount of digoxin ingested whereas the second method is based on the serum digoxin concentration and the weight of the person. Other treatment that may be used to treat life-threatening arrhythmias until Fab is acquired are magnesium, phenytoin, and lidocaine. Magnesium suppresses digoxin-induced ventricular ar…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -66478,7 +66818,7 @@ window.OpenPharmacyQuestions = [
         "Verapamil"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Diphenylhydantoin(Ref: KDT 6th/e p498)Phenytoin is an alternative to lignocaine for digitalis induced ventricular arrhythmia.",
     "rationales": {},
     "paper": "paper-2",
@@ -66564,7 +66904,7 @@ window.OpenPharmacyQuestions = [
         "Prevents posterior synechia formation"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "A i.e. Rest to the ciliary muscle In inflamatory glaucoma (glaucoma with uveitis) pilocarpine (miotic) & prostaglandin analogue e.g. latanoprost are contraindicated Q because - Pilocarpine 1/t development of posterior synechiae - Prostaglandin analogue enhance breakdown of aqueous barrier and exacerbate cystoid macular edema.",
     "rationales": {},
     "paper": "paper-2",
@@ -66607,8 +66947,8 @@ window.OpenPharmacyQuestions = [
         "Decrease in peripheral resistance"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Decrease in peripheral resistance.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Decrease in heart rate. Source answer key: Decrease in peripheral resistance.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmacognosy",
@@ -66650,7 +66990,7 @@ window.OpenPharmacyQuestions = [
         "Systemic sclerosis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Discoid lupus erythematosus a. Cyenne-pepper appearance of lesions on diascopy is seen in discoid lupus erythematosus. b. In discoid lupus erythematosus skin lesions usually, develop on the sun-exposed skin of the face and neck.",
     "rationales": {},
     "paper": "paper-2",
@@ -69647,8 +69987,8 @@ window.OpenPharmacyQuestions = [
         "Acts as antibacterial"
       ]
     ],
-    "answer": "D",
-    "explanation": "Propofol is an insoluble drug that requires a lipid vehicle for emulsification. Current formulations of propofol use a soybean oil as the oil phase and egg lecithin as the emulsifying agent.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Acts as emulsifying agent. Propofol is an insoluble drug that requires a lipid vehicle for emulsification. Current formulations of propofol use a soybean oil as the oil phase and egg lecithin as the emulsifying agent.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -69692,7 +70032,7 @@ window.OpenPharmacyQuestions = [
         "Coincidental"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The following are the adverse effect following immunisation: Vaccine reaction - Here the event is caused by the inherent propeies of the vaccine when given correctly. Programme error - In this case the event is as a result of error in preparation, handling or administration of the vaccine. Coincidental - The event after immunisation is not caused by the vaccine but by a chance association. Injection reaction - The anxiety of the pain an injection itself may cause hyperventilation, dizziness etc. This is not a result of the vaccine and is called injection reaction. Ref: Park, 21st Edition, Page 103, 107.",
     "rationales": {},
     "paper": "paper-2",
@@ -69737,7 +70077,7 @@ window.OpenPharmacyQuestions = [
         "Hemangiopericytome"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ref: Clinical ophthalmology 5th/e p.670 *Cavernous hemangioma is the most common benign, intraconal tumor in adults. *Hemangiopericytoma is also retrobulbar intraconal lesion found in adults but is a rare tumor. Moreover owing to its tendency to invade the adjacent tissues, its margins are less distinct than cavernous hemangioma. *Rest 2 options i.e. Dermoid and Capillary hemangioma are primarily extraconal lesions.",
     "rationales": {},
     "paper": "paper-2",
@@ -69782,7 +70122,7 @@ window.OpenPharmacyQuestions = [
         "Methenamine-silver stain"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Cryptococcus is the capsulated yeast. Among the given staining techniques, India ink preparation is the best staining technique used for demonstration of capsule (negative staining) - sensitivity of the technique: 60–75%. Other capsular staining techniques are: 10% Nigrosin staining Modified India ink preparation with 2% chromium mercury Alcian blue staining Methanamine silver and Periodic acid- Schiff – used for tissue sample. Sensitivity of various diagnostic tests- Harrison 18/e p1652 Cryptococcal antigen detection in CSF—90% Blood culture: 10—30% in non-HIV patients and 60% in HIV patients Sputum culture: 10% Sputum antigen detection: 30%",
     "rationales": {},
     "paper": "paper-2",
@@ -69827,8 +70167,8 @@ window.OpenPharmacyQuestions = [
         "Cerebral palsy"
       ]
     ],
-    "answer": "D",
-    "explanation": "The lung maturity occurs at 34 weeks of gestation and this is ceified by checking the L:S ratio which should be > 2:1 or appearance of Phosphatidyl glycerol in the amniotic fluid. Maternal administration of coicosteroid is advocated where the pregnancy is less than 34 weeks. This helps in fetal lung maturation so that the incidence of RDS, Intra Ventricular Hemorrhage , Necrotising Enterocolitis , and Patent Ductus Aeriosus are minimized. Respiratory distress of newborn often results in multiple debility in the fetus if not prevented.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Respiratory Distress Syndrome. The lung maturity occurs at 34 weeks of gestation and this is ceified by checking the L:S ratio which should be > 2:1 or appearance of Phosphatidyl glycerol in the amniotic fluid. Maternal administration of coicosteroid is advocated where the pregnancy is less than 34 weeks. This helps in fetal lung maturation so that the incidence of RDS, Intra Ventricular Hemorrhage , Necrotising Enterocolitis , and Patent Ductus Aeriosus are minimized. Respiratory distress of newborn often results in multiple debility in the fetus if not prevented.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -69872,8 +70212,8 @@ window.OpenPharmacyQuestions = [
         "Aldosterone"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Growth hormone.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Aldosterone. Source answer key: Growth hormone.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -69917,7 +70257,7 @@ window.OpenPharmacyQuestions = [
         "Layer/Lamina VII"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Layer/Lamina IV of cerebral coex. Layer/Lamina IV - \"Internal granule cell layer\" Contains predominately granule cells & nerve fibers. Specific sensory input through thalamocoical fibers terminate primarily in coical layer IV on stellate (granule cells). Diffuse non-specific sensory afferents are distributed through layer I-IV. OTHER LAYERS OF CEREBRAL COEX: Composed of 6 layers - Layer/Lamina I - \"Molecular layer\" Contains nerve fibers. Mainly dendrites of pyramidal cells & axons of granular cells. Layer/Lamina II - \"External granule cell layer\" Contains mainly granule cells. Layer/Lamina III - \"External pyramidal cell layer\" Contains mainly small to medium size pyramidal cells Some granula…",
     "rationales": {},
     "paper": "paper-2",
@@ -69960,7 +70300,7 @@ window.OpenPharmacyQuestions = [
         "Cistracurium"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Pain during injection is an important and common feature of Rocuronium Injection.",
     "rationales": {},
     "paper": "paper-2",
@@ -70005,7 +70345,7 @@ window.OpenPharmacyQuestions = [
         "Food poisoning"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "History of ice cream ingestion and subsequent symptoms of vomiting, bloated abdomen, are characteristic findings of lactase deficiency. Lactase deficiency - Lactase is a disaccharidase present on intestinal epithelium (brush border)*. It is used to digest lactose (disaccharide). Symptoms arise after ingestion of food containing lactose (e.g. milk). Symptom - Diarrhoea, vomiting, bloated abdomen. Diagnosis Presence of more than 1/2 percent of reducing substrate in the fresh stool. Acidic stools Abnormal oral sugar tolerance test* (blood glucose rise of less than 20mg/d1 above fasting level with a disaccharide load of 2g/kg) Breath H2 excretion of more than 11 ppm*. Enzyme assay on mucosal bio…",
     "rationales": {},
     "paper": "paper-2",
@@ -70048,8 +70388,8 @@ window.OpenPharmacyQuestions = [
         "Bacillus anthracis"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Staphylococcus aureus.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Bacillus anthracis. Source answer key: Staphylococcus aureus.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70093,8 +70433,8 @@ window.OpenPharmacyQuestions = [
         "Paracoccidiomycosis"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Paracoccidiomycosis.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Cryptococcus neoformans. Source answer key: Paracoccidiomycosis.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70138,7 +70478,7 @@ window.OpenPharmacyQuestions = [
         "Cavernous hemangioma"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Cavernous hemangioma Cavernous hemangioma is the most common benign, intraconal tumor in adults. Hemangiopericytoma is also retro bulbar intraconal lesion. found in adults but is a rare tumor. Moreover owing to its tendency to invade the adjacent tissues, its margins are less distinct than cavernous hemangioma. Rest 2 options i.e. Dermoid and Capillary hemangiomas are primarily extraconal lesions. Cavernous hemangioma Cavernous hemangioma is the most common orbital vascular tumor in adults. Patients are typically middle aged (2nd to 4th decade) Present with slowly progressive painless proptosis Mostly its intraconal (>80%) but may also be extraconal. Cavernous hetnangiomas possess a distinct…",
     "rationales": {},
     "paper": "paper-2",
@@ -70183,8 +70523,8 @@ window.OpenPharmacyQuestions = [
         "Not a Virulence factor"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Polypeptide.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Polysaccharide. Source answer key: Polypeptide.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70226,8 +70566,8 @@ window.OpenPharmacyQuestions = [
         "4-5 mm"
       ]
     ],
-    "answer": "B",
-    "explanation": "(Refer: AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 171)Intravitreal injection (distance from Limbus)For aphakics-3mmFor pseudophakes-3.5mmFor phakics-4mm",
+    "answer": "C",
+    "explanation": "Source answer key: C. 3-4 mm. (Refer: AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 171)Intravitreal injection (distance from Limbus)For aphakics-3mmFor pseudophakes-3.5mmFor phakics-4mm",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70316,7 +70656,7 @@ window.OpenPharmacyQuestions = [
         "Mydriatic pupil"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Seclusio pupillae/ring synaechiae/annular synaechiae is seen in severe iritis or recurrent uveitis, in which whole circle of pupillary margin becomes tied down to the lens capsule. It can lead to secondary angle closure glaucoma. Note: Occlusio pupillae/blocked pupil occurs when exudation in uveitis is extensive. They organize across the entire pupillary area and opaque fibrous tissue fills the pupillary area. Festooned pupil: Pupil dilatation with atropine leads to failure of dilation of adhered segments resulting in irregularly shaped pupil. Pupil will be miotic and sluggishly reacting in uveitis. Ref: Parson's diseases of the eye, 21st edition, page no: 230",
     "rationales": {},
     "paper": "paper-2",
@@ -70361,7 +70701,7 @@ window.OpenPharmacyQuestions = [
         "Tadalafil"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "AlprostadilQ contains naturally occurring prostaglandin E and, hence has vasodilator action. It can be injected into corpora cavernosa or administered intraurethrally. The firm erection is produced within 2 to 3 minutes and may last for 1 hour. Other injectable medications for erectile dysfunction include: Papaverine Phentolamine",
     "rationales": {},
     "paper": "paper-2",
@@ -70406,8 +70746,8 @@ window.OpenPharmacyQuestions = [
         "Thrombosed haemorrhoids"
       ]
     ],
-    "answer": "A",
-    "explanation": "Injection sclerotherapy is the treatment of choice of internal hemorrhoids. It helps in reducing the size of the hemorrhoids and stop it from bleeding. A solution containing either quinine and urea or phenol is used as the sclerosing agent. Hemorrhoids are swollen veins around the anus and in the rectum that may protrude from the anus. Patients presents with itching, burning, pain, swelling, irritation and bleeding per rectum. Bleeding is bright red in colour and is associated with bowel movements. Ref:Bailey and Love's Sho Practise of Surgery, 24th Edition, Page 1255.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Internal haemorrhoids. Injection sclerotherapy is the treatment of choice of internal hemorrhoids. It helps in reducing the size of the hemorrhoids and stop it from bleeding. A solution containing either quinine and urea or phenol is used as the sclerosing agent. Hemorrhoids are swollen veins around the anus and in the rectum that may protrude from the anus. Patients presents with itching, burning, pain, swelling, irritation and bleeding per rectum. Bleeding is bright red in colour and is associated with bowel movements. Ref:Bailey and Love's Sho Practise of Surgery, 24th Edition, Page 1255.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70452,7 +70792,7 @@ window.OpenPharmacyQuestions = [
         "17 weeks"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "DMPA is effective for 13 weeks. It has grace period of 4 weeks, which means that this woman can get her next injection before completed 17 weeks. If she comes later than 17 weeks, then she will be given injection but will have to use backup for next 7 days, as injections would take time to become effective.",
     "rationales": {},
     "paper": "paper-2",
@@ -70497,8 +70837,8 @@ window.OpenPharmacyQuestions = [
         "Do a stellate ganglion block"
       ]
     ],
-    "answer": "D",
-    "explanation": "Thiopental slows the activity of your brain and nervous system. Thiopental is used to help you relax before you receive general anesthesia with an inhaled medication.Thiopental may be used for other purposes not listed in this medication guide.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Remove the needle. Thiopental slows the activity of your brain and nervous system. Thiopental is used to help you relax before you receive general anesthesia with an inhaled medication.Thiopental may be used for other purposes not listed in this medication guide.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70542,8 +70882,8 @@ window.OpenPharmacyQuestions = [
         "M. smegmatis"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: M. ulcerans.",
+    "answer": "C",
+    "explanation": "Source answer key: C. M. chelonae. Source answer key: M. ulcerans.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70585,8 +70925,8 @@ window.OpenPharmacyQuestions = [
         "20 days"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 5 days.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 10 days. Source answer key: 5 days.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70630,7 +70970,7 @@ window.OpenPharmacyQuestions = [
         "Hemangiopericytoma"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Cavernous hemangioma is the most common benign, intraconal tumor in adults. Hemangiopericytoma is also retrobulbar intraconal lesion found in adults but is a rare tumor Moreover owing to its tendency to invade the adjacent tissues, its margins are less distinct than cavernous hemangioma. Rest 2 options i.e. Dermoid and Capillary hemangiomas are primarily extraconal lesions.",
     "rationales": {},
     "paper": "paper-2",
@@ -70675,8 +71015,8 @@ window.OpenPharmacyQuestions = [
         "Diode"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Diode.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Nd : YAG laser. Source answer key: Diode.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70720,7 +71060,7 @@ window.OpenPharmacyQuestions = [
         "Thiopentone"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ketamine causes increase in BP.",
     "rationales": {},
     "paper": "paper-2",
@@ -70765,7 +71105,7 @@ window.OpenPharmacyQuestions = [
         "Sulphur"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "SMOKELESS gun powder: Single base: Nitrocellulose Double base: Nitrocellulose + Nitro-glycerine Triple base: Nitrocellulose + Nitroglycerine + Nitroguanidine",
     "rationales": {},
     "paper": "paper-2",
@@ -70810,8 +71150,8 @@ window.OpenPharmacyQuestions = [
         "Corticonuclear tract"
       ]
     ],
-    "answer": "C",
-    "explanation": "Desending (efferent) fibers passing through genu of internal cpsule are corticonuclear fibers.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Corticonuclear tract. Desending (efferent) fibers passing through genu of internal cpsule are corticonuclear fibers.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70855,8 +71195,8 @@ window.OpenPharmacyQuestions = [
         "Superficial Radial Nerve injury"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Median.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Radial. Source answer key: Median.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70900,8 +71240,8 @@ window.OpenPharmacyQuestions = [
         "Cerebral palsy"
       ]
     ],
-    "answer": "D",
-    "explanation": "Administration of dexamethasone before delivery: – Reduces the incidence and severity of intraventricular hemorrhage – Accelerates fetal lung maturation in preterm labour and prevents hyaline membrane disease. It should be given atleast 24 hours before delivery. Its effect lasts for 7 days therefore earlier it was said that repeat injections of betamethasone should be given weekly. Recent trials have shown that repeated injection lead to an increase in incidence of cerebral palsy therefore repeated injections are not given. Steroid of choice for lung maturity is Betamethasone. Dose = 2 doses of 12 mg of steroid (i.e., 3 ampules) are given i/m - 24 hours apart. Adverse effects of Dexamethason…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Respiratory distress syndrome. Administration of dexamethasone before delivery: – Reduces the incidence and severity of intraventricular hemorrhage – Accelerates fetal lung maturation in preterm labour and prevents hyaline membrane disease. It should be given atleast 24 hours before delivery. Its effect lasts for 7 days therefore earlier it was said that repeat injections of betamethasone should be given weekly. Recent trials have shown that repeated injection lead to an increase in incidence of cerebral palsy therefore repeated injections are not given. Steroid of choice for lung maturity is Betamethasone. Dose = 2 doses of 12 mg of steroid (i.e., 3 ampules) are given i/m - 24 hours apart. Adverse effects of Dexamethason…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -70945,8 +71285,8 @@ window.OpenPharmacyQuestions = [
         "Deafness"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Impotence.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Deafness. Source answer key: Impotence.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71033,8 +71373,8 @@ window.OpenPharmacyQuestions = [
         "Radial pulse"
       ]
     ],
-    "answer": "C",
-    "explanation": "Signs of mild or moderate dehydration include: Thirst ,Dry or sticky mouth. Signs of severe dehydration include: Not peeing or having very dark yellow pee. Very dry skin. Feeling dizzy. Rapid heabeat. Rapid breathing. Sunken eyes. Sleepiness, lack of energy, confusion or irritability. Fainting. Reference: GHAI Essential pediatrics, 8th edition",
+    "answer": "D",
+    "explanation": "Source answer key: D. Radial pulse. Signs of mild or moderate dehydration include: Thirst ,Dry or sticky mouth. Signs of severe dehydration include: Not peeing or having very dark yellow pee. Very dry skin. Feeling dizzy. Rapid heabeat. Rapid breathing. Sunken eyes. Sleepiness, lack of energy, confusion or irritability. Fainting. Reference: GHAI Essential pediatrics, 8th edition",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71078,8 +71418,8 @@ window.OpenPharmacyQuestions = [
         "80% black powder + 20% smokeless powder"
       ]
     ],
-    "answer": "C",
-    "explanation": "Semi-smokeless powder: It consists of a mixture of 80% black and 20% smokeless type Gunpowders: Black powder: It produces flame, smoke, and heat, and consists of granular ingredients, like sulfur, charcoal, and saltpeter (potassium nitrate) Smokeless powder: It is more effective than black powder as it burns more efficiently and produces much less smoke, resulting in less blackening and tattooing around the entry wound. Ref - Krishnan Vij 5th edition pg 238-240",
+    "answer": "D",
+    "explanation": "Source answer key: D. 80% black powder + 20% smokeless powder. Semi-smokeless powder: It consists of a mixture of 80% black and 20% smokeless type Gunpowders: Black powder: It produces flame, smoke, and heat, and consists of granular ingredients, like sulfur, charcoal, and saltpeter (potassium nitrate) Smokeless powder: It is more effective than black powder as it burns more efficiently and produces much less smoke, resulting in less blackening and tattooing around the entry wound. Ref - Krishnan Vij 5th edition pg 238-240",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71123,7 +71463,7 @@ window.OpenPharmacyQuestions = [
         "Arginine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "In maple syrup urine disease there is the excretion of branched chain amino acids (isoleucine, leucine, valine) and their keto acids (α -keto β-methyl valerate, α-ketoisocaproate, α-ketoisovalerate) in the urine.",
     "rationales": {},
     "paper": "paper-2",
@@ -71166,8 +71506,8 @@ window.OpenPharmacyQuestions = [
         "Growth Hormone ↓, Glucagon ↓, Epinephrine ↑"
       ]
     ],
-    "answer": "B",
-    "explanation": "Large dose of insulin injection will cause hypoglycaemia. Hypoglycemia triggers increased secretion of at least four counterregulatory hormones: glucagon, epinephrine, growth hormone, and coisol. Insulin inhibits glucagon secretion, so low blood glucose has an indirect effect on glucagon secretion through removal of inhibition by insulin. Circulating catecholamines stimulate secretion of glucagon b2-adrenergic receptors Even mild hypoglycaemia is sensed by the CNS, which triggers a central sympathetic response. Glucagon and epinephrine increase the hepatic output of glucose by increasing glycogenolysis. The keys to counter-regulation appear to be glucagon>epinephrine Plasma glucose levels at…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Growth Hormone ↑, Glucagon ↑, Epinephrine ↑. Large dose of insulin injection will cause hypoglycaemia. Hypoglycemia triggers increased secretion of at least four counterregulatory hormones: glucagon, epinephrine, growth hormone, and coisol. Insulin inhibits glucagon secretion, so low blood glucose has an indirect effect on glucagon secretion through removal of inhibition by insulin. Circulating catecholamines stimulate secretion of glucagon b2-adrenergic receptors Even mild hypoglycaemia is sensed by the CNS, which triggers a central sympathetic response. Glucagon and epinephrine increase the hepatic output of glucose by increasing glycogenolysis. The keys to counter-regulation appear to be glucagon>epinephrine Plasma glucose levels at…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71211,8 +71551,8 @@ window.OpenPharmacyQuestions = [
         "60 mg iron & 100 micro gram folic acid"
       ]
     ],
-    "answer": "D",
-    "explanation": "National nutritional anemia prophylaxis programme is based on daily administration of Iron & folic acid tablets to maintain rural child health. For anemia prophylaxis FOLIEFER tablets with 20 mg elemental iron and 100 microgram folic acid are given to children for 3 months. For treatment upto 6 mg/kg elemental iron should be given for 3 months.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 20 mg iron & 100 micro gram folic acid. National nutritional anemia prophylaxis programme is based on daily administration of Iron & folic acid tablets to maintain rural child health. For anemia prophylaxis FOLIEFER tablets with 20 mg elemental iron and 100 microgram folic acid are given to children for 3 months. For treatment upto 6 mg/kg elemental iron should be given for 3 months.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71256,8 +71596,8 @@ window.OpenPharmacyQuestions = [
         "Respiratory tract"
       ]
     ],
-    "answer": "A",
-    "explanation": "The respiratory tract is a common portal of entry to such airborne organisms as M. tuberculosis. This is why respiratory precautions must be taken when patients are harboring viable M. tuberculosis. The GI tract is usually infected from ingestion of contaminated food or water (Shigella, Salmonella, and Campylobacter) or by an alteration of the normal microbial flora such as with C. difficile disease. The genital tract may become infected either by sexual contact or by alteration of the genital environment, as often occurs with yeast infections. Several bacteria such as N. gonorrhoeae, Chlamydia, and T. pallidum are transmitted by direct sexual contact with infected partners.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Genitourinary tract. The respiratory tract is a common portal of entry to such airborne organisms as M. tuberculosis. This is why respiratory precautions must be taken when patients are harboring viable M. tuberculosis. The GI tract is usually infected from ingestion of contaminated food or water (Shigella, Salmonella, and Campylobacter) or by an alteration of the normal microbial flora such as with C. difficile disease. The genital tract may become infected either by sexual contact or by alteration of the genital environment, as often occurs with yeast infections. Several bacteria such as N. gonorrhoeae, Chlamydia, and T. pallidum are transmitted by direct sexual contact with infected partners.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71299,7 +71639,7 @@ window.OpenPharmacyQuestions = [
         "Clomiphene"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Spermicidal agents provide a physical barrier to sperm penetration and a chemical spermicidal action. Active ingredient is nonoxynol-9 or octoxynol-9. Spermicides must be deposited high in the vagina in contact with the cervix sholy before intercourse. Duration of maximal effectiveness is usually no more than 1 hour. Therefore, they must be reinseed before repeat intercourse.",
     "rationales": {},
     "paper": "paper-2",
@@ -71342,7 +71682,7 @@ window.OpenPharmacyQuestions = [
         "Gangioneuroma"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "NF2 is associated with bilateral vestibular schwannomas and hearing loss benign tumors usually originate from perineural fibroblasts. intracranial schwannomas originate from vestibular branch of eighth cranial nerve. Malignant schwannomas although rare, are treated with radiation therapy, if the curative resection is not possible. C/F :- SNHL (M/C) presentation Tinnitus Veigo/Dizziness MRI shows - ice cream cone appearance - depicting b/l vestibular schwannomas",
     "rationales": {},
     "paper": "paper-2",
@@ -71385,8 +71725,8 @@ window.OpenPharmacyQuestions = [
         "Sjogrens"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Sjogrens.",
+    "answer": "A",
+    "explanation": "Source answer key: A. SLE. Source answer key: Sjogrens.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71430,8 +71770,8 @@ window.OpenPharmacyQuestions = [
         "Engorgement of epidural veins contributed to inadvertent intravascular injection of local anaesthetic"
       ]
     ],
-    "answer": "B",
-    "explanation": "In pregnancy, CSF volume is decreased, thereby decreasing dose requirement of local anaesthetic. This facilitates spread of local anaesthetic when spinal anaesthesia is given. Option D would have been correct, if question mentioned Epidural anaesthesia.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Decrease in volume of CSF in subarachnoid space facilitated higher spread of local anaesthetics. In pregnancy, CSF volume is decreased, thereby decreasing dose requirement of local anaesthetic. This facilitates spread of local anaesthetic when spinal anaesthesia is given.  would have been correct, if question mentioned Epidural anaesthesia.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71518,7 +71858,7 @@ window.OpenPharmacyQuestions = [
         "Pseudomyxoma peritonei"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Here note that the serum peak oestradiol is very high and she had received an injection as a pa of her treatment for infeility which may have been human chorionic gonadotropin. This resulted in ovarian hyperstimulation syndrome. In Budd Chiari syndrome or Meigs syndrome oestradiol need not be this high. Note that thromboembolic complication may ensue ovarian hyperstimulation syndrome. Risk factors for ovarian hyperstimulation syndrome Age>35 years Asthenic habitus Pregnancy PCOS Serum oestradiol > 4000 pg/ml Luteal phase hcg stimulation >35 follicles Ref: Oxfords Handbook of clinical specialities, 8th Edition, Page 311",
     "rationales": {},
     "paper": "paper-2",
@@ -71563,7 +71903,7 @@ window.OpenPharmacyQuestions = [
         "Brown"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Sulfur granules in Actinomyces exhibit white to yellow color.",
     "rationales": {},
     "paper": "paper-2",
@@ -71606,8 +71946,8 @@ window.OpenPharmacyQuestions = [
         "Bupivacaine 0.5% + Lidocaine 2.5%"
       ]
     ],
-    "answer": "A",
-    "explanation": "EMLA is eutectic mixture of local anesthetics (2.5% lidocaine and 2.5% prilocaine)",
+    "answer": "B",
+    "explanation": "Source answer key: B. Lidocaine 2.5% + Priocaine 2.5%. EMLA is eutectic mixture of local anesthetics (2.5% lidocaine and 2.5% prilocaine)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71649,8 +71989,8 @@ window.OpenPharmacyQuestions = [
         "Isoprenaline"
       ]
     ],
-    "answer": "A",
-    "explanation": "Succinylcholine is the only muscle relaxant, which stimulates vagus → Bradycardia.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Succinyl choline. Succinylcholine is the only muscle relaxant, which stimulates vagus → Bradycardia.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71694,7 +72034,7 @@ window.OpenPharmacyQuestions = [
         "Aripiprazone"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Fluphenazine is an anti depressant that is also available as a depot preparation. REF KD TRIPATHI 8TH ED.",
     "rationales": {},
     "paper": "paper-2",
@@ -71739,8 +72079,8 @@ window.OpenPharmacyQuestions = [
         "Methenamine silver stain"
       ]
     ],
-    "answer": "A",
-    "explanation": "Negative staining with India ink or Nigrosine are used to stain the capsule of Cryptococcus neoformans in CSF or blood.",
+    "answer": "B",
+    "explanation": "Source answer key: B. India ink preparation. Negative staining with India ink or Nigrosine are used to stain the capsule of Cryptococcus neoformans in CSF or blood.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71784,8 +72124,8 @@ window.OpenPharmacyQuestions = [
         "Immune complex Hypersensitivity"
       ]
     ],
-    "answer": "D",
-    "explanation": "There are two clinical pictures that can result from penicillin allergy, namely acute (Type I) and sub-acute reactions (Type II) mediated by IgE and IgG antibodies respectively. The acute allergic reaction arises immediately or rapidly within minutes to an hour or two and includes sudden anaphylaxis with hypotension, bronchospasm, angioedema and uicaria. Acute reactions result from reaction with preformed IgE to penicillin as a result of previous exposure. A less dramatic picture may occur 7 to 10 days after penicillin treatment stas or 1-2 days after repeat therapy. In this setting, the picture is sub-acute and can include uicaria, fever and ahralgias or ahritis. The sub-acute reaction is c…",
+    "answer": "A",
+    "explanation": "Source answer key: A. IgG Hypersensitivity. There are two clinical pictures that can result from penicillin allergy, namely acute (Type I) and sub-acute reactions (Type II) mediated by IgE and IgG antibodies respectively. The acute allergic reaction arises immediately or rapidly within minutes to an hour or two and includes sudden anaphylaxis with hypotension, bronchospasm, angioedema and uicaria. Acute reactions result from reaction with preformed IgE to penicillin as a result of previous exposure. A less dramatic picture may occur 7 to 10 days after penicillin treatment stas or 1-2 days after repeat therapy. In this setting, the picture is sub-acute and can include uicaria, fever and ahralgias or ahritis. The sub-acute reaction is c…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71829,8 +72169,8 @@ window.OpenPharmacyQuestions = [
         "Type 6 collagen."
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Type 1 collagen..",
+    "answer": "B",
+    "explanation": "Source answer key: B. Type 2 collagen.. Source answer key: Type 1 collagen..",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -71917,7 +72257,7 @@ window.OpenPharmacyQuestions = [
         "Poly-D-glutamic acid"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ref: Ananthanarayan, Paniker CJ. Textbook of Microbiology. 6th Ed, London: John Wiley & Sons: 2000. & Prescott LM. Microbiology. 5th Ed. London: McGraw-Hill: 2002.Explanation:Capsules usually are composed of polysaccharides, but they may be constructed ot other materials.But, Bacillus anthracis has a capsule of poly-D- glutamic acid (polypeptide).Capsules and Slime LayersSome bacteria have a layer of material lying outside the cell wall.When the layer is well organized and not easily washed off. it is called a capsule.A slime layer is a zone of diffuse, unorganized material that is removed easily.Capsules and slime layers usually are composed of polysaccharides, but they may be constructed o…",
     "rationales": {},
     "paper": "paper-2",
@@ -71962,7 +72302,7 @@ window.OpenPharmacyQuestions = [
         "Strangulated hemorrhoids"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "It is ideal for first-degree internal hemorrhoids which bleed and for early second-degree internal hemorrhoids, injecting sclerosant will produce fibrosis in the submucosal region (sclerosis leading to mucosal fixation on to deeper planes and occlusion of lakes) thereby fixes the cushion which does not prolapse, causes strengthening of the vessel wall and obliteration of the vessel lumen it is done on op basis and gives 95% cure rate in the first-degree prolapse , it&;s a painless procedure and results are quick for prolapsed piles stapled haemorrhoidectomy is preferred, for external piles excision is done, for strangulated haemorrhoidectomy conservative management by sitz bath after 5days h…",
     "rationales": {},
     "paper": "paper-2",
@@ -72007,7 +72347,7 @@ window.OpenPharmacyQuestions = [
         "Nitrocellulose and nitroglycerin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Nitrocellulose and nitroglycerin(Ref: Review of Forensic Medicine & toxicology; Gautum Biswas; 2nd edition; Pg-215)BLACK gunpowder: Potassium nitrate (75%), Charcoal (15%) & Sulfur (10%)SMOKELESS gun powder:Single base: NitrocelluloseDouble base: Nitrocellulose + NitroglycrineTriple base: Nitrocellulose + Nitroglycerine + NitroguanidineSEMISMOKELESS gunpowder: 80% black & 20% smokeless gunpowder.",
     "rationales": {},
     "paper": "paper-2",
@@ -72052,7 +72392,7 @@ window.OpenPharmacyQuestions = [
         "H+"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Active component responsible for the disinfecting propey A bleaching powder is hypochlorous acid ref baveja microbiology",
     "rationales": {},
     "paper": "paper-2",
@@ -72097,7 +72437,7 @@ window.OpenPharmacyQuestions = [
         "Upper lateral quadrant of gluteal region"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Inseion of needle at upper lateral quadrant of gluteal region doesn't injure nerves Needle inseion at lower medial quadrant damages sciatic and pudendal nerves Needle inseion at sacrospinous ligament damages pudendal nerves and vessels Needle inseion at the midway between ischial tuberosity and lesser trochanter damages sciatic nerve, posterior femoral cutaneous nerves. Ref: Gray's Anatomy The Anatomical Basics of Clinical Practice 41 e pg 1373.",
     "rationales": {},
     "paper": "paper-2",
@@ -72142,7 +72482,7 @@ window.OpenPharmacyQuestions = [
         "98%"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "\"SPF 15\" means that 1/15th of the burning radiation reaches the skin through the recommended thickness of sunscreen SPF 15 sunscreens filter out about 93% of UVB rays, while SPF 30 sunscreens filter out about 97%, SPF 50 sunscreens about 98% Ref: https://en.m.wikipedia.org/wiki/Sunscreen",
     "rationales": {},
     "paper": "paper-2",
@@ -72187,7 +72527,7 @@ window.OpenPharmacyQuestions = [
         "Skeletal muscle spasms"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ref-KDT 6/e p93 Botulinum toxin inteeres with the release of ACh and thus acts as a parasympatholytic agent. Bronchospasm and diarrhoea are the symptoms of muscarinic stimulation whereas muscle spasms may be seen on nicotinic. stimulation. Cholinergic drugs cause cyclospasm whereas anticholinergics result in cycloplegia.",
     "rationales": {},
     "paper": "paper-2",
@@ -72277,7 +72617,7 @@ window.OpenPharmacyQuestions = [
         "Alkaline compounds"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "All the denture cleansing powders and tablets contain detergent, flavouring agent, alkaline compounds and sodium perborate. The main component is sodium perborate. It decomposes in water to form a peroxide solution which inturn breaks down to liberate oxygen. These oxygen bubbles are the ones that remove the debri on the denture surface. Phillip’s 12th edition page 494",
     "rationales": {},
     "paper": "paper-2",
@@ -72323,8 +72663,8 @@ window.OpenPharmacyQuestions = [
         "They are more dense and prismatic in shape"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: They are more regular in shape and highly porous.",
+    "answer": "C",
+    "explanation": "Source answer key: C. They are more irregular in shape and porous. Source answer key: They are more regular in shape and highly porous.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -72368,7 +72708,7 @@ window.OpenPharmacyQuestions = [
         "Morphine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "* Prodrugs are the drugs which are inactive and are activated in the body. * Enalapril is an ACE inhibitor and is a prodrug. * Impoant examples of prodrugs include: All ACE inhibitors (except captopril and lisinopril) Prefer Prednisone Proton pump inhibitors Proguanil Doing Dipivefrine M Mercaptopurine Methyldopa Minoxidil D Levo-Dopa In Irinotecan Clinical Cyclophosphamide Clopidogrel Carbimazole Subjects Sulfasalazine",
     "rationales": {},
     "paper": "paper-2",
@@ -72413,8 +72753,8 @@ window.OpenPharmacyQuestions = [
         "Lateral side"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans- B Gray's anatomy 3rd edition: The interphalangeal joints of the hand are hinge joints that allow mainly flexion and extension. They are reinforced by medial and lateral collateral ligaments and palmar ligaments.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Dorsal side. Ans- B Gray's anatomy 3rd edition: The interphalangeal joints of the hand are hinge joints that allow mainly flexion and extension. They are reinforced by medial and lateral collateral ligaments and palmar ligaments.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -72458,8 +72798,8 @@ window.OpenPharmacyQuestions = [
         "Ventrogluteal."
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Ventrogluteal..",
+    "answer": "A",
+    "explanation": "Source answer key: A. Vastus lateralis. Source answer key: Ventrogluteal..",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -72503,8 +72843,8 @@ window.OpenPharmacyQuestions = [
         "800 mg"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 800 mg.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 100 mg. Source answer key: 800 mg.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -72548,7 +72888,7 @@ window.OpenPharmacyQuestions = [
         "20 days"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "<p> yellow fever vaccine:- 17 D vaccine Live attenuated prepared from a non virulent strain (17D strain). Administered subcutaneously at the inseion of deltoid . Single dose 0.5 ml irrespective of age. Revaccination after 10 years. Storage: +5 to -30 deg celcius. Yellow fever vaccine production centre in India- central research institute, kasauli. Protection offered after 10 days of injection. {Reference: park&;s textbook of preventive and social medicine, 23rd edition, pg no.283}</p",
     "rationales": {},
     "paper": "paper-2",
@@ -72593,7 +72933,7 @@ window.OpenPharmacyQuestions = [
         "projection fibres"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Projection Fibres- These are fibres which connect the cerebral coex to other pas of the CNS, e.g.1) the brainstem and spinal cord. Many important tracts, e.g.2) coicospinal and coicopontine are made up of projection fibres. Ref : B D Chaurasia's Human Anatomy , seventh edition , volume 4, pg . no., 145.",
     "rationales": {},
     "paper": "paper-2",
@@ -72638,7 +72978,7 @@ window.OpenPharmacyQuestions = [
         "Respiratory Distress Syndrome"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Antenatal maternal steroid injection at < 32weeks gestation is associated with a 60% reduction in the risk of respiratory distress syndrome. In such cases 12 mg betamethasone is given intramuscularly in 2 doses 24 hours apa. Steroids act on type II pneumocyte and stimulate surfactant synthesis. Ref: Textbook of gynecology by D C Dutta 4th Edition, Page 474-5 ; Obstetrics and Gynaecology By Sarabatnam Arulkumaran, Page 351.",
     "rationales": {},
     "paper": "paper-2",
@@ -72728,7 +73068,7 @@ window.OpenPharmacyQuestions = [
         "Bupivacaine"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": ") BupivacaineBupivacaineBupivacaine is typically used in painless labor.It is long-acting and an amide local anesthetic.It is injected outside the duramater.The most important complication is accidental intravenous administration of the drug.This can be prevented by slow administration in 3-5 mL increments gradually to watch out for the side effects related to intravenous administration.Bupivacaine binds to the sodium channels more strongly, especially those in the bundle of His, when compared to local anesthetics.This can result in significant cardiac arrhythmias, which present as palpitations and hypotension.Concentrations of 0.125 % and 0.25 % are used in painless labor; 0.75 % is absolut…",
     "rationales": {},
     "paper": "paper-2",
@@ -72773,8 +73113,8 @@ window.OpenPharmacyQuestions = [
         "Motor fibres from trunk"
       ]
     ],
-    "answer": "D",
-    "explanation": "Fibres travelling from the ventral posterior nuclei of the thalamus to the somatosensory area (in the postcentral gyrus) constitute the superior thalamic radiation. These fibres occupy the genu and posterior limb of the capsule. These fibres are third order sensory neurons responsible for conveying somesthetic sensations to the cerebral coex. Ref: Textbook of Human Neuroanatomy By Inderbir Singh, 7th edition, Page 230-231.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Sensory fibres from thalamus to brain. Fibres travelling from the ventral posterior nuclei of the thalamus to the somatosensory area (in the postcentral gyrus) constitute the superior thalamic radiation. These fibres occupy the genu and posterior limb of the capsule. These fibres are third order sensory neurons responsible for conveying somesthetic sensations to the cerebral coex. Ref: Textbook of Human Neuroanatomy By Inderbir Singh, 7th edition, Page 230-231.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -72818,8 +73158,8 @@ window.OpenPharmacyQuestions = [
         "Valine"
       ]
     ],
-    "answer": "C",
-    "explanation": "Some amino acids (isoleucine, tryptophan, phenylalanine, and tyrosine) are both glucogenic and ketogenic because their degradation pathway forms multiple products.a. Amino acids that are converted to pyruvate (see Figure I).(1). The amino acids that are synthesized from the intermediates of glycolysis (serine, glycine, cysteine, and alanine) are degraded to form pyruvate.(a). Serine is converted to 2-phosphoglycerate, an intermediate of glycolysis, or directly to pyruvate and NH4+ by serine dehydratase, an enzyme that requires PLP.(b). Glycine, in a reversal of the reaction utilized for its synthesis, reacts with methylene-FH4 to form serine.1. Glycine also reacts with FH4 and NAD+ to produc…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Valine. Some amino acids (isoleucine, tryptophan, phenylalanine, and tyrosine) are both glucogenic and ketogenic because their degradation pathway forms multiple products.a. Amino acids that are converted to pyruvate (see Figure I).(1). The amino acids that are synthesized from the intermediates of glycolysis (serine, glycine, cysteine, and alanine) are degraded to form pyruvate.(a). Serine is converted to 2-phosphoglycerate, an intermediate of glycolysis, or directly to pyruvate and NH4+ by serine dehydratase, an enzyme that requires PLP.(b). Glycine, in a reversal of the reaction utilized for its synthesis, reacts with methylene-FH4 to form serine.1. Glycine also reacts with FH4 and NAD+ to produc…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -72908,8 +73248,8 @@ window.OpenPharmacyQuestions = [
         "Periodontal membrane"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Gubernacular cords.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Periodontal membrane. Source answer key: Gubernacular cords.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -72996,8 +73336,8 @@ window.OpenPharmacyQuestions = [
         "Do a stellate ganglion block"
       ]
     ],
-    "answer": "D",
-    "explanation": "Treatment of accidental intra-arterial injection of thiopentone is: Immediately stop the further injection. Leave the needle at the site. Inject heparin through this needle. Inject papaverine through this needle. If vasodilators like papaverine are not available, xylocaine can be used. Brachial plexus or stellate ganglion block should be done to relieve vasospasm.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Remove the needle. Treatment of accidental intra-arterial injection of thiopentone is: Immediately stop the further injection. Leave the needle at the site. Inject heparin through this needle. Inject papaverine through this needle. If vasodilators like papaverine are not available, xylocaine can be used. Brachial plexus or stellate ganglion block should be done to relieve vasospasm.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -73041,8 +73381,8 @@ window.OpenPharmacyQuestions = [
         "Etanercept"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Phenylbutazone.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Etanercept. Source answer key: Phenylbutazone.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -73084,8 +73424,8 @@ window.OpenPharmacyQuestions = [
         "Cardiac stimulation"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Release of noradrenaline from adrenergic nerve endings.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Agonistic action on vascular α2 adrenergic receptors. Source answer key: Release of noradrenaline from adrenergic nerve endings.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -73129,7 +73469,7 @@ window.OpenPharmacyQuestions = [
         "Visceral leishmaniasis"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The topical application cream which is useful in the treatment of hirsutism and acts by inhibiting ornithine decarboxylase enzyme is Eflornithine hydrochloride. The same active molecule is useful in the treatment of West African trypanosomiasis. Treatment options for African trypanosomiasis (sleeping sickness): Treatment options for Chagas' disease: Nifuimox or Benznidazole Treatment options for Kala Azar/Visceral Leishmaniasis : Liposomal Amphotericin B Or Sodium Stibogluconate Or Paromomycin Or Miltefosine (only effective oral drug for visceral leishmaniasis)",
     "rationales": {},
     "paper": "paper-2",
@@ -73172,8 +73512,8 @@ window.OpenPharmacyQuestions = [
         "Trituration"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Trituration.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Condensation. Source answer key: Trituration.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -73217,8 +73557,8 @@ window.OpenPharmacyQuestions = [
         "Nickel carbide"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Nickel carbide.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Chromium carbide. Source answer key: Nickel carbide.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -73260,8 +73600,8 @@ window.OpenPharmacyQuestions = [
         "Hydrogen peroxide"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Hydrogen peroxide.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Sodium hypochlorite. Source answer key: Hydrogen peroxide.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutics",
@@ -73305,7 +73645,7 @@ window.OpenPharmacyQuestions = [
         "Histidine, Leucine, Valine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Valine, Leucine, Isoleucine",
     "rationales": {},
     "paper": "paper-2",
@@ -74324,8 +74664,8 @@ window.OpenPharmacyQuestions = [
         "Chloromycetin"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Chloromycetin.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Rifampicin. Source answer key: Chloromycetin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -74410,7 +74750,7 @@ window.OpenPharmacyQuestions = [
         "Cefepime"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "First-Generation Cephalosporins: include - Cefazolin, Cephalexin, Cephradine, Cefadroxil, Cephalothin and Cephapirin Cefazolin is good for skin preparation as it is active against skin infections from S.pyogenes and MRSA. It is administered Intramuscular or Intravenous (i.e Parenteral drug).It is a drug of choice for surgical prophylaxis.Cefazolin does not penetrate the CNS and cannot be used to treat meningitis. Cefazolin is better tolerated than Antistaphylococcal Penicillins, and it has been shown to be effective for serious Staphylococcal infections e.g Bacteremia. Oral First generation drugs may be used for the treatment of urinary tract infections and Staphylococcal or Streptococcal in…",
     "rationales": {},
     "paper": "paper-2",
@@ -74453,8 +74793,8 @@ window.OpenPharmacyQuestions = [
         "ATP citrate lyase"
       ]
     ],
-    "answer": "A",
-    "explanation": "Reference: Harpers illustrated biochemistry 30th edition",
+    "answer": "B",
+    "explanation": "Source answer key: B. Citrate synthase. Reference: Harpers illustrated biochemistry 30th edition",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -74584,8 +74924,8 @@ window.OpenPharmacyQuestions = [
         "Inhibition of apoptosis"
       ]
     ],
-    "answer": "C",
-    "explanation": "- Recent studies indicate that erythropoietin promotes survival of early erythroid progenitor cells through inhibition of default apoptosis pathway. - Thus, this hormone rescues stem cells that are otherwise fated to undergo programmed cell death. - None of the other choices are known to control the expansion of hematopoietic stem cell colonies in bone marrow.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Inhibition of apoptosis. - Recent studies indicate that erythropoietin promotes survival of early erythroid progenitor cells through inhibition of default apoptosis pathway. - Thus, this hormone rescues stem cells that are otherwise fated to undergo programmed cell death. - None of the other choices are known to control the expansion of hematopoietic stem cell colonies in bone marrow.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -74627,7 +74967,7 @@ window.OpenPharmacyQuestions = [
         "Epinephrine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Melatonin and serotonin are derivatives of Tryptophan.",
     "rationales": {},
     "paper": "paper-2",
@@ -74670,7 +75010,7 @@ window.OpenPharmacyQuestions = [
         "Alanine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The two staing materials of heme synthesis pathway are succinyl CoA and glycine. Pyridoxal phosphate is needed to activate glycine. ALA synthase catalyzes the conversion of succinyl CoA and glycine to delta aminolevulinate. This is the rate limiting enzyme in porphyrin biosynthesis in the mammalian liver. Synthesis of ALA occurs in mitochondria. Last 3 steps of heme synthesis occur in the cytoplasm. The 3 enzymes which catalyse the reactions in cytoplasm are ferrochelatase, protoporphyrinogen oxidase and coproporphyrinogen oxidase. Coproporphyrinogen oxidase catalyze conversion of coproporphyrinogen III to protoporphyrinogen III. Protoporphyrinogen oxidase catalyze conversion of protoporphyr…",
     "rationales": {},
     "paper": "paper-2",
@@ -74756,7 +75096,7 @@ window.OpenPharmacyQuestions = [
         "Endosomes"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Synthesis of proteins are based on the grnic information present on the DNA which is transcribef into the mRNA nucleotide sequence and then translated to the amino acid sequence of the polypeptide chain. The mRNA encodes the information,tge tRNA transposthe aminoacids and ribosomes provide the platform for the protein synthesizing machinery .Transfer RNA and ribosomal RBA are transcribed from specific genes on DNA by RNA polymerases Reference:FM.VASUDEVAN Textbook SEVENTH EDITION ,Page no: 597",
     "rationales": {},
     "paper": "paper-2",
@@ -74887,7 +75227,7 @@ window.OpenPharmacyQuestions = [
         "Fat"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Rough endoplasmic reticulum is concerned with Protein synthesis* Initial folding of the polypeptide chains with the formation of disulfide bonds Smooth endoplasmic reticulum is concerned with Steroid synthesis * Detoxication processes As sarcoplasmic reticulum plays important role in skeletal and cardiac muscle contraction *",
     "rationales": {},
     "paper": "paper-2",
@@ -74932,7 +75272,7 @@ window.OpenPharmacyQuestions = [
         "Azithromycin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Gonococcal Infections For gonococcal urethritis: DOC is ceftriaxone For non gonococcal urethritis: DOC is AZITHROMYCIN It is used in combination with ceftriaxone in both gonococcal & non gonococcal urethritis AZITHROMYCIN (Single dose is enough)",
     "rationales": {},
     "paper": "paper-2",
@@ -74975,8 +75315,8 @@ window.OpenPharmacyQuestions = [
         "Sixth pharyngeal arch"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: First pharyngeal arch.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Third pharyngeal arch. Source answer key: First pharyngeal arch.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75018,7 +75358,7 @@ window.OpenPharmacyQuestions = [
         "Stomach"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "HUMAN EMBRYOLOGY-INDERBIR SINGH TENTH EDITION-PAGE NO:188Caecum and appendixThe caecal bud is a diveiculum that arises from the post aerial segment of the midgut Loop. The caecum and appendix are formed by the enlargement of this bud. The proximal pa of the bud grows rapidly to form the caecum. Its distal pa remains narrow and forms the appendix",
     "rationales": {},
     "paper": "paper-2",
@@ -75061,8 +75401,8 @@ window.OpenPharmacyQuestions = [
         "7-dehydrocholesterol"
       ]
     ],
-    "answer": "A",
-    "explanation": "Vitamin D from the skin or diet is metabolized primarily in the liver to 25-hydroxyvitamine D3. 25D is the 'storage' form of vitamin D and is used to determine the vitamin D status of individuals. The last and rate limiting step in the synthesis of 'active' 1,25D is catalyzed by the mitochondrial enzyme 1 hydroxylase and is conventionally known to take place in kidneys.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 1, 25-dihydroxycholecalciferol. Vitamin D from the skin or diet is metabolized primarily in the liver to 25-hydroxyvitamine D3. 25D is the 'storage' form of vitamin D and is used to determine the vitamin D status of individuals. The last and rate limiting step in the synthesis of 'active' 1,25D is catalyzed by the mitochondrial enzyme 1 hydroxylase and is conventionally known to take place in kidneys.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75106,8 +75446,8 @@ window.OpenPharmacyQuestions = [
         "Golgi bodies"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Mitochondria.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Poly ribosomes. Source answer key: Mitochondria.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75149,8 +75489,8 @@ window.OpenPharmacyQuestions = [
         "Resmethrin"
       ]
     ],
-    "answer": "B",
-    "explanation": "park's textbook of preventive and social medicine 23rd edition *synthetic pyrethroids devoloped so far are tetramethrin,resethrin,prothrin and propahin *they are now being devoloped to replace natural pyrethrins some are found to be as much as 10ttimes as effective as naturally occuring pyrethrins .",
+    "answer": "C",
+    "explanation": "Source answer key: C. DDT. park's textbook of preventive and social medicine 23rd edition *synthetic pyrethroids devoloped so far are tetramethrin,resethrin,prothrin and propahin *they are now being devoloped to replace natural pyrethrins some are found to be as much as 10ttimes as effective as naturally occuring pyrethrins .",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75192,7 +75532,7 @@ window.OpenPharmacyQuestions = [
         "Ciprofloxacin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Dicloxacillin:- Anti - staphylococcal penicillin :- B lactamase resistant penicillin. Their use is restricted to the treatment of infection cause by penicillinase producing staphylococci including MSSA. Other drug of this class:- Methicillin Oxacillin Methicillin because of its toxicity (interstitial Nephritis), Methicillin is not used. Ampicillin/Amoxicillin:-Extended- Spectrum penicillin. More effective against gram -ve bacilli. Ampicillin is a drug of choice for gram positive bacilli : listeria monocytogenes Ceftazidime:-3rd gen cephalosporin, has activity against P. aeruginosa Ciprofloxacin: of the fluoroquinolone it has best activity against P. Aeruginosa and is commonly used in cystic…",
     "rationales": {},
     "paper": "paper-2",
@@ -75237,7 +75577,7 @@ window.OpenPharmacyQuestions = [
         "Paramomycin"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Poor bone penetration. - B lactams - Vancomycin - Aminoglycoside Good bone penetration (Higher concentration in Bone) * Tetracycline * Macrolide * Clindamycin",
     "rationales": {},
     "paper": "paper-2",
@@ -75323,8 +75663,8 @@ window.OpenPharmacyQuestions = [
         "Oprelvekin"
       ]
     ],
-    "answer": "A",
-    "explanation": "Darbopoietin is a Long acting EPO derivative drug. It has a T1/2 24-36 hrs. So it is given once a week. Epoietin has a half life of 6-10 hrs. Uses - Anemia of chronic renal failure(CRF) Anaemia in AIDS patients treated with Zidovudine. Cancer chemotherapy induced anaemia. Preoperative increased blood production for Autologous transfusion during surgery. Oprelvekin is recombinant Interleukin-11 analogue (eleven) Sargramostim is recombinant GM-CSF analogue",
+    "answer": "B",
+    "explanation": "Source answer key: B. Darbepoetin alfa. Darbopoietin is a Long acting EPO derivative drug. It has a T1/2 24-36 hrs. So it is given once a week. Epoietin has a half life of 6-10 hrs. Uses - Anemia of chronic renal failure(CRF) Anaemia in AIDS patients treated with Zidovudine. Cancer chemotherapy induced anaemia. Preoperative increased blood production for Autologous transfusion during surgery. Oprelvekin is recombinant Interleukin-11 analogue (eleven) Sargramostim is recombinant GM-CSF analogue",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75366,7 +75706,7 @@ window.OpenPharmacyQuestions = [
         "Phenylalanine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans:B.)Aspaic Acid Urea has 2 amino (-NH2) groups, one derived from NH3 and other from aspaate.UREA CYCLE* Location: Cytosol and mitochondria of hepatocytes.* Substrates: NH 3 (as derived from oxidative deamination of glutamate); CO2 ; aspaate; three ATP.* Products: Urea; fumarate; H2O.* Purpose: The urea cycle allows for the excretion of NH 4+ by transforming ammonia into urea, which is then excreted by the kidneys.* Impoant enzymes:Carbamoyl phosphate synthetase I: Conves ammonium and bicarbonate into carbamoyl phosphate. This is the rate-limiting step in the urea cycle. This reaction requires two ATP and occurs in the mitochondria.Ornithine transcarbamoylase: Combines ornithine and carbam…",
     "rationales": {},
     "paper": "paper-2",
@@ -75409,7 +75749,7 @@ window.OpenPharmacyQuestions = [
         "Mitochondrial 7 α hydroxylase."
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Microsomal 7 α hydroxylase (cholesterol 7 α hydroxylase) is the rate limiting enzyme of bile acid synthesis. This enzyme is expressed only in liver.",
     "rationales": {},
     "paper": "paper-2",
@@ -75452,8 +75792,8 @@ window.OpenPharmacyQuestions = [
         "Amoxicillin"
       ]
     ],
-    "answer": "C",
-    "explanation": "Antibiotics safe in pregnancy P - Penicillin C - Cephalosporin M - Macrolides Ciprofloxacin causes cailage and bone destruction Gentamycin causes hearing loss in fetus Cotrimoxazole contains sulfonamides which can cause kernicterus in the child",
+    "answer": "D",
+    "explanation": "Source answer key: D. Amoxicillin. Antibiotics safe in pregnancy P - Penicillin C - Cephalosporin M - Macrolides Ciprofloxacin causes cailage and bone destruction Gentamycin causes hearing loss in fetus Cotrimoxazole contains sulfonamides which can cause kernicterus in the child",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75497,8 +75837,8 @@ window.OpenPharmacyQuestions = [
         "Chloromycetin"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Chloromycetin.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Rifampicin. Source answer key: Chloromycetin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75540,7 +75880,7 @@ window.OpenPharmacyQuestions = [
         "Lower hyoid"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Lesser cornuRef: Inderbir Singh's Embroyology, 7th ed. /119-120Lesser cornu of hyoid is derived from 2nd branchial arch.1st Branchial arch2nd Branchial arch3rd Branchial arch4th Branchial arch6th Branchial arch* Malleus and Incus* Maxilla* Mandible* Muscle of mastication* Stapes* Upper half of body of hyoid* Lesser cornu of hyoid* Muscle of facial expression* Lower part of body of hyoid* Greater cornu of hyoid* Thymus* Stylopharyngeus* Upper thyroid cartilage* Cricothyroid muscle* Lower half of thyroid cartilage* Arytenoid, Cuneiform, Corniculate cartilage* All intrinsic laryngeal muscle except cricothyroidNerve: Mandibular branch of CN 5thFacial NerveGlossopharyngeal nerveVagus + Superior L…",
     "rationales": {},
     "paper": "paper-2",
@@ -75583,8 +75923,8 @@ window.OpenPharmacyQuestions = [
         "Endoderm of genital ridge"
       ]
     ],
-    "answer": "A",
-    "explanation": "The wall of the vagina from the lumen outwards consists firstly of the mucosa of non keratinized stratified squamous epithelium with an underlying lamina propria of connective tissue, secondly a layer of smooth muscle with bundles of circular fibers internal to longitudinal fibers, and thirdly an outer layer of connective tissue called the adventitia. ref - BDC 6e vol2 pg395",
+    "answer": "B",
+    "explanation": "Source answer key: B. Endoderm of urogenital sinus. The wall of the vagina from the lumen outwards consists firstly of the mucosa of non keratinized stratified squamous epithelium with an underlying lamina propria of connective tissue, secondly a layer of smooth muscle with bundles of circular fibers internal to longitudinal fibers, and thirdly an outer layer of connective tissue called the adventitia. ref - BDC 6e vol2 pg395",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75669,8 +76009,8 @@ window.OpenPharmacyQuestions = [
         "Glycine"
       ]
     ],
-    "answer": "C",
-    "explanation": "The pyrimidine synthesis is a similar process than that of Purines(Purines Synthesis). In the de novo synthesis of Pyrimidines, the ring issynthesized first and then it is attached to a ribose-phosphate to for a pyrimidinenucleotide. Pyrimidine rings are assembled from bicarbonate, aspaate, and Ammoni",
+    "answer": "D",
+    "explanation": "Source answer key: D. Glycine. The pyrimidine synthesis is a similar process than that of Purines(Purines Synthesis). In the de novo synthesis of Pyrimidines, the ring issynthesized first and then it is attached to a ribose-phosphate to for a pyrimidinenucleotide. Pyrimidine rings are assembled from bicarbonate, aspaate, and Ammoni",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75712,7 +76052,7 @@ window.OpenPharmacyQuestions = [
         "Erythromycin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Puromycin Structural analogue of tyrosinyl tRNA. Incorporated into nascent protein chains by a nonhydrolyzable peptide bond. Growing of the peptide bond is inhibited. Inhibits protein synthesis in both prokaryotes and eukaryotes Causes premature chain termination",
     "rationales": {},
     "paper": "paper-2",
@@ -75755,7 +76095,7 @@ window.OpenPharmacyQuestions = [
         "Peptidyl transferase"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans: d. Peptidyl transferase[Ref Harper 30th/422-24, 28th/359-66, 323; Lippincott 4th/438-42; Chatterjea & Shinde 7th/248-501Enzyme Required for TranslationAmino-acyl-t-RNA synthetase: Enzyme required for activation of amino acids, Peptide synthetase (peptidyl transferase)The NH2 of new aminoacyl t - RNA (AI) in 'A' site combine with the - COOH group of Met - t -RNA occupying the 'P' site. The reaction is catalyzed by peptidyl transferase\". \"Peptidases degrades proteins to amino acidsThe NH2 of new aminoacyl t - RNA (AI) in 'A' site combine with the - COOH group of Met - t -RNA occupying the 'P' site. The reaction is catalyzed by peptidyl transferase . `` peptidases degrades proteins to amin…",
     "rationales": {},
     "paper": "paper-2",
@@ -75798,7 +76138,7 @@ window.OpenPharmacyQuestions = [
         "K"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Vitamin D is really a hormone: Vitamin D is not strictly a vitamin since it can be synthesized in the skin, and under most conditions that is the major source of the vitamin. Only when sunlight exposure is inadequate is a dietary source required. ts main function is in the regulation of calcium absorption and homeostasis; most of its actions are mediated by way of nuclear receptors that regulate gene expression. It also has a role in regulating cell proliferation and differentiation. There is evidence that intakes considerably higher than are required to maintain calcium homeostasis reduce the risk of insulin resistance, obesity and the metabolic syndrome, as well as various cancers. Deficie…",
     "rationales": {},
     "paper": "paper-2",
@@ -75843,7 +76183,7 @@ window.OpenPharmacyQuestions = [
         "Histidine"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Synthesis of Heme The enzyme ALA synthase condenses glycine with succinyl CoA to form delta-aminolevulinic acid (ALA) (Chapter 21). It is the key enzyme of heme synthesis.Ref: DM Vasudevan - Textbook of Biochemistry, 6th edition, page no: 185",
     "rationales": {},
     "paper": "paper-2",
@@ -75886,7 +76226,7 @@ window.OpenPharmacyQuestions = [
         "Lipocoin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "(Ref: KDT 6/e p279) Coicosteroids induce the synthesis of lipocoins that inhibit the enzyme phospholipase A2.",
     "rationales": {},
     "paper": "paper-2",
@@ -75931,8 +76271,8 @@ window.OpenPharmacyQuestions = [
         "HbF"
       ]
     ],
-    "answer": "A",
-    "explanation": "Heme Synthesis. Heme is synthesized in a complex series of steps involving enzymes in the mitochondrion and in the cytosol of the cell (Figure 1). The first step in hemesynthesis takes place in the mitochondrion, with the condensation of succinyl CoA and glycine by ALA synthase to form 5-aminolevulic acid (ALA) Ref Robbins 9/e pg 413",
+    "answer": "B",
+    "explanation": "Source answer key: B. Thalassemia. Heme Synthesis. Heme is synthesized in a complex series of steps involving enzymes in the mitochondrion and in the cytosol of the cell (Figure 1). The first step in hemesynthesis takes place in the mitochondrion, with the condensation of succinyl CoA and glycine by ALA synthase to form 5-aminolevulic acid (ALA) Ref Robbins 9/e pg 413",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -75974,8 +76314,8 @@ window.OpenPharmacyQuestions = [
         "Pyridoxal phosphate"
       ]
     ],
-    "answer": "C",
-    "explanation": "Fe2+ and a-ketoglutrate are also needed in hydroxylation of proline for collagen synthesis.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Pyridoxal phosphate. Fe2+ and a-ketoglutrate are also needed in hydroxylation of proline for collagen synthesis.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -76017,7 +76357,7 @@ window.OpenPharmacyQuestions = [
         "Guanine"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Answer- (C) NorepinephrinePheochromocytoma can be localized using radioactive tracers including 131 I-or 123 l- metaiodobenzyl guanithidine (MIBG), 111 ln-somatostatin analogues, or 18 F-dopa (or dopamine) Positron-emission tomography (PET).",
     "rationales": {},
     "paper": "paper-2",
@@ -76060,8 +76400,8 @@ window.OpenPharmacyQuestions = [
         "Inhibition of iodide trapping mechanism"
       ]
     ],
-    "answer": "B",
-    "explanation": "Iodine metabolism within the thyroid can be regulated independently of TSH. This mechanism is important when plasma iodide levels are elevated (15-20-fold above normal) because this elevation inhibits the organic binding of iodine within the thyroid. This autoregulatory phenomenon consisting of inhibition of the organification of iodine by elevated circulating levels of iodide is known as the Wolff-Chaikoff effect. This effect lasts for a few days and is followed by the so-called escape phenomenon, at which point the organification of intra-thyroidal iodine resumes and the normal synthesis of T4 and T3 returns. Ref: Molina P.E. (2013). Chapter 4. Thyroid Gland. In P.E. Molina (Ed), Endocrine P…",
+    "answer": "C",
+    "explanation": "Source answer key: C. Inhibition of organic binding of iodide. Iodine metabolism within the thyroid can be regulated independently of TSH. This mechanism is important when plasma iodide levels are elevated (15-20-fold above normal) because this elevation inhibits the organic binding of iodine within the thyroid. This autoregulatory phenomenon consisting of inhibition of the organification of iodine by elevated circulating levels of iodide is known as the Wolff-Chaikoff effect. This effect lasts for a few days and is followed by the so-called escape phenomenon, at which point the organification of intra-thyroidal iodine resumes and the normal synthesis of T4 and T3 returns. Ref: Molina P.E. (2013). Chapter 4. Thyroid Gland. In P.E. Molina (Ed), Endocrine P…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -76103,8 +76443,8 @@ window.OpenPharmacyQuestions = [
         "V gene for lambda chain and C gene for kappa chain"
       ]
     ],
-    "answer": "D",
-    "explanation": "The genes for the synthesis of the entire heavy chain are present on human chromosome 14. Of the options given above, the only genes that are present on one chromosome are for the C (constant) regions of the heavy chains. Remember, the heavy chains determine the identity of the immunoglobulin isotypes: IgG, IgM, IgA, IgD, and IgE. The C gene for the gamma heavy chain is on chromosome 14 and the C gene for the kappa light chain gene is on chromosome 2. The V gene for the kappa light chain is on chromosome 2. The C gene for the epsilon heavy chain is on chromosome 14. The V gene for the lambda light chain gene is on chromosome 22. The C gene for the kappa light chain gene is on chromosome 2. R…",
+    "answer": "A",
+    "explanation": "Source answer key: A. C gene for gamma chain and C gene for alpha chain. The genes for the synthesis of the entire heavy chain are present on human chromosome 14. Of the options given above, the only genes that are present on one chromosome are for the C (constant) regions of the heavy chains. Remember, the heavy chains determine the identity of the immunoglobulin isotypes: IgG, IgM, IgA, IgD, and IgE. The C gene for the gamma heavy chain is on chromosome 14 and the C gene for the kappa light chain gene is on chromosome 2. The V gene for the kappa light chain is on chromosome 2. The C gene for the epsilon heavy chain is on chromosome 14. The V gene for the lambda light chain gene is on chromosome 22. The C gene for the kappa light chain gene is on chromosome 2. R…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -76146,7 +76486,7 @@ window.OpenPharmacyQuestions = [
         "Magnesium salts"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Carbetocin is a newer longer acting analogue of oxytocin . Now a days oxytocin use is reduced and this newer acting analogue is being used. Ref: katzung 12th ed, endocrinology.",
     "rationales": {},
     "paper": "paper-2",
@@ -76189,7 +76529,7 @@ window.OpenPharmacyQuestions = [
         "Oxacillin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ref Goodman Gilman 11/e p 1173 Doxycycline is a tetracycline that act by inhibiting protein synthesis Cefotetan and oxacillin are beta lactam antibiotics that act by inhibiting cell wall synthesis Ciprofloxacin is a Fluroquinolone that acts by inhibiting DNA gyrase",
     "rationales": {},
     "paper": "paper-2",
@@ -76234,7 +76574,7 @@ window.OpenPharmacyQuestions = [
         "Desaturase"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The biosynthesis of PUFAs involves the introduction of double bonds (desaturation) in the aliphatic chain of a fatty acid and the extension (elongation) by two carbon units, of the acyl chain. So, the biosynthetic pathway involves the alternate action of enzymes currently named desaturases and elongases. Fatty acid substrates are always in the form of thioesters of acyl carrier proteins (ACP), Coenzyme A (CoA) or esterified to phospholipidsDesaturation is an aerobic process utilizing molecular oxygen and reducing equivalents obtained from an electron transpo chain.The electron donor depends only on the subcellular location of the desaturase, being cytochrome b5 in the endoplasmic reticulum a…",
     "rationales": {},
     "paper": "paper-2",
@@ -76277,7 +76617,7 @@ window.OpenPharmacyQuestions = [
         "Interphase"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "During this phase, the cell copies its DNA in preparation for mitosis.There are three stages of interphaseG1 (Gap 1), in which the cell grows and functions normally. During this time, a high amount of protein synthesis occurs and the cell growsSynthesis (S), in which the cell duplicates its DNA ( semi-conservative replication).G2 (Gap 2), in which the cell resumes its growth in preparation for division.Ref: DM Vasudevan, 7th edition, page no: 582",
     "rationales": {},
     "paper": "paper-2",
@@ -76320,7 +76660,7 @@ window.OpenPharmacyQuestions = [
         "Chloromycetin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Rifampicin is an antimycobacterial drug which exes both intracellular and extracellular bactericidal activity by binding to and inhibiting mycobacterial DNA-dependent RNA polymerase blocking RNA synthesis. Ethambutol is a bacteriostatic against M tuberculosis. It acts by inhibiting arabinosyl transferases involved in cell wall synthesis, which probably inhibits the formation of arabinogalactan and lipoarabinomannan. Colchicine has antimitotic effects, arrests cell division in G1 by interfering with microtubule and spindle formation. Ref: Harrison's principles of internal medicine 18e chapter 168.",
     "rationales": {},
     "paper": "paper-2",
@@ -76363,8 +76703,8 @@ window.OpenPharmacyQuestions = [
         "The mitochondrial membrane permits permeation of acetyl CoA by active transpo"
       ]
     ],
-    "answer": "A",
-    "explanation": "Carnitine transfers fatty acids from cytosolic fatty acyl CoA to form mitochondrial fatty acyl CoA. The conversion of acetyl CoA to malonyl CoA occurs in the cytosol. Coenzyme A cannot pass through the inner mitochondrial membrane. Acetoacetyl CoA has to be conveed to HMG CoA before it is conveed to acetoacetate. Ref: Botham K.M., Mayes P.A. (2011). Chapter 23. Biosynthesis of Fatty Acids & Eicosanoids. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds), Harper's Illustrated Biochemistry, 29e.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Acetyl CoA condenses with oxaloacetate to form citrate, which is transpoed into the cytosol where it is cleaved to generate acetyl CoA and oxaloacetate in an ATP-dependent reaction. Carnitine transfers fatty acids from cytosolic fatty acyl CoA to form mitochondrial fatty acyl CoA. The conversion of acetyl CoA to malonyl CoA occurs in the cytosol. Coenzyme A cannot pass through the inner mitochondrial membrane. Acetoacetyl CoA has to be conveed to HMG CoA before it is conveed to acetoacetate. Ref: Botham K.M., Mayes P.A. (2011). Chapter 23. Biosynthesis of Fatty Acids & Eicosanoids. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds), Harper's Illustrated Biochemistry, 29e.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -76406,7 +76746,7 @@ window.OpenPharmacyQuestions = [
         "6th arch"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The ventral pa of the 6th arch forms the main pa of the pulmonary artery. The dorsal pa on the left side persist as ductus aeriosus which closes after bih and remains as ligamentum aeriosum. The dorsal pa on the right side disappears. Vascular elements of branchial arches:First arch: Maxillary arterySecond arch: Stapedial arteryThird arch: Common carotid and internal carotid arteryFouh arch: On the right side it forms the first pa of subclan artery and on the left side it forms the main pa of arch of aoaRef: Bedside Clinics In Surgery By M.L. Saha page 363.",
     "rationales": {},
     "paper": "paper-2",
@@ -76449,7 +76789,7 @@ window.OpenPharmacyQuestions = [
         "Nucleotides are linked by phosphodiester bonds"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Addition of nucleotides requires a free OH group on the 3' end of the DNA strand The Sanger method of DNA sequencing is also known as chain termination sequencing. In this method, DNA strands are synthesized in the presence of a low concentration of dideoxynucleosides (ddNTPs) in addition to deoxynucleosides (dNTPs). Incorporation of a dNTP allows synthesis to continue as there is a free 3'-OH group for addition of the next nucleotide. Incorporation of a ddNTP terminates synthesis of the DNA strand as there is no free 3-OH group for addition of the next nucleotide. In Sanger sequencing, four reactions (A, C, T, and G) are run, each containing the appropriate ddNTP. The mixture of DNA strands…",
     "rationales": {},
     "paper": "paper-2",
@@ -76535,7 +76875,7 @@ window.OpenPharmacyQuestions = [
         "Acetyl CoA"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Bile acids are synthesized from cholesterol (by modification of side chain), which is synthesized from Acetyl CoA. Bile acids consists of Deoxycholic acid, Lithocholic acid and Chenodeoxycholic acid. Bile acids are more appropriately called bile salts Present in deprotonated form Made in liver (RLE is 7-a-Hydroxylase) Stored in gall bladder, Emulsify the dietary fat which increases the surface area.",
     "rationales": {},
     "paper": "paper-2",
@@ -76578,7 +76918,7 @@ window.OpenPharmacyQuestions = [
         "Progesterone"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Cholesterol is a precursor for synthesis of : Vitamin D, Steroid hormones Bile acids Lipocoin/ Annexin, inhibitor of phospholipase A2 enzyme. Increased expression of the gene coding for annexin-1 is one of the mechanisms by which glucocoicoids (such as coisol) inhibit inflammation.",
     "rationales": {},
     "paper": "paper-2",
@@ -76621,7 +76961,7 @@ window.OpenPharmacyQuestions = [
         "Ketoacyl synthase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Fatty Acid Synthase Complex have 6 enzymatic activities 1. Enoyl reductase 2. Keto acyl reductase 3. Keto acyl synthase 4. Thioesterase 5. Hydratase 6. Acetyl malonyl transacylase It does not contain Acetyl-CoA carboxylase. Acetyl CoA carboxylase is involved in fatty acid synthesis as it causes conversion of Acetyl CoA to Malonyl CoA but it is not the component of fatty acid synthase complex",
     "rationales": {},
     "paper": "paper-2",
@@ -76664,7 +77004,7 @@ window.OpenPharmacyQuestions = [
         "Vancomycin"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "* Severe allergy to penicillins rule out the use of amoxicillin and cefazolin. * Vancomycin is highly effective against MRSA and enterococcal infections. * Drugs for VRSA and VRE (Vancomycin Resistant Enterococcus faecalis) include linezolid and daptomycin.",
     "rationales": {},
     "paper": "paper-2",
@@ -76752,8 +77092,8 @@ window.OpenPharmacyQuestions = [
         "cholestrol acyl transferase"
       ]
     ],
-    "answer": "D",
-    "explanation": "Fatty Acid Synthesis * Fatty acids are built from 2-C units derived from acetyl-CoA * Acetate units are activated for transfer to growing FA chain by conversion to malonyl-CoA * Decarboxylation of malonyl-CoA and reducing power of NADPH drive chain growth * Chain grows to 16-carbons (eight acetyl-CoAs) * Other enzymes add double bonds and more ref : lipincott 9th ed",
+    "answer": "A",
+    "explanation": "Source answer key: A. malonyl co a synthase. Fatty Acid Synthesis * Fatty acids are built from 2-C units derived from acetyl-CoA * Acetate units are activated for transfer to growing FA chain by conversion to malonyl-CoA * Decarboxylation of malonyl-CoA and reducing power of NADPH drive chain growth * Chain grows to 16-carbons (eight acetyl-CoAs) * Other enzymes add double bonds and more ref : lipincott 9th ed",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -76795,7 +77135,7 @@ window.OpenPharmacyQuestions = [
         "Pipecuronium"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Vecuronium, Pancuronium, Pipecuronium are aminosteroids. Alcuronium is benzylisoquinolone.",
     "rationales": {},
     "paper": "paper-2",
@@ -76840,7 +77180,7 @@ window.OpenPharmacyQuestions = [
         "LT of enterotoxigenic E.coli"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Toxin which acts by inhibiting protein synthesis: Diphtheria toxin and Pseudomonas Exotoxin A: Inhibiting elongation factor 2 Shiga toxin and Verotoxin (Shiga like toxin) of EHEC: Inhibiting 60s ribosome",
     "rationales": {},
     "paper": "paper-2",
@@ -76883,7 +77223,7 @@ window.OpenPharmacyQuestions = [
         "Neural crest cells"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "(A) EctodermDERIVATIVES OF EMBRYONIC TISSUESNeuroectodermCranial Neural Crest CellsSurface EctodermMesoderm* Neurosensory retina* Retinal pigment epithelium* Pigmented ciliary epithelium* Nonpigmented ciliary epithelium* Pigmented iris epithelium* Sphincter & dilator muscles of iris* Optic nerve, axons & glia* Vitreous* Corneal Stroma & endothelium* Sclera* Trabecular meshwork* Sheaths & tendons of extraocular muscles* Connective tissues of iris* Ciliary muscles* Choroidal stroma* Melanocytes (uveal & epithelial)* Meningeal sheaths of the optic nerve* Schwann cells of ciliary nerves* Ciliary ganglion* Most orbital bones, cartilage & connective tissue of the orbit* Muscular layer & connective…",
     "rationales": {},
     "paper": "paper-2",
@@ -76926,7 +77266,7 @@ window.OpenPharmacyQuestions = [
         "Golgi apparatus"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Source answer key: Golgi apparatus.",
     "rationales": {},
     "paper": "paper-2",
@@ -76969,8 +77309,8 @@ window.OpenPharmacyQuestions = [
         "4 ATP"
       ]
     ],
-    "answer": "A",
-    "explanation": "During the translation process, the formation of one peptide bond (adding one amino acid) consumes 4 high energy phosphates (2 from ATP & 2 from GTP). Eukaryotes will add 6 amino acids and prokaryotes will add 18 amino acids per second. (Refer: Harper's Illustrated Biochemistry, 26th edition, pg no: 370)",
+    "answer": "B",
+    "explanation": "Source answer key: B. 2 ATP & 2 GTP. During the translation process, the formation of one peptide bond (adding one amino acid) consumes 4 high energy phosphates (2 from ATP & 2 from GTP). Eukaryotes will add 6 amino acids and prokaryotes will add 18 amino acids per second. (Refer: Harper's Illustrated Biochemistry, 26th edition, pg no: 370)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -77012,7 +77352,7 @@ window.OpenPharmacyQuestions = [
         "12"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Synthesis of 1 mol of urea requires 3 mol of ATP plus 1 mol each of ammonium ion and of the a-amino nitrogen of aspaate. Ref: Harper 28th edition, chapter 28.",
     "rationales": {},
     "paper": "paper-2",
@@ -77055,7 +77395,7 @@ window.OpenPharmacyQuestions = [
         "Tyrosine"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Phenylalanine hydroxylase which conves phenylalanine to tyrosine is deficient in phenylketonuria. The most common cause of hyperphenylalaninemia is deficiency of the enzyme phenylalanine hydroxylase, which catalyzes the conversion of phenylalanine to tyrosine. Ref: Barsh G. (2010). Chapter 2. Genetic Disease. In S.J. McPhee, G.D. Hammer (Eds), Pathophysiology of Disease, 6e.",
     "rationales": {},
     "paper": "paper-2",
@@ -77098,7 +77438,7 @@ window.OpenPharmacyQuestions = [
         "Mitochondria"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ribosomes >> Rough endoplasmic reticulum Rough ER is that ER on which ribosomes are attached and protein synthesis occurs in ribosomes. So, best answer here is 3. Fig.: Free ribosomes present in cytoplasm (not attached to ER) Fig.: Ribosomes attached to cytosolic side of ER BUT SER is responsible for the synthesis of lipids, in detoxification and Ca sequestration & release.",
     "rationales": {},
     "paper": "paper-2",
@@ -77141,7 +77481,7 @@ window.OpenPharmacyQuestions = [
         "Nalidixic acid"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ref: katzung 11th ed. P. 805Explanation: (See the following Table) SubclassMechanism of ActionEffectsClinical applicationPharmacokinetics, Toxicities. InteractionsTetracyclinesTetracyclinePrevents bacterial protein synthesis by binding to the 30S ribosomal subunitbacteriostatic activity against susceptible bacteriaInfections caused by mycoplasma, chlamydiae. nckettsiae, some spirochetes* malaria * H pylori*acneOral * mixed clearance (half-life 8 h)* dosed every! 6h * divalent cations impair oral absorption * Toxicity: Gastrointestinal upset, hepatotoxicity, photosensitivity, deposition in bone and teethMacrolidesErythromycinPrevents bacterial protein synthesis by binding to the 30S ribosomal…",
     "rationales": {},
     "paper": "paper-2",
@@ -77184,7 +77524,7 @@ window.OpenPharmacyQuestions = [
         "Lysine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Depending upon localized pH of its environment (local milieu), histidine can serve both proton donor and acceptor.",
     "rationales": {},
     "paper": "paper-2",
@@ -77229,7 +77569,7 @@ window.OpenPharmacyQuestions = [
         "Mannitol"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "GalactitolRef: American Academy of Ophthalmology, BSCS, Section 11/ p. 61In Classic Galactosemia (AR) defect in galactose 1-phosphate uridyltransferase (Gal-1-PUT), results in inability to convert galactose to glucose.Galactose accumulates with further metabolic conversion to galactitol/dulcitol (responsible for cataract) and galactose -1- phosphate (responsible for liver failure).",
     "rationales": {},
     "paper": "paper-2",
@@ -77272,8 +77612,8 @@ window.OpenPharmacyQuestions = [
         "Inhibiting translocation"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Inhibition of initiation and misreading of mRNA.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Binding to 30 S subunit and inhibiting the binding of aminoacyl–tRNA to A site. Source answer key: Inhibition of initiation and misreading of mRNA.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -77315,7 +77655,7 @@ window.OpenPharmacyQuestions = [
         "Carbamoyl phosphate synthetase I"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Carbamoyl phosphate synthetase I which catalyse the condensation of CO2, ammonia, and ATP to form carbamoyl phosphate is the rate limiting enzyme in urea synthesis. It is active only in the presence of N-acetylglutamate, which is an allosteric activator that enhances the affinity of the synthase for ATP. Some reactions of urea cycle occur in the mitochondria and some occur in the cytoplasm. Synthesis of 1 mol of urea requires 3 mol of ATP, 1 mol each of ammonium ion and of aspaate, and employs five enzymes. Ref: Rodwell V.W. (2011). Chapter 28. Catabolism of Proteins & of Amino Acid Nitrogen. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds), Harper's Ill…",
     "rationales": {},
     "paper": "paper-2",
@@ -77360,8 +77700,8 @@ window.OpenPharmacyQuestions = [
         "PG F2alpha"
       ]
     ],
-    "answer": "D",
-    "explanation": "Misoprostol is a methyl ester of PGE1. Indications of Misoprostol: It is used for cervical ripening. Transvaginally it is used for induction of labour. Uses of Prostaglandins in Obstetrics: Induction of aboion Termination of molar pregnancy Induction of labour Cervical ripening prior to induction of labour Acceleration of labour Management of atonic postpaum hemorrhage Medical management of tubal ectopic pregnancy Ref: Textbook of Obstetrics By DC Dutta 6th edn page 504.",
+    "answer": "A",
+    "explanation": "Source answer key: A. PG E1. Misoprostol is a methyl ester of PGE1. Indications of Misoprostol: It is used for cervical ripening. Transvaginally it is used for induction of labour. Uses of Prostaglandins in Obstetrics: Induction of aboion Termination of molar pregnancy Induction of labour Cervical ripening prior to induction of labour Acceleration of labour Management of atonic postpaum hemorrhage Medical management of tubal ectopic pregnancy Ref: Textbook of Obstetrics By DC Dutta 6th edn page 504.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -77405,8 +77745,8 @@ window.OpenPharmacyQuestions = [
         "Mevalonate synthetase"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: HMG CoA lyase.",
+    "answer": "C",
+    "explanation": "Source answer key: C. HMG CoA reductase. Source answer key: HMG CoA lyase.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -77534,7 +77874,7 @@ window.OpenPharmacyQuestions = [
         "Endoplasmic reticulum"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "(Golgi - Apparatus) (7 RS 7th)Golgi - complex (or Golgi - apparatus) or Dietysomes - Recent evidence suggests strongly that the complex serve as unique sorting device that receive newly synthesized proteins* The post translational modifications takes place in the golgi lumen (median part) where the carbohydrate and lipid precursors are added to proteins to form glycoproteins and lipo proteins respectively* Ribosomes - are the centre of factories of protein synthesis* Rough Endoplasmic reticulum (RER) synthesizes membrane lipids and secretory proteins**",
     "rationales": {},
     "paper": "paper-2",
@@ -77577,7 +77917,7 @@ window.OpenPharmacyQuestions = [
         "Infliximab"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Interferon-gamma 1b (recombinant form) is used in chronic granulomatous disease to decrease infection liability because it increases the formation of tumor necrosis factor (TNF).Infliximab is a monoclonal antibody to TNF used in rheumatoid arthritis, and its use may lead to an increased infection rate. Aldesleukin is a recombinant form of IL-2.",
     "rationales": {},
     "paper": "paper-2",
@@ -77620,8 +77960,8 @@ window.OpenPharmacyQuestions = [
         "Gartner duct"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Paroophoron.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Paradidymis. Source answer key: Paroophoron.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -77708,7 +78048,7 @@ window.OpenPharmacyQuestions = [
         "Clindamycin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Doc for gonococcal urethritis => ceftriaxone Doc for gonococcal and nongonococcal urethritis => Azithromycin Doc for candidiasis (fungal infection) => fluconazole DOC for Anaerobic bacterial infections=> Metronidazole and Clindamycin",
     "rationales": {},
     "paper": "paper-2",
@@ -77751,8 +78091,8 @@ window.OpenPharmacyQuestions = [
         "Ligamentum teres"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Ligamentum teres.",
+    "answer": "A",
+    "explanation": "Source answer key: A. IVC. Source answer key: Ligamentum teres.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -77794,7 +78134,7 @@ window.OpenPharmacyQuestions = [
         "Palmitate"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ref. Textbook of Biochemistry for Medical Students. Page. 198 Excess dietary glucose can be converted to fatty acids in the liver and subsequently sent to the adipose tissue for storage. Adipose tissue synthesizes smaller quantities of fatty acids. Insulin promotes many steps in the conversion of glucose to acetyl CoA in the liver: Glucokinase (induced) PFK-2/PFK-1 (PFK-2 dephosphorylated) Pyruvate dehydrogenase (dephosphorylated) Both of the major enzymes of fatty acid synthesis are also affected by insulin: Acetyl CoA carboxylase (dephosphorylated, activated) Fatty acid synthase (induced) Final end product is Palmitate, after which fatty acid elongation happens. Look at the belwo diagram f…",
     "rationales": {},
     "paper": "paper-2",
@@ -77880,8 +78220,8 @@ window.OpenPharmacyQuestions = [
         "Pregnancy"
       ]
     ],
-    "answer": "B",
-    "explanation": "Increase in androgen level is associated with decrease in SHBG synthesis. Other factors leading to decreased SHBG synthesis are: Obesity Hypothyroidism Excess glucocoicoids Also know: Factors leading to increased SHBG synthesis are: Estrogen Pregnancy Hypehyroidism Ref: Endocrine Pathophysiology, Second Edition By C. B. Niewoehner, page 285",
+    "answer": "C",
+    "explanation": "Source answer key: C. Increased androgen. Increase in androgen level is associated with decrease in SHBG synthesis. Other factors leading to decreased SHBG synthesis are: Obesity Hypothyroidism Excess glucocoicoids Also know: Factors leading to increased SHBG synthesis are: Estrogen Pregnancy Hypehyroidism Ref: Endocrine Pathophysiology, Second Edition By C. B. Niewoehner, page 285",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -77923,7 +78263,7 @@ window.OpenPharmacyQuestions = [
         "Glycine"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Selenocysteine is the 21st amino acid.its biosynthesis is by replacing oxygen from serine by selenium.cysteine is formed from serine (reversible). hence selenocysteine is formed from cysteineRef: DM Vasudevan - Textbook of Biochemistry, 7th edition, page no: 215",
     "rationales": {},
     "paper": "paper-2",
@@ -77966,7 +78306,7 @@ window.OpenPharmacyQuestions = [
         "Riboflavin"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Tryptophan is required for the synthesis of Niacin. In the major pathway, kynureninase is an enzyme dependent on pyridoxal phosphate (enzyme 2, Fig.17.8). Therefore, in vitamin B6 deficiency, the pathway is blocked at this level. This leads to niacin deficiency and manifestations of pellagra. 7. Quinolinate phosphoribosyl transferase is the rate-limiting enzyme in the conversion of niacin to NAD+. About 60 mg of tryptophan is equivalent to 1 mg of niacin. Reference: Vasudevan Textbook of Biochemistry pg no. 211, 395",
     "rationales": {},
     "paper": "paper-2",
@@ -78054,7 +78394,7 @@ window.OpenPharmacyQuestions = [
         "2"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ceftiaxone we need to give : 180 mg 500 mg in 5 ml 180 mg in 5/500*180= 1.8 ml 1 ml contains 10 divisions So 1.8 ml contains 1.8*10=18 divisions.",
     "rationales": {},
     "paper": "paper-2",
@@ -78097,7 +78437,7 @@ window.OpenPharmacyQuestions = [
         "Insulin aspart"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Actrapid(Ref: KDT 8/e p285)Actrapid (regular insulin) and monotard (Lente-insulin) are unmodified insulins with same amino acid squence as natural insulinLispro, aspart, glulisine and glargine are insulin analogues in which slightly different amino acid sequence is present to modify pharmacokinetics.",
     "rationales": {},
     "paper": "paper-2",
@@ -78140,8 +78480,8 @@ window.OpenPharmacyQuestions = [
         "UMP kinase"
       ]
     ],
-    "answer": "D",
-    "explanation": "Carbamoyl phosphate and aspaate combine to form carbamoyl aspaate is the rate-limiting step in pyrimidine synthesis. The enzyme is aspayl transcarbamoylase.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Aspoate transcarbamylase. Carbamoyl phosphate and aspaate combine to form carbamoyl aspaate is the rate-limiting step in pyrimidine synthesis. The enzyme is aspayl transcarbamoylase.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -78183,7 +78523,7 @@ window.OpenPharmacyQuestions = [
         "Galactitol"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Galactitol Galactitol and sorbitol both can cause cataract. But there is one more information in the question, i.e. 1-phosphate of that metabolic is responsible for the liver failure. Galactose-1-phosphate cause liver failure in galactosemia. So, the examiner is asking about cataract in galactose",
     "rationales": {},
     "paper": "paper-2",
@@ -78226,7 +78566,7 @@ window.OpenPharmacyQuestions = [
         "Oxalosuccinate"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "C i.e. AcetoacetateHMG CoA is an intermediate in the pathway of ketogenesis, and this is an immediate precursor of acetoacetateQ (Ist ketone body to be formed). Aceto acetyl CoA is the staing material for ketogenesis.Liver is the only organ which produces ketone bodiesQ and add to the blood, but it lacks the enzyme responsible for their degradation and utilization. This is the reason why liver does not utilize ketone bodiesQ.Ketosis is a metabolic adaption to starvation. Thus a ketone body (Acetoacetate) is formed in starvation not in well fed state",
     "rationales": {},
     "paper": "paper-2",
@@ -78269,7 +78609,7 @@ window.OpenPharmacyQuestions = [
         "ATP"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The gene contains exons and introns. The introns need to be separated out and exons must be joined as they are actual amino acid coding sequences. Specific nucleases and ligases bring about this function. These changed an RNA into functional m-RNA.Ref: Textbook of medical biochemistry, MN Chatterji, 8th edition, page no: 262",
     "rationales": {},
     "paper": "paper-2",
@@ -78355,8 +78695,8 @@ window.OpenPharmacyQuestions = [
         "t RNA"
       ]
     ],
-    "answer": "D",
-    "explanation": "Okazaki fragments are sho, newly synthesized DNA fragments that are formed on the lagging template strand during DNA replication. They are complementary to the lagging template strand, together forming sho double-stranded DNA sections. Okazaki fragments are between 1000 and 2000 nucleotides long in prokaryotes (e.g. Escherichia coli) and are roughly 100 to 200 nucleotides long in eukaryotes. They are separated by ~SS120-nucleotide RNA primers and are unligated until RNA primers are removed, followed by enzyme ligase connecting (ligating) an Okazaki fragment onto the (now continuous) newly synthesized complementary strand. On the leading strand DNA replication proceeds continuously along the…",
+    "answer": "A",
+    "explanation": "Source answer key: A. ds DNA. Okazaki fragments are sho, newly synthesized DNA fragments that are formed on the lagging template strand during DNA replication. They are complementary to the lagging template strand, together forming sho double-stranded DNA sections. Okazaki fragments are between 1000 and 2000 nucleotides long in prokaryotes (e.g. Escherichia coli) and are roughly 100 to 200 nucleotides long in eukaryotes. They are separated by ~SS120-nucleotide RNA primers and are unligated until RNA primers are removed, followed by enzyme ligase connecting (ligating) an Okazaki fragment onto the (now continuous) newly synthesized complementary strand. On the leading strand DNA replication proceeds continuously along the…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -78398,7 +78738,7 @@ window.OpenPharmacyQuestions = [
         "Uroporphyrinogen decarboxylase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. Ferrochelatase and 6-ALA dehydratase",
     "rationales": {},
     "paper": "paper-2",
@@ -78441,8 +78781,8 @@ window.OpenPharmacyQuestions = [
         "Tyrosine deficiency"
       ]
     ],
-    "answer": "B",
-    "explanation": "Atypical form of phenylketonuria is due to deficiency of dihydrobiopterin reductase which is required for converion of H2-biopterin intorin. H4-biopterin is required for oxidation of phenylalanine because it is a cofactor for phenylalanine hydroxylase.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Dihydropterin reductase. Atypical form of phenylketonuria is due to deficiency of dihydrobiopterin reductase which is required for converion of H2-biopterin intorin. H4-biopterin is required for oxidation of phenylalanine because it is a cofactor for phenylalanine hydroxylase.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -78529,8 +78869,8 @@ window.OpenPharmacyQuestions = [
         "Endosomes"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Endosomes.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Cytoplasm. Source answer key: Endosomes.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -78618,8 +78958,8 @@ window.OpenPharmacyQuestions = [
         "Depth of Anaesthesia"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Sedation.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Pain intensity. Source answer key: Sedation.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -78661,7 +79001,7 @@ window.OpenPharmacyQuestions = [
         "Glycine."
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Harper – 572 Nitric oxide is formed by the action of the enzyme NO synthase, which is cytosolic. The endothelial and neuronal forms of NO synthase are activated by Ca. The substrate is arginine, and the products are citrulline and NO.",
     "rationales": {},
     "paper": "paper-2",
@@ -78747,8 +79087,8 @@ window.OpenPharmacyQuestions = [
         "Gastrosplenic ligament"
       ]
     ],
-    "answer": "C",
-    "explanation": "The abdominal pa of the foregut is suspended by mesenteries both ventrally and dorsally. The ventral mesentery of the foregut is called the ventral mesogastrium, and the dorsal mesentery is called the dorsal mesogastrium (gastrzum-stomach). The ventral mesogastrium becomes divided by the developing liver into a ventral pa and a dorsal pa. The ventral pa forms the ligaments of the liver, namely, (a) the falciform ligament, (b) the right and left triangular ligaments, and (c) the superior and inferior layers of the coronary ligament. The dorsal pa of the ventral mesogastrium forms the lesser omentum Ref : B D Chaurasia's Human Anatomy , seventh edition, volume 2 , pg. no. 256",
+    "answer": "D",
+    "explanation": "Source answer key: D. Gastrosplenic ligament. The abdominal pa of the foregut is suspended by mesenteries both ventrally and dorsally. The ventral mesentery of the foregut is called the ventral mesogastrium, and the dorsal mesentery is called the dorsal mesogastrium (gastrzum-stomach). The ventral mesogastrium becomes divided by the developing liver into a ventral pa and a dorsal pa. The ventral pa forms the ligaments of the liver, namely, (a) the falciform ligament, (b) the right and left triangular ligaments, and (c) the superior and inferior layers of the coronary ligament. The dorsal pa of the ventral mesogastrium forms the lesser omentum Ref : B D Chaurasia's Human Anatomy , seventh edition, volume 2 , pg. no. 256",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -78790,7 +79130,7 @@ window.OpenPharmacyQuestions = [
         "Prolyl oxidase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ceain lysyl residues are modified by lysyl oxidase, a copper-containing protein that conves e-amino groups to aldehydes. The aldehydes can either undergo an aldol condensation to form a C = C double bond or to form a Schiff base (eneimine) with the e-amino group of an unmodified lysyl residue, which is subsequently reduced to form a C - N single bond. Menkes syndrome, characterized by kinky hair and growth retardation, reflects a dietary deficiency of the copper required by lysyl oxidase, which catalyzes a key step in the formation of the covalent cross-links that strengthen collagen fibers. Ref: Harper's Illustrated Biochemistry, 30E (2015) pg no 47.",
     "rationales": {},
     "paper": "paper-2",
@@ -78833,8 +79173,8 @@ window.OpenPharmacyQuestions = [
         "Primary nocturnal enuresis"
       ]
     ],
-    "answer": "A",
-    "explanation": "In choice A and D vasopressin stimulates V2 receptors and leads to reduction in polyuria due to re-absorbtion of water the water channels. DDAVP induces vWF secretion by binding to V2R and activating cAMP-mediated signaling in endothelial cells and controls bleeding in vWD. Vasopressin exes vasoconstrictive effect on splanchnic circulation VI receptors Receptor of vasopressin Location Action V1 G protein - coupled phoshatidyl inositol/ calcium Vascular smooth muscle, platelet, hepatocytes, myometrium Vasoconstriction, myocardial hypertrophy, platelet aggregation, glycogenolysis, uterine contraction V3 G protein -coupled, phosphatidyl inositol/calcium Anterior pituitary gland Releases ACTH, pro…",
+    "answer": "B",
+    "explanation": "Source answer key: B. Bleeding oesophageal varices. In choice A and D vasopressin stimulates V2 receptors and leads to reduction in polyuria due to re-absorbtion of water the water channels. DDAVP induces vWF secretion by binding to V2R and activating cAMP-mediated signaling in endothelial cells and controls bleeding in vWD. Vasopressin exes vasoconstrictive effect on splanchnic circulation VI receptors Receptor of vasopressin Location Action V1 G protein - coupled phoshatidyl inositol/ calcium Vascular smooth muscle, platelet, hepatocytes, myometrium Vasoconstriction, myocardial hypertrophy, platelet aggregation, glycogenolysis, uterine contraction V3 G protein -coupled, phosphatidyl inositol/calcium Anterior pituitary gland Releases ACTH, pro…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -78876,8 +79216,8 @@ window.OpenPharmacyQuestions = [
         "eIF2"
       ]
     ],
-    "answer": "A",
-    "explanation": "Insulin phosphorylates both 4E-binding protein and eIF-4G. The 4F complex consists of eIF-4E (4E), eIF-4A, and eIF-4G. 4E is inactive when bound by one of a family of binding proteins (4E-BPs). Insulin and mitogenic growth polypeptides, or growth factors activate the PI3 kinase/AKT kinase pathways, which activate the mTOR kinase, and results in the phosphorylation of 4E-BP. Phosphorylated 4E-BP dissociates from 4E, and the latter is then able to form the 4F complex and bind to the mRNA cap.",
+    "answer": "B",
+    "explanation": "Source answer key: B. eIF4G. Insulin phosphorylates both 4E-binding protein and eIF-4G. The 4F complex consists of eIF-4E (4E), eIF-4A, and eIF-4G. 4E is inactive when bound by one of a family of binding proteins (4E-BPs). Insulin and mitogenic growth polypeptides, or growth factors activate the PI3 kinase/AKT kinase pathways, which activate the mTOR kinase, and results in the phosphorylation of 4E-BP. Phosphorylated 4E-BP dissociates from 4E, and the latter is then able to form the 4F complex and bind to the mRNA cap.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -78921,7 +79261,7 @@ window.OpenPharmacyQuestions = [
         "Uroporphyrin synthase"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Lead inhibits ALA dehydratase and ferrochelatase, preventing incorporation of iron and causing anemia and porphyria.",
     "rationales": {},
     "paper": "paper-2",
@@ -78964,7 +79304,7 @@ window.OpenPharmacyQuestions = [
         "Liraglutide"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "GLP analogues are usually given by SC route but now recently oral analogue was prepared-semaglutide. Ref: Ktzung 12 th ed.",
     "rationales": {},
     "paper": "paper-2",
@@ -79007,8 +79347,8 @@ window.OpenPharmacyQuestions = [
         "Actinomycin"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Chloramphenicol.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Actinomycin. Source answer key: Chloramphenicol.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -79050,8 +79390,8 @@ window.OpenPharmacyQuestions = [
         "Infliximab"
       ]
     ],
-    "answer": "B",
-    "explanation": "Ref-KDT 6/e p841 By inhibiting the enzyme IMP dehydrogen,mycophe mycoph inhibits the de novo synthesis of purines",
+    "answer": "C",
+    "explanation": "Source answer key: C. Mycophenolate. Ref-KDT 6/e p841 By inhibiting the enzyme IMP dehydrogen,mycophe mycoph inhibits the de novo synthesis of purines",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -79136,8 +79476,8 @@ window.OpenPharmacyQuestions = [
         "Galacticol"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Inositol.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Galacticol. Source answer key: Inositol.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -79179,8 +79519,8 @@ window.OpenPharmacyQuestions = [
         "Penicillins"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Penicillins.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Erythromycin. Source answer key: Penicillins.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -79222,7 +79562,7 @@ window.OpenPharmacyQuestions = [
         "Penicillin"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Drugs associated with ototoxicity as well as nephrotoxicity Vancomycin Aminoglycosides Cisplatin",
     "rationales": {},
     "paper": "paper-2",
@@ -79265,7 +79605,7 @@ window.OpenPharmacyQuestions = [
         "Formation of covalent cross link b/w fibrils"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Formation of triple helix (of pre-a-chains) takes place intracellularly in RER. Formation of a cross-link between fibrils (i.e. self-assembly of tropocollagen monomers into mature collagen fiber) occurs extracellularly after secretion from fibroblasts. Glycosylation also occurs intracellularly, but its glycosylation of hydroxylysine (not of proline).",
     "rationales": {},
     "paper": "paper-2",
@@ -79308,8 +79648,8 @@ window.OpenPharmacyQuestions = [
         "Muscle, Liver, Kidney"
       ]
     ],
-    "answer": "A",
-    "explanation": "Synthesis of creatinine involve reactions : Formation of Guanidino Acetic acid from Arginine and Glycine by enzyme Arginine Glycine Transaminase take place in kidney Formation of Creatine from Guanidino Acetic acidby enzyme Methyl Transferase take place in liver Creatine is transpoed blood to muscle where it is conveed to Creatine Phosphate by Creatine Kinase.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Kidney, Liver, Muscle. Synthesis of creatinine involve reactions : Formation of Guanidino Acetic acid from Arginine and Glycine by enzyme Arginine Glycine Transaminase take place in kidney Formation of Creatine from Guanidino Acetic acidby enzyme Methyl Transferase take place in liver Creatine is transpoed blood to muscle where it is conveed to Creatine Phosphate by Creatine Kinase.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -79394,7 +79734,7 @@ window.OpenPharmacyQuestions = [
         "Usher"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "In Pendred syndrome child is born deaf. Thyroid enlargement appear in adolescence and becomes nodular in adulthood.Alport's syndrome: Progressive glomerulonephritis.Klippel-Feil syndrome: Congenital spinal deformities.Usher syndrome: Retinitis pigmentosa.",
     "rationales": {},
     "paper": "paper-2",
@@ -79437,8 +79777,8 @@ window.OpenPharmacyQuestions = [
         "Rho (r) factor"
       ]
     ],
-    "answer": "C",
-    "explanation": "There are two major termination strategies found in bacteria: Rho-dependent and Rho-independent. In Rho-dependent termination, the RNA contains a binding site for a protein called Rho factor. Rho factor binds to this sequence and stas \"climbing\" up the transcript towards RNA polymerase. When it catches up with the polymerase at the transcription bubble, Rho pulls the RNA transcript and the template DNA strand apa, releasing the RNA molecule and ending transcription. Another sequence found later in the DNA, called the transcription stop point, causes RNA polymerase to pause and thus helps Rho catch up.^4 Rho-independent termination depends on specific sequences in the DNA template strand. As…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Rho (r) factor. There are two major termination strategies found in bacteria: Rho-dependent and Rho-independent. In Rho-dependent termination, the RNA contains a binding site for a protein called Rho factor. Rho factor binds to this sequence and stas \"climbing\" up the transcript towards RNA polymerase. When it catches up with the polymerase at the transcription bubble, Rho pulls the RNA transcript and the template DNA strand apa, releasing the RNA molecule and ending transcription. Another sequence found later in the DNA, called the transcription stop point, causes RNA polymerase to pause and thus helps Rho catch up.^4 Rho-independent termination depends on specific sequences in the DNA template strand. As…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -79480,7 +79820,7 @@ window.OpenPharmacyQuestions = [
         "Descending colon"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Descending colonRef. Langman's Medical embryology 9th ed./ 298* \"Descending colon is a derivative of Hindgut\"PartPart in adultGives rise toArterial supplyForegutOesophagus to first 2 sections of the duodenumOesophagus, Stomach, Duodenum (1st and 2nd parts), Liver, Gallbladder, Pancreas, Spleen, Superior portion of pancreasCeliac trunkMidgutLower duodenum, to the first two-thirds of the transverse colonLower duodenum, jejunum, ileum, cecum, appendix, ascending colon, and first 2/3rd of the transverse colonBranches of the superior mesenteric arteryHindgutLast third of the transverse colon, to the upper part of the anal canalLast third of the transverse colon, descending colon, rectum, and uppe…",
     "rationales": {},
     "paper": "paper-2",
@@ -79523,7 +79863,7 @@ window.OpenPharmacyQuestions = [
         "Amino acyl tRNA synthetase"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "D i.e. Amino acyl tRNA synthetase- Translation is the process by which 'Ribosomes' conve the Functions of information carried by mRNA to the synthesis of proteinQ. ThusRibosome is a cellular component on which all interaction take place to Ribosomessynthesize proteinQ. - Exists free in cytoplasmAminoacyl tRNA synthetase is responsible for proof reading, - Contains 65% r- RNA & 35% proteinediting & high fidelity of translation (protein synthesis)Q as it - Synthesize protein that remain within cellsQ. attaches aminoacids to their corresponding (isoaccepting) tRNAs?",
     "rationales": {},
     "paper": "paper-2",
@@ -79566,7 +79906,7 @@ window.OpenPharmacyQuestions = [
         "G2 phase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The replication of the DNA genome occurs only at a specified time during the lifespan of the cell. This period is referred to as the synthetic or S phase. This is usually temporally separated from the mitotic, or M phase, by nonsynthetic periods referred to as gap 1 (G1) and gap 2 (G2) phases, occurring before and after the S phase, respectively Harper30e pg: 383",
     "rationales": {},
     "paper": "paper-2",
@@ -79609,7 +79949,7 @@ window.OpenPharmacyQuestions = [
         "MMP"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The laying down of connective tissue occurs in two steps: Migration and proliferation of fibroblasts into the site of injury. Deposition of ECM proteins produced by these cells. These processes are orchestrated by locally produced cytokines and growth factors, including PDGF, FGF-2 and TGF-β. TGF-β is the most important cytokine for the synthesis and deposition of connective tissue proteins.",
     "rationales": {},
     "paper": "paper-2",
@@ -79652,7 +79992,7 @@ window.OpenPharmacyQuestions = [
         "Chloramphenicol"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Amikacin - nephrotoxicity, ototoxicity and neuromuscular blockade Tetracycline - nephrotoxicity when given along with diuretics, phototoxicity, , affect dentition and bones in young children, Fanconi syndrome and Renal tubular acidosis. Vancomycin - red man syndrome Chloramphenicol- grey baby syndrome,nephrotoxicity,ototoxicity.",
     "rationales": {},
     "paper": "paper-2",
@@ -79781,7 +80121,7 @@ window.OpenPharmacyQuestions = [
         "Posterior 1/3rd of tongue"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "(A) Maxillary artery ArchNerve of ArchMuscles of ArchFirstMandibularMedial and lateral pterygoidsMasseter, Temporalis, MylohyoidAnt. belly of Digastric Tensor tympani, Tensor palatiSecondFacialMuscles of face, Occipito-frontalis Platysma, Stylohyoid, Post, belly of Digastric, Stapedius, Auricular musclesThirdGlossopharyngealStylopharyngeusFourthSuperior laryngealCricothyroidSixthRecurrent laryngealMuscles of larynx",
     "rationales": {},
     "paper": "paper-2",
@@ -79824,8 +80164,8 @@ window.OpenPharmacyQuestions = [
         "Azithromycin"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Azithromycin.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Vancomycin. Source answer key: Azithromycin.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "pharmaceutical chemistry",
@@ -79869,7 +80209,7 @@ window.OpenPharmacyQuestions = [
         "HMP pathway"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The oxidative reactions of the pentose phosphate pathway(HMP pathway) are the chief source of the hydrogen required for the reductive synthesis of fatty acids. NADPH is involved as a donor of reducing equivalents.Glycolysis is the metabolic pathway that conves glucose C6H12O6, into pyruvate, CH3COCOO- + H+. The free energy released in this process is used to form the high-energy molecules ATP (adenosine triphosphate) and NADH (reduced nicotinamide adenine dinucleotide)The citric acid cycle is the final pathway for the oxidation of carbohydrate, lipid, and protein. Their common end metabolite, acetyl-CoA, reacts with oxaloacetate to form citrate. By a series of dehydrogenations and decarboxyl…",
     "rationales": {},
     "paper": "paper-2",
@@ -79914,7 +80254,7 @@ window.OpenPharmacyQuestions = [
         "Glycerol-3-P"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "For making TGs, glycerol-3-P is joined with fatty acids. But there is only one enzyme in Adipose tissues for the synthesis of Glycerol-3-P and that is Glycerol-3-P Dehydrogenase which synthesize Glycerol-3-P from DHAP. This DHAP is derived from Glucose. So Glucose entry is must in Adipose tissues for TG synthesis. This occurs with the help of glucose channel - GLUT-4. In liver, there are two enzymes for TG synthesis : 1. Glycerol-3-P Dehydrogenase 2. Glycerol Kinase",
     "rationales": {},
     "paper": "paper-2",
@@ -79957,7 +80297,7 @@ window.OpenPharmacyQuestions = [
         "Cranial neuropore"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Sacrococcygeal teratoma: - Sometimes remnants of the primitive streak persist in the sacrococcygeal region. Then cluster of pluripotent cells proliferate & form tumor, known as sacrococcygeal teratomas Which commonly contain tissues derived from all three germ layers. Occurrence 1: 37,000 Most common tumor in a new born. Teratomas may also arise from abberent migration of primordial germ cells.",
     "rationales": {},
     "paper": "paper-2",
@@ -80000,7 +80340,7 @@ window.OpenPharmacyQuestions = [
         "Superoxide dismutase"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Coicosteroids Used to suppress the tissue destruction associated with many chronic inflammatory diseases, including RA and systemic lupus erythematosus. Induce the synthesis of an inhibitor of phospholipase A2 and block the release of arachidonic acid from the plasma membranes of inflammatory cells. Myeloperoxidase catalyzes the conversion of H2O2 , in the presence of a halide (e.g., chloride ion) to form hypochlorous acid. Superoxide dismutase reduces the superoxide radical to H2O2.",
     "rationales": {},
     "paper": "paper-2",
@@ -80265,8 +80605,8 @@ window.OpenPharmacyQuestions = [
         "Milk"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Tick.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Mite. Source answer key: Tick.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -80308,7 +80648,7 @@ window.OpenPharmacyQuestions = [
         "1"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "WHO CUT-OFF POINTS OF WHR Indicator CUT-OFF points Risk of metabolic complications Waist circumference >94 cm (M) >80 cm (W) Increased Hip cirrcumference >102 cm (M) >88 cm (W) Substantially increased Waist-Hip ratio >= 0.95(M) >= 0.80(W) Substantially increased Ref: Park 23rd edition Pgno : 400 WC & WHR, WHO Consultation 2008",
     "rationales": {},
     "paper": "paper-2",
@@ -80437,7 +80777,7 @@ window.OpenPharmacyQuestions = [
         "20 ppm"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "National Iodine deficiency disorder programme , 1992: - National goitre control programme, 1962 is conveed to NIDDCP, 1992 - Impact indicators: Major indicator - Urinary iodine excretion levels ( generally measured in pregnant women over 24hrs) Others - Neonatal hypothyroidism , Goitre - Level of salt iodinisation: 30 ppm at production level 15 ppm at consumer level - Two-in-one salt: 40mcg iodine + 1mg iron/gm of salt MBI kits- Field Test Kits that allow Iodised salt manufacturers, quality controllers, health inspectors, social workers, NGO activists and even school children to assess the amount of iodine in iodised salt.",
     "rationales": {},
     "paper": "paper-2",
@@ -80480,8 +80820,8 @@ window.OpenPharmacyQuestions = [
         "0, 7, 28"
       ]
     ],
-    "answer": "C",
-    "explanation": "New recommended regimen/Schedule (New guidelines( Type of prophylaxis Regimen Post exposure Intramuscular Essen Regimen (1-1-1-1-1) Day 0,3,7,14,28 Post exposure intradermal Updated Thai Red Cross Regimen (2-2-2-0-2) Day 0,3,7,28 Post exposure in vaccinated individuals Day 0,3 Pre-exposure prophylaxis Day 0,7,21/28 Minimum potency: 2.5 IU per IM dose Zagreb regimen of rabies Vaccine (Intramuscular Post-exposure) : 1. 4-dose abbreted multisite regimen 2-0-1-0-1 (2 doses on Day 0,1 dose on Day 7, 1 dose on day 21 Ref: Park 25th edition Pgno : 297-298",
+    "answer": "D",
+    "explanation": "Source answer key: D. 0, 7, 28. New recommended regimen/Schedule (New guidelines( Type of prophylaxis Regimen Post exposure Intramuscular Essen Regimen (1-1-1-1-1) Day 0,3,7,14,28 Post exposure intradermal Updated Thai Red Cross Regimen (2-2-2-0-2) Day 0,3,7,28 Post exposure in vaccinated individuals Day 0,3 Pre-exposure prophylaxis Day 0,7,21/28 Minimum potency: 2.5 IU per IM dose Zagreb regimen of rabies Vaccine (Intramuscular Post-exposure) : 1. 4-dose abbreted multisite regimen 2-0-1-0-1 (2 doses on Day 0,1 dose on Day 7, 1 dose on day 21 Ref: Park 25th edition Pgno : 297-298",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -80566,7 +80906,7 @@ window.OpenPharmacyQuestions = [
         "100%"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ref:Parks 23rd edition pg 849. 1SD : confidence limit = 68% 2SD : confidence limit = 95% 3SD : confidence limit = 99.7%",
     "rationales": {},
     "paper": "paper-2",
@@ -80609,8 +80949,8 @@ window.OpenPharmacyQuestions = [
         "Plague"
       ]
     ],
-    "answer": "A",
-    "explanation": "Agent factors :- * Caused by group B arbovirus (flavivirus) * The main reservoirs are Ardeid birds and pigs * Pigs are amplifiers of the virus and they do not manifest ove symptoms but circulates the virus Host factors :- * Most common in the age group of <15 years of age * Man - incidental dead end host * Affects other animals also and horse is the only animal which does not shows symptoms of encephalitis Vector:- * Transmitted by culex tritaeniorrhynchus - most important vector, others are C.Vishnuii and c. Gelidus * Incubation period is 5-15 days * Case fatality rate - 20-40% Ref:- K Park, 24th ed; pg num:- 302-303",
+    "answer": "B",
+    "explanation": "Source answer key: B. Japanese encephalitis. Agent factors :- * Caused by group B arbovirus (flavivirus) * The main reservoirs are Ardeid birds and pigs * Pigs are amplifiers of the virus and they do not manifest ove symptoms but circulates the virus Host factors :- * Most common in the age group of <15 years of age * Man - incidental dead end host * Affects other animals also and horse is the only animal which does not shows symptoms of encephalitis Vector:- * Transmitted by culex tritaeniorrhynchus - most important vector, others are C.Vishnuii and c. Gelidus * Incubation period is 5-15 days * Case fatality rate - 20-40% Ref:- K Park, 24th ed; pg num:- 302-303",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -80695,8 +81035,8 @@ window.OpenPharmacyQuestions = [
         "Between 81 and 82"
       ]
     ],
-    "answer": "A",
-    "explanation": "Comfo zones: In deg C of corrected effective temperature Pleasant and cool 20 Comfoable and cool 20-25 (69-76F) Comfoable 25- 27 (77-80F) Hot and uncomfoable 27-28 Extremely hot 28+ Intolerably hot 30+. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 792",
+    "answer": "B",
+    "explanation": "Source answer key: B. Between 69 and 76. Comfo zones: In deg C of corrected effective temperature Pleasant and cool 20 Comfoable and cool 20-25 (69-76F) Comfoable 25- 27 (77-80F) Hot and uncomfoable 27-28 Extremely hot 28+ Intolerably hot 30+. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 792",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -80738,8 +81078,8 @@ window.OpenPharmacyQuestions = [
         "Doppler ultrasound of renal aeries"
       ]
     ],
-    "answer": "A",
-    "explanation": "Hypeension due to an occlusive lesion of a renal artery is renovascular hypeensionIn the initial stages, the mechanism of hypeension generally is related to activation of the renin-angiotensin system. Obstruction of the renal artery leads to decreased renal perfusion pressure, thereby stimulating renin secretion. Over time, possibly as a consequence of secondary renal damage, this form of hypeension may become less renin-dependent.As a screening test, renal blood flow may be evaluated with a radionuclide -ohoiodohippurate (OIH) scan, or glomerular filtration rate may be evaluated with a - diethylenetriamine pentaacetic acid (DTPA) scan before and after a single dose of captopril (or another ACE…",
+    "answer": "B",
+    "explanation": "Source answer key: B. CT Angiography. Hypeension due to an occlusive lesion of a renal artery is renovascular hypeensionIn the initial stages, the mechanism of hypeension generally is related to activation of the renin-angiotensin system. Obstruction of the renal artery leads to decreased renal perfusion pressure, thereby stimulating renin secretion. Over time, possibly as a consequence of secondary renal damage, this form of hypeension may become less renin-dependent.As a screening test, renal blood flow may be evaluated with a radionuclide -ohoiodohippurate (OIH) scan, or glomerular filtration rate may be evaluated with a - diethylenetriamine pentaacetic acid (DTPA) scan before and after a single dose of captopril (or another ACE…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -80781,7 +81121,7 @@ window.OpenPharmacyQuestions = [
         "Lime"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Cresol is an excellent coal-tar disinfectant. It is 3 to 10 times as powerful as phenol, yet no more toxic. Cresol is best used in 5 to 20 percent strength for disinfection of farces and urine. Cresol is an all-purpose general disinfectant. (refer pgno :128 park 23 rd edition)",
     "rationales": {},
     "paper": "paper-2",
@@ -80824,7 +81164,7 @@ window.OpenPharmacyQuestions = [
         "Delhi"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Alma ata. (Ref Park's Textbook of PSM 22nd/Pg.832)The new approach to health care came into existence in 1978 following an international conference at Alma Ata (USSR).The Alma-Ata conference defines the primary health care as follows: Primary health care is essential health care made universally accessible to individuals and acceptable to them, through their full participation and at a cost the community and the country can afford.Millennium Development Summit was held in New York in 2000 where MDG are formulated.World Health Assembly is held in Geneva, which is a head quarter of WHO.Note: The term \"comprehensive health care\" (womb to tomb) was first used by Bhore committee in 1946.",
     "rationales": {},
     "paper": "paper-2",
@@ -80867,8 +81207,8 @@ window.OpenPharmacyQuestions = [
         "Silica"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: CO.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Silica. Source answer key: CO.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -80910,7 +81250,7 @@ window.OpenPharmacyQuestions = [
         "Anthrax"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "<p> Leptospirosis is the most wide zoonotic disease in the world. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:291. <\\p>",
     "rationales": {},
     "paper": "paper-2",
@@ -80996,8 +81336,8 @@ window.OpenPharmacyQuestions = [
         "Gross a activity 10 Bq/L and Gross b activity 1.0 Bq/L"
       ]
     ],
-    "answer": "D",
-    "explanation": "Key guidelines aspects of WHO recommended drinking water quality: Colour <15 true colour units (TCU) Turbidity <1 nephlometric turbidity units (NTU) pH: 6.5-8.5 Total dissolved solids (TDS) <500 mg/Litre Zero pathogenic microorganisms Zero infectious viruses Absence of pathogenic protozoa and infective stages of helminthes Fluoride <1.0 ppm (0.5-0.8 ppm: Optimum level) Nitrates <45 mg/Litre Nitrites <3 mg/Litre Gross alpha radiological activity <0.5 Bq/Litre (new guidelines -WHO) Gross Beta radiological activity <1.0 Bq/Litre (new guidelines-WHO) Ref: Park 25th edition Pgno: 762",
+    "answer": "A",
+    "explanation": "Source answer key: A. Gross a activity 0.1 Bq/L and Gross b activity 1.0 Bq/L. Key guidelines aspects of WHO recommended drinking water quality: Colour <15 true colour units (TCU) Turbidity <1 nephlometric turbidity units (NTU) pH: 6.5-8.5 Total dissolved solids (TDS) <500 mg/Litre Zero pathogenic microorganisms Zero infectious viruses Absence of pathogenic protozoa and infective stages of helminthes Fluoride <1.0 ppm (0.5-0.8 ppm: Optimum level) Nitrates <45 mg/Litre Nitrites <3 mg/Litre Gross alpha radiological activity <0.5 Bq/Litre (new guidelines -WHO) Gross Beta radiological activity <1.0 Bq/Litre (new guidelines-WHO) Ref: Park 25th edition Pgno: 762",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81039,7 +81379,7 @@ window.OpenPharmacyQuestions = [
         "Proguanil"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "DOC for Falciparum Malaria - ACT.( Aemisinin based Combination therapy ) In Noh Eastern states:- ACT-AL co-formulated tablet of Aemether-20 mg / Lumefantrine - 120 mg. Primaquine 0.75 mg/ kg Body weight on day 2. 2. In Other States:- ACT-SP -Aesunate 50 mg tablet for 3 days and Sulphadoxine (500mg) - Pyremethamine (25mg) tablets for 1 Day. Primaquine tablets should be given on Day 2.",
     "rationales": {},
     "paper": "paper-2",
@@ -81082,8 +81422,8 @@ window.OpenPharmacyQuestions = [
         "Sanguinarine"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Pyruvic acid.",
+    "answer": "C",
+    "explanation": "Source answer key: C. BOAA. Source answer key: Pyruvic acid.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81213,8 +81553,8 @@ window.OpenPharmacyQuestions = [
         "8.6"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 6.67.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 7.35. Source answer key: 6.67.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81303,7 +81643,7 @@ window.OpenPharmacyQuestions = [
         "2008"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Pradhan mantra swasthya suraksha yojana was approved in 2006 with the objective of correcting imbalances in availability of affordable teiary level healthcare in the country. Ref: National Health Programmes in India, J.Kishore, 10th edition pg: 84",
     "rationales": {},
     "paper": "paper-2",
@@ -81389,8 +81729,8 @@ window.OpenPharmacyQuestions = [
         "Maternal death /1000 live bihs"
       ]
     ],
-    "answer": "D",
-    "explanation": "Park&;s textbook of preventive and social medicine 23rd edition. * Maternal moality rate is the no of maternal deaths in a given period per 100,000 women of reproductive age during the same time period.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Maternal deaths / 100000 live bihs. Park&;s textbook of preventive and social medicine 23rd edition. * Maternal moality rate is the no of maternal deaths in a given period per 100,000 women of reproductive age during the same time period.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81475,8 +81815,8 @@ window.OpenPharmacyQuestions = [
         "If use of zarda pan is stopped, number of cases will reduce"
       ]
     ],
-    "answer": "B",
-    "explanation": "Case control studies often retrospective studies are a common first approach to test causal hypothesis. In recent years case control study has emerged as a permanent method of epidemiological investigation. Both exposure and outcome has occurred before the study. Study proceeds backwards from effect to cause. It uses a control or comparison group to suppo or refute an inference (refer pgno:71 park 23 rd edition)",
+    "answer": "C",
+    "explanation": "Source answer key: C. Zarda pan is associated with buccal CA. Case control studies often retrospective studies are a common first approach to test causal hypothesis. In recent years case control study has emerged as a permanent method of epidemiological investigation. Both exposure and outcome has occurred before the study. Study proceeds backwards from effect to cause. It uses a control or comparison group to suppo or refute an inference (refer pgno:71 park 23 rd edition)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81563,8 +81903,8 @@ window.OpenPharmacyQuestions = [
         "Test of proportions"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Test of proportions.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Student's test. Source answer key: Test of proportions.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81651,8 +81991,8 @@ window.OpenPharmacyQuestions = [
         "Endorectal coil MRI with T1 and T2 W images"
       ]
     ],
-    "answer": "B",
-    "explanation": "Prostate-specific antigen (PSA) and Digital rectal examination (DRE) Age 50 for men who are at average risk of prostate cancer and are expected to live at least 10 more years. Age 45 for men at high risk of developing prostate cancer. This includes African Americans and men who have a first-degree relative (father, brother, or son) diagnosed with prostate cancer at an early age (younger than age 65). Age 40 for men at even higher risk (those with more than one first-degree relative who had prostate cancer at an early age).",
+    "answer": "C",
+    "explanation": "Source answer key: C. DRE + PSA. Prostate-specific antigen (PSA) and Digital rectal examination (DRE) Age 50 for men who are at average risk of prostate cancer and are expected to live at least 10 more years. Age 45 for men at high risk of developing prostate cancer. This includes African Americans and men who have a first-degree relative (father, brother, or son) diagnosed with prostate cancer at an early age (younger than age 65). Age 40 for men at even higher risk (those with more than one first-degree relative who had prostate cancer at an early age).",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81694,7 +82034,7 @@ window.OpenPharmacyQuestions = [
         "Chest circumference"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Rate of increase of height and weight is the best measure for nutritional status of a child. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. 500,501",
     "rationales": {},
     "paper": "paper-2",
@@ -81737,7 +82077,7 @@ window.OpenPharmacyQuestions = [
         "Energy content"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans) a (Nitrogen content) Ref paik 20th ed p 549Biological value of a protein is Retained N2 / Absorbed N2 x 100Protein efficiency ratio = Wt gain in gms / Gram of protein consumedNet protein utilization =Digestibility Coefficent x Biological value100 Aminoacid score =No of mg of one AA/gm of proteinNo of mg of same AA/gm of egg proteinx 100Quality of protein is assessed by comparison to the reference protein which is usually egg protein.",
     "rationales": {},
     "paper": "paper-2",
@@ -81909,8 +82249,8 @@ window.OpenPharmacyQuestions = [
         "Sample registration system"
       ]
     ],
-    "answer": "D",
-    "explanation": "Sample Registration System (SRS) was initiated in 1964–65 (on a pilot basis; full scale from 1969–70) to provide national as well as state level reliable estimates of fertility and mortality • SRS is a dual record system: Field Investigation: continuous enumeration of births and deaths by an enumerator. Independent retrospective survey: every 6 months by an investigator-supervisor.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Civil registration system. Sample Registration System (SRS) was initiated in 1964–65 (on a pilot basis; full scale from 1969–70) to provide national as well as state level reliable estimates of fertility and mortality • SRS is a dual record system: Field Investigation: continuous enumeration of births and deaths by an enumerator. Independent retrospective survey: every 6 months by an investigator-supervisor.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81954,8 +82294,8 @@ window.OpenPharmacyQuestions = [
         "No change in hypothesis"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: No effect on significance.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Previously insignificant value becomes significant. Source answer key: No effect on significance.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -81997,8 +82337,8 @@ window.OpenPharmacyQuestions = [
         "Innovation"
       ]
     ],
-    "answer": "B",
-    "explanation": "\"SEVEN I\" principle of strandfield : Identification. Indigenization. Involvement. Indoctrination. Integration. Influencess. Innovation.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Implementation. \"SEVEN I\" principle of strandfield : Identification. Indigenization. Involvement. Indoctrination. Integration. Influencess. Innovation.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82040,7 +82380,7 @@ window.OpenPharmacyQuestions = [
         "Flash card"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "A demonstration is a carefully prepared presentation to show how to perform a skill or procedure.Here a procedure is carried out step by step before an audience or the target group,the demonstrator asceaining that the audience understands how to perform it (refer pgno:864 park 23 rd edition)",
     "rationales": {},
     "paper": "paper-2",
@@ -82085,7 +82425,7 @@ window.OpenPharmacyQuestions = [
         "2020"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "- During September 2000, representatives of 189 countries met at Millennium Summit in New York to adopt United nations Millennium Declaration. - the goals in the area of development and povey eradication are now referred as Millennium Development Goals. - Governments have set date of 2015 by which they would meet the MDGs. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:893 <\\p>",
     "rationales": {},
     "paper": "paper-2",
@@ -82128,7 +82468,7 @@ window.OpenPharmacyQuestions = [
         "Tertiary"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "(A) (Primordial) (39 - Park 22nd)PRIMORDIAL PREVENTION* Special attension is the prevention of chronic disease* Prevention of the emergence or development of risk factors in countries or population groups in which they have not yet appeared* For example, many adult health problems (eg obesity hypertension) have their early origins in childhood, because this is the time when life styles are formed (for example smoking, eating pattern, physical exercise)* Efforts are directed towards discouraging children from adopting harmful lifestyles* Main intervention in primordial prevention is through individual and mass educationTABLE Levels of preventionLevelPhase of diseaseAimActionsTargetPrimordialU…",
     "rationales": {},
     "paper": "paper-2",
@@ -82171,8 +82511,8 @@ window.OpenPharmacyQuestions = [
         "Exclusive breast feeding"
       ]
     ],
-    "answer": "B",
-    "explanation": "The 4 components of kangaroo mother care are all essential for ensuring the best care option especially for low bih weight babies. This include: Skin to skin contact on mothers chest Adequate nutrition through breast feeding Ambulatory care as a result of earlier discharge Suppo for mother and family in caring baby. Parks textbook of preventive and social medicine.K Park. Edition 23.Pg no: 537",
+    "answer": "C",
+    "explanation": "Source answer key: C. Free nutritional supplements. The 4 components of kangaroo mother care are all essential for ensuring the best care option especially for low bih weight babies. This include: Skin to skin contact on mothers chest Adequate nutrition through breast feeding Ambulatory care as a result of earlier discharge Suppo for mother and family in caring baby. Parks textbook of preventive and social medicine.K Park. Edition 23.Pg no: 537",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82214,8 +82554,8 @@ window.OpenPharmacyQuestions = [
         "Denominators"
       ]
     ],
-    "answer": "B",
-    "explanation": "ref: Park&;s 23rd edition pg 58 A standard population is defined as the one for which the numbers in each age and sex group are known.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Age distributions. ref: Park&;s 23rd edition pg 58 A standard population is defined as the one for which the numbers in each age and sex group are known.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82257,8 +82597,8 @@ window.OpenPharmacyQuestions = [
         "Brucellosis"
       ]
     ],
-    "answer": "D",
-    "explanation": "Whooping cough is most infectious during the catarrhal stage. The infective period may be considered to extend from a weak after exposure to about 3 weeks after the onset of the paroxysmal stage although communicability diminishes rapidly after the catarrhal stage. (refer pgno:163 park 23 rd edition)",
+    "answer": "A",
+    "explanation": "Source answer key: A. Peussis. Whooping cough is most infectious during the catarrhal stage. The infective period may be considered to extend from a weak after exposure to about 3 weeks after the onset of the paroxysmal stage although communicability diminishes rapidly after the catarrhal stage. (refer pgno:163 park 23 rd edition)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82300,8 +82640,8 @@ window.OpenPharmacyQuestions = [
         "Chest indrawing"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Chest indrawing.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Fast breathing. Source answer key: Chest indrawing.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82343,7 +82683,7 @@ window.OpenPharmacyQuestions = [
         "Cancer"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": ".Cluster testing is used in the detection of of STD S.here the patients are asked to name other persons of either sex ho move in the same socio-sexual environment.these persons are then screened .this technique ha been shown almost to double the number of cases found ref:park&;s textbook,ed22,pg no 312",
     "rationales": {},
     "paper": "paper-2",
@@ -82386,7 +82726,7 @@ window.OpenPharmacyQuestions = [
         "Plague"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Dr. John Snow was the first to associate Cholera to a sewage-affected drinking water pump in London Ref: 25th edition Park&;s Textbook of Preventive and Social Medicine, Page no. 25",
     "rationales": {},
     "paper": "paper-2",
@@ -82515,7 +82855,7 @@ window.OpenPharmacyQuestions = [
         "Serum transferrin saturation"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Serum ferritin is the single most sensitive tool for evaluating the iron status.It reflects the size of Iron stores in the body. Values below 10 mcg/L indicate an absence of stored iron.Park 23e pg: 623",
     "rationales": {},
     "paper": "paper-2",
@@ -82558,8 +82898,8 @@ window.OpenPharmacyQuestions = [
         "25000"
       ]
     ],
-    "answer": "D",
-    "explanation": "One PHC for every 30,000 rural population in the plains. One PHC for every 20,000 population in hilly, tribal and backward areas.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 20000. One PHC for every 30,000 rural population in the plains. One PHC for every 20,000 population in hilly, tribal and backward areas.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82644,7 +82984,7 @@ window.OpenPharmacyQuestions = [
         "Development deprivation index"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The Human Povey Index (HPI) was considered to better reflect the extent of deprivation to the HDI. In 2010 it was supplanted by the UN&;s Multidimensional Povey Index.",
     "rationales": {},
     "paper": "paper-2",
@@ -82687,8 +83027,8 @@ window.OpenPharmacyQuestions = [
         "HBsAg"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Anti HBs.",
+    "answer": "C",
+    "explanation": "Source answer key: C. IgM Anti-HBc. Source answer key: Anti HBs.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82773,7 +83113,7 @@ window.OpenPharmacyQuestions = [
         "Malaria"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Measles prevention is only by immunisation and vaccination. No chemoprophylaxis(Ref.PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE 21st Edition page no.136)",
     "rationales": {},
     "paper": "paper-2",
@@ -82859,8 +83199,8 @@ window.OpenPharmacyQuestions = [
         "1-Dec"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: 5-Jun.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 1-Dec. Source answer key: 5-Jun.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82902,8 +83242,8 @@ window.OpenPharmacyQuestions = [
         "Oral pills"
       ]
     ],
-    "answer": "B",
-    "explanation": "NRR is the most significant indicator of feility. Sterilization accounts for 80% of effective couple protection and hence is the best method among the above choices.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Vasectomy. NRR is the most significant indicator of feility. Sterilization accounts for 80% of effective couple protection and hence is the best method among the above choices.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -82945,7 +83285,7 @@ window.OpenPharmacyQuestions = [
         "Trachoma"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Cataract 39% Glaucoma 10% tracoma3% diabeticretinopathy 4% Ref-Park&;s textbook of Preventive and social medicine 23rd edition. .",
     "rationales": {},
     "paper": "paper-2",
@@ -82988,8 +83328,8 @@ window.OpenPharmacyQuestions = [
         "Trade"
       ]
     ],
-    "answer": "B",
-    "explanation": "Accidents are a common features in most industries. In fact, some industries are known for accidents, eg: coal and other mining industries, quarrying, construction work.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Mining and quarrying. Accidents are a common features in most industries. In fact, some industries are known for accidents, eg: coal and other mining industries, quarrying, construction work.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83031,8 +83371,8 @@ window.OpenPharmacyQuestions = [
         "7"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 2.8.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 6. Source answer key: 2.8.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83074,7 +83414,7 @@ window.OpenPharmacyQuestions = [
         "Multivariate analysis"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Method Utility to control confounding Randomization 2nd best method Restriction Limiting study to people who have paicular characteristics Matching Mostly useful in case control studies, MC used method Stratification Useful for larger studies Statistical modeling When many confounding variables exist simultaneously Stratified randomization Best method",
     "rationales": {},
     "paper": "paper-2",
@@ -83119,7 +83459,7 @@ window.OpenPharmacyQuestions = [
         "Ozone"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Greenhouse gases are CO2 Methane CFC 12 HCFC 22 Nitrous oxide Tetrafluoromethane SO2 is not a Greenhouse gas but it causes global warming Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 794",
     "rationales": {},
     "paper": "paper-2",
@@ -83162,8 +83502,8 @@ window.OpenPharmacyQuestions = [
         "Nothing can be said, as they are independent"
       ]
     ],
-    "answer": "D",
-    "explanation": "Prevalence is less than incidence 1) Disease is very fatal Most of the cases die, so at the time of calculating prevalence the number is usually less than the incidence. 2) Disease is very well curable either by rapid recovery or by treatment Most of the cases recover, so at the time of calculating prevalence the number is usually less than incidence. Prevalence is more than incidence 1) Disease is not fatal but very chronic Due to increased duration, prevalence increases 2) Treatment prevent death but does not cure Due to increased duration, prevalence increases.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Disease is very fatal and/or easily curable. Prevalence is less than incidence 1) Disease is very fatal Most of the cases die, so at the time of calculating prevalence the number is usually less than the incidence. 2) Disease is very well curable either by rapid recovery or by treatment Most of the cases recover, so at the time of calculating prevalence the number is usually less than incidence. Prevalence is more than incidence 1) Disease is not fatal but very chronic Due to increased duration, prevalence increases 2) Treatment prevent death but does not cure Due to increased duration, prevalence increases.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83207,8 +83547,8 @@ window.OpenPharmacyQuestions = [
         "Permethrin"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: HHC.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Permethrin. Source answer key: HHC.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83250,8 +83590,8 @@ window.OpenPharmacyQuestions = [
         "5"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 5.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 10. Source answer key: 5.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83295,7 +83635,7 @@ window.OpenPharmacyQuestions = [
         "31st August"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "World no tobacco day is celebrated on 31st May. Ref: Health policies and programmes in India, D.K. Taneja 11th edition page: 368",
     "rationales": {},
     "paper": "paper-2",
@@ -83338,8 +83678,8 @@ window.OpenPharmacyQuestions = [
         "Two weeks before the symptoms and two week thereafter"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: One week before the symptoms and one week thereafter.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Two weeks before the symptoms and two week thereafter. Source answer key: One week before the symptoms and one week thereafter.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83381,7 +83721,7 @@ window.OpenPharmacyQuestions = [
         "Methane"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Atmosphere composition Nitrogen 78% O2 21% Argon 0.9% CO2 0.03%",
     "rationales": {},
     "paper": "paper-2",
@@ -83467,7 +83807,7 @@ window.OpenPharmacyQuestions = [
         "Ordinal data"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ordinal data is that data which has a meaningful arrangement of order but no valuable data or information can be obtained from the order arrangement. For example in the above question, though the data is arranged as satisfied, very satisfied and dissatisfied no information is obtainable as to what is the difference between satisfied and very satisfied and the difference between very satisfied and dissatisfied and so on. Thus this data is a ordinal data. Ref: High-Yield Bio statistics By Anthony N. Glaser; 3rd Edition; Page 4; Statistics for Management and Economics By Gerald Keller; Pages 13 - 16",
     "rationales": {},
     "paper": "paper-2",
@@ -83510,8 +83850,8 @@ window.OpenPharmacyQuestions = [
         "Line diagram"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Scatter diagram.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Line diagram. Source answer key: Scatter diagram.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83555,7 +83895,7 @@ window.OpenPharmacyQuestions = [
         "10 months"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Ans: A (4 months) Ref: Nelson Textbook of Pediatrics, 19th edition. Pg 27. Explanation: (See following table) Fine motor milestones MilestoneAverage age of attainment (in months)Developmental implicationsGrasps rattle3.5Object useReaches for objects4Visuomotor coordinationPalmar grasp gone4Voluntary releaseTransfers object hand to hand5.5Comparison of objectsThumb-finger grasp8Able to explore small objectsTurns pages of book12Increasing autonomy during book timeScribbles13Visuomotor coordinationBuilds tower of 2 cubes15Uses objects in combinationBuilds tower of 6 cubes22Requires visual, gross, and fine motor coordination",
     "rationales": {},
     "paper": "paper-2",
@@ -83598,7 +83938,7 @@ window.OpenPharmacyQuestions = [
         "Mine workers"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Emporiatrics is the term coined to describe the science of the health of travellers. Health maintenance recommendations are based not only on the traveler's destination but also on assessment of risk, which is determined by such variables as health status, specific itinerary, purpose of travel, season, and lifestyle during travel. Ref: Park's Textbook of Social and Preventive Medicine, 19th edition, Page 107.",
     "rationales": {},
     "paper": "paper-2",
@@ -83641,8 +83981,8 @@ window.OpenPharmacyQuestions = [
         "Human anatomical wastes"
       ]
     ],
-    "answer": "D",
-    "explanation": "Yellow color bags are used for disposal of: BMW Cat 1: Human anatomical wastes BMW Cat 2: Animal wastes BMW Cat 3: Microbiological and biotechnology waste BMW Cat 6: Soiled waste Container/bags are not required for disposal of BMW Cat 8: Liquid waste BMW Cat 10: Chemical waste BMW Cat 3: (if disinfected locally): Microbiological and biotechnology waste Ref: Park 25th edition Pgno: 827",
+    "answer": "A",
+    "explanation": "Source answer key: A. Reactive chemical wastes. Yellow color bags are used for disposal of: BMW Cat 1: Human anatomical wastes BMW Cat 2: Animal wastes BMW Cat 3: Microbiological and biotechnology waste BMW Cat 6: Soiled waste Container/bags are not required for disposal of BMW Cat 8: Liquid waste BMW Cat 10: Chemical waste BMW Cat 3: (if disinfected locally): Microbiological and biotechnology waste Ref: Park 25th edition Pgno: 827",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83684,7 +84024,7 @@ window.OpenPharmacyQuestions = [
         "Pie chart"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "ANSWER: (A) Line diagramREF: Park 20th edition page 747 &748, style=\"font-size: 1.04761904761905em; font-family: Times New Roman, Times, serif; margin: 0 0 0 8px; text-indent: 0; text-align: left\">\"Line diagrams are used to show the trend of events with passage of time\"PictographA pictograph uses an icon to represent a quantity of data : values in order to decrease the size of the graph. A key must be used to explain the icon.Advantages* Easy to read* Visually appealing* Handles large data sets easily using keyed iconsDisadvantages* Hard to quantify partial icons* Icons must be of consistent size* Best for only 2-6 categories* Very simplisticPie chartA pie chart displays categorical data as…",
     "rationales": {},
     "paper": "paper-2",
@@ -83729,8 +84069,8 @@ window.OpenPharmacyQuestions = [
         "Nibrio"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Staphalococci.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Clastridium pertringes. Source answer key: Staphalococci.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -83772,7 +84112,7 @@ window.OpenPharmacyQuestions = [
         "SSPE"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "<p>measles complications:- Most common complications are 1. Measles associated diarrhoea. 2. Pneumonia 3. Otitis media 4. Respiratory complications Pneumonia is the most life threatening complication. Pulmonary complications account for more than 90% of deaths due to measles. Neurological complications:- 1. Febrile convulsions 2. SSPE (subacute sclerosing pan encephalitis). This is a rare complication occuring after many years after measles infection. It is characterised by mental deterioration, paralysis, involuntary movements, muscle rigidity and coma. 3. Encephalitis Measles during pregnancy causes congenital anomalies in children. {Reference: park&;s textbook of preventive and social med…",
     "rationales": {},
     "paper": "paper-2",
@@ -83860,7 +84200,7 @@ window.OpenPharmacyQuestions = [
         "Screening"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Surveillance has been defined as the continuous scrutiny of all aspects of occurrence and the spread of diseases that are peinent to effective control. Surveillance goes beyond the passive repoing of cases Ref: 25th edition, Park's Textbook of Preventive and Social Medicine, Page no. 138",
     "rationales": {},
     "paper": "paper-2",
@@ -83946,7 +84286,7 @@ window.OpenPharmacyQuestions = [
         "Classify as severe pneumonia and refer urgently"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is `c' i.e., Classify as severe pneumonia, sta antibiotics and refer urgently",
     "rationales": {},
     "paper": "paper-2",
@@ -83989,7 +84329,7 @@ window.OpenPharmacyQuestions = [
         "Flannel graph"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "A demonstration is a carefully prepared presentation to show how to perform a skill or procedure. Here a procedure is carried out step by step before an audience. Demonstration is found to have high education value in programmes like teaching a mother the use of oral rehydration therapy at home. Ref: Park 21st edition, page: 803.",
     "rationales": {},
     "paper": "paper-2",
@@ -84034,8 +84374,8 @@ window.OpenPharmacyQuestions = [
         "S. Haemoglobin concentration"
       ]
     ],
-    "answer": "B",
-    "explanation": "The single most sensitive tool for evaluating the iron status is by measurement of serum ferritin. Hemoglobin concentration is relatively insensitive. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 623",
+    "answer": "C",
+    "explanation": "Source answer key: C. S. Ferritin. The single most sensitive tool for evaluating the iron status is by measurement of serum ferritin. Hemoglobin concentration is relatively insensitive. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 623",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -84077,8 +84417,8 @@ window.OpenPharmacyQuestions = [
         "50 days"
       ]
     ],
-    "answer": "B",
-    "explanation": "Incubation period of mumps varies from 2 to 4 weks, usually 14- 18 days Reference : Park&;s Textbook of preventive and social medicine, 24th edition.Pg no.162",
+    "answer": "C",
+    "explanation": "Source answer key: C. 12-24 days. Incubation period of mumps varies from 2 to 4 weks, usually 14- 18 days Reference : Park&;s Textbook of preventive and social medicine, 24th edition.Pg no.162",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -84120,7 +84460,7 @@ window.OpenPharmacyQuestions = [
         "50000 Lux"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The recommended illumination (IES Code)in watch manufacturing company is 2000-3000 lux Rule of thumb is that the illumination must be 30 times higher the level at which ask can be just done. Parks textbook of preventive and social medicine.K Park. Edition 23.page no:741.table2.",
     "rationales": {},
     "paper": "paper-2",
@@ -84163,7 +84503,7 @@ window.OpenPharmacyQuestions = [
         "Disability limitation"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Specific protection comes under Primary prevention. It prevents risk factor from progressing to disease. Ref : Park&;s Textbook of Preventive and Social Medicine; 23rd edition; Page 42",
     "rationales": {},
     "paper": "paper-2",
@@ -84251,7 +84591,7 @@ window.OpenPharmacyQuestions = [
         "Handicap"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Disability defined as lack of ability of an individual to do his routine activity Disease defined as a condition in which body health is impaired, a depaure from a state of health, an alteration of human body interupting the performance of vital functions Impairment is defined as any loss or abnormality of psychological, physiological,or anatomical structure or function Handicap defined as a disadvantage for a given individual,resulting from an impairment or disability , that limits or prevents the fulfilement of a role that is normal for that individual ref ;(page no;44) 23rd edition of PARK&;s textbook of Preventive and Social medicine",
     "rationales": {},
     "paper": "paper-2",
@@ -84339,8 +84679,8 @@ window.OpenPharmacyQuestions = [
         "2 tablets of 400 mg"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 2 tablets of 400 mg.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 200mg. Source answer key: 2 tablets of 400 mg.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -84382,8 +84722,8 @@ window.OpenPharmacyQuestions = [
         "Under value when measured by different method"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ans) b (It measures the thing.. ) Ref park 20th ed p 226The term validity refers to what extent the test accurately measures which it purports/ intended to measure.Validity expresses the ability of a test to separate or distinguish those who have the disease from those who do not have.Validity has two components - Sensitivity and specificitySensitivity and specificity together with \"predictive accuracy\" are inherent properties of a screening test.",
+    "answer": "B",
+    "explanation": "Source answer key: B. It measures the thing it expected to measure. Ans) b (It measures the thing.. ) Ref park 20th ed p 226The term validity refers to what extent the test accurately measures which it purports/ intended to measure.Validity expresses the ability of a test to separate or distinguish those who have the disease from those who do not have.Validity has two components - Sensitivity and specificitySensitivity and specificity together with \"predictive accuracy\" are inherent properties of a screening test.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -84427,8 +84767,8 @@ window.OpenPharmacyQuestions = [
         "Mutation in organism"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Mutation in organism.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Change in life style. Source answer key: Mutation in organism.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -84558,7 +84898,7 @@ window.OpenPharmacyQuestions = [
         "Map diagram"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans. is `c' i.e., Histogram",
     "rationales": {},
     "paper": "paper-2",
@@ -84601,7 +84941,7 @@ window.OpenPharmacyQuestions = [
         "Ministry of Labour"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "ESI act is an important measure of social security and health insurance in India. Administration: The Union Ministry of Labour is the Chairman of ESI corporation. Secretary to Govt. of India Ministry of Labour is Vice-Chairman of ESI.",
     "rationales": {},
     "paper": "paper-2",
@@ -84644,7 +84984,7 @@ window.OpenPharmacyQuestions = [
         "100 live births"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "(B) 1,00,000 live births # Maternal mortality rate (MMR) - number of maternal deaths per 1,00,000 women of reproductive age per year. In India it is about 120 as compared to 0.5 of United States.",
     "rationales": {},
     "paper": "paper-2",
@@ -84689,7 +85029,7 @@ window.OpenPharmacyQuestions = [
         "75%"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "HIV may pass from infected mother to foetus through placenta or to her infant during delivery. In absence of any intervention rate of this vary from 20-25%. Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 364",
     "rationales": {},
     "paper": "paper-2",
@@ -84732,8 +85072,8 @@ window.OpenPharmacyQuestions = [
         "Leaving home of first child"
       ]
     ],
-    "answer": "C",
-    "explanation": "-family is a group of biologically related individuals living together and eating from a common kitchen. - the stage of contraction of family begins when the first child leaves the home and ends when the last child leaves the home of parents. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:683 <\\p>",
+    "answer": "D",
+    "explanation": "Source answer key: D. Leaving home of first child. -family is a group of biologically related individuals living together and eating from a common kitchen. - the stage of contraction of family begins when the first child leaves the home and ends when the last child leaves the home of parents. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:683 <\\p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -84775,7 +85115,7 @@ window.OpenPharmacyQuestions = [
         "10 weeks"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "MTP act 1971, provides safeguards to the mother by authorizing only a Registered Medical Practitioner having experience in gynecology and obstetrics to perform aboion where the length of Pregnancy does not exceed 12 weeks Where the pregnancy exceeds 12 weeks and is not more than 20 weeks, the opinion of two Registered Medical Practitioners is necessary to terminate the pregnancy Reference : Park&;s textbook of preventive and social medicine, 23rd edition, Page no: 506",
     "rationales": {},
     "paper": "paper-2",
@@ -84949,7 +85289,7 @@ window.OpenPharmacyQuestions = [
         "D"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "(c) C* Point A marks the entry of infectious agent into the host* Point B marks the subclinical phase where symptoms and signs are not visible, but the disease agent induces tissue and physiological changes* Point C marks the Clinical horizon when symptoms and signs appear* Point D is present inside the Clinical phase after the Clinical horizon.ALSO REMEMBERNATURAL HISTORY OF DISEASE* Prepathogenesis phase* Pathogenesis phase:Begins with the entry of disease agent into the hostFinal outcome of the disease may be Recovery, Disability or DeathPathological changes are essentially below the level of Clinical horizonClinical stage begins when signs and symptoms appear",
     "rationales": {},
     "paper": "paper-2",
@@ -84992,8 +85332,8 @@ window.OpenPharmacyQuestions = [
         "Nutrition"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Education.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Spacing between pregnancies. Source answer key: Education.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85078,8 +85418,8 @@ window.OpenPharmacyQuestions = [
         "Stage 2 hypeension"
       ]
     ],
-    "answer": "A",
-    "explanation": "When systolic and diastolic blood pressures fall in different categories, the higher category is taken to classify the individual's blood pressure. Classification of blood pressure measurements: Category Systolic BP Diastolic BP Normal <130 <85 High normal 130-139 85-90 Stage 1 hypeension 140-159 90-99 Stage 2 hypeension 160-179 100-109 Stage 3 hypeension >180 >110 Ref: Park 21st edition, page 344.",
+    "answer": "B",
+    "explanation": "Source answer key: B. High normal BP. When systolic and diastolic blood pressures fall in different categories, the higher category is taken to classify the individual's blood pressure. Classification of blood pressure measurements: Category Systolic BP Diastolic BP Normal <130 <85 High normal 130-139 85-90 Stage 1 hypeension 140-159 90-99 Stage 2 hypeension 160-179 100-109 Stage 3 hypeension >180 >110 Ref: Park 21st edition, page 344.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85121,8 +85461,8 @@ window.OpenPharmacyQuestions = [
         "Mantoux test positive"
       ]
     ],
-    "answer": "D",
-    "explanation": "Epidemiological indices of TB Incidence of TB infection (Annual infection rate, Annual risk of infection - ARI) : percentage if population understudy who will be newly infected with TB among Non-infected in 1 year Express attacking force of TB in community In developing countries 1% ARI corresponds to : 50 SS +ve cases per 100000 general population. Tuberculin conversion index is the best indicator for evaluation of TB problem and its trend ' in the community Prevalence of TB infection Percentage of individuals who show a positive reaction to standard Tuberculin test. Represent cumulative experience of population in' recent as well as remote infection' with TB Tuberculin test is the only way…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Sputum positive. Epidemiological indices of TB Incidence of TB infection (Annual infection rate, Annual risk of infection - ARI) : percentage if population understudy who will be newly infected with TB among Non-infected in 1 year Express attacking force of TB in community In developing countries 1% ARI corresponds to : 50 SS +ve cases per 100000 general population. Tuberculin conversion index is the best indicator for evaluation of TB problem and its trend ' in the community Prevalence of TB infection Percentage of individuals who show a positive reaction to standard Tuberculin test. Represent cumulative experience of population in' recent as well as remote infection' with TB Tuberculin test is the only way…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85164,8 +85504,8 @@ window.OpenPharmacyQuestions = [
         "350"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 220.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 200. Source answer key: 220.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85207,7 +85547,7 @@ window.OpenPharmacyQuestions = [
         "Leprosy"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The yellow fever virus is transmitted by the bite of female mosquitoes (the yellow fever mosquito, Aedes aegypti. After transmission of the virus from a mosquito the viruses replicate in the lymph nodes and infect dendritic cells in paicular. Hepatitis-A and Cholera are transmitted through feco-oral route. Leprosy is transmitted by fomites.",
     "rationales": {},
     "paper": "paper-2",
@@ -85250,7 +85590,7 @@ window.OpenPharmacyQuestions = [
         "Antilarva oil"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Insecticides are substances used to kill insects. They are contact poisons,stomach poisons,fumigants. Stomach poisons are those which when ingested cause death of the insects. Examples are paris green and sodium flouride. DDT and pyrethrum are synthetic and natural contact poisons respectively. Parks textbook of preventive and social medicine.K Park.",
     "rationales": {},
     "paper": "paper-2",
@@ -85293,8 +85633,8 @@ window.OpenPharmacyQuestions = [
         "Live birth/10,000 population of reproductive age group (15-45)"
       ]
     ],
-    "answer": "D",
-    "explanation": "Fertility By fertility is meant the actual bearing of children. A woman's reproductive period is roughly from 15 to 45 years - a period of 30 years. Measurement of fertility are :- Birth rate General fertility rate (GFR) General marital fertility rate (GMFR) Age specific fertility rate (ASFR) Age specific marital fertility rate (ASMFR) Total fertility rate (TFR) Total marital fertility rate (TMFR) Gross reproduction rate (GRR) Net reproduction rate (NRR) Child woman ratio Pregnancy rate Abortion rate Abortion ratio Marriage rate Birth rate Birth rate defined as \"the number of live birth per 1000 estimated mid yr. populations in a give yr.\" Birth rate = Number of live birth during the year /…",
+    "answer": "A",
+    "explanation": "Source answer key: A. Live birth/1000 mid yr. population. Fertility By fertility is meant the actual bearing of children. A woman's reproductive period is roughly from 15 to 45 years - a period of 30 years. Measurement of fertility are :- Birth rate General fertility rate (GFR) General marital fertility rate (GMFR) Age specific fertility rate (ASFR) Age specific marital fertility rate (ASMFR) Total fertility rate (TFR) Total marital fertility rate (TMFR) Gross reproduction rate (GRR) Net reproduction rate (NRR) Child woman ratio Pregnancy rate Abortion rate Abortion ratio Marriage rate Birth rate Birth rate defined as \"the number of live birth per 1000 estimated mid yr. populations in a give yr.\" Birth rate = Number of live birth during the year /…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85336,7 +85676,7 @@ window.OpenPharmacyQuestions = [
         "Mumbai"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The government of india has established a national institute of Ayurveda in Jaipur and a national institute of homeopathy in Kolkata. Ref: Park 21st edition, page 849.",
     "rationales": {},
     "paper": "paper-2",
@@ -85379,8 +85719,8 @@ window.OpenPharmacyQuestions = [
         "1000 mg"
       ]
     ],
-    "answer": "D",
-    "explanation": "- daily intake of vitamin A recommended by ICMR for infants is 350 mcg retinol. - daily intake of vitamin A recommended by ICMR for infants is 2800 mcg beta carotene. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:616 <\\p>",
+    "answer": "A",
+    "explanation": "Source answer key: A. 350 mg. - daily intake of vitamin A recommended by ICMR for infants is 350 mcg retinol. - daily intake of vitamin A recommended by ICMR for infants is 2800 mcg beta carotene. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:616 <\\p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85422,8 +85762,8 @@ window.OpenPharmacyQuestions = [
         "ac"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: da.",
+    "answer": "B",
+    "explanation": "Source answer key: B. abc. Source answer key: da.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85465,8 +85805,8 @@ window.OpenPharmacyQuestions = [
         "Thorocotomy"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Segmental resection.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Lobectomies. Source answer key: Segmental resection.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85510,7 +85850,7 @@ window.OpenPharmacyQuestions = [
         "200"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Crude Bih rate: Annual number of live bihs per 1000 mid year population Here, CBR is 30 per 1000 population So for 5000 population - 30/1000 x5000 = 150 That implies, no of pregnant women is 150 Ref: Park 25th edition Pgno : 532",
     "rationales": {},
     "paper": "paper-2",
@@ -85553,7 +85893,7 @@ window.OpenPharmacyQuestions = [
         "4"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Degree of freedom = (C-1) (R-1) Given rows = 3 ; columns = 2 DOF = (2-1) (3-1) = 1x2 = 2",
     "rationales": {},
     "paper": "paper-2",
@@ -85596,7 +85936,7 @@ window.OpenPharmacyQuestions = [
         "Oralpills"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Sterilization is the most effective contraception to achieve NRR =1 Male sterilization Male sterilization or vasectomy being a comparatively* simple operation can be performed even in primary health centres by trained doctors under local anaesthesia. When carried out under strict aseptic technique, it should have no risk of moality. In vasectomy, it is customary to remove a piece of vas at least 1 cm after clamping. The ends are ligated and then folded back on themselves and sutured into position, so that the cut ends face away from each other. This will reduce the risk of recanalization at a later date. It is important to stress that the acceptor is not immediately sterile after the operation…",
     "rationales": {},
     "paper": "paper-2",
@@ -85639,7 +85979,7 @@ window.OpenPharmacyQuestions = [
         "Glass syringes"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": ".sterilizers which operate at high temperatures and pressure are called autoclaves.they generate steam under pressure or saturated steam which is the most effective sterilizing agent.they fall in two categories,grvity displacement autoclaves and high speed pre-vaccum autoclaves.works on the same principle as that of a pressure cooker.widely used in the hospital and laboratry practice.it destroys all forms of life,including spores.most effective method for the sterilization of linen,dressings,gloves,syringes,and culture media.not suitable for sterilization of plastic and sharp instruments. ref:park&;s textbook,ed 22,pg no 120",
     "rationales": {},
     "paper": "paper-2",
@@ -85682,8 +86022,8 @@ window.OpenPharmacyQuestions = [
         "Physical activity"
       ]
     ],
-    "answer": "A",
-    "explanation": "Year → World Health Day (WHD) Theme 2004 → Road safety is no accident 2005 → Make every mother and child count 2006 → Working together for health 2007 → International health security: Invest in health, build a safer future 2008 → Protecting health from climate change 2009 → Health facilities in emergencies",
+    "answer": "B",
+    "explanation": "Source answer key: B. Maternal and child health. Year → World Health Day (WHD) Theme 2004 → Road safety is no accident 2005 → Make every mother and child count 2006 → Working together for health 2007 → International health security: Invest in health, build a safer future 2008 → Protecting health from climate change 2009 → Health facilities in emergencies",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85725,7 +86065,7 @@ window.OpenPharmacyQuestions = [
         "Adolescence"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The incidence of mental illness is the maximum if the causal factors affect a paicular period of first five years of life crucial points in the life cycle of human being which are important from the view of mental health are prenatal period, first five years of life, school child , adolescence, old age. ref ;(page no;832)23rd edition of PARK&;s textbook of Preventive and Social medicine",
     "rationales": {},
     "paper": "paper-2",
@@ -85770,8 +86110,8 @@ window.OpenPharmacyQuestions = [
         "Prevention of disability and rehabilitation"
       ]
     ],
-    "answer": "A",
-    "explanation": "Modes Primordial Before the emergence of risk factor Health education Primary Risk factor but no disease yet Health promotion, specific protection Secondary Disease possible staed in the body Early diagnosis, Treatment Teiary Disease is already in progression Disability limitation , Rehabilitation",
+    "answer": "B",
+    "explanation": "Source answer key: B. Prevention of disease in Pre-pathogenesis phase. Modes Primordial Before the emergence of risk factor Health education Primary Risk factor but no disease yet Health promotion, specific protection Secondary Disease possible staed in the body Early diagnosis, Treatment Teiary Disease is already in progression Disability limitation , Rehabilitation",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -85813,7 +86153,7 @@ window.OpenPharmacyQuestions = [
         "Eichosa pentanoic acid"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "- Fatty acid found exclusively in breast milk: DHA (Docosa hexanoic acid) - It aids in development of brain by promoting myelination of neurons. OTHER ESSENTIAL FATTY ACIDS & THEIR RICH SOURCES: Linoleic acid, Arachidonic acid - Safflower oil Linolenic acid - flaxseed oil, soyabean oil Eichosa pentanoic acid - fish oils.",
     "rationales": {},
     "paper": "paper-2",
@@ -85985,8 +86325,8 @@ window.OpenPharmacyQuestions = [
         "Contains less fat soluble vitamin"
       ]
     ],
-    "answer": "C",
-    "explanation": "Vegetable fats are more unsaturated than animal fats, PUFA is found mostly in vegetable fats. However, there are exceptions, as for example coconut and palm oils although vegetable oils, have an extremely high percentage of saturated fatty acids. On the other hand , fish oil contain good percentage of PUFA Vegetable fats are less stable. They contain high no. of unsaturated bonds which undergo spontaneous oxidation at the double bond forming aldehydes,ketones and resins. Vegetable fats are less atherosclerotic; In fact PUFA have a favorable effect on serum lipid profile. They decrease LDL and increase HDL ( good cholesterol ).Essential fatty acids ( high percentage in vegetable fat) decrease…",
+    "answer": "D",
+    "explanation": "Source answer key: D. Contains less fat soluble vitamin. Vegetable fats are more unsaturated than animal fats, PUFA is found mostly in vegetable fats. However, there are exceptions, as for example coconut and palm oils although vegetable oils, have an extremely high percentage of saturated fatty acids. On the other hand , fish oil contain good percentage of PUFA Vegetable fats are less stable. They contain high no. of unsaturated bonds which undergo spontaneous oxidation at the double bond forming aldehydes,ketones and resins. Vegetable fats are less atherosclerotic; In fact PUFA have a favorable effect on serum lipid profile. They decrease LDL and increase HDL ( good cholesterol ).Essential fatty acids ( high percentage in vegetable fat) decrease…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -86071,7 +86411,7 @@ window.OpenPharmacyQuestions = [
         "5"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Total no.of female deaths due to complication of pregnancy, childbih or within 42 days of delivery from puerperal causes in an area during a given year. ---------------------------------------------------------------------------------------------------- x 1000 Total no. of live bihs in the same area and year. 6/360 x 1000= 0.0166 x 1000 = 16.6 Ref: Park, 20th Edition, Page 479.",
     "rationales": {},
     "paper": "paper-2",
@@ -86114,8 +86454,8 @@ window.OpenPharmacyQuestions = [
         ">30 breaths/ min"
       ]
     ],
-    "answer": "A",
-    "explanation": "Criteria for fast breathing AGE Respiratory Rate <2 months >60/minute 2-12 months >50/minute 12 months-5 years >40/minute",
+    "answer": "B",
+    "explanation": "Source answer key: B. >50 breaths/ min. Criteria for fast breathing AGE Respiratory Rate <2 months >60/minute 2-12 months >50/minute 12 months-5 years >40/minute",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -86157,8 +86497,8 @@ window.OpenPharmacyQuestions = [
         "1 month"
       ]
     ],
-    "answer": "B",
-    "explanation": "Post exposure prophylaxis may be discontinued if the suspected animal is proved by appropriate laboratory examination to be free of rabies or in the case of domestic dogs, cats or ferrets, the animal remains healthy throughout a 10 day observation period staing from the date of bite Reference ; Park&;s Textbook of preventive and social medicine,24th edition.Pg no. 297",
+    "answer": "C",
+    "explanation": "Source answer key: C. 10 days. Post exposure prophylaxis may be discontinued if the suspected animal is proved by appropriate laboratory examination to be free of rabies or in the case of domestic dogs, cats or ferrets, the animal remains healthy throughout a 10 day observation period staing from the date of bite Reference ; Park&;s Textbook of preventive and social medicine,24th edition.Pg no. 297",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -86200,7 +86540,7 @@ window.OpenPharmacyQuestions = [
         "4.5"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "If the number of samples is an even number, the median is midway between the two middle scores. (3+4)/2=3.5 Ref : Medical biostatistics, 1st edition pg: 111",
     "rationales": {},
     "paper": "paper-2",
@@ -86245,8 +86585,8 @@ window.OpenPharmacyQuestions = [
         "Feed to malnourished children"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Early registration of pregnancy upto 12-16 weeks.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Feed to malnourished children. Source answer key: Early registration of pregnancy upto 12-16 weeks.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -86288,8 +86628,8 @@ window.OpenPharmacyQuestions = [
         "10%"
       ]
     ],
-    "answer": "D",
-    "explanation": "The incidence of undescended testes is approximately 30% in preterm infants and 1 to 3% in term infants. Ref: Schwaz's principle of surgery 9th edition, chapter 39.",
+    "answer": "A",
+    "explanation": "Source answer key: A. <5%. The incidence of undescended testes is approximately 30% in preterm infants and 1 to 3% in term infants. Ref: Schwaz's principle of surgery 9th edition, chapter 39.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -86333,7 +86673,7 @@ window.OpenPharmacyQuestions = [
         "28-23 years"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "When crude death rate is substracted from crude bih rate , the net residual is current annual grow rate , exclusive of migration. When the annual growth rate of a population is 1.5% to 2.0%, it takes 35-47 years to double the size of population. Reference : Park&;s textbook of preventive and social medicine, 23rd edition, pg no: 481, table 5",
     "rationales": {},
     "paper": "paper-2",
@@ -86376,7 +86716,7 @@ window.OpenPharmacyQuestions = [
         "55%"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Coefficient of variation: - Is a measure used to compare relative variability - Is a unit-free measure to compare dispersion of one variable with another - Is SD expressed as percentage of mean CV = In the given question, Mean weight (u) = 12 kg, n = 100, Standard detion (s) = 3 Thus, coefficient of variance =s/ux 100 = 3/12 x100 = 25%",
     "rationales": {},
     "paper": "paper-2",
@@ -86421,8 +86761,8 @@ window.OpenPharmacyQuestions = [
         "Coconut oil"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Groundnut oil.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Safflower oil. Source answer key: Groundnut oil.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "epidemiology",
@@ -86507,7 +86847,7 @@ window.OpenPharmacyQuestions = [
         "Sample registration system"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Sample registration system (SRS) : Was initiated in 1964-65 (on a pilot basis ; Full scale from 1969-70) to provide national as well as state level reliable estimates of feility and Moality SRS is a dual record system Field investigation : Continuous enumeration of bihs and deaths by an enumerator Independent retrospective survey : Every 6 months by an investigator-supervisor Findings of SRS survey Crude bih rate (CBR) : 20.4 per 1000 mid year population Crude Death rate (CDR) : 6. 4 per 1000 mid year population Natural growth rate : 14% Infant Moality rate (IMR) : 34 per 1000 live bihs Ref: Park 23rd edition 904",
     "rationales": {},
     "paper": "paper-2",
@@ -86986,7 +87326,7 @@ window.OpenPharmacyQuestions = [
         "T. tonsurans"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "C. albicans and Candida tropicalis are opportunistic fungi, and as part of the normal flora are not transmitted by inhalation. C. immitis is a dimorphic fungus and inhalation of the spores transmits the infection. Sprothrix is also a dimorphic fungus but its portal of entry is cutaneous. Trychophyton is a dermatophyte and one of the causes of athlete's foot.",
     "rationales": {},
     "paper": "paper-2",
@@ -87031,8 +87371,8 @@ window.OpenPharmacyQuestions = [
         "0.02 hr"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: 77 hr.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 40 hr. Source answer key: 77 hr.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87074,7 +87414,7 @@ window.OpenPharmacyQuestions = [
         "Autosomal dominant"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Menkes syndrome is an X linked recessive disorder characterized by a mutation in ATP7a or MNK gene encoding copper binding ATPase leading to deficient copper transpo and metabolism with subsequently low serum copper. Pili tori is the most common hair manifestation, showing flattening and twisting at 180 degree angles. Children show progressive neurologic degeneration with mental retardation, failure to thrive and hypotonia. X-linked Recessive disease is seen only in males because males have only one X chromosome. There is no male to male transmission. Heterozygous females are clinically normal but may be detected by subtle clinical features. Ref: Embryology By Ronald W. Dudek, 3rd Edition, P…",
     "rationales": {},
     "paper": "paper-2",
@@ -87119,7 +87459,7 @@ window.OpenPharmacyQuestions = [
         "Increasing uveoscleral outflow"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Lantanoprost is prastoglandin in nature and decrease the intraocular pressure by increasing uveoscleral outflow of aqueous humour. It is very good adjunctive therapy along with betablockers, dorzolamide and pilocarpine. Ref: A.K KHURANA (2005), Chapter 9, \"Glaucoma\", In the book, \"Opthalmology\", 3rd Edition, Newdelhi, Page 229 ; KDT 5th Edition, Page 88",
     "rationales": {},
     "paper": "paper-2",
@@ -87164,8 +87504,8 @@ window.OpenPharmacyQuestions = [
         "Contaminated blood products"
       ]
     ],
-    "answer": "D",
-    "explanation": "most common mode of transmission of HIV virus is through hetrosexual REF:ANANTHANARAYANAN TEXT BOOK OF MICROBIOLOGY 9EDITION PGNO.570",
+    "answer": "A",
+    "explanation": "Source answer key: A. Heterosexual. most common mode of transmission of HIV virus is through hetrosexual REF:ANANTHANARAYANAN TEXT BOOK OF MICROBIOLOGY 9EDITION PGNO.570",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87209,8 +87549,8 @@ window.OpenPharmacyQuestions = [
         "33-35 cm"
       ]
     ],
-    "answer": "C",
-    "explanation": "Head circumference:- Measured with a nonstretchable tape passing through the maximum point of occipital protuberance posteriorly and at a point just above the glabella anteriorly. Head circumference must be compared with that of mother to know any familial variations. If the head circumference is more than expected, always measure the both parents' head circumference, for benign familial megalencephaly is common. At birth , it is around 34 cm.HC increases 2cm/ month for the first 3 months, 1cm/month for next three months and 0.5 cm per month for next 6 months.",
+    "answer": "D",
+    "explanation": "Source answer key: D. 33-35 cm. Head circumference:- Measured with a nonstretchable tape passing through the maximum point of occipital protuberance posteriorly and at a point just above the glabella anteriorly. Head circumference must be compared with that of mother to know any familial variations. If the head circumference is more than expected, always measure the both parents' head circumference, for benign familial megalencephaly is common. At birth , it is around 34 cm.HC increases 2cm/ month for the first 3 months, 1cm/month for next three months and 0.5 cm per month for next 6 months.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87252,8 +87592,8 @@ window.OpenPharmacyQuestions = [
         "Anti HBs"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: HBsAg.",
+    "answer": "B",
+    "explanation": "Source answer key: B. HBeAg. Source answer key: HBsAg.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87295,8 +87635,8 @@ window.OpenPharmacyQuestions = [
         "Penicillin G"
       ]
     ],
-    "answer": "C",
-    "explanation": "<p> It is a case of leptospirosis and the drug of choice is penicillin. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:292. <\\p>",
+    "answer": "D",
+    "explanation": "Source answer key: D. Penicillin G. <p> It is a case of leptospirosis and the drug of choice is penicillin. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:292. <\\p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87338,7 +87678,7 @@ window.OpenPharmacyQuestions = [
         "80"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "<p> EGG Contain all the nutrients except carbohydrates and vitamin C. An egg weighing 60g contains 6g of protein, 6g of fat , 30 mg of calcium and 1.5 mg of iron, and supplies about 70 kcal of energy. Egg proteins have all the nine essential aminoacids needed by body in right proportions. Egg protein is the standard against which the quality of other proteins is compared. Except for vitamin C, egg contains all the fat soluble and water soluble vitamins in appreciable amounts. Impoant minerals such as calcium, phosphorous, iron, zinc, and other trace elements. NPU (Net protein Utilization) is 100 for egg . Boiling destroys avidin , a substance which prevents the body from obtaining biotin . {Re…",
     "rationales": {},
     "paper": "paper-2",
@@ -87381,7 +87721,7 @@ window.OpenPharmacyQuestions = [
         "New York"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "The United Nations Educational, Scientific and Cultural Organization (UNESCO is a specialized agency of the United nations (UN) based in Paris , France. Its declared purpose is to contribute to promoting international collaboration in education, sciences, and culture in order to increase universal respect for justice, the rule of law , and human rights .",
     "rationales": {},
     "paper": "paper-2",
@@ -87469,7 +87809,7 @@ window.OpenPharmacyQuestions = [
         "No Pneumonia"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The child is unable to drink water for 12hrs & weight of the child is 5kg which is less than expected (12kg), which shows severe malnutrition. Inability to drink constitutes a danger sign amongst the clinical manifestations and classifies the pneumonia as very severe disease. Ref: Park's Textbook Of Preventive And Social Medicine By K. Park, 19th Edition, Page 146; Park's Textbook Of Preventive And Social Medicine By K. Park, 18th Edition, Page 142, 143",
     "rationales": {},
     "paper": "paper-2",
@@ -87512,8 +87852,8 @@ window.OpenPharmacyQuestions = [
         "Bih asphyxia"
       ]
     ],
-    "answer": "B",
-    "explanation": "The principal causes of infant moality in India are low bih weight (57%), respiratory infections (17%), diarrhoeal diseases(4%), congenital malformations (5%), cord infections (2%), bih injury (3%) Park 23e pg:569",
+    "answer": "C",
+    "explanation": "Source answer key: C. Tetanus. The principal causes of infant moality in India are low bih weight (57%), respiratory infections (17%), diarrhoeal diseases(4%), congenital malformations (5%), cord infections (2%), bih injury (3%) Park 23e pg:569",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87645,8 +87985,8 @@ window.OpenPharmacyQuestions = [
         "Gross a activity 10 Bq/L and Gross b activity 1.0 Bq/L"
       ]
     ],
-    "answer": "B",
-    "explanation": "Key guideline aspects of WHO recommended drinking water quality: – Colour < 15 true colour units (TCU) Turbidity < 5 nephlometric turbidity units (NTU) pH: 6.5 – 8.5 Total dissolved solids (TDS) < 600 mg/litre Zero pathogenic microorganisms Zero infectious viruses Absence of pathogenic protozoa and infective stages of helminthes Fluorine < 1.5 ppm (0.5 – 0.8 ppm: Optimum level) Nitrates < 50 mg/litre Nitrites < 3 mg/litre Gross alpha radiological activity < 0.5 Bq/litre (New Guideline — WhO) Gross beta radiological activity < 1.0 Bq/litre (New Guideline — WhO).",
+    "answer": "C",
+    "explanation": "Source answer key: C. Gross a activity 0.1 Bq/L and Gross b activity 1.0 Bq/L. Key guideline aspects of WHO recommended drinking water quality: – Colour < 15 true colour units (TCU) Turbidity < 5 nephlometric turbidity units (NTU) pH: 6.5 – 8.5 Total dissolved solids (TDS) < 600 mg/litre Zero pathogenic microorganisms Zero infectious viruses Absence of pathogenic protozoa and infective stages of helminthes Fluorine < 1.5 ppm (0.5 – 0.8 ppm: Optimum level) Nitrates < 50 mg/litre Nitrites < 3 mg/litre Gross alpha radiological activity < 0.5 Bq/litre (New Guideline — WhO) Gross beta radiological activity < 1.0 Bq/litre (New Guideline — WhO).",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87688,7 +88028,7 @@ window.OpenPharmacyQuestions = [
         "Yaksma"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Case Notification can be done online through NIKSHAY, Which is case based online TB notification system developed by the central TB Division. Ref: Pg.no: 318;IAPSM Textbook of Community Medicine.",
     "rationales": {},
     "paper": "paper-2",
@@ -87776,8 +88116,8 @@ window.OpenPharmacyQuestions = [
         "Radium"
       ]
     ],
-    "answer": "C",
-    "explanation": "Many chemicals can, when properly used, significantly contribute to the improvement of our quality of life, health and well-being. But other chemicals are highly hazardous and can negatively affect our health and environment when improperly managed.10 chemicals or groups of chemicals of major public health concern are: Air pollution Arsenic Asbestos Benzene Cadmium Dioxin and dioxin-like substances Inadequate or excess fluoride Lead Mercury Highly hazardous pesticides Ref :",
+    "answer": "D",
+    "explanation": "Source answer key: D. Radium. Many chemicals can, when properly used, significantly contribute to the improvement of our quality of life, health and well-being. But other chemicals are highly hazardous and can negatively affect our health and environment when improperly managed.10 chemicals or groups of chemicals of major public health concern are: Air pollution Arsenic Asbestos Benzene Cadmium Dioxin and dioxin-like substances Inadequate or excess fluoride Lead Mercury Highly hazardous pesticides Ref :",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87907,8 +88247,8 @@ window.OpenPharmacyQuestions = [
         "Fischer test"
       ]
     ],
-    "answer": "A",
-    "explanation": "Ref:Park's Textbook of Preventive and Social Medicine 25th Ed",
+    "answer": "B",
+    "explanation": "Source answer key: B. Unpaired t test. Ref:Park's Textbook of Preventive and Social Medicine 25th Ed",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -87995,8 +88335,8 @@ window.OpenPharmacyQuestions = [
         "Ski diagram"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Ski diagram.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Histogram. Source answer key: Ski diagram.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88038,8 +88378,8 @@ window.OpenPharmacyQuestions = [
         "More than 50%"
       ]
     ],
-    "answer": "A",
-    "explanation": "HIV transmission in absence of intervention: MTCT of HIV in developed countries: 20% (15-25%) MTCT transmission of HIV in developing countries: 30% (25-35%)",
+    "answer": "B",
+    "explanation": "Source answer key: B. 15-30%. HIV transmission in absence of intervention: MTCT of HIV in developed countries: 20% (15-25%) MTCT transmission of HIV in developing countries: 30% (25-35%)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88081,8 +88421,8 @@ window.OpenPharmacyQuestions = [
         "Krishnan Committee"
       ]
     ],
-    "answer": "A",
-    "explanation": "HLEG Recommendations High Level Expert Group (HLEG, Planning Commission, GOI) on Universal health Coverage has suggested 3½ year MBBS course for serving rural population HLEG was developed for XII Five Year Plan Rural doctors will be called as ‘Community Health Officers’ 3½ Degree given: B.Sc. Community Health",
+    "answer": "B",
+    "explanation": "Source answer key: B. Expert Level Committee on Universal Health Coverage. HLEG Recommendations High Level Expert Group (HLEG, Planning Commission, GOI) on Universal health Coverage has suggested 3½ year MBBS course for serving rural population HLEG was developed for XII Five Year Plan Rural doctors will be called as ‘Community Health Officers’ 3½ Degree given: B.Sc. Community Health",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88124,7 +88464,7 @@ window.OpenPharmacyQuestions = [
         "175"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "ANSWER: (B) 150REF: Park 20th edition page 678\"The size of the opening of mosquito net is of utmost importance- the size should not exceed 0.0475 inch in any diameter. The number of holes in one square inch is usually 150\"",
     "rationales": {},
     "paper": "paper-2",
@@ -88167,8 +88507,8 @@ window.OpenPharmacyQuestions = [
         "Centchroman"
       ]
     ],
-    "answer": "B",
-    "explanation": "- Amongst the choices, third generation is most effective with a failure rate of only 0.2/HWY. PEARL INDEX OF DIFFERENT CONTRACEPTIONS: Male condoms 2-14 / HWY Female condoms 5-21 / HWY Centchroman 1.84 - 2.84 /HWY OCPs 0.1 - 2 /HWY Sterilization 0.1 / HWY Vaginal sponge 9-20 / HWY",
+    "answer": "C",
+    "explanation": "Source answer key: C. Third generation IUCD. - Amongst the choices, third generation is most effective with a failure rate of only 0.2/HWY. PEARL INDEX OF DIFFERENT CONTRACEPTIONS: Male condoms 2-14 / HWY Female condoms 5-21 / HWY Centchroman 1.84 - 2.84 /HWY OCPs 0.1 - 2 /HWY Sterilization 0.1 / HWY Vaginal sponge 9-20 / HWY",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88210,8 +88550,8 @@ window.OpenPharmacyQuestions = [
         "Delta error"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Delta error.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Alpha error. Source answer key: Delta error.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88296,8 +88636,8 @@ window.OpenPharmacyQuestions = [
         "Tuberculosis positive"
       ]
     ],
-    "answer": "B",
-    "explanation": "- the case in tuberculosis is defined as the one in which sputum positive for acid fast bacilli is detected. Reference: Park's textbook of preventive and social medicine, 23rd edition, pg no:182 <\\p>",
+    "answer": "C",
+    "explanation": "Source answer key: C. Sputum AFB positive. - the case in tuberculosis is defined as the one in which sputum positive for acid fast bacilli is detected. Reference: Park's textbook of preventive and social medicine, 23rd edition, pg no:182 <\\p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88384,7 +88724,7 @@ window.OpenPharmacyQuestions = [
         "10 months"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Exclusive breast feeding : The baby should be given only breast milk and nothing else (not even water) for first 6 months of life. Weaning should be started by 6 months of age with semisolid food, in addition to continuing breast feeding. The WHO recommends exclusive breast feeding for the first six months of life and then breast feeding up to two years or more.___ Internet Complementary feeding means giving the child other nutritious foods in addition to breast milk. Breast feeding is sufficient food for first 6 months. Thereafter, concentrated energy dense complementary foods are essential in order to maintain an adequate velocity of growth for the infant.",
     "rationales": {},
     "paper": "paper-2",
@@ -88427,7 +88767,7 @@ window.OpenPharmacyQuestions = [
         "Per lakh live births"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Per 1000 live birthsRef: Park 20thed./488",
     "rationales": {},
     "paper": "paper-2",
@@ -88472,8 +88812,8 @@ window.OpenPharmacyQuestions = [
         "Burrow index"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Total flea index.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Cheopis index. Source answer key: Total flea index.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88560,7 +88900,7 @@ window.OpenPharmacyQuestions = [
         "2.75%"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "- ESI scheme is run by contributions by employees and employers and grants from central and state governments. - the employer contributes 4.75 percent of total wage bill. Reference: Park's textbook of preventive and social medicine, 23rd edition, pg no:816 <\\p>",
     "rationales": {},
     "paper": "paper-2",
@@ -88603,7 +88943,7 @@ window.OpenPharmacyQuestions = [
         "Equal and unknown chances"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Source answer key: Unequal and known chances.",
     "rationales": {},
     "paper": "paper-2",
@@ -88646,7 +88986,7 @@ window.OpenPharmacyQuestions = [
         "Congenital Dislocation of Hip"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Most common neonatal disorder to be screened is Neonatal hypothyroidism (NNH) Blood sample is collected from Cord's Blood /fromheel prick after 24hrs of bih Test- measurement of T4 or TSH /both simultaneously. As a single method, T4 is more useful (greater precision and reproducibility) Congenital Hypothyroidism is one of the most common preventable cause of mental retardation. Hence, neonatal screening & early supplementation of thyroid hormones can prevent this mental retardation.",
     "rationales": {},
     "paper": "paper-2",
@@ -88689,8 +89029,8 @@ window.OpenPharmacyQuestions = [
         "2630"
       ]
     ],
-    "answer": "A",
-    "explanation": "Group Category / Age Body weight (Kg) Net energy (Kcal/d) Protein (g/d) Man Sedentary work Moderate work Heavy work 60 2,320 2,730 3,490 60.0 Woman Sedentary work Moderate work Heavy work Pregnant woman Lactation 0-6 m 6-12 months 55 1,900 2,230 2,850 +350 +600 +520 55.0 78 74 68 Infants 0-6 months 6-12 months 5.4 8.4 92 kcal/Kg/d 80 kcal/kg/d 1.16g / kg/d 1.69 g/kg/d Children 1-3 years 4-6 years 7-9 years 12.9 18.0 25.1 1,060 1,350 1,690 16.7 20.1 29.5 Boys 10-12 years 34.3 2,190 39.9 Girls 10-12 years 35.0 2,010 40.4 Boys 13-15 years 47.6 2,750 54.3 Girls 13-15 years 46.6 2,330 51.9 Boys 16-17 years 55.4 3,020 61.5 Girls 16-17 years 52.1 2,440 55.5 Energy Requirements Adult Man: ~2300 kcal…",
+    "answer": "B",
+    "explanation": "Source answer key: B. 2580. Group Category / Age Body weight (Kg) Net energy (Kcal/d) Protein (g/d) Man Sedentary work Moderate work Heavy work 60 2,320 2,730 3,490 60.0 Woman Sedentary work Moderate work Heavy work Pregnant woman Lactation 0-6 m 6-12 months 55 1,900 2,230 2,850 +350 +600 +520 55.0 78 74 68 Infants 0-6 months 6-12 months 5.4 8.4 92 kcal/Kg/d 80 kcal/kg/d 1.16g / kg/d 1.69 g/kg/d Children 1-3 years 4-6 years 7-9 years 12.9 18.0 25.1 1,060 1,350 1,690 16.7 20.1 29.5 Boys 10-12 years 34.3 2,190 39.9 Girls 10-12 years 35.0 2,010 40.4 Boys 13-15 years 47.6 2,750 54.3 Girls 13-15 years 46.6 2,330 51.9 Boys 16-17 years 55.4 3,020 61.5 Girls 16-17 years 52.1 2,440 55.5 Energy Requirements Adult Man: ~2300 kcal…",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88732,8 +89072,8 @@ window.OpenPharmacyQuestions = [
         "Methionine"
       ]
     ],
-    "answer": "A",
-    "explanation": "- essential aminoacid are the one that cannot be synthesised in the body corresponding to the needs. Thus need to be supplied through diet. - they are leucine, isoleucine, lysine, methionine, phenylalanine, threonine, valine, tryptophan and histidine. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:609 <\\p>",
+    "answer": "B",
+    "explanation": "Source answer key: B. Proline. - essential aminoacid are the one that cannot be synthesised in the body corresponding to the needs. Thus need to be supplied through diet. - they are leucine, isoleucine, lysine, methionine, phenylalanine, threonine, valine, tryptophan and histidine. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:609 <\\p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88818,8 +89158,8 @@ window.OpenPharmacyQuestions = [
         "2 years"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: 3 years.",
+    "answer": "B",
+    "explanation": "Source answer key: B. 5 years. Source answer key: 3 years.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88861,8 +89201,8 @@ window.OpenPharmacyQuestions = [
         "General marital fertility rate"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Total marital fertility rate.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Total fertility rate. Source answer key: Total marital fertility rate.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -88904,7 +89244,7 @@ window.OpenPharmacyQuestions = [
         "LNG-20"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Ans. is `d i.e., LNG-20 LNG-20 is third generation IUD which does not contain cooper. Other three options are 2\"d generation (copper containing) IUDs.",
     "rationales": {},
     "paper": "paper-2",
@@ -88947,7 +89287,7 @@ window.OpenPharmacyQuestions = [
         "France"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "A \"Rabies-free\" area has been defined as one in which no case of indigenously acquired rabies has occurred in man or any animal species for 2 years. Australia, China (Taiwan), Cyprus, Iceland, Ireland, Japan, Malta, New Zealand, the U.K. and the islands of Western Pacific are all free of the disease. The Liberian Peninsula and Finland, Norway and Sweden are also rabies free. In India, Union Territory of Lakshadweep and Andaman and Nicobar islands are free of the disease. Ref: Textbook of Preventive and Social Medicine by K Park, 19th edition, Page 226.",
     "rationales": {},
     "paper": "paper-2",
@@ -88990,7 +89330,7 @@ window.OpenPharmacyQuestions = [
         "District level"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "In NRHM at village level with 1000 population, one ASHA and AWWs are present Ref: Park&;s textbook of preventive and social medicine 23rd edition",
     "rationales": {},
     "paper": "paper-2",
@@ -89033,7 +89373,7 @@ window.OpenPharmacyQuestions = [
         "1981"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "The International Drinking Water Supply and Sanitation Decade Programme launched in 1981. Targets set were 100 percentage for water, both urban and rural, 80% for urban sanitation and 25% for rural sanitation. Ref: Park 21st edition, page 397.",
     "rationales": {},
     "paper": "paper-2",
@@ -89076,7 +89416,7 @@ window.OpenPharmacyQuestions = [
         "Milk contamination"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Arts, is 'a' i.e., Air pollution Monitoring of air pollutiono Monitoring of air pollution is done by : -Sulphur dioxide.Gritt and dust measurement.Co-efficient of haze.Air pollution index.Smoke or soiling index",
     "rationales": {},
     "paper": "paper-2",
@@ -89119,8 +89459,8 @@ window.OpenPharmacyQuestions = [
         "Central institute, kasauli"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: NIN, Hyderabad.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Central institute, kasauli. Source answer key: NIN, Hyderabad.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -89162,8 +89502,8 @@ window.OpenPharmacyQuestions = [
         "Throat infection"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Gastrointestinal tract infection.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Urinary tract infection. Source answer key: Gastrointestinal tract infection.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -89205,7 +89545,7 @@ window.OpenPharmacyQuestions = [
         "1961"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "park's textbook of preventive and social medicine 23rd edition. *implementing rules and regulations for legalisation of aboion was initially written in 1971 were revised again in 1992 came to be known as the MTP act 1971.",
     "rationales": {},
     "paper": "paper-2",
@@ -89248,8 +89588,8 @@ window.OpenPharmacyQuestions = [
         "Unrandomized trials"
       ]
     ],
-    "answer": "B",
-    "explanation": ".<p>randomised control trials mainly include dtrawing up a protocol,selecting reference and experimental populations ,randomisation,manipulation or intervention ,follow up, assessment of outcome.RCT s are generally described as non biassed studies as they give no chance of any systemic error in the determination of association between exposure and disease.</p><p>ref:park&;s textbook of preventive and social medicine,22 nd edition ,pg no 70</p>",
+    "answer": "C",
+    "explanation": "Source answer key: C. Randomized controlled trials. .<p>randomised control trials mainly include dtrawing up a protocol,selecting reference and experimental populations ,randomisation,manipulation or intervention ,follow up, assessment of outcome.RCT s are generally described as non biassed studies as they give no chance of any systemic error in the determination of association between exposure and disease.</p><p>ref:park&;s textbook of preventive and social medicine,22 nd edition ,pg no 70</p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -89291,7 +89631,7 @@ window.OpenPharmacyQuestions = [
         "12 weeks"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Post exposure prophylaxis for HIV: Ideally HIV PEP must be initiated as soon as possible HIV PEP must be initiated within: 24 hours HIV PEP unreasonable to initiate beyond: 72 hours Duration of HIV PEP: 4 weeks Follow-up period after HIV PEP: 12 weeks. Only the higher risk injuries are offered HIV post-exposure prophylaxis which consists of2-3 anti-retroviral medications administered for 28 days. A baseline rapid HIV testing of exposed and source person must be done for PEP. However, initiation of PEP should not be delayed while waiting for the results of HIV testing of the source of exposure PROTOCOL: It is necessary to determine the status of the exposure and the HIV status of the exposure…",
     "rationales": {},
     "paper": "paper-2",
@@ -89551,8 +89891,8 @@ window.OpenPharmacyQuestions = [
         "Less than 3 days"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Less than 3 days.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 7-14 days. Source answer key: Less than 3 days.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -89637,7 +89977,7 @@ window.OpenPharmacyQuestions = [
         "Rs. 600"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Under the Indira Gandhi National Disability Pension Scheme, amount of monthly pension is Rs. 200 for BPL persons aged between 18 to 59 years with multiple disabilities. Ref: Health policies and programmes in India, D.K. Taneja 11th edition page: 393",
     "rationales": {},
     "paper": "paper-2",
@@ -89680,8 +90020,8 @@ window.OpenPharmacyQuestions = [
         "Egg"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Egg.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Maize. Source answer key: Egg.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -89723,7 +90063,7 @@ window.OpenPharmacyQuestions = [
         "Roberval balance"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "- Field instrument to measure bih weight is Salter's Spring balance (kind of sling balance on which child is hung) - Average bih weight = 2.8kg - According to WHO, Low bih weight = < 2.5kg Very Low bih weight = < 1.5 Kg Extremely Low bih weight = < 1 Kg - Bih weight Doubles by 5 months Triples by 12 months Quadruples by 2yrs",
     "rationales": {},
     "paper": "paper-2",
@@ -89766,8 +90106,8 @@ window.OpenPharmacyQuestions = [
         "Deaths/10000 live births"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Deaths/1000 total births.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Deaths/1000 live births. Source answer key: Deaths/1000 total births.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -89811,7 +90151,7 @@ window.OpenPharmacyQuestions = [
         "ANOVA test"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ref:Parks 23rd edition pg 852 Tests of significance: Qualitative: Chi- square : 2 or more than 2 groups Mc Nemar test : 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
     "rationales": {},
     "paper": "paper-2",
@@ -89897,8 +90237,8 @@ window.OpenPharmacyQuestions = [
         "120 hours"
       ]
     ],
-    "answer": "B",
-    "explanation": "- In BBT, the rise of temperature signifies ovulation. - Since maximum survival of ovum post ovulation is 3 days, the unsafe period is 3 days post rise of body temperature. Other natural methods of contraception are: Calender method / feile period method/ safe period method/ rhythm method Cervical mucus method Symptothermic method Coitus interruptus Abstinence - most effective method",
+    "answer": "C",
+    "explanation": "Source answer key: C. 72 hours. - In BBT, the rise of temperature signifies ovulation. - Since maximum survival of ovum post ovulation is 3 days, the unsafe period is 3 days post rise of body temperature. Other natural methods of contraception are: Calender method / feile period method/ safe period method/ rhythm method Cervical mucus method Symptothermic method Coitus interruptus Abstinence - most effective method",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -89940,7 +90280,7 @@ window.OpenPharmacyQuestions = [
         "Predictive value"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Screening refer to 'the search for unrecognized disease or defect by means of rapidly applied tests, examinations or other procedures in apparently healthy individuals' For screening a disease the most important parameter is sensitivity Sensitivity is defined as the ability of a test to identify correctly all those who have the disease i.e., true positives as it reflects the ability to detect those who have the disease amongst the hidden cases in the community. For confirming a patient as diseased most important parameter is specificity Specificity is defined as the ability of a test to identify correctly all these who do not have the disease i.e., true negative. Memo: ELISA is a sensitive t…",
     "rationales": {},
     "paper": "paper-2",
@@ -89983,8 +90323,8 @@ window.OpenPharmacyQuestions = [
         "600Kcal with 18grams of protein"
       ]
     ],
-    "answer": "C",
-    "explanation": "In ICDS supplementary nutrition is given to children below 6 years, nursing and expectant mothers from low-income group.Each child 6-72 months of age get 500 Cal and 12-15Gm of proteinSeverely malnourished child 6-72 months of age get 800 Cal and 20-25Gm of proteinEach pregnant and nursing women to get 600 Cal and 18-20Gm of proteinPark 23e pg: 591",
+    "answer": "D",
+    "explanation": "Source answer key: D. 600Kcal with 18grams of protein. In ICDS supplementary nutrition is given to children below 6 years, nursing and expectant mothers from low-income group.Each child 6-72 months of age get 500 Cal and 12-15Gm of proteinSeverely malnourished child 6-72 months of age get 800 Cal and 20-25Gm of proteinEach pregnant and nursing women to get 600 Cal and 18-20Gm of proteinPark 23e pg: 591",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90026,7 +90366,7 @@ window.OpenPharmacyQuestions = [
         "Wait and watch"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "In most patients laryngomalacia is a self-limiting condition. Treatment of laryngomalacia is reassurance to the parents and early antibiotic therapy for upper respiratory tract infections. Tracheostomy is required only in severe respiratory obstruction. Surgical intervention (supraglottoplasty i.e. reduction of redundant laryngeal mucosa) is indicated for 10% of patients. Main indications for surgery are: Severe stridor Apnea Failure to thrive Pulmonary hypeension Cor pulmonale",
     "rationales": {},
     "paper": "paper-2",
@@ -90157,7 +90497,7 @@ window.OpenPharmacyQuestions = [
         "0.1"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "S.E = S/[?]n S = Standard detion = 0.25 n = sample size = 25 S.E. = 0.25/[?] 25 = 0.25/5 = 0.05",
     "rationales": {},
     "paper": "paper-2",
@@ -90245,8 +90585,8 @@ window.OpenPharmacyQuestions = [
         "250 mmol/ litre"
       ]
     ],
-    "answer": "B",
-    "explanation": "Composition of reduced osmolarity ORS: Components Amount in mmol/ litre Sodium 75 Chloride 65 Glucose, anhydrous 75 Potassium 20 Citrate 10 Total osmolarity 245 Ref: Park 21st edition, page 202.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 245 mmol/ litre. Composition of reduced osmolarity ORS: Components Amount in mmol/ litre Sodium 75 Chloride 65 Glucose, anhydrous 75 Potassium 20 Citrate 10 Total osmolarity 245 Ref: Park 21st edition, page 202.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90288,8 +90628,8 @@ window.OpenPharmacyQuestions = [
         "Training people to use judgement before thinking"
       ]
     ],
-    "answer": "D",
-    "explanation": "- propaganda is one in which knowledge is instilled in the minds of people. - prevents or discourage thinking by ready made slogans. - knowledge is spoon fed and passively received. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:859 <\\p>",
+    "answer": "A",
+    "explanation": "Source answer key: A. Forcing of knowledge into mind. - propaganda is one in which knowledge is instilled in the minds of people. - prevents or discourage thinking by ready made slogans. - knowledge is spoon fed and passively received. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:859 <\\p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90374,7 +90714,7 @@ window.OpenPharmacyQuestions = [
         "Chest pain"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "<p> Hemoptysis Sputum examination under TB programme is done when patient presents with -cough more than 2 weeks. -fever with an evening rise. -hemoptysis. -unexplained weight loss. -reduced appetite. Park&;s textbook of preventive and social medicine,K.Park,21st edition,page no:392, 22nd edition,page no:396. <\\p>",
     "rationales": {},
     "paper": "paper-2",
@@ -90417,7 +90757,7 @@ window.OpenPharmacyQuestions = [
         "12 months"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "After selection village health guide undergoes a sho training in primary health care.The training is arranged in nearby health center,subcenter or any other suitable place for the duration of 200 hours ,spread over a period of 3 months.During training period they receive a stipend of Rs 200 per month (refer pgno:902 park 23rd edition)",
     "rationales": {},
     "paper": "paper-2",
@@ -90460,7 +90800,7 @@ window.OpenPharmacyQuestions = [
         "Kala azar"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Yellow feverRef. K. Park 21sted./380* The National Vector Borne Disease Control Programme (NVBDCP) is implemented for the prevention and control of vector borne diseases such as: Malaria, Filariasis, kala-azar, Japanese encephalitis, Dengue and Chikunguniya.* Yellow fever is NOT a part of NVBDCP.",
     "rationales": {},
     "paper": "paper-2",
@@ -90503,8 +90843,8 @@ window.OpenPharmacyQuestions = [
         "300 yard"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 300 yard.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 50 yards. Source answer key: 300 yard.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90546,8 +90886,8 @@ window.OpenPharmacyQuestions = [
         "Autosomal recessive"
       ]
     ],
-    "answer": "B",
-    "explanation": "Mendelian diseases and their inheritance:",
+    "answer": "C",
+    "explanation": "Source answer key: C. X-linked recessive. Mendelian diseases and their inheritance:",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90634,7 +90974,7 @@ window.OpenPharmacyQuestions = [
         "21 years"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ans. is `b' i.e., 14 years",
     "rationales": {},
     "paper": "paper-2",
@@ -90677,8 +91017,8 @@ window.OpenPharmacyQuestions = [
         "Major public health problem"
       ]
     ],
-    "answer": "D",
-    "explanation": "Chandler Index This is the average number of hookworm eggs per gram of faeces for the entire community (Average number of eggs per gram of stools). (Ref. Park PSM 18thed.195)",
+    "answer": "A",
+    "explanation": "Source answer key: A. Potential danger to community. Chandler Index This is the average number of hookworm eggs per gram of faeces for the entire community (Average number of eggs per gram of stools). (Ref. Park PSM 18thed.195)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90720,7 +91060,7 @@ window.OpenPharmacyQuestions = [
         "Black"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Triage - Disaster categorization of victims 1. Red - Immediate Resuscitation 2. Yellow - possible resuscitation 3. Green - Minor injuries (Ambulatory) 4. Black - Dead/ moribund patient",
     "rationales": {},
     "paper": "paper-2",
@@ -90763,7 +91103,7 @@ window.OpenPharmacyQuestions = [
         "District"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "The sub-centre level is the peripheral outpost of the existing health delivery system. Categorization Type A: Provide all recommended services except the facilities for conducting delivery is not available here. Type B (MCH sub-centre): All recommended services including facilities for conducting deliveries are available.",
     "rationales": {},
     "paper": "paper-2",
@@ -90806,8 +91146,8 @@ window.OpenPharmacyQuestions = [
         "Is prevalent among animals"
       ]
     ],
-    "answer": "A",
-    "explanation": "Endemic refers to the constant presence of a disease or infectious agent within a given geographic area or population group without impoation from outside. Ref: Park's Textbook Of Preventive And Social Medicine By K. Park, 19th Edition, Page 88; Park's Textbook Of Preventive And Social Medicine By K. Park, 18th Edition, Page 86",
+    "answer": "B",
+    "explanation": "Source answer key: B. Is constantly present in a given population group. Endemic refers to the constant presence of a disease or infectious agent within a given geographic area or population group without impoation from outside. Ref: Park's Textbook Of Preventive And Social Medicine By K. Park, 19th Edition, Page 88; Park's Textbook Of Preventive And Social Medicine By K. Park, 18th Edition, Page 86",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90849,8 +91189,8 @@ window.OpenPharmacyQuestions = [
         "Referral case"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Secondary case.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Index case. Source answer key: Secondary case.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90892,7 +91232,7 @@ window.OpenPharmacyQuestions = [
         "Orange"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans) c (Amla) Ref Park 20th ed p 531Vitamin A is seen in most green and yellow fruits and vegetables Retinol equivalent of:* Ripe mango-313* Pappaya - 118* Orange - 25Amala is one of the richest source of Vit C both in fresh as well as in dry condition.",
     "rationales": {},
     "paper": "paper-2",
@@ -90935,8 +91275,8 @@ window.OpenPharmacyQuestions = [
         "1 year"
       ]
     ],
-    "answer": "B",
-    "explanation": "The complete life cycle from egg to adult may take 5 to 6 days during summer in India, but at other times it may take 8 to 20 days. Flies do not generally live longer than 15 days in summer and 25 days during winter Eggs - 8 to 24 hours, Larvae - 2 to 7 days, Pupae - 3 to 6 days, Adults 5-20 says. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg",
+    "answer": "C",
+    "explanation": "Source answer key: C. 1 month. The complete life cycle from egg to adult may take 5 to 6 days during summer in India, but at other times it may take 8 to 20 days. Flies do not generally live longer than 15 days in summer and 25 days during winter Eggs - 8 to 24 hours, Larvae - 2 to 7 days, Pupae - 3 to 6 days, Adults 5-20 says. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -90978,8 +91318,8 @@ window.OpenPharmacyQuestions = [
         "350 mg"
       ]
     ],
-    "answer": "A",
-    "explanation": "During pregnancy recommended allowance of vitamin A is 800mcg . REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 616",
+    "answer": "B",
+    "explanation": "Source answer key: B. 800 mg. During pregnancy recommended allowance of vitamin A is 800mcg . REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 616",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91021,7 +91361,7 @@ window.OpenPharmacyQuestions = [
         "Bed turn-over ratio"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Life Expectancy* Life Expectancy is a 'Positive mortality indicator'ALSO REMEMBER* DALY is a type of disability rate* Bed turn-over ratio is a type of heath care utilization rate",
     "rationales": {},
     "paper": "paper-2",
@@ -91111,7 +91451,7 @@ window.OpenPharmacyQuestions = [
         "50-60db"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Sound levels of some noises: Whisper: 20-30db Normal conversation 60-70db Mechanical damage; 150-160db Acceptable noise levels: expressed in db (A), sound pressure levels conforming to weighing curve (A) acceptable noise level < 85dbAuditory fatigue > 90 dbPermanent hearing loss > 100 dbTympanic membrane damage > 160 db. Environment Place Acceptable noise level Db (A) Residential Bed room 25 Living room 40 Commercial Office 30-45 Conference 40-45 Restaurants 40-60 Industries Workshop 40-60 Laboratory 40-50 Education Class room 30-40 Library 35-40 Hospitals Wards 20-35",
     "rationales": {},
     "paper": "paper-2",
@@ -91197,8 +91537,8 @@ window.OpenPharmacyQuestions = [
         "Tertiary prevention"
       ]
     ],
-    "answer": "D",
-    "explanation": "It is the prevention of the emergence or development of risk factors in countries or population groups in which they have not yet appeared.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Primordial prevention. It is the prevention of the emergence or development of risk factors in countries or population groups in which they have not yet appeared.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91240,7 +91580,7 @@ window.OpenPharmacyQuestions = [
         "1000 lux"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "The recommended illumination for casual reading is 100 lux, 400 lux for office work, 900 lux for fine assembly and for watch making 2000 - 3000 lux is recommended. Ref: Park's Textbook of Preventive Medicine, 17th Edition, Page 519.",
     "rationales": {},
     "paper": "paper-2",
@@ -91283,8 +91623,8 @@ window.OpenPharmacyQuestions = [
         "Anatomical waste"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Infectious waste.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Pathological waste. Source answer key: Infectious waste.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91369,8 +91709,8 @@ window.OpenPharmacyQuestions = [
         "Social Sciences"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Social Psychalogy.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Social Pathology. Source answer key: Social Psychalogy.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91412,8 +91752,8 @@ window.OpenPharmacyQuestions = [
         "5 - 10 days"
       ]
     ],
-    "answer": "D",
-    "explanation": "Ref:Park's Textbook of Preventive and Social Medicine 25th Ed Pg.310",
+    "answer": "A",
+    "explanation": "Source answer key: A. 4 -14 days. Ref:Park's Textbook of Preventive and Social Medicine 25th Ed Pg.310",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91455,7 +91795,7 @@ window.OpenPharmacyQuestions = [
         "Health practicing guidelines"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ayushman Bharat is National Health Protection Scheme, which will cover over 10 crore poor and vulnerable families (approximately 50 crore beneficiaries) providing coverage up to 5 lakh rupees per family per year for secondary and teiary care hospitalization. Ayushman Bharat - National Health Protection Mission will subsume the on-going centrally sponsored schemes - Rashtriya Swasthya Bima Yojana (RSBY) and the Senior Citizen Health Insurance Scheme (SCHIS).",
     "rationales": {},
     "paper": "paper-2",
@@ -91498,8 +91838,8 @@ window.OpenPharmacyQuestions = [
         "Health administrator"
       ]
     ],
-    "answer": "C",
-    "explanation": "GRASS ROOT LEVEL WORKERS Anganwadi worker: Works at village level Traditional bih attendant: Works at village level Village health guide: Works at village level ASHA: Works at village level Multipurpose worker: Works at sub-centre (5 villages) level.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Health administrator. GRASS ROOT LEVEL WORKERS Anganwadi worker: Works at village level Traditional bih attendant: Works at village level Village health guide: Works at village level ASHA: Works at village level Multipurpose worker: Works at sub-centre (5 villages) level.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91584,8 +91924,8 @@ window.OpenPharmacyQuestions = [
         "Numbness"
       ]
     ],
-    "answer": "C",
-    "explanation": "Effect of Heat stress Heat stroke: Body temperature >110degF, Delirium, Convulsions, Absence of sweating Heat hyperpyrexia Heat exhaustion Heat cramps Heat syncope Ref : Park 25th edition Pgno : 784",
+    "answer": "D",
+    "explanation": "Source answer key: D. Numbness. Effect of Heat stress Heat stroke: Body temperature >110degF, Delirium, Convulsions, Absence of sweating Heat hyperpyrexia Heat exhaustion Heat cramps Heat syncope Ref : Park 25th edition Pgno : 784",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91627,7 +91967,7 @@ window.OpenPharmacyQuestions = [
         "Women in any specified age group"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "ANSWER: (B) Women in reproductive age group in a given yearREF: Parks textbook 20th edition page419Repeat from December 2008General fertility rate: Number of live births per 1000 women in reproductive age group in a given yearGeneral marital fertility rate: Number of live births per 1000 married women in reproductive age group in a given yearAge specific fertility rate: Number of live births in a year to 1000 women in any specified age groupAge specific marital fertility rate: Number of live births in a year to 1000 married women in any specified age group",
     "rationales": {},
     "paper": "paper-2",
@@ -91670,8 +92010,8 @@ window.OpenPharmacyQuestions = [
         "4 days before and 5 days after rash appearance"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: 4 days before and 5 days after rash appearance.",
+    "answer": "A",
+    "explanation": "Source answer key: A. 2 days before and 5 days after rash appearance. Source answer key: 4 days before and 5 days after rash appearance.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91713,8 +92053,8 @@ window.OpenPharmacyQuestions = [
         "Total osmolarity - 300 mmol\\/1"
       ]
     ],
-    "answer": "C",
-    "explanation": "Total osmolarity is 245 mmol/litre. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:224. <\\p>",
+    "answer": "D",
+    "explanation": "Source answer key: D. Total osmolarity - 300 mmol\\/1. Total osmolarity is 245 mmol/litre. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:224. <\\p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91756,8 +92096,8 @@ window.OpenPharmacyQuestions = [
         "Amphixenosis"
       ]
     ],
-    "answer": "A",
-    "explanation": "Source answer key: Anthropozoonoses.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Zooanthroponoses. Source answer key: Anthropozoonoses.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91799,7 +92139,7 @@ window.OpenPharmacyQuestions = [
         "Attended schooling"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans: C (Ability to read and write) Ref: Textbook of Preventive and Social Medicine, K Park. 22nd edition. page no 44 7Explanation:Census is conducted once in 10 years in India.Literacy rate is assessed those above 7 years ageIn census it was first used in 1991 censusA person who can read and write with understanding in any language is considered as literateA person who can merely read but cannot write is not considered literate",
     "rationales": {},
     "paper": "paper-2",
@@ -91842,8 +92182,8 @@ window.OpenPharmacyQuestions = [
         "Is prevalent among animals"
       ]
     ],
-    "answer": "A",
-    "explanation": "Endemic Is the constant presence of a disease agent in a defined geographical area ; refers to 'usual or expected frequency' of a disease in a population. For instance, common cold is endemic because somebody always has one. Endemic diseases in India are : Measles, mumps, rubella, chicken pox, peussis, TB, HIV, Cancers, diabetes, hypeension etc. Epidemics can arise from uncontrolled endemics also.",
+    "answer": "B",
+    "explanation": "Source answer key: B. Is constantly present in a population. Endemic Is the constant presence of a disease agent in a defined geographical area ; refers to 'usual or expected frequency' of a disease in a population. For instance, common cold is endemic because somebody always has one. Endemic diseases in India are : Measles, mumps, rubella, chicken pox, peussis, TB, HIV, Cancers, diabetes, hypeension etc. Epidemics can arise from uncontrolled endemics also.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91928,8 +92268,8 @@ window.OpenPharmacyQuestions = [
         "< 6/18 and < 6/18"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: < 6/18 and < 3/60.",
+    "answer": "C",
+    "explanation": "Source answer key: C. < 3/60 and < 3/60. Source answer key: < 6/18 and < 3/60.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -91971,7 +92311,7 @@ window.OpenPharmacyQuestions = [
         "Test for variance"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Ref: Parks 23rd edition pg 852 Chi-square test offers an alternate method of testing the significance of difference between two proportions.Advantage: it can also be used when more than 2groups are to be compared. Ref:Parks 23rd edition pg 852 Tests of significance: Qualitative: Chi- square : 2 or more than 2 groups Mc Nemar test : 1 group. ( before and after intervention) Quantitative: Paired T test: 1 group Student T test/ unpaired T test: 2 groups Anova: more than 2 groups.",
     "rationales": {},
     "paper": "paper-2",
@@ -92016,8 +92356,8 @@ window.OpenPharmacyQuestions = [
         "6-12 weeks of pregnancy"
       ]
     ],
-    "answer": "C",
-    "explanation": "Congenital Rubella Syndrome (CRS): CRS is said to have occurred if: – Infant has IgM rubella antibodies shortly after birth, or – IgG antibodies persist for more than 6 months Major determinant of extent of fetal infection in CRS: Gestational age at which fetal transmission occurs, – Infection in I trimester: MOST DISASTROUS TIME 1. Abortions 2. Still births 3. Skin lesions: blueberry muffin lesions 4. ‘Triad of Congenital Rubella Syndrome’ i. Sensorineural deafness ii. Congenital heart defects (MC is PDA) iii. Cataracts – Infection in early part of II Trimester: Deafness (only) – Infection after 16 weeks POG: No major abnormalities Risk of fetal damage in CRS:",
+    "answer": "D",
+    "explanation": "Source answer key: D. 6-12 weeks of pregnancy. Congenital Rubella Syndrome (CRS): CRS is said to have occurred if: – Infant has IgM rubella antibodies shortly after birth, or – IgG antibodies persist for more than 6 months Major determinant of extent of fetal infection in CRS: Gestational age at which fetal transmission occurs, – Infection in I trimester: MOST DISASTROUS TIME 1. Abortions 2. Still births 3. Skin lesions: blueberry muffin lesions 4. ‘Triad of Congenital Rubella Syndrome’ i. Sensorineural deafness ii. Congenital heart defects (MC is PDA) iii. Cataracts – Infection in early part of II Trimester: Deafness (only) – Infection after 16 weeks POG: No major abnormalities Risk of fetal damage in CRS:",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92104,8 +92444,8 @@ window.OpenPharmacyQuestions = [
         "Tse tse fly"
       ]
     ],
-    "answer": "B",
-    "explanation": "Kala azar or visceral leishmaniasis is a protozoal disease.It is transmited from person to person by bite of female Phlebotomus argentipus.Transmission also occurs by contamination of bite wound or by crushing the insect during act of feeding.it may transmit by blood transfusion also. C/f : fever,splenomegaly,hepatomegaly along with anemia and weight loss.Darkening of the skin of face,hands,feet,and abdomen. Parks textbook of preventive and social medicine.K Park. Edition 23. page no:305,306",
+    "answer": "C",
+    "explanation": "Source answer key: C. Sand fly. Kala azar or visceral leishmaniasis is a protozoal disease.It is transmited from person to person by bite of female Phlebotomus argentipus.Transmission also occurs by contamination of bite wound or by crushing the insect during act of feeding.it may transmit by blood transfusion also. C/f : fever,splenomegaly,hepatomegaly along with anemia and weight loss.Darkening of the skin of face,hands,feet,and abdomen. Parks textbook of preventive and social medicine.K Park. Edition 23. page no:305,306",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92147,8 +92487,8 @@ window.OpenPharmacyQuestions = [
         "12 weeks"
       ]
     ],
-    "answer": "C",
-    "explanation": "- the polio is transmitted by faecal oral route by contaminmates food , water or hands. - in faeces, the virus is excreted as long as 3-4 months. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:205 <\\p>",
+    "answer": "D",
+    "explanation": "Source answer key: D. 12 weeks. - the polio is transmitted by faecal oral route by contaminmates food , water or hands. - in faeces, the virus is excreted as long as 3-4 months. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:205 <\\p>",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92190,7 +92530,7 @@ window.OpenPharmacyQuestions = [
         "Pandemic"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "1. Point source epidemic ( single exposure ) Sudden rise sudden fall. Cluster of cases in single IP. All cases develop within one incubation period of the disease E.g. Food poisoning , Bhopal gas tragedy. 2. Common source , continuous or repeated exposure epidemics Sharp rise Fall is interrupted by secondary peaks Eg. Contaminated well in a village,Water Borne Cholera. 3. Propagated source epidemic Gradual rise & gradual fall over long time. Person to person transmission E.g:- HEP. A, POLIO.",
     "rationales": {},
     "paper": "paper-2",
@@ -92235,8 +92575,8 @@ window.OpenPharmacyQuestions = [
         "30mm"
       ]
     ],
-    "answer": "B",
-    "explanation": "An intrauterine gestational sac is reliably visualized with transvaginalsonography by 5 weeks, and an embryo with cardiac activity by 6 weeks The embryo should be visible transvaginally once the mean sac diameter hasreached 25 mm--otherwise the gestation is anembryonic. Cardiac motion isusually visible with transvaginal imaging when the embryo length reaches 5 mm.",
+    "answer": "C",
+    "explanation": "Source answer key: C. 25mm. An intrauterine gestational sac is reliably visualized with transvaginalsonography by 5 weeks, and an embryo with cardiac activity by 6 weeks The embryo should be visible transvaginally once the mean sac diameter hasreached 25 mm--otherwise the gestation is anembryonic. Cardiac motion isusually visible with transvaginal imaging when the embryo length reaches 5 mm.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92323,8 +92663,8 @@ window.OpenPharmacyQuestions = [
         "Correlation (– 0.8)"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Correlation (– 1).",
+    "answer": "D",
+    "explanation": "Source answer key: D. Correlation (– 0.8). Source answer key: Correlation (– 1).",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92366,8 +92706,8 @@ window.OpenPharmacyQuestions = [
         "10 years"
       ]
     ],
-    "answer": "B",
-    "explanation": "In lepromatous leprosy the single drug is continued to one year. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE 21ST EDITION. PAGE NO - 297",
+    "answer": "C",
+    "explanation": "Source answer key: C. 1 years. In lepromatous leprosy the single drug is continued to one year. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE 21ST EDITION. PAGE NO - 297",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92452,8 +92792,8 @@ window.OpenPharmacyQuestions = [
         "Sensitivity"
       ]
     ],
-    "answer": "D",
-    "explanation": "Source answer key: Sensitivity.",
+    "answer": "A",
+    "explanation": "Source answer key: A. Incidence of disease. Source answer key: Sensitivity.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92495,8 +92835,8 @@ window.OpenPharmacyQuestions = [
         "Chlorination of water"
       ]
     ],
-    "answer": "A",
-    "explanation": "Functions maternal and child health Family planning Medical termination of pregnancy Nutrition Dai training Communicable diseases Vital events Record keeping Treatment of minor ailments Team activities (refer pgno:910 park 23rd edition)",
+    "answer": "B",
+    "explanation": "Source answer key: B. Trains dais. Functions maternal and child health Family planning Medical termination of pregnancy Nutrition Dai training Communicable diseases Vital events Record keeping Treatment of minor ailments Team activities (refer pgno:910 park 23rd edition)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92581,8 +92921,8 @@ window.OpenPharmacyQuestions = [
         "Pandemic"
       ]
     ],
-    "answer": "B",
-    "explanation": "Source answer key: Endemic.",
+    "answer": "C",
+    "explanation": "Source answer key: C. Secular trend. Source answer key: Endemic.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92624,7 +92964,7 @@ window.OpenPharmacyQuestions = [
         "Hemoglobin"
       ]
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Evaluation of iron status in the body can be done by: Serum ferritin: 'Most sensitive tool for evaluation of iron status' , especially in populations with low prevalence of anemia. Hemoglobin concentration: A relatively insensitive index of nutrient depletion. Serum iron concentration: Normal range is 0.80 - 1.80 mg/L. Serum transferrin saturation: Normal value is 30%.",
     "rationales": {},
     "paper": "paper-2",
@@ -92713,8 +93053,8 @@ window.OpenPharmacyQuestions = [
         "31st December"
       ]
     ],
-    "answer": "D",
-    "explanation": "In 1946 the constitution was drafted by \"Technical Preparatory Committee \" under the chairmanship of Rene Sand and was approved in the same year by an International Health Conference of 51 nations in New york. The constitution came in to force on 7 th April 1948 which is celebrated every year as \"World Health Day \"(refer pgno:919 park 23rd edition)",
+    "answer": "A",
+    "explanation": "Source answer key: A. 7th April. In 1946 the constitution was drafted by \"Technical Preparatory Committee \" under the chairmanship of Rene Sand and was approved in the same year by an International Health Conference of 51 nations in New york. The constitution came in to force on 7 th April 1948 which is celebrated every year as \"World Health Day \"(refer pgno:919 park 23rd edition)",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92799,7 +93139,7 @@ window.OpenPharmacyQuestions = [
         "Pyrolan"
       ]
     ],
-    "answer": "C",
+    "answer": "D",
     "explanation": "Sarin, Soman, and Tabun are organophosphate nerve agents while Pyrolan is a carbamate.",
     "rationales": {},
     "paper": "paper-2",
@@ -92842,8 +93182,8 @@ window.OpenPharmacyQuestions = [
         "Amla"
       ]
     ],
-    "answer": "C",
-    "explanation": "Source answer key: Cabbage.",
+    "answer": "D",
+    "explanation": "Source answer key: D. Amla. Source answer key: Cabbage.",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92885,7 +93225,7 @@ window.OpenPharmacyQuestions = [
         "Indian child development scheme"
       ]
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Integrated Child Development Services (ICDS) scheme- Under ICDS scheme, there is an anganwadi worker for every 400-800 population- The beneficiaries include nursing mothers, pregnant women, other women (15-45 years), children below the age of 6 years and adolescent girls.Park 23e pg: 903",
     "rationales": {},
     "paper": "paper-2",
@@ -92928,8 +93268,8 @@ window.OpenPharmacyQuestions = [
         "115 gm\\/litre"
       ]
     ],
-    "answer": "B",
-    "explanation": "For children between 6months and 6 years, anemia is defined as defined as hb less than 11g/dl.REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 623",
+    "answer": "C",
+    "explanation": "Source answer key: C. 110 gm\\/litre. For children between 6months and 6 years, anemia is defined as defined as hb less than 11g/dl.REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 623",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
@@ -92971,7 +93311,7 @@ window.OpenPharmacyQuestions = [
         "Kilogram/centimetre2"
       ]
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "Ans: C i.e. Kilogram/ metre2 Body Mass Index is defined as the weight in kilograms divided by the square of the height in metres (Kg/m2)",
     "rationales": {},
     "paper": "paper-2",
@@ -93014,8 +93354,8 @@ window.OpenPharmacyQuestions = [
         "With disease"
       ]
     ],
-    "answer": "A",
-    "explanation": "Primordial prevention aims at preventing the emergence of risk factors. This is the primary prevention in its purest sense, that is, prevention of emergence or development of risk factors in countries or population groups in which they have not yet appeared. Ref: Park's Textbook of Preventive and Social Medicine; 24th edition - Page no. 45",
+    "answer": "B",
+    "explanation": "Source answer key: B. Without risk factors. Primordial prevention aims at preventing the emergence of risk factors. This is the primary prevention in its purest sense, that is, prevention of emergence or development of risk factors in countries or population groups in which they have not yet appeared. Ref: Park's Textbook of Preventive and Social Medicine; 24th edition - Page no. 45",
     "rationales": {},
     "paper": "paper-2",
     "examTopic": "research methods",
